@@ -253,54 +253,71 @@ def get_chapter_docs(chapter_nums):
     return result
 
 
-def smart_truncate_erl(full_text, product_keywords, max_chars=32000):
+def extract_position_section(full_text, target_position, intro_chars=1500, max_section=7000):
     """
-    Intelligente Kürzung der Erläuterungen:
-    - Immer die ersten 5000 Zeichen (allgemeiner Kapitelteil)
-    - Alle Abschnitte, die relevante Schlüsselbegriffe enthalten
-    - Tabellen (Mindestgehalt etc.) werden NICHT herausgefiltert
-    - Abschnitte werden am Header aufgespalten (4-stellige Positionsnummer)
+    Extrahiert aus dem vollen Erläuterungs-Text nur:
+    1. Die Kapiteleinleitung (intro_chars Zeichen)
+    2. Den Abschnitt zur target_position (z.B. '2202' oder '2009')
+       → von 'XXXX.' bis zur nächsten '####.' Überschrift
+    3. Tabellen (Mindestgehalt) werden nicht abgeschnitten
+
+    Das reduziert 50k-Zeichen-Kapitel auf ~8-10k relevante Zeichen.
     """
-    if len(full_text) <= max_chars:
-        return full_text
+    # Kapiteleinleitung
+    intro = full_text[:intro_chars]
 
-    # Split into sections at position headers (e.g. "2202." or "2009.")
-    # Keep intro + all sections with keyword matches
-    section_pattern = re.compile(r'(?=^\s{0,8}\d{4}[\.\s])', re.MULTILINE)
-    parts = section_pattern.split(full_text)
+    if not target_position:
+        return intro
 
-    keywords_lower = {k.lower() for k in product_keywords if len(k) > 2}
-    # Priority terms that should always be included
-    priority_terms = {
-        'mindestgehalt', 'quotient', 'fruchtsaft', 'fruchtmark', 'gemüsesaft',
-        'anmerkung', 'ausgenommen', 'einschliesslich', 'hierher', 'nicht hierher',
-        'schweizerische erläuterungen', 'tabelle'
-    }
+    pos_str = str(target_position)
 
-    kept = []
-    total = 0
-
-    for i, part in enumerate(parts):
-        part_lower = part.lower()
-        # Always keep first section (chapter intro)
-        if i == 0:
-            kept.append(part[:5000])
-            total += min(len(part), 5000)
-            continue
-        # Keep if keywords match or priority terms present
-        has_keyword = any(kw in part_lower for kw in keywords_lower)
-        has_priority = any(p in part_lower for p in priority_terms)
-        if has_keyword or has_priority:
-            kept.append(part)
-            total += len(part)
-        if total >= max_chars:
+    # Suche die Startposition des Abschnitts (z.B. "2202.")
+    start_patterns = [
+        rf'^\s{{0,8}}{re.escape(pos_str)}\.',
+        rf'^\s{{0,8}}{re.escape(pos_str)}\s',
+        rf'\n{re.escape(pos_str)}\.'
+    ]
+    start = -1
+    for pat in start_patterns:
+        m = re.search(pat, full_text, re.MULTILINE)
+        if m:
+            start = m.start()
             break
 
-    result = '\n'.join(kept)
-    # Final safety truncation
-    if len(result) > max_chars:
-        result = result[:max_chars]
-    return result
+    if start < 0:
+        # Position nicht gefunden – gib Einleitung + erste 5k zurück
+        return intro + '\n' + full_text[intro_chars:intro_chars + 5000]
+
+    # Suche das Ende des Abschnitts (nächste 4-stellige Position)
+    next_pos_pattern = re.compile(
+        rf'^\s{{0,8}}\d{{4}}[\.\s]',
+        re.MULTILINE
+    )
+    end = len(full_text)
+    for m in next_pos_pattern.finditer(full_text, start + 10):
+        candidate = full_text[m.start():m.start() + 6].strip()
+        # Nur wenn es eine ANDERE Position ist (nicht Unterposition)
+        if candidate[:4] != pos_str:
+            end = m.start()
+            break
+
+    section = full_text[start:end]
+
+    # Sicherheits-Truncation bei sehr langen Abschnitten
+    if len(section) > max_section:
+        # Behalte immer die Tabellen (Mindestgehalt etc.)
+        table_idx = section.lower().find('mindestgehalt')
+        if 0 < table_idx < max_section - 2000:
+            # Tabelle einschliessen, danach kürzen
+            section = section[:max_section]
+        else:
+            section = section[:max_section]
+
+    # Duplikate im Intro vermeiden
+    if start < intro_chars:
+        return full_text[start:start + len(intro) + len(section)]
+
+    return intro + '\n\n' + section
 
 
 # ── Chapter detection ──
@@ -548,53 +565,101 @@ Antworte AUSSCHLIESSLICH als JSON (kein weiterer Text):
 
 
 def build_prompt(av_text, docs, chapter, extra_chapters, product_data_str):
-    """Baut den vollständigen Klassifikations-Prompt auf."""
-
-    # AV-Sektion
-    av_section = av_text
-
-    # Dokumente aufbereiten
+    """
+    Baut den Klassifikations-Prompt auf.
+    Token-Budget (Groq Free Tier: 6000 TPM):
+      - AV-Text:       ~500 tokens  (2000 chars)
+      - Prompt-Frame:  ~500 tokens  (2000 chars)
+      - Produktdaten:  ~200 tokens  ( 800 chars)
+      - Primär-ERL:   ~2000 tokens  (8000 chars)
+      - Primär-ANM:   ~1000 tokens  (4000 chars)
+      - Extra-ERL:     ~600 tokens  (2400 chars)  [nur die Vergleichs-Position]
+      - Response:      ~1200 tokens
+      ─────────────────────────────────────────
+      TOTAL:          ~6000 tokens  ✓
+    """
     doc_parts = []
     primary_ch = str(chapter).zfill(2)
+
+    # Für jedes Kapitel die wichtigste/komplexeste Position für die Extraktion.
+    # Die erste Position (XX01) ist oft einfaches Wasser/Basisware –
+    # die zweite/dritte enthält die Erläuterungen und Tabellen.
+    CHAPTER_MAIN_POSITION = {
+        4:  "0401",  # Milch
+        8:  "0811",  # Früchte tiefgekühlt (viele Unternummern)
+        17: "1701",  # Zucker
+        18: "1806",  # Schokolade
+        19: "1905",  # Backwaren/Biscuits
+        20: "2009",  # Fruchtsäfte
+        21: "2106",  # Lebensmittelzubereitungen
+        22: "2202",  # Getränke (NICHT 2201=reines Wasser)
+        33: "3304",  # Kosmetik
+        39: "3926",  # Kunststoffwaren
+        61: "6109",  # T-Shirts etc.
+        62: "6203",  # Herrenbekleidung
+        84: "8471",  # Computer
+        85: "8517",  # Telefone/Smartphones
+        87: "8703",  # Pkw
+        94: "9403",  # Möbel
+        95: "9503",  # Spielzeug
+    }
+    primary_position = CHAPTER_MAIN_POSITION.get(chapter, str(chapter * 100 + 1))
 
     erl_primary = docs.get(f"erl_{primary_ch}")
     anm_primary = docs.get(f"anm_{primary_ch}")
 
-    product_keywords = product_data_str.lower().split()[:50]
-
     if erl_primary:
-        erl_trimmed = smart_truncate_erl(erl_primary, product_keywords, max_chars=28000)
-        doc_parts.append(f"═══ OFFIZIELLE ERLÄUTERUNGEN ZU KAPITEL {chapter} ═══\n{erl_trimmed}")
+        # Kapiteleinleitung + den relevanten Positionsabschnitt
+        # max_section=6000 stellt sicher, dass wir unter 6000 TPM (Groq Free Tier) bleiben
+        erl_trimmed = extract_position_section(
+            erl_primary,
+            target_position=primary_position,
+            intro_chars=1200,
+            max_section=6000
+        )
+        doc_parts.append(f"═══ OFFIZIELLE ERLÄUTERUNGEN – KAPITEL {chapter} (Auszug) ═══\n{erl_trimmed}")
     else:
-        doc_parts.append(f"═══ OFFIZIELLE ERLÄUTERUNGEN ZU KAPITEL {chapter} ═══\n[Erläuterungen für Kapitel {chapter} nicht im Cache verfügbar – klassifiziere nach AV und allgemeinem Wissen]")
+        doc_parts.append(
+            f"═══ OFFIZIELLE ERLÄUTERUNGEN – KAPITEL {chapter} ═══\n"
+            f"[Nicht im Cache. Klassifiziere nach AV und Fachwissen.]"
+        )
 
     if anm_primary:
-        anm_trimmed = anm_primary[:20000]
-        doc_parts.append(f"═══ OFFIZIELLE ANMERKUNGEN ZU KAPITEL {chapter} ═══\n{anm_trimmed}")
-    else:
-        doc_parts.append(f"═══ OFFIZIELLE ANMERKUNGEN ZU KAPITEL {chapter} ═══\n[Nicht verfügbar]")
+        doc_parts.append(
+            f"═══ OFFIZIELLE ANMERKUNGEN – KAPITEL {chapter} ═══\n{anm_primary[:3000]}"
+        )
 
-    # Extra-Kapitel (z.B. Kap. 20 wenn Kap. 22 primär, für 2009-Abgrenzung)
+    # Extra-Kapitel: nur die direkt konkurrierende Position extrahieren
+    # z.B. für Kap 22 → erl_20 mit Position 2009
+    EXTRA_POSITIONS = {
+        20: "2009",   # Fruchtsäfte
+        22: "2202",   # Getränke
+        21: "2106",   # Lebensmittelzubereitungen
+        19: "1901",   # Backwaren
+        4:  "0401",   # Milcherzeugnisse
+    }
     for extra_ch in extra_chapters:
         extra_str = str(extra_ch).zfill(2)
         erl_extra = docs.get(f"erl_{extra_str}")
-        anm_extra = docs.get(f"anm_{extra_str}")
         if erl_extra:
-            # Für extra-Kapitel nur die relevante Position extrahieren
-            erl_extra_trimmed = smart_truncate_erl(erl_extra, product_keywords, max_chars=12000)
-            doc_parts.append(
-                f"═══ VERGLEICHS-ERLÄUTERUNGEN KAPITEL {extra_ch} ═══\n"
-                f"[Prüfe ob das Produkt hier einzureihen ist, bevor du Kapitel {chapter} bestätigst]\n"
-                f"{erl_extra_trimmed}"
+            target_pos = EXTRA_POSITIONS.get(extra_ch, str(extra_ch * 100 + 1))
+            extra_section = extract_position_section(
+                erl_extra,
+                target_position=target_pos,
+                intro_chars=500,
+                max_section=2000
             )
-        if anm_extra:
-            doc_parts.append(f"═══ ANMERKUNGEN KAPITEL {extra_ch} ═══\n{anm_extra[:8000]}")
+            doc_parts.append(
+                f"═══ VERGLEICH: ERLÄUTERUNGEN KAPITEL {extra_ch} – Position {target_pos} ═══\n"
+                f"[WICHTIG: Prüfe zuerst ob das Produkt hier einzureihen ist!]\n"
+                f"{extra_section}"
+            )
 
     docs_section = '\n\n'.join(doc_parts)
     product_section = f"═══ PRODUKTDATEN ═══\n{product_data_str}"
 
     return CLASSIFY_PROMPT.format(
-        av_section=av_section,
+        av_section=av_text,
         docs_section=docs_section,
         product_section=product_section
     )
@@ -665,7 +730,7 @@ def classify_product(product_query):
                 f"Zitiere die massgebenden Erläuterungen wörtlich. "
                 f"Prüfe zuerst die Kapitel-Anmerkungen auf Ausschlüsse."
             )}
-        ], max_tokens=3500)
+        ], max_tokens=2000)
     except Exception as e:
         return {"error": f"LLM-Einreihung fehlgeschlagen: {e}"}
 
