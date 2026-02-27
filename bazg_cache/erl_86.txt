@@ -1,0 +1,535 @@
+86
+
+                                        Kapitel 86
+
+Schienenfahrzeuge und ortsfestes Gleismaterial, und Teile davon; mechanische (ein-
+      schliesslich elektromechanische) Signalvorrichtungen für Verkehrswege
+
+                                        Allgemeines
+
+         Zu diesem Kapitel gehören Schienenfahrzeuge und ortsfestes Gleismaterial aller Art (Ei-
+         senbahnen, Strassenbahnen, Schmalspurbahnen [z.B. Feldbahnen], Einschienenbahnen
+         usw.), mechanische (einschliesslich elektromechanische) Signal-, Sicherungs-, Überwa-
+         chungs- oder Steuergeräte für Verkehrswege aller Art oder Abstell- oder Parkplätze sowie
+         Warenbehälter (Container), die für eine oder mehrere Beförderungsarten besonders her-
+         gerichtet und ausgestattet sind.
+
+         Als Schienenwege im Sinne dieses Kapitels gelten nicht nur die klassischen Schienenwe-
+         ge mit Eisenschienen, sondern auch andere Systeme, z.B. magnetische Schienenwege
+         oder Einschienenwege aus Beton.
+
+         Die verschiedenen Erzeugnisse dieses Kapitels sind wie folgt einzureihen:
+         A)   in die Nrn. 8601 bis 8603: Triebfahrzeuge aller Art, wie Lokomotiven, Triebwagen und
+              Schienenbusse. Zu Nr. 8602 gehören ausserdem Lokomotivtender. Lokomotiven mit
+              zwei verschiedenen Antriebsarten sind nach der Hauptantriebsart zu tarifieren.
+         B)   in die Nr. 8604: Schienenfahrzeuge für den Unterhalt oder den Betrieb von schienen-
+              gebundenen Bahnen, auch wenn es sich um selbstfahrende Schienenfahrzeuge han-
+              delt.
+         C) in die Nrn. 8605 und 8606: die verschiedenen Arten von Anhängefahrzeugen (Perso-
+            nenwagen, Gepäckwagen, Güterwagen usw.).
+         D) in die Nrn. 8606 und 8608: Teile von Schienenfahrzeugen sowie ortsfestes Gleismate-
+            rial und mechanische (einschliesslich elektromechanische) Signal-, Sicherungs-,
+            Überwachungs- oder Steuergeräte für Verkehrswege aller Art.
+         E)   in die Nr. 8609: die für eine oder mehrere Beförderungsarten besonders hergerichte-
+              ten und ausgestatteten Warenbehälter (Container).
+
+         Hierher gehören auch Luftkissenfahrzeuge, die dazu hergerichtet sind, sich über einer
+         Führungsschiene fortzubewegen (Luftkissenzüge), Teile dieser Fahrzeuge sowie das orts-
+         feste Material und die mechanischen (einschliesslich elektromechanischen) Signal-, Siche-
+         rungs-, Überwachungs- oder Steuergeräte für Verkehrswege von Luftkissenzügen (siehe
+         Anmerkung 5 zu Abschnitt XVII).
+
+         Unvollständige oder unfertige Fahrzeuge sind wie die entsprechenden vollständigen oder
+         fertigen Fahrzeuge zu tarifieren, wenn sie deren wesentliche Merkmale aufweisen. Dies ist
+         insbesondere der Fall bei:
+         1)   Lokomotiven oder Triebwagen, ohne Antriebsmaschinen, Messgeräte, Sicherheitsvor-
+              richtungen oder Bedienungsvorrichtungen.
+         2)   Personenwagen ohne Sitze oder Sitzbänke.
+         3)   Wagenfahrgestellen, die nur mit Aufhängevorrichtung und Radsätzen ausgestattet
+              sind.
+
+         Nicht auf Fahrgestellen angebrachte Wagenkästen von Triebwagen, anderen Wagen oder
+         Tendern sind jedoch als Schienenfahrzeugteile zu tarifieren (Nr. 8607).
+
+
+
+
+                                      1/9 (Stand: 1.4.2025)
+                                                                                          8601
+
+        Zu Kapitel 86 gehören nicht:
+        a) Modelle von Schienenfahrzeugen, in verkleinertem Massstab, zu Vorführzwecken
+            hergerichtet (Nr. 9023).
+        b) Eisenbahngeschütze (Nr. 9301).
+        c) Spielzeugeisenbahnen (Nr. 9503).
+        d) Schienenfahrzeuge und auf Schienen fahrendes Material, speziell für Fahrgeschäfte
+            für Vergnügungsparks, Wasserparkattraktionen oder Schausteller-Einrichtungen her-
+            gerichtet, die kein Eisenbahnmaterial im eigentlichen Sinne darstellen (Nr. 9508).
+
+8601.   Lokomotiven aller Art, mit Stromspeisung aus dem elektrischen Stromnetz oder aus
+        elektrischen Akkumulatoren
+
+        Hierher gehören alle Arten von elektrischen Lokomotiven, bei denen die benötigte elektri-
+        sche Energie entweder von starken, auf dem Fahrzeug selbst untergebrachten Akkumula-
+        torenbatterien geliefert wird oder von den Antriebsmotoren aus einer Stromleitung ent-
+        nommen wird. Die Stromleitung besteht aus einer neben dem Gleis verlaufenden Strom-
+        schiene oder aus einer Oberleitung (Fahrleitung).
+
+8602.   Andere Lokomotiven; Lokomotivtender
+
+                                      A. Lokomotiven
+
+        Zu dieser Gruppe gehören andere Lokomotiven als solche mit Stromspeisung aus dem
+        elektrischen Stromnetz oder aus elektrischen Akkumulatoren (Nr. 8601), ohne Rücksicht
+        auf die Art ihres Antriebs (Dampfkraftmaschine, Dieselmotor, Gasturbine, Ottomotor,
+        Druckluftmotor usw.).
+
+        Von diesen Lokomotiven können erwähnt werden:
+        1)   Diesellokomotiven
+             a)   Diesel-elektrische Lokomotiven. Bei diesen Lokomotiven setzt der Dieselmotor
+                  einen elektrischen Generator in Bewegung, der seinerseits die auf die Antriebsrä-
+                  der wirkenden Motoren mit Strom versorgt.
+             b)   Diesel-hydraulische Lokomotiven. Dabei handelt es sich um Lokomotiven, bei de-
+                  nen die vom Dieselmotor erzeugte Bewegungsenergie mit Hilfe eines hydrauli-
+                  schen Systems auf die Räder übertragen wird.
+             c)   Diesel-mechanische Lokomotiven. Bei diesen Lokomotiven wird die vom Diesel-
+                  motor erzeugte Bewegungsenergie über eine hydraulische Kupplung und ein Ge-
+                  triebe auf die Antriebsräder übertragen.
+        2)   Dampflokomotiven aller Art, einschliesslich der Dampfturbinenlokomotiven, bei denen
+             die Dampfturbinen elektrische Motoren antreiben, Tenderlokomotiven und Lokomoti-
+             ven ohne Brennkammer, d.h. Lokomotiven, die an Stelle eines Dampfkessels einen
+             Behälter aufweisen, der durch eine industrielle Einrichtung mit Dampf versorgt wird.
+
+        Hierher gehören auch Kleinlokomotiven mit geringer Leistung, ohne Drehgestelle und ohne
+        Laufräder. Sie besitzen gewöhnlich nur zwei Triebachsen. Kleinlokomotiven werden vor al-
+        lem in Bahnhöfen zum Rangieren sowie auch von manchen Industriebetrieben mit Gleis-
+        anschluss benutzt.
+
+                                         B. Tender
+
+        Lokomotivtender sind an die Lokomotive gekuppelte Fahrzeuge zum Befördern des für den
+        Betrieb des Dampfkessels erforderlichen Wassers und Brennstoffes. Sie bestehen im We-
+        sentlichen aus einem zwei- oder mehrachsigen Fahrgestell, das einen geschlossenen
+        Blechbehälter zur Aufnahme des Wassers und einen Kohlenbunker trägt.
+
+        Nicht zu dieser Nummer gehören Zugmaschinen, die infolge ihrer Bauart sowohl auf
+        Strassen als auch auf Schienen fahren können (Nr. 8701).
+
+
+
+
+                                      2/9 (Stand: 1.4.2025)
+                                                                                         8603
+
+8603.   Triebwagen und Schienenbusse, ausgenommen solche der Nr. 8604
+
+        Triebwagen und Schienenbusse unterscheiden sich von Lokomotiven dadurch, dass sie
+        nicht nur einen Fahrantrieb besitzen, sondern auch zum Befördern von Fahrgästen oder
+        Gütern eingerichtet sind. Diese Fahrzeuge sind so hergerichtet, dass sie entweder allein
+        oder mit anderen Fahrzeugen derselben Art bzw. auch mit einem oder mehreren Anhän-
+        gewagen zusammengekuppelt fahren können.
+
+        Kennzeichnend für diese Fahrzeuge ist, dass sie entweder an beiden Fahrzeugenden ei-
+        nen Führerstand besitzen oder mit einem überhöhten, in der Fahrzeugmitte oder an einem
+        Fahrzeugende angeordneten Führerstand (einer Fahrkanzel) ausgestattet sind.
+
+        Von den verschiedenen hierher gehörenden Triebwagenarten können genannt werden:
+        A)   Elektrische Triebwagen, bei denen die Versorgung mit Netzstrom aus einem festen
+             Leiter stammt. Wenn eine Oberleitung vorhanden ist, wird der Strom entweder durch
+             einen Schleifkontaktstromabnehmer (Scherenstromabnehmer) oder einen Kontaktrol-
+             lenstromabnehmer und beim Vorhandensein z.B. einer dritten Schiene (Stromschiene)
+             durch an den Drehgestellen angebrachte Kontaktschlitten abgenommen.
+             Strassenbahntriebwagen benützen zuweilen zwei in einem Kanal untergebrachte
+             Stromschienen, wobei der Strom durch eine besondere Vorrichtung (Stromabnehmer-
+             Schuh) abgenommen wird.
+        B)   Schienenbusse stellen selbständige Fahrzeuge dar, die sich mit eigener Kraft fortbe-
+             wegen. Sie sind mit einem Diesel- oder Ottomotor usw. ausgestattet.
+             Manche Schienenbusse, "Michelines" genannt, fahren auf Vollgummireifen oder auf
+             Luftreifen und andere sind für den Zahnradbetrieb eingerichtet.
+        C) Mit Akkumulatorenbatterien betriebene Schienenbusse und Strassenbahntriebwagen
+           (Akkumulatorentriebwagen).
+
+        Hierher gehören auch die mit Elektrokreisel betriebenen Schienenfahrzeuge. Ihr Antrieb
+        erfolgt in der Weise, dass kinetische Energie in einem sich mit hoher Geschwindigkeit dre-
+        henden Schwungrad aufgespeichert und dann nach Umwandlung durch einen Generator
+        in elektrischen Strom an einen Fahrmotor abgegeben wird. Diese Antriebsart hat nur eine
+        ziemlich begrenzte Anwendungsmöglichkeit, kann jedoch zum Antrieb von leichten Schie-
+        nenbussen oder von Strassenbahntriebwagen verwendet werden.
+
+        Strassenautobusse, die (bei unverändertem Motor) nur durch Auswechseln der Räder und
+        Blockieren der Lenkvorrichtung in Schienenbusse umgewandelt werden können, gehören
+        jedoch zu Nr. 8702.
+
+8604.   Schienenfahrzeuge für den Unterhalt oder den Betrieb von schienengebundenen
+        Bahnen, auch selbstfahrend (z.B. Werkstattwagen, Kranwagen, Wagen mit Gleis-
+        stopfmaschinen, Gleisrichtwagen, Prüfwagen und Draisinen)
+
+        Die Wagen dieser Nummer, die auch selbstfahrend sein können, sind speziell für den Bau
+        oder die Unterhaltung von Bahnstrecken oder für verschiedene Arbeiten auf dem Bahn-
+        hofsgelände oder am Bahnstreckenrand hergerichtet.
+
+        Hierher gehören insbesondere:
+        1)   Werkstattwagen (Gerätewagen), ausgerüstet z.B. mit Werkzeug, Werkzeugmaschi-
+             nen, elektrischen Generatoren, Hebezeugen (Zahnstangenwinden, Flaschenzügen,
+             Schraubenwinden usw.), Schweissgeräten, Ketten und Drahtseilen.
+        2)   Kranwagen aller Art, z.B. Kranwagen zum Heben von Lokomotiven oder Wagen,
+             Kranwagen für den Gleisbau, Kranwagen für Arbeiten an Laderampen.
+        3)   Wagen mit aufmontierter Zugwinde.
+
+
+
+
+                                     3/9 (Stand: 1.4.2025)
+                                                                                        8605
+
+        4)   Wagen mit Spezialmaschinen zum Reinigen oder Stopfen der Beschotterung (Schot-
+             terräummaschinen [Auskofferungsmaschinen], Schottersiebmaschinen, Gleisstopfma-
+             schinen usw.).
+        5)   Wagen mit Betonmischmaschine zum Herstellen von Beton, der auf freier Strecke
+             verwendet werden soll, z.B. für Fundamente von Masten für elektrische Fahrdrahtlei-
+             tungen.
+        6)   Eichwagen zum Eichen von Eisenbahn-Brückenwaagen.
+        7)   Montagewagen (Turmwagen) zum Verlegen und Unterhalten von elektrischen Leitun-
+             gen.
+        8)   Sprengwagen zur Unkrautvertilgung an Bahngleisen.
+        9)   Selbstfahrende Fahrzeuge (Bahndienstwagen) zur Gleisunterhaltung (insbesondere
+             Gleiskorrekturwagen), die mit einem oder mehreren Motoren ausgestattet sind, wel-
+             che nicht nur zum Antreiben der auf diesen Fahrzeugen montierten Arbeitsmaschinen
+             (Gleisrichtmaschinen, Gleisstopfmaschinen usw.) und zum Fortbewegen des Fahr-
+             zeugs während der Arbeit dienen, sondern darüber hinaus einen schnellen Ortswech-
+             sel mit eigener Kraft ermöglichen, wenn die Arbeitsmaschinen ausser Betrieb sind.
+        10) Messwagen mit Vorrichtungen oder Instrumenten, z.B. zum Prüfen der Fahreigen-
+            schaften und Bremsen der Schienenfahrzeuge, zum Messen der Zugkraft der Loko-
+            motive, zum Prüfen der Brückenfestigkeit und dergleichen oder zum Ermitteln von
+            Schienenmängeln, sowie Gleisprüfwagen, die während der Fahrt Veränderungen des
+            Gleises registrieren.
+        11) Motordraisinen (einschliesslich der Schienenfahrräder mit Motor), die vom Bahnper-
+            sonal zur Gleisunterhaltung und -überwachung benutzt werden. Diese in der Regel mit
+            Ottomotoren ausgestatteten, vollkommen selbständigen Fahrzeuge dienen zum ra-
+            schen Befördern des Personals und auch von Material, das entlang der Strecke ver-
+            teilt oder eingesammelt werden soll.
+        12) Motorlose Draisinen und Gleisfahrräder, die vom Bahnpersonal zur Streckenüberwa-
+            chung benutzt werden.
+
+        Sofern Maschinen oder Arbeitsgeräte sowie Messinstrumente nicht auf ausgesprochenen
+        Eisenbahnwagen- oder Strassenbahnwagenfahrgestellen, sondern auf einfachen, mit Rä-
+        dern ausgerüsteten Plattformen oder Karren montiert sind, die kein rollendes Bahnmaterial
+        darstellen, gehört das Ganze nicht zu dieser Nummer, sondern zu der Nummer mit der
+        genaueren Warenbezeichnung (z.B. zu Nrn. 8425, 8426, 8428, 8429, 8430).
+
+8605.   Personenwagen, Gepäckwagen, Postwagen und andere schienengebundene Spezi-
+        alwagen (ausgenommen Wagen der Nr. 8604)
+
+        Hierher gehört eine Gruppe von schienengebundenen Wagen ohne eigenen Fahrantrieb,
+        von denen der grösste Teil zu Personenzügen zusammengekuppelt wird. Diese Nummer
+        umfasst ausserdem Anhängewagen für Strassenbahnen und Standseilbahnwagen.
+
+        Hierher gehören insbesondere:
+        1)   Personenwagen aller Art, einschliesslich der Schlafwagen, Speisewagen, Salonwa-
+             gen, Abteilwagen und der Gesellschaftswagen mit Spielräumen, Tanzräumen usw.
+        2)   Standseilbahnwagen (Bergbahnwagen).
+        3)   Anhängewagen für Strassenbahnen.
+        4)   Wagen zum Befördern von Bergleuten unter Tage.
+        5)   Wohnwagen für Bahnpersonal.
+        6)   Gepäckwagen und kombinierte Personen- und Gepäckwagen.
+        7)   Postwagen.
+
+
+
+
+                                     4/9 (Stand: 1.4.2025)
+                                                                                        8606
+
+        8)   Lazarettwagen (Behandlungswagen, Krankenstationswagen usw.) sowie Röntgensta-
+             tionswagen.
+        9)   Gefangenenwagen.
+        10) Gepanzerte Wagen.
+        11) Spezialwagen mit Sprechfunkgeräten oder Telegraphiegeräten.
+        12) Wagen mit Geräten, Maschinen und Modellen, für den Anschauungsunterricht des
+            Bahnpersonals.
+        13) Ausstellungswagen.
+
+8606.   Schienengebundene Güterwagen
+
+        Hierher gehören die verschiedenen Arten von Güterwagen zur Güterbeförderung auf
+        Bahnnetzen beliebiger Spurweite sowie Loren und Plattformwagen zur Güterbeförderung
+        auf Schienenwegen in Bergwerken, auf Baustellen, in Fabriken, Lagerhäusern usw. Die
+        letztgenannten Fahrzeuge unterscheiden sich im Allgemeinen von den eigentlichen Gü-
+        terwagen durch das Fehlen der Tragfedern.
+
+        Neben den üblichen offenen Güterwagen (Flachwagen, Plattformwagen und Kippwagen)
+        und den üblichen gedeckten Güterwagen gehören auch folgende Spezialwagen zu dieser
+        Nummer:
+        1)   Kesselwagen und dergleichen (z.B. Behälterwagen, Fasswagen).
+        2)   Wärmeisolierte Güterwagen und Kühlwagen.
+        3)   Selbstentladewagen (Kippwagen, Trichterwagen usw.)
+        4)   Tiefgangwagen für den Transport von schwerem Material.
+        5)   Langholzwagen (Schemelwagen).
+        6)   Güterwagen mit Steingutbehältern zum Befördern von Chemikalien.
+        7)   Viehwagen.
+        8)   Doppelstockwagen, z.B. zum Befördern von Automobilen.
+        9)   Besonders ausgestattete Wagen zum Befördern von lebendem Geflügel oder leben-
+             den Fischen.
+        10) Rollblöcke und Rollwagen zum Befördern anderer Güterwagen.
+        11) Loren aller Art für Feldbahnen.
+        12) Grubenwagen (Hunde) aller Art.
+        13) Wagen zum Befördern von Schienen, Trägern usw.
+        14) Güterwagen     mit   Führungsschienen      zum   Befördern   von   Schienen-Strassen-
+            Anhängern.
+        15) Güterwagen, die speziell zum Befördern von Waren mit starker Radioaktivität herge-
+            richtet sind.
+
+        Hierher gehören nicht Schienen-Strassen-Anhänger, die in erster Linie Strassenfahrzeuge
+        sind, aber infolge ihrer Bauart auch auf Spezialgüterwagen, deren Plattform Führungs-
+        schienen trägt, befördert werden können (Nr. 8716).
+
+8607.   Teile von Schienenfahrzeugen
+
+        Hierher gehören sämtliche Teile von Schienenfahrzeugen, welche die beiden nachstehen-
+        den Voraussetzungen erfüllen:
+        1.   sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsächlich
+             für derartige Fahrzeuge bestimmt sein;
+
+
+
+
+                                     5/9 (Stand: 1.4.2025)
+                                                                                         8608
+
+        2.   sie dürfen nicht durch die Anmerkungen zu Abschnitt XVII vom Abschnitt XVII ausge-
+             nommen sein.
+
+        Als solche Teile für Schienenfahrzeuge können genannt werden:
+        1)   Drehgestelle (Boogies) mit zwei oder mehr Achsen und Lenkgestelle (einachsige Bis-
+             sel-Drehgestelle).
+        2)   Gerade oder gekröpfte Achsen, auch zu Radsätzen montiert.
+        3)   Räder und Radteile (z.B. Radkörper, Radreifen, Radsprengringe).
+        4)   Achsbüchsen, auch Öl- oder Fettschmierbüchsen genannt, und deren Teile (z.B.
+             Büchsengehäuse).
+        5)   Bremsvorrichtungen aller Art, und zwar:
+             a)   Handbremsen, die unmittelbar von jedem einzelnen Fahrzeug aus betätigt wer-
+                  den (Handhebel- und Spindelbremsen).
+             b)   Durchgehende Bremsen, die auf alle Fahrzeuge eines Zuges wirken und durch
+                  einen einzigen Handgriff betätigt werden. Bei ihnen unterscheidet man zwischen
+                  Druckluftbremsen und Vakuumbremsen (Saugluftbremsen).
+             c)   Teile dieser Bremsvorrichtungen, z.B. Bremsklötze, Bremszylinder und Hand-
+                  bremshebel.
+        6)   Puffer.
+        7)   Kupplungsvorrichtungen (z.B. Zughaken, Zugstangen und Schrauben- oder Ketten-
+             kupplungen); manche Kupplungsvorrichtungen sind selbsttätig.
+        8)   Untergestelle und deren Bestandteile, wie Längsträger, Querträger, Längsstreben,
+             Achshalter usw. sowie aus einem Stück gegossene Untergestelle.
+        9)   Faltenbälge, einschliesslich der Übergangsbrücken.
+        10) Nicht auf Fahrgestellen montierte Triebwagen-, Waggon-, Loren- und Tenderkästen
+            sowie Wagenkastenteile, z.B. Schiebetüren und andere Türen, Zwischenwände,
+            Klappwände für Flachwagen, Rungen, Trittbretter und Wasserbehälter für Tender.
+        11) Heiz- und Bremsschläuche mit Kupplungsenden.
+        12) Hydraulische Stossdämpfer für Drehgestelle.
+
+        Im Abschnitt XV verbleiben aus unedlen Metallen bestehende Profile, Bleche und andere
+        Bauelemente von Wagenkasten sowie Rohre, Schläuche und dergleichen, sofern sie noch
+        nicht so weit bearbeitet sind, dass sie eindeutig als Teile von Schienenfahrzeugen erkenn-
+        bar sind.
+
+8608.   Ortsfestes Gleismaterial; mechanische (einschliesslich elektromechanische) Sig-
+        nal-, Sicherungs-, Überwachungs- oder Steuergeräte für Schienenwege oder der-
+        gleichen, Strassen, Binnenwasserwege, Abstell- oder Parkplätze, Hafenanlagen oder
+        Flugplätze; Teile davon
+
+                               A. Ortsfestes Gleismaterial
+
+        Hierzu gehören z.B.:
+        1)   Zusammengesetzte Gleise, d.h. Gleise, deren Schienen bereits auf Schwellen oder
+             ähnlichen Unterlagen befestigt sind, z.B. Kreuzungen, Weichen und gekrümmte oder
+             gerade Gleisabschnitte.
+        2)   Drehscheiben, auch elektrisch betriebene, die aus einer kreisförmigen, um eine Achse
+             drehbaren Plattform bestehen. Auf deren Oberfläche befinden sich Gleise, die in einer
+             Ebene mit den Auffahrtsgleisen liegen. Insbesondere bei Brückendrehscheiben ist die
+             Belastung meist auf drei Punkte verteilt, und zwar auf den zentralen Drehzapfen und
+             auf je zwei Rollen an den Enden der Drehbrücke.
+
+
+
+
+                                     6/9 (Stand: 1.4.2025)
+                                                                                           8608
+
+               Drehscheiben ermöglichen den Gleis- oder Richtungswechsel des rollenden Materials.
+               Einige von ihnen - besonders solche für Schmalspurbahnen (z.B. Feldbahnen) - wer-
+               den von Hand betätigt.
+               Hierher gehören nicht Lokomotiven- oder Waggonschiebebühnen, die Schienenfahr-
+               zeuge nur von einem Gleis auf ein anderes umsetzen. Derartige Schiebebühnen so-
+               wie andere Fördergeräte für rollendes Bahnmaterial (z.B. Waggonkipper oder -wipper
+               und Waggonschieber) gehören zu Nr. 8428.
+          3)   Prellböcke. Das sind hydraulische oder mit Federn ausgestattete Anhaltevorrichtun-
+               gen. Sie werden an den Gleisenden angebracht zur Dämpfung des Aufpralls von rol-
+               lendem Bahnmaterial, das vor dem Gleisende nicht zum Anhalten gebracht werden
+               konnte. Sie sind entweder zum Einbau in ein Mauerwerk (besonders in Kopfbahnhö-
+               fen) oder zur Befestigung an einem kräftigen Gestell (insbesondere auf Rangierbahn-
+               höfen) hergerichtet.
+          4)   Lademasse. Das sind portalförmige Metallkonstruktionen, welche die Gewähr geben,
+               dass Züge, die unter ihnen hindurchfahren können, auf der zu befahrenden Strecke
+               nicht die zulässige Maximalhöhe und -breite überschreiten.
+          Hierher gehören jedoch nicht Holzschwellen (Nr. 4406), Betonschwellen (Nr. 6810) sowie
+          Schwellen, Schienen oder anderes aus Eisen oder Stahl bestehendes Bahnoberbaumate-
+          rial der Nr. 7302 (siehe die Erläuterungen zu dieser Nummer).
+
+          Masten und Brücken zum Befestigen der elektrischen Oberleitungen (Fahrdrähte) sind
+          nicht als ortsfestes Gleismaterial anzusehen und deshalb nach Material und Beschaffen-
+          heit zu tarifieren (z.B. nach Nrn. 6810, 7308).
+
+B. Mechanische (einschliesslich elektromechanische) Signal-, Sicherungs-, Überwachungs-
+oder Steuergeräte für Schienenwege oder dergleichen, Strassen, Binnenwasserwege, Abstell-
+                       oder Parkplätze, Hafenanlagen oder Flugplätze
+
+          Zu dieser Gruppe gehören vor allem die meist ferngesteuerten Geräte zum Stellen von
+          Signalen oder Weichen mit Hilfe von Hebeln, Kurbeln, Gestängen, Ketten, Drahtzügen und
+          dergleichen oder durch hydropneumatische Vorrichtungen oder Elektromotoren. Elekt-
+          ropneumatisch betätigte Geräte, die vor allem bei der Eisenbahn verwendet werden, gehö-
+          ren ebenfalls zu dieser Nummer. Es handelt sich dabei um Geräte, welche die Signale
+          oder Weichen mit Hilfe eines Druckluftmotors und eines von der elektrischen Schalttafel
+          des Stellwerks aus gesteuerten elektromagnetischen Ventils, das den Lufteinlass in den
+          Motorenzylinder und den Luftaustritt aus dem Motorenzylinder regelt, stellen. Das Signal
+          und seine pneumatische Stellvorrichtung sind als zu dieser Nummer gehörende mechani-
+          sche Geräte anzusehen, die elektrische Schalttafel ist dem Kapitel 85 zuzuweisen.
+
+          Zu Nr. 8608 gehören nur solche Signalgeräte, die in mehrere verschiedene Stellungen ge-
+          bracht werden können, von denen jede eine Anweisung an den Fahrzeugführer darstellt.
+          Nicht hierher gehören daher Verkehrszeichen für Verkehrswege aller Art (Eisenbahnsigna-
+          le, Strassenverkehrszeichen und dergleichen), die keinen Mechanismus besitzen und nur
+          einfache Verkehrsschilder sind, z.B. Schilder mit Angabe der zulässigen Höchstgeschwin-
+          digkeit, der einzuschlagenden Fahrtrichtung oder der Gefälleprozente. Derartige Verkehrs-
+          zeichen sind nach Material und Beschaffenheit zu tarifieren (z.B. nach Nrn. 4421 oder
+          8310).
+
+          Diese Gruppe umfasst, sofern sie mechanisch oder elektromechanisch betätigt werden,
+          folgende Geräte und Vorrichtungen:
+          1)   Stellwerkseinrichtungen, die aus einer vollständigen, auf einem Rahmen montierten
+               Stellvorrichtung (Stellwerkbank) mit einer Anzahl von Stellhebeln, Seilscheiben, Ge-
+               stängen, Drahtzügen und dergleichen bestehen.
+               Sie sind oft mit Verriegelungsvorrichtungen (Signal- und Fahrstrassenverschlussein-
+               richtungen) ausgestattet, um ein falsches Stellen der Signale oder Weichen zu verhin-
+               dern.
+
+
+
+
+                                       7/9 (Stand: 1.4.2025)
+                                                                                 8608
+
+2)   Bewegliche Flügel- und Scheibensignale (Formsignale) sowie vollständige Signalmas-
+     ten und Signalbrücken.
+3)   Signalstellhebel, die an den Signalen befestigt werden und dazu dienen, zwei vonei-
+     nander abhängige Signale miteinander zu verbinden.
+4)   Mechanische, handhebel-, kurbel- oder fusshebelbetätigte Stellvorrichtungen (Wei-
+     chenböcke usw.), die neben dem Gleis zum Stellen von Weichen, Signalen usw. an-
+     gebracht werden.
+5)   Weichensignale, die durch die Bewegung der Weiche betätigt und deren Bewegungen
+     zum Stellwerk zurückübertragen werden, um dem Stellwerkspersonal anzuzeigen,
+     dass die Weiche tatsächlich in der gewünschten Stellung ist.
+6)   Weichenverriegelungsvorrichtungen. Das sind am Gleis zu befestigende Sicherungs-
+     vorrichtungen, die, wenn ein Zug darüberfährt, selbsttätig die Weichen verriegeln und
+     somit verhindern, dass sie während der Durchfahrt des Zuges vom Stellwerk aus be-
+     tätigt werden können.
+7)   Gleisbremsen für Waggons, die insbesondere auf Rangierbahnhöfen verwendet wer-
+     den. Sie bestehen meist aus hydraulisch- oder druckluftbetätigten Balken, die beider-
+     seits neben den Schienen angebracht werden und auf die Räder des rollenden Mate-
+     rials bremsend wirken.
+8)   Entgleisungs- und Hemmvorrichtungen (Hemmschuhe). Diese Vorrichtungen können
+     vom Gleis weggenommen werden, um einen Wagen durchzulassen, oder auf die
+     Schiene gesetzt werden, um als Hemmvorrichtung zu wirken oder um allenfalls den
+     Wagen zum Entgleisen zu bringen.
+9)   Zugbeeinflussungseinrichtungen, die meist aus einer T-förmigen, in Längsrichtung
+     zum Gleis angeordneten und mit Druckluft betriebenen Vorrichtung (mit Anschlag) be-
+     stehen. Der Anschlag dieser mit einem Signal gekuppelten Vorrichtung richtet sich
+     auf, wenn das Signal in der Stellung "Gefahr" steht, und betätigt hierdurch den Brem-
+     sauslösungshebel des darüberfahrenden Zuges.
+10) Automatische Nebelsignalgeräte, die gewöhnlich mit Hilfe von Druckluft betätigt wer-
+    den und, sobald ein Signal auf "Gefahr" steht, automatisch Signalknallkörper auf das
+    Gleis legen.
+11) Vorrichtungen zum Betätigen von Bahnschranken (Schrankenwinden) an schienen-
+    gleichen Bahnübergängen. Sie bestehen meist aus einer Handkurbel mit Überset-
+    zungsgetriebe oder aus einem Hebelsystem, das, wie die Signale und Weichen, vom
+    Stellwerk aus betätigt wird.
+     Die Schranken selbst sind jedoch nach Material und Beschaffenheit zu tarifieren
+     (Schranken aus Eisen oder Stahl nach Nr. 7308, Schranken aus Holz nach Nr. 4421),
+     während die mechanischen oder elektromechanischen Signale, die anzeigen, ob die
+     Schranken offen oder geschlossen sind, zu dieser Nummer gehören.
+12) Handbetätigte oder elektromechanische Mastsignale zum Regeln des Strassen- oder
+    Schiffsverkehrs.
+
+                                    Teile
+
+Hierher gehören auch die erkennbaren Teile des ortsfesten Gleismaterials und der Geräte
+dieser Nummer, insbesondere Plattformen und Drehbrücken von Drehscheiben, ferner
+Signalflügel, Signalscheiben, Stellhebel und Verriegelungsgehäuse.
+
+Ausserdem gehören nicht hierher:
+a) Ketten und andere Teile mit allgemeiner Verwendungsmöglichkeit im Sinne der An-
+    merkung 2 zu Abschnitt XV, aus unedlen Metallen (Abschnitt XV) oder aus Kunststof-
+    fen (Kapitel 39); ferner allgemein verwendbares Material (z.B. Gestänge) und Metall-
+    konstruktionen sowie Teile von Metallkonstruktionen (Abschnitt XV). So gehören z.B.
+    unter den Schienen durchlaufende Zungenverbindungsstangen, die den neben dem
+    Gleis angebrachten Stellmechanismus der Weiche mit den Weichenzungen verbin-
+
+
+
+
+                             8/9 (Stand: 1.4.2025)
+                                                                                         8609
+
+             den, sowie auch noch einige andere Teile aus Eisen oder aus Stahl des in dieser
+             Nummer erfassten ortsfesten Gleismaterials zu Nr. 7302.
+        b)   Signalleuchten (Nrn. 8530 oder 9405).
+        c)   Sirenen, Nebelhörner und sonstige akustische Signalvorrichtungen (Tarifierung nach
+             eigener Beschaffenheit).
+        d)   Signalvorrichtungen von der Art, wie sie z.B. in Landfahrzeuge oder an Bord von
+             Schiffen usw. eingebaut werden, insbesondere Alarmeinrichtungen für Züge oder für
+             Schiffe (Tarifierung nach eigener Beschaffenheit).
+
+8609.   Warenbehälter (Container) einschliesslich solcher für Flüssigkeiten, für eine oder
+        mehrere Beförderungsarten besonders hergerichtet und ausgestattet
+
+        Warenbehälter (Container) sind besondere Umschliessungen, die so hergerichtet und
+        ausgestattet sind, dass sie mit einer oder mehreren Arten von Beförderungsmitteln (vor al-
+        lem mit Schienen-, Strassen-, Wasser- oder Luftfahrzeugen) befördert werden können. Zu
+        diesem Zweck sind sie mit entsprechenden Vorrichtungen (Haken, Ringen, Stützen, Rollen
+        usw.) ausgerüstet, um das Verladen und Verstauen auf dem Transportfahrzeug (Land-,
+        Luft- oder Wasserfahrzeug) zu erleichtern. Sie dienen zur Güterbeförderung "von Haus zu
+        Haus" ohne Umpacken zwischen Versand- und Bestimmungsort. Sie sind von robuster
+        Bauart und deshalb wiederholt verwendbar.
+
+        Am meisten gebräuchlich sind Warenbehälter in Form von grossen Holz- oder Metallkis-
+        ten, die Türen oder abnehmbare Seitenwände besitzen.
+
+        Die wichtigsten Warenbehälterarten sind:
+        1)   Spezialbehälter für den Möbeltransport.
+        2)   Wärmeisolierte Behälter für Lebensmittel und andere verderbliche Waren.
+        3)   Transportbehälter (Tanks) für Flüssigkeiten oder Gase. Diese meist zylinderförmigen
+             Behälter gehören jedoch nur dann hierher, wenn sie auf einen Untersatz montiert sind,
+             der ihre Befestigung auf einem beliebigen Transportfahrzeug ermöglicht. Andernfalls
+             sind sie nach eigener Beschaffenheit zu tarifieren.
+        4)   Offene Behälter zum Befördern von Massengütern (z.B. von Kohle, Erz, Pflasterstei-
+             nen, Ziegelsteinen oder Dachziegeln). Ihr Boden und ihre Seitenwände sind oft (zum
+             Herausklappen) mit Scharnieren versehen, um die Entladung zu erleichtern.
+        5)   Spezialbehälter zum Befördern bestimmter Waren, insbesondere von Glaswaren, ke-
+             ramischen Waren oder lebenden Tieren.
+
+        Warenbehälter dieser Nummer haben in der Regel ein Fassungsvermögen von 4 bis
+        145 m3. Es gibt jedoch auch kleinere Warenbehälter, deren Fassungsvermögen aber ge-
+        wöhnlich nicht weniger als 1 m3 beträgt.
+
+        Hierher gehören nicht:
+        a) Kisten und Kästen aller Art, die zwar zum Gütertransport "von Haus zu Haus" be-
+            stimmt sind, aber nicht speziell zum Befestigen oder Verstauen auf einem Land-, Luft-
+            oder Wasserfahrzeug hergerichtet sind. Derartige Umschliessungen sind nach eigener
+            Beschaffenheit zu tarifieren.
+        b) Schienen-Strassen-Anhänger, die in erster Linie für den Strassenverkehr bestimmt
+            sind, aber infolge ihrer Bauart auch auf Spezialgüterwagen, deren Plattform Füh-
+            rungsschienen trägt, befördert werden können (Nr. 8716).
+        c) Modulare Baueinheiten (Nr. 9406).
+
+
+
+
+                                      9/9 (Stand: 1.4.2025)
