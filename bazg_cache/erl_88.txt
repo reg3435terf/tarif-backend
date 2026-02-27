@@ -1,0 +1,334 @@
+8801
+
+                                        Kapitel 88
+
+                                 Luft- oder Raumfahrzeuge
+
+                                         Allgemeines
+
+        Dieses Kapitel umfasst Ballone und Luftschiffe und nicht zum Motorantrieb gebaute Luft-
+        fahrzeuge (Nr. 8801), andere Luftfahrzeuge (Nrn. 8802 oder 8806), Raumfahrzeuge (ein-
+        schliesslich Satelliten) und ihre Trägerraketen (Nr. 8802), sowie verwandte Geräte wie
+        Fallschirme (Nr. 8804), Startapparate- und Vorrichtungen für Luftfahrzeuge oder Apparate
+        und Vorrichtungen für Decklandungen von Luftfahrzeugen und Bodengeräte zur Flugaus-
+        bildung (Nr. 8805). Zu diesem Kapitel gehören ebenfalls Teile und Zubehör, die ihrer Be-
+        schaffenheit nach erkennbar ausschliesslich oder hauptsächlich für Fahrzeuge des Kapi-
+        tels 88 bestimmt sind, sofern sie nicht aufgrund der Anmerkungen des Abschnitts XVII
+        ausgeschlossen sind (siehe auch die Erläuterungen zum Abschnitt XVII, Allgemeines).
+
+        Diesem Kapitel sind auch unvollständige oder unfertige Luftfahrzeuge (z.B. Luftfahrzeuge
+        ohne Antriebsmaschinen oder mit unvollständiger Innenausstattung) zuzuweisen, wenn sie
+        die charakteristischen Merkmale der fertigen Luftfahrzeuge besitzen.
+
+8801.   Ballone und Luftschiffe; Segelflugzeuge, Hängegleiter und andere Luftfahrzeuge,
+        nicht zum Motorantrieb gebaut
+
+                                 I.   Ballone und Luftschiffe
+
+        Diese Gruppe umfasst alle Luftfahrzeuge, die - in gefülltem Zustand - leichter als Luft sind,
+        ohne Rücksicht darauf, ob sie zu militärischen, sportlichen, wissenschaftlichen oder ande-
+        ren Zwecken (z.B. zur Werbung) verwendet werden. Hierher gehören demnach Freiballone
+        und Fesselballone (die mit Hilfe eines Seiles am Boden verankert werden) sowie lenkbare
+        Luftschiffe mit Motorantrieb.
+
+        Hierher gehören auch folgende, in der Luftfahrt oder im Wetterdienst verwendete Arten
+        von Ballonen:
+        1)   Registrierballone, die dazu dienen, Funkmessgeräte (Radiosonden) in grosse Höhen
+             zu befördern. Sie können bis zu 4500 g wiegen, aber ihr übliches Gewicht liegt zwi-
+             schen 350 g und 1500 g.
+        2)   Höhenwindballone zum Bestimmen der Windstärke und der Windrichtung. Sie wiegen
+             gewöhnlich 50 g bis 100 g.
+        3)   Flughöhenballone zum Bestimmen der Wolkenhöhe. Sie sind kleiner als die vorste-
+             hend genannten Ballone und wiegen 4 g bis 30 g.
+
+        Die im Wetterdienst verwendeten Ballone bestehen meistens aus einer sehr dünnen Kaut-
+        schukhülle, die eine beträchtliche Dehnung zulässt. Kinderluftballone gehören nicht hierher
+        (Nr. 9503). Sie kennzeichnen sich durch ihre geringere Qualität, den kürzeren Füllhals und
+        im Allgemeinen durch angebrachte Werbeaufdrucke oder Verzierungen.
+
+                           II.   Segelflugzeuge und Hängegleiter
+
+        Segelflugzeuge sind Fluggeräte, die schwerer als Luft sind und die atmosphärische Strö-
+        mungen ausnützen. Segelflugzeuge, die mit einem Motor ausgerüstet oder zur Aufnahme
+        eines Motors hergerichtet sind, gehören jedoch zu Nr. 8802.
+
+        Unter den Hängegleitern ist der Deltasegler zu erwähnen. Dies ist ein Gerät, welches einer
+        oder zwei Personen, die in einem Gurtzeug hängen, ermöglicht, zu segeln und dabei ge-
+        wisse Richtungsänderungen vorzunehmen. Dieser Segler besteht aus einem starren, mit
+        Gewebe (im Allgemeinen aus Spinnstoffen) bespannten, üblicherweise aus Metallrohren
+
+
+
+
+                                       1/6 (Stand: 1.1.2022)
+                                                                                         8802
+
+        gefertigten Gerippe mit einem im Zentrum angeordneten Trapez, welches das Steuern er-
+        möglicht. Die Hängegleiter können andere Formen aufweisen, aber ihr aerodynamisches
+        Verhalten und ihre Konstruktion sind analog den Deltaseglern.
+
+                III. Andere Luftfahrzeuge, nicht zum Motorantrieb gebaut
+
+        Zu dieser Gruppe gehören insbesondere Drachen. Das sind Luftfahrzeuge, die schwerer
+        als Luft sind und keine Antriebsmaschinen besitzen. Drachen sind wie Fesselballone durch
+        ein Seil mit dem Boden verbunden und können z.B. zum Befördern von meteorologischen
+        Instrumenten verwendet werden.
+
+        Hierher gehören nicht Drachen mit offensichtlichem Spielzeugcharakter (Nr. 9503).
+
+        Ebenfalls gehören nicht hierher Modelle in verkleinertem Massstab, die z.B. zu Dekorati-
+        onszwecken (insbesondere Nrn. 4420 oder Nr. 8306), zu Vorführzwecken (Nr. 9023) oder
+        als Spielzeug verwendet werden (Nr. 9503).
+
+8802.   Andere Luftfahrzeuge (z.B. Hubschrauber, Flugzeuge), ausgenommen Luftfahrzeuge
+        ohne Besatzung der Nr. 8806; Raumfahrzeuge (einschliesslich Satelliten) und ihre
+        Trägerraketen und suborbitale Fahrzeuge
+
+        Diese Nummer umfasst:
+        1)   Luftfahrzeuge, die schwerer als Luft sind und mit einer Antriebsmaschine arbeiten.
+             Darunter können genannt werden: Land- oder Amphibienflugzeuge und Wasserflug-
+             zeuge sowie Tragschrauber (mit einem oder mehreren Rotoren, die sich frei um senk-
+             rechte Achsen drehen) und Hubschrauber (mit einem oder mehreren maschinell ange-
+             triebenen Rotoren).
+             Diese Geräte können z.B. für militärische Zwecke, zur Beförderung von Personen o-
+             der Waren, zu Ausbildungszwecken, für Luftbildaufnahmen, für landwirtschaftliche Ar-
+             beiten, für Rettungszwecke, zur Feuerbekämpfung, für den Wetterdienst oder andere
+             wissenschaftliche Zwecke verwendet werden.
+             Zu dieser Nummer gehören Luftfahrzeuge, die speziell hergerichtet sind, um auch als
+             Landfahrzeuge verwendet werden zu können.
+        2)   Raumfahrzeuge. Sie sind zur Fortbewegung in dem ausserhalb der Erdatmosphäre
+             gelegenen Raum geeignet (z.B. Fernmeldesatelliten, Wettersatelliten).
+        3)   Trägerraketen für Raumfahrzeuge. Dies sind Geräte, deren Aufgabe darin besteht, ei-
+             ne bestimmte Nutzlast auf eine Erdumlaufbahn (Trägerraketen für Satelliten) oder auf
+             eine Umlaufbahn, die sich unter dem Einfluss eines ausserirdischen Kraftfeldes befin-
+             det (Trägerraketen für Raumfahrzeuge), zu bringen. Diese Geräte vermögen der Last
+             bei Antriebsende eine Geschwindigkeit von mehr als 7000 m/s zu verleihen.
+        4)   Suborbitale Trägerfahrzeuge für Nutzlasten, die einer parabolischen Flugbahn folgen
+             und im Allgemeinen wissenschaftliche oder technische Geräte, zur Wiederverwen-
+             dung bestimmt oder nicht, ausserhalb die Erdatmosphäre transportieren. Wenn diese
+             Nutzlasten zum Aussetzen bestimmt sind, übersteigt die Geschwindigkeit, die ihnen
+             von diesen Fahrzeugen bei Antriebsende verliehen wird, 7000 m/s nicht. Die Nutzlas-
+             ten kehren oft mittels Fallschirm auf die Erde zurück, um wieder verwendet zu werden.
+
+             Nicht zu dieser Nummer gehören indessen Kampfraketen, Lenkgeschosse, wie ballis-
+             tische Fernlenkgeschosse und ähnliche militärische Flugkörper, die der Nutzlast bei
+             Antriebsende eine Geschwindigkeit von nicht mehr als 7000 m/s verleihen (Nr. 9306).
+             Diese Flugkörper bringen eine Nutzlast, wie Sprengstoffe, Munition, chemische Wirk-
+             stoffe, auf einer parabolischen Flugbahn in ein Ziel.
+
+        Von dieser Nummer sind ebenfalls ausgenommen:
+        a) Massstäblich oder nicht massstäblich verkleinerte Modelle, z.B. zu Dekorationszwe-
+            cken (Nrn. 4420 oder 8306 usw.) oder ausschliesslich zu Demonstrationszwecken
+            (Nr. 9023).
+
+
+
+
+                                     2/6 (Stand: 1.1.2022)
+        b)   in Anmerkung 1 zu diesem Kapitel genannte Luftfahrzeuge ohne Besatzung
+             (Nr. 8806).
+        c)   Spielzeug oder massstäblich verkleinerte Modelle zur Unterhaltung (Nr. 9503).
+        d)   Modelle, die speziell für Fahrgeschäfte für Vergnügungsparks oder Schausteller-
+             Einrichtungen hergerichtet sind (Nr. 9508).
+
+8804.   Fallschirme (einschliesslich lenkbare Fallschirme und Gleitschirme) und rotierende
+        Fallschirme; Teile und Zubehör davon
+
+        Hierher gehören Fallschirme, die für den Absprung von Personen oder für den Abwurf von
+        militärischer Ausrüstung oder sonstigem militärischem Material, meteorologischen Instru-
+        menten, Leuchtraketen usw. oder zum Bremsen von Düsenflugzeugen verwendet werden.
+        Je nach Verwendungszweck sind die Fallschirme von verschiedener Grösse und z.B. aus
+        Seide, synthetischen Spinnstoffen, Leinen, Baumwolle oder Papier hergestellt.
+
+        Diese Nummer umfasst auch die Gleitschirme, mit denen von einem Bergabhang, von der
+        Anhöhe einer Steilküste usw. gestartet werden kann, bestehend aus einem zusammenfalt-
+        baren Schirm, Tragleinen, mit denen der Schirm in den Luftströmungen gesteuert werden
+        kann, und einem Gurtzeug für den Piloten.
+
+        Ihr aerodynamisches Verhalten ist indessen verschieden von dem der Fallschirme, da sie
+        unter gewissen Bedingungen, sofern die Luftströmungen dies erlauben, Steigflugbahnen
+        folgen können.
+
+        Die übliche, von Fallschirmspringern benutzte Fallschirmart besitzt gewöhnlich in ihrem
+        oberen Teil einen kleinen Hilfsfallschirm, der sich durch Ziehen an der Reissleine öffnet.
+        Der Hilfsfallschirm bewirkt die Entfaltung der Hülle des Hauptfallschirms, an der eine An-
+        zahl Tragleinen befestigt ist. Diese vereinigen sich weiter unten zu zwei oder noch mehr
+        Haltetauen, die am Leibgurt befestigt sind, den der Fallschirmspringer trägt und der aus
+        Riemen mit Schnallen und Karabinerhaken zusammengesetzt ist. Hilfsfallschirm, Hülle und
+        Tragleinen sind sorgfältig in einem Sack zusammengefaltet, der sich öffnet, wenn die
+        Reissleine gezogen wird.
+
+        Die ebenfalls hier einzureihenden rotierenden Fallschirme sind Apparate mit rotierendem
+        Flügelsystem, die im Wetterdienst dazu verwendet werden, mit Raketen abgeschossene
+        Funkmessgeräte (Radiosonden) wieder auf die Erde zurückzubringen.
+
+        Hierher gehören auch Fallschirmteile und Fallschirmzubehör, z.B. der Sack, der Leibgurt
+        und der Rahmen mit Federmechanismus, der den Hilfsfallschirm öffnet, sowie Teile und
+        Zubehör von rotierenden Fallschirmen.
+
+8805.   Startapparate und -vorrichtungen für Luftfahrzeuge; Apparate und Vorrichtungen für
+        Decklandungen von Luftfahrzeugen und ähnliche Apparate und Vorrichtungen; Bo-
+        dengeräte zur Flugausbildung; Teile davon
+
+        Hierher gehören drei Gruppen von Erzeugnissen ganz unterschiedlicher Art:
+
+        A)   Startapparate und -vorrichtungen für Luftfahrzeuge.
+
+             Diese in der Regel an Bord von Schiffen verwendeten Apparate besitzen eine Metall-
+             konstruktion, die dem Flugzeug beim Abflug die Richtung gibt. Der Schlitten oder Kol-
+             ben, auf dem das zu startende Flugzeug befestigt ist, erhält den für den Abflug erfor-
+             derlichen Antrieb und die hierzu nötige Beschleunigung, z.B. durch die Einwirkung von
+             Druckluft oder Dampf oder durch eine Treibladung.
+
+             Hierher gehören nicht:
+             a) Motorwinden zum Starten von Segelflugzeugen (Nr. 8425).
+             b) Raketenstartrampen und -türme, die den Raketen nur die Startrichtung geben, sie
+                 also nicht abschiessen, da Raketen mit eigener Kraft aufsteigen (Nr. 8479).
+
+
+
+
+                                      3/6 (Stand: 1.1.2022)
+                                                                                          8806
+
+        B)   Apparate und Vorrichtungen für Decklandungen von Luftfahrzeugen und ähnliche Ap-
+             parate und Vorrichtungen.
+
+             Diese Apparate werden auf Flugzeugträgern und auch auf gewissen Flughäfen ver-
+             wendet. Ihre Aufgabe besteht darin, das Flugzeug bei der Landung abzubremsen,
+             wodurch die bis zum vollständigen Stillstand des Flugzeugs erforderliche Pistenlänge
+             verkürzt wird.
+
+             Nicht hierher gehören jedoch andere Vorrichtungen, wie Sicherheitsvorrichtungen
+             (z.B. Netze).
+
+        C) Bodengeräte zur Flugausbildung
+
+             Unter diesen Geräten, die zur Schulung und Ausbildung von Piloten dienen, können
+             erwähnt werden:
+             1)   Elektronisch arbeitende Flugsimulatoren. Bei diesen Geräten werden die Flugbe-
+                  dingungen mit Hilfe von elektronischen Apparaten nachgeahmt. Diese errechnen
+                  die Werte, die sich bei den gegebenen Flugbedingungen aus den Bedienungsgrif-
+                  fen des Flugschülers ergeben, und zeigen sie auf den Bordinstrumenten in der
+                  Kabine an.
+                  Unter Luftkampf-Simulatoren versteht man alle elektronischen oder mechani-
+                  schen Systeme, welche Kampfbedingungen während dem Flug simulieren und
+                  zur Ausbildung von Piloten dienen.
+                  Auf einem Lastwagen oder einem Anhänger angebrachte Flugsimulatoren gehö-
+                  ren zu Nr. 8705 bzw. zu Nr. 8716 (siehe jedoch die Erläuterungen zu Nr. 8716).
+             2)   Fluglehrgeräte, die als Link-Trainer bezeichnet werden. Sie bestehen im Allge-
+                  meinen aus einer kleinen, auf einem Sockel schwenkbaren Kabine, die wie die
+                  Kanzel eines Flugzeugs ausgestattet ist, und die dem Flugschüler die Möglichkeit
+                  bietet, alle während eines wirklichen Fluges erforderlichen Bedienungsgriffe aus-
+                  zuführen.
+
+                                             Teile
+
+        Hierher gehören auch Teile der in dieser Nummer erfassten Vorrichtungen und Geräte, so-
+        fern diese Teile die beiden nachstehenden Voraussetzungen erfüllen:
+        1.   sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsächlich
+             für diese Vorrichtungen und Geräte bestimmt sein;
+        2.   sie dürfen nicht durch die Anmerkungen zum Abschnitt XVII vom Abschnitt XVII aus-
+             genommen sein (siehe auch die Erläuterungen zum Abschnitt XVII, Allgemeines).
+
+        Hierher gehören indessen nicht Geräte, deren Hauptzweck darin besteht, bei schwierigen
+        Bedingungen (z.B. bei starker Beschleunigung oder bei Sauerstoffmangel) die Reaktions-
+        fähigkeit von Personen zu testen und aufzuzeichnen. Solche Geräte (z.B. Prüfkabinen und
+        Prüfstände zum Testen der Piloten von Überschallflugzeugen) sind als psychotechnische
+        Geräte der Nr. 9019 zuzuweisen.
+
+        Geräte, die nicht speziell zum Ausbilden von Piloten im Fliegen bestimmt sind, sondern zur
+        allgemeinen Schulung von Flugzeugbesatzungen dienen (z.B. Modelle von Kreiseleinrich-
+        tungen, in vergrösserter Ausführung), gehören zu Nr. 9023.
+
+8806.   Luftfahrzeuge ohne Besatzung
+
+        Gemäss Anmerkung 1 zu diesem Kapitel gehören zu dieser Nummer Luftfahrzeuge ohne
+        Besatzung, die zum Fliegen ohne Pilot an Bord hergerichtet sind, andere als solche der Nr.
+        8801. Ein Luftfahrzeug ohne Besatzung kann nur ferngesteuerte Flüge durchführen, die zu
+        jedem Zeitpunkt während des Fluges von einem Bediener an einem anderen Ort (z.B. am
+        Boden, auf einem Schiff, in einem anderen Luftfahrzeug oder im Weltraum) kontrolliert
+
+
+
+
+                                      4/6 (Stand: 1.1.2022)
+                                                                                           8807
+
+        werden, oder Flüge durchführen, die so programmiert sind, dass sie ohne den Eingriff ei-
+        nes Bedieners stattfinden.
+
+        Obwohl Luftfahrzeuge ohne Besatzung verschiedene Formen und Grössen haben können,
+        sind sie in der Regel mit einem oder mehreren Propellern oder Rotoren, die von Motoren
+        angetrieben werden, oder mit festen Flügeln und Kommunikationssystemen für die Steue-
+        rung und Überwachung durch einen Fernbediener ausgerüstet. Sie können auch GNSS-
+        Empfänger (Global Navigation Satellite System) (z.B. GPS, GLONASS oder BEIDOU) für
+        einen stabilen Schwebeflug und die Rückkehr zum Abflugort sowie Systeme zur Hinder-
+        nisvermeidung, Objekterkennung und Verfolgung enthalten.
+
+        Luftfahrzeuge ohne Besatzung können zum Befördern einer Nutzlast hergerichtet sein o-
+        der mit dauerhaft integrierten digitalen Fotoapparaten oder anderen Vorrichtungen zum
+        Ausführen und Nutzen von Funktionen ausgerüstet sein, wie Fracht- oder Personentrans-
+        port, Luftbildaufnahmen, landwirtschaftliche oder wissenschaftliche Arbeiten, Rettungsein-
+        sätze, Feuerbekämpfung, Überwachung oder militärische Aufgaben.
+
+        Ebenfalls nicht hierher gehören Flugspielzeuge, die ausschliesslich der Unterhaltung oder
+        Zerstreuung dienen und nicht zur Erfüllung nützlicher Funktionen hergerichtet sind. Sie
+        können sich z.B. durch ihr geringes Gewicht, ihre begrenzte Flughöhe, Entfernung oder
+        Flugdauer, ihre Höchstgeschwindigkeit, ihre Unfähigkeit autonom zu fliegen oder eine
+        Last/Fracht zu befördern, oder dadurch auszeichnen, dass sie nicht mit hochentwickelten
+        elektronischen Geräten ausgerüstet sind (z.B. globale Ortungssysteme, für den Nachtflug
+        oder die Nachtsicht erforderliche Geräte (Nr. 9503)).
+
+8807.   Teile von Waren der Nrn. 8801, 8802 oder 8806
+
+        Hierher gehören Teile von Waren der Nrn. 8801, 8802 oder 8806, sofern diese Teile die
+        beiden nachfolgenden Voraussetzungen erfüllen:
+        1.    sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsächlich
+              für Geräte der vorstehend genannten Nummern bestimmt sein;
+        2.    sie dürfen nicht durch die Anmerkungen zum Abschnitt XVII ausgenommen sein (sie-
+              he auch die Erläuterungen zu diesem Abschnitt, Allgemeines).
+
+        Von diesen Teilen können genannt werden:
+
+        I.    Teile zu Ballonen und Luftschiffen, wie:
+              1)   Gondeln.
+              2)   Hüllen und Hüllenteile (in Streifen oder Bahnen).
+              3)   Tragringe.
+              4)   Luftsäcke (Ballonette).
+              5)   Starre Gerippe und Abschnitte davon.
+              6)   Flossen und Ruder (Leitwerke).
+              7)   Luftschrauben von Luftschiffen.
+
+        II.   Teile zu Luftfahrzeugen, mit oder ohne Besatzung, einschliesslich der Teile für Segel-
+              flugzeuge und Drachen, wie:
+              1)   Flugzeugrümpfe; Abschnitte von Flugzeugrümpfen sowie deren Aussen- oder In-
+                   nenteile (Radome, Heckspitzen, Verschalungsbleche, Füllungen, Zwischenwän-
+                   de, Gepäckabteile, Armaturenbretter, Spanten, Türen, Notrutschen, Fenster,
+                   Bullaugen usw.).
+              2)   Tragflächen und Teile davon (Holme, Rippen, Verstrebungen).
+
+
+
+
+                                        5/6 (Stand: 1.1.2022)
+                                                                            8807
+
+3)   Bewegliche oder fest angebrachte Steuerflächen (Leitwerke, Querruder, Flügel-
+     nasen, Leitbleche, Höhen- und Seitensteuer, Höhen- und Seitenflossen, Trimm-
+     klappen usw.).
+4)   Gondeln, Verschalungen, Verkleidungen, Triebwerkausleger.
+5)   Fahrgestelle (einschliesslich Bremsen und zusammengebaute Bremsen) und ihre
+     Einziehvorrichtungen; Räder (mit oder ohne Bereifung); Landeski.
+6)   Schwimmer für Wasserflugzeuge.
+7)   Propeller, Rotoren; Propellerblätter und Rotorenblätter; Verstellmechanismen für
+     die Steigung von Propeller- und Rotorblättern.
+8)   Bedienungshebel (Steuerknüppel, Seitenruderfusshebel und andere Bedienungs-
+     hebel).
+9)   Treibstoffbehälter, einschliesslich der Zusatzbehälter, die nach der Entleerung
+     abgeworfen werden.
+
+
+
+
+                         6/6 (Stand: 1.1.2022)

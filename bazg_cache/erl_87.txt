@@ -1,0 +1,1458 @@
+87
+
+                               Kapitel 87
+
+     Automobile, Traktoren, Motorräder, Fahrräder und andere
+            Landfahrzeuge; Teile und Zubehör dazu
+
+                                Allgemeines
+
+Mit Ausnahme bestimmter fahrbarer Maschinen, die zu Abschnitt XVI gehören (siehe hier-
+zu die Erläuterungen zu den Nrn. 8701, 8705 und 8716), umfasst dieses Kapitel alle nicht
+schienengebundenen Landfahrzeuge. Hierher gehören demnach:
+1)   Traktoren (Nr. 8701).
+2)   Automobile zum Befördern von Personen (Nrn. 8702 und 8703), Waren (Nr. 8704)
+     oder Automobile zu besonderen Zwecken (Nr. 8705).
+3)   Selbstfahrende Arbeitskarren, ohne Hebevorrichtung, der Art, wie sie in Fabriken, La-
+     gerhäusern, Häfen oder auf Flughäfen zum Transport von Waren auf kurzen Strecken
+     verwendet werden und Zugkarren der Art, wie sie auf Bahnhöfen verwendet werden
+     (Nr. 8709).
+4)   Selbstfahrende gepanzerte Kampffahrzeuge (Nr. 8710).
+5)   Motorräder und Seitenwagen; Fahrräder sowie Rollstühle und andere Invalidenfahr-
+     zeuge, mit oder ohne Motor (Nrn. 8711 bis 8713).
+6)   Kinderkastenwagen, Kindersportwagen und ähnliche Fahrzeuge zum Befördern von
+     Kindern (Nr. 8715).
+7)   Anhänger, einschliesslich Sattelanhänger, für Fahrzeuge aller Art und andere nicht-
+     selbstfahrende Fahrzeuge, die von anderen Fahrzeugen gezogen, mit der Hand ge-
+     zogen oder geschoben oder von Tieren gezogen werden (Nr. 8716).
+
+Hierher gehören auch Luftkissenfahrzeuge, die dazu hergerichtet sind, sich über dem Bo-
+den oder in gleichem Masse über dem Boden und über Wasserflächen (z.B. Sümpfen)
+fortzubewegen (s. Anmerkung 5 zu Abschnitt XVII).
+
+Die Tarifeinreihung eines Automobils bleibt unbeeinflusst von den Arbeiten, die nach dem
+Zusammenbau des kompletten Automobils aus sämtlichen Einzelteilen ausgeführt werden.
+Dazu gehören das Befestigen des Nummernschildes, die Versorgung des Bremssystems
+und das Entlüften der Bremsen, die Versorgung des Lenkantriebs, des Kühlsystems und
+der Klimaanlage, die Einstellung der Scheinwerfer, der Lenkgeometrie und der Bremsen.
+Dies schliesst die Tarifeinreihung in Anwendung der Allgemeinen Vorschrift 2 a) ein.
+
+Unvollständige oder unfertige Fahrzeuge, auch zerlegt oder nicht zusammengesetzt, sind
+wie die entsprechenden vollständigen oder fertigen Fahrzeuge zu tarifieren, wenn sie de-
+ren wesentliche Merkmale besitzen (siehe Regel 2a der Allgemeinen Vorschriften über die
+Auslegung des Harmonisierten Systems). Das ist z.B. der Fall bei:
+A)   einem Automobil, dem lediglich die Räder oder Reifen und die Akkumulatorenbatterie
+     fehlen.
+B)   einem Automobil ohne Motor oder ohne Innenausstattung.
+C) einem Fahrrad ohne Sattel und ohne Reifen.
+
+Zu diesem Kapitel gehören auch Teile und Zubehör, die nach ihrer Beschaffenheit erkenn-
+bar ausschliesslich oder hauptsächlich für Fahrzeuge dieses Kapitels bestimmt sind, so-
+fern sie nicht durch die Anmerkungen zu Abschnitt XVII von diesem Abschnitt ausgenom-
+men sind (siehe die entsprechenden Erläuterungen zu Abschnitt XVII, Allgemeines).
+
+
+
+
+                             1/24 (Stand: 1.9.2025)
+                                                                                                                     87
+
+               Amphibienautomobile bleiben in diesem Kapitel eingereiht. Dagegen sind Flugzeuge, die
+               so hergerichtet sind, dass sie auch als Landfahrzeuge verwendbar sind, als Flugzeuge zu
+               tarifieren (Nr. 8802).
+
+               Ebenfalls gehören nicht zu diesem Kapitel:
+               a) Schnittmodelle von Fahrzeugen und Fahrzeugteilen, für Demonstrationszwecke, zu
+                  anderer Verwendung nicht geeignet (Nr. 9023).
+               b) Spielfahrzeuge für Kinder sowie Kinderfahrräder (andere als Zweiräder) (Nr. 9503).
+               c) Wintersportgeräte, wie Rodelschlitten, Bobschlitten und dergleichen (Nr. 9506).
+               d) Fahrzeuge, die speziell für Fahrgeschäfte für Vergnügungsparks oder Schausteller-
+                  Einrichtungen hergerichtet sind (Nr. 9508).
+
+                                               Schweizerische Erläuterungen
+
+8702/8704, 8706
+            Für die Einreihung von Automobilen entsprechend ihrem Stückgewicht gelten folgende
+            Vorschriften:
+               Für die Feststellung des Stückgewichtes von Automobilen gilt das Gewicht des fahrberei-
+               ten Automobils. Zur Fahrbereitschaft gehören alle für die Inverkehrssetzung erforderlichen
+               Teile, wie insbesondere:
+               -      komplettes Chassis mit vollständigem Antriebsmotor, alle Organe der Kraftübertra-
+                      gung, Lenk- und Steuervorrichtung, Räder mit Bereifung und Bremsausrüstung. Abfe-
+                      derungsorgane (Stossdämpfer u. dgl.), Auspufftopf mit Auspuffrohr, Brennstofftank,
+                      vollständige Karosserie und Innenausstattung (einschliesslich der Klappsitze, sofern
+                      vorgesehen), Wasserkühler (soweit vorgesehen), Kühlergitter, Stossstangen, voll-
+                      ständige Bordausrüstung, elektrische Ausrüstung (Batterie und Apparate zum Anlas-
+                      sen, zur Zündung, Beleuchtung und Fahrsicherung, einschliesslich der elektrischen
+                      oder nichtelektrischen Scheibenwischer), Sonnenschutzschilder, Rückspiegel und
+                      Nummernhalter.
+
+               Die Reserveräder (effektives Gewicht derselben) und die Werkzeuge sind jedoch stets als
+               nicht zum Stückgewicht gehörend zu betrachten. Das allenfalls eingefüllte Öl und Kühl-
+               wasser gehört zum Stückgewicht; der eingefüllte Treibstoff dagegen nur in der üblicher-
+               weise im Werk getankten Menge, wie sie erforderlich ist, um die Fahrzeuge beim Umlad
+               und der Lagerung durch den eigenen Antrieb fortzubewegen, d.h. im Maximum 5 Liter.
+               Automobile, bei denen im Zeitpunkt der Gestellung zur Fahrbereitschaft gehörende Teile
+               fehlen, werden nach derjenigen Unternummer tarifiert, in die sie beim Vorhandensein der
+               fehlenden Teile einzureihen wären (Schweizerische Anmerkung 1 zu Kapitel 87). Für die
+               fehlenden Teile sind folgende Mittelgewichte in Anrechnung zu bringen:
+
+
+
+
+                                                           Bei Automobilen der Nr. 8703; bei
+                              Fehlende Teile                                                   Bei anderen Automobilen
+                                                            Nutzfahrzeugen bis 1250 kg *)
+
+
+                                                                          kg                             kg
+                   Akkumulatorenbatterien                                 20                             50
+                   Anlasser                                               20                             20
+                   Auspufftopf, auch mit Auspuffrohr                      20                             20
+                   Dynamo (Lichtmaschine)                                 15                             20
+                   Treibstofftank                                         10                             20
+                   Räder (Radkörper mit Bereifung                     20 pro Rad                     50 pro Rad
+                   und Zierscheiben)
+                   Radreifen, auch mit Luftschläuchen                10 pro Stück                   40 pro Stück
+                   (siehe auch nachfolgende Ausfüh-
+
+
+*
+) Gewicht bei kompletter Ausrüstung (ohne Reserverad und Werkzeuge)
+
+
+
+
+                                                       2/24 (Stand: 1.9.2025)
+                                                                                         8701
+
+         rungen)
+         Stossdämpfer                                 9 ganze Garnitur            ---
+         Stossstangen bei Wagen bis 1650                    20 50                 50
+         kg über 1650 kg
+         Betriebsmittel                                      ---                  ---
+
+
+
+
+        Diese Liste ist nicht abschliessend. Fehlen andere als die vorgenannten zur Fahrbereit-
+        schaft gehörenden Teile, so ist ebenfalls ein entsprechender Gewichtszuschlag anzurech-
+        nen. Teile und Zubehör inländischer Herkunft, die im Ausland oder, soweit es sich um Be-
+        reifungen oder Akkumulatorenbatterien handelt, allenfalls in einem schweizerischen Zoll-
+        freilager oder Zolllager auf zur Einfuhr bestimmte Automobile montiert wurden, sind mit
+        Bezug auf die Ermittlung des Stückgewichtes den ausländischen Teilen oder Zubehör
+        gleichgestellt. Bestehen Zweifel über einen anzurechnenden Gewichtszuschlag, so ist der
+        Fall zum Entscheid vorzulegen.
+        Gelangen Automobile ohne Bereifung zur Einfuhr, so wird den Importeuren auch gestattet,
+        vor der Zollveranlagung Reifen des zollrechtlich nicht freien Verkehrs oder auch bereits
+        nach Nr. 4011 veranlagte Reifen auf die Fahrzeuge zu montieren. Das Gewicht der Reifen
+        ist in solchen Fällen zur Bestimmung des Stückgewichtes mitzuberücksichtigen. Diese Er-
+        leichterung wird indessen an die Bedingung geknüpft, dass es sich um neue, der Normal-
+        ausrüstung des betreffenden Fahrzeugs entsprechende Reifen handelt. Sollte versucht
+        werden, durch Montieren speziell leicht gewählter, d.h. nicht dem Wagentyp entsprechen-
+        der in- oder ausländischer Reifen das Stückgewicht auf unzulässige Weise zu verringern,
+        so ist für die Stückgewichtsermittlung gemäss vorhergehende Bestimmungen vorzugehen.
+        Die vorstehenden Bestimmungen sind auch für Automobilchassis der Nrn. 8702 bis 8704
+        und 8706 anwendbar.
+
+8701.   Traktoren (ausgenommen Zugkarren der Nr. 8709)
+
+        Unter Traktoren im Sinne dieser Nummer sind auf Rädern oder Raupen (Gleisketten) fah-
+        rende Motorfahrzeuge zu verstehen, die ausschliesslich oder hauptsächlich zum Ziehen
+        oder Schieben anderer Fahrzeuge, Geräte oder Lasten hergerichtet sind. Sie können auch
+        eine Hilfsladefläche oder eine ähnliche Vorrichtung besitzen, die es ermöglicht, im Zu-
+        sammenhang mit der Hauptverwendung des Traktors Werkzeuge, Saatgut, Düngemittel
+        und dergleichen zu befördern. Ausserdem können sie zusätzlich mit Vorrichtungen zum
+        Anbringen von Arbeitsgeräten ausgerüstet sein.
+
+        Nicht als Traktor im Sinne der Nr. 8701 sind dagegen mit Motor ausgestattete traktorähnli-
+        che Grundmaschinen anzusehen, die eigens dafür entwickelt, hergerichtet oder verstärkt
+        worden sind, um einen integrierenden Bestandteil einer selbstfahrenden Arbeitsmaschine,
+        z.B. zum Heben, Baggern oder Planieren, zu bilden, auch wenn die Grundmaschinen bei
+        einer solchen Arbeit "Ziehen" oder "Schieben" oder beides zugleich.
+
+        Mit Ausnahme der in der Nr. 8709 erfassten Zugkarren, der Art, wie sie auf Bahnhöfen
+        verwendet werden, gehören zu dieser Nummer Traktoren aller Art und für alle Verwen-
+        dungszwecke (für die Land- oder Forstwirtschaft, für Bauarbeiten, Strassenzugmaschinen,
+        Traktoren mit Seilwinden usw.), ohne Rücksicht auf die Art des Antriebs (Kolbenmotoren
+        mit Funken- oder mit Kompressionszündung, Elektromotor usw.). Hierher gehören auch
+        Traktoren, die sowohl auf Schienen als auch auf Strassen fahren können, jedoch nicht sol-
+        che, die infolge ihrer Bauart nur auf Schienen fahren können und als Kleinlokomotiven zu
+        tarifieren sind.
+
+        Die Fahrzeuge dieser Nummer sind meistens karossiert oder sie können mit einer Führer-
+        kabine oder mit Sitzen für das Bedienungspersonal ausgestattet sein. Sie können mit ei-
+        nem Werkzeugkasten, einer Vorrichtung zum Heben oder Senken der Arbeitsgeräte, einer
+        Anhängevorrichtung für Sattelanhänger oder andere Anhänger und auch mit einer Zapf-
+        welle ausgestattet sein, die es erlaubt, die Motorkraft auf verschiedene Maschinen (z.B.
+        Dreschmaschinen oder Kreissägen) zu übertragen.
+
+
+
+
+                                           3/24 (Stand: 1.9.2025)
+                                                                                  8701
+
+Das Fahrgestell der Traktoren ist entweder mit Rädern oder Raupen oder Rädern und
+Raupen ausgestattet, wobei im letzteren Fall die Räder an der lenkbaren Vorderachse an-
+gebracht sind.
+
+Hierher gehören auch Einachstraktoren, d.h. kleine Landwirtschaftstraktoren mit nur einer
+einzigen, vom Motor angetriebenen Achse mit einem Rad oder zwei Rädern. Sie werden
+wie die üblichen (Vierrad-) Landwirtschaftstraktoren zusammen mit auswechselbaren Ge-
+räten oder Maschinen verwendet, die sie mit ihrer Universalzapfwelle antreiben. Meistens
+haben sie keinen Fahrersitz, sondern werden von Hand mittels zweier Lenkholmen ge-
+führt. An manche Einachstraktoren kann jedoch ein ein- oder zweirädriger Anhänger mit
+Fahrersitz (ein Sitzkarren) angehängt werden.
+
+Auch in der Industrie werden Einachstraktoren ähnlicher Bauart verwendet.
+
+Zu dieser Nummer gehören auch mit Seilwinden ausgestattete Traktoren (Windentraktoren
+genannt), mit denen z.B. eingesunkene Fahrzeuge herausgezogen, Bäume umgerissen
+und weggeschleppt oder an einem Seilzug hängende landwirtschaftliche Geräte gezogen
+und fernbetätigt werden können.
+
+Diese Nummer umfasst auch Traktoren mit erhöhtem Fahrgestell (Stelzentraktoren), die
+z.B. im Rebbau und in Baumschulen verwendet werden.
+
+Ausserdem gehören nicht hierher mit Kranen, Hebebäumen, Seilwinden und dergleichen
+ausgerüstete Abschleppwagen (Nr. 8705).
+
+      Traktoren, die mit Maschinen oder Geräten ausgestattet sind
+
+Landwirtschaftliche Geräte (Pflüge, Eggen, Hacken usw.), die als auswechselbare gezo-
+gene oder getragene Anbauarbeitsgeräte zusammen mit einem Traktor verwendet werden
+sollen, sind nach eigener Beschaffenheit einzureihen, auch wenn sie am Traktor ange-
+bracht zur Abfertigung gestellt werden. Nur der Traktor allein gehört in diesem Falle zu
+dieser Nummer.
+
+Ebenso sind Traktoren und nichtlandwirtschaftliche (gewerbliche, industrielle) Anbauar-
+beitsgeräte je für sich nach eigener Beschaffenheit einzureihen, wenn die Traktoren im
+Wesentlichen zum Ziehen oder Schieben anderer Fahrzeuge, Geräte oder Lasten herge-
+richtet sind und sie mit ähnlichen einfachen Vorrichtungen zum Betätigen (Heben, Senken
+usw.) der Anbauarbeitsgeräte ausgestattet sind, wie die Landwirtschaftstraktoren sie besit-
+zen. In diesem Falle sind die auswechselbaren Anbauarbeitsgeräte auch dann nach eige-
+ner Beschaffenheit einzureihen, wenn sie mit den Traktoren - an diese anmontiert oder
+nicht - zur Abfertigung gestellt werden, während die Traktoren mit ihren Vorrichtungen zum
+Betätigen der Anbauarbeitsgeräte zu dieser Nummer gehören.
+
+Sattelzüge, bestehend aus Sattelschlepper und Sattelanhänger, sowie schwere Schlepper
+(Traktoren), auf die Arbeitsmaschinen des Kapitels 84 wie Sattelanhänger aufgesattelt
+sind, sind ebenfalls getrennt einzureihen, d.h. der Schlepper bleibt in dieser Nummer, wäh-
+rend der Sattelanhänger bzw. die Arbeitsmaschine der hierfür in Betracht kommenden
+Nummer zuzuweisen ist.
+
+Nicht zu dieser Nummer gehören jedoch Grundmaschinen, die als Fahrgestell mit Motor
+von Geräten, Apparaten und Maschinen, z.B. der Nrn. 8425, 8426, 8429, 8430, 8432, die-
+nen sollen, bei denen die selbstfahrende Grundmaschine, die Bedienungsvorrichtungen,
+die eigentlichen Arbeitsgeräte (arbeitende Teile) und die Vorrichtungen zum Betätigen die-
+ser Arbeitsgeräte in ihrer Bauart speziell aufeinander abgestimmt sind, so dass sie eine
+mechanische Einheit bilden. Dies ist z.B. bei Schaufelladern, Planiermaschinen und Mo-
+torpflügen der Fall.
+
+In der Regel lassen sich derartige motorbetriebene Grundmaschinen, die einen integrie-
+renden Bestandteil von solchen selbstfahrenden Arbeitsmaschinen zum Heben, Baggern
+usw. bilden, von den Traktoren dieser Nummer durch ihre besonderen Konstruktions-
+
+
+
+
+                             4/24 (Stand: 1.9.2025)
+                                                                                            8701
+
+            merkmale (z.B. ihre Form, die Konstruktion ihres Rahmens und die Art ihrer Kraftübertra-
+            gung) unterscheiden. Bei traktorähnlichen Grundmaschinen müssen aber auch noch ver-
+            schiedene andere Merkmale zur Unterscheidung herangezogen werden, um zu erkennen,
+            dass die Grundmaschinen zum Bau einer selbstfahrenden Arbeitsmaschine verwendet
+            werden sollen, die mit ihrer speziellen Ausrüstung andere Funktionen ausüben soll als le-
+            diglich ein "Ziehen" oder "Schieben". Meistens sind solche von dieser Nummer ausge-
+            nommene traktorähnliche Grundmaschinen mit stark dimensionierten Tragelementen (z.B.
+            Tragböcken, -platten oder -balken, Schub- oder Tragrahmen bzw. drehbaren Kranplattfor-
+            men) ausgerüstet, die einen integrierenden Teil des Fahrgestellrahmens der Grundma-
+            schine bilden bzw. im Allgemeinen an diesem Rahmen angeschweisst sind und die dazu
+            bestimmt sind, die Betätigungsvorrichtungen und die arbeitenden Teile der Arbeitsmaschi-
+            nen zu tragen. Grundmaschinen besitzen auch meistens noch mehrere der folgenden, für
+            sie typischen Bauteile: leistungsfähige, hydraulisch arbeitende Vorrichtungen zum Betäti-
+            gen der Anbauarbeitsgeräte, Spezialgetriebe (z.B. Getriebe, deren grösster Rückwärts-
+            gang die gleiche oder eine grössere Geschwindigkeit hat als der grösste Vorwärtsgang),
+            eine hydraulische Kupplung und einen Drehmomentwandler, Gegengewichte (zum Aus-
+            gleichen des Gewichts der Arbeitsgeräte), überlange Raupen (zum Erhöhen der Standsi-
+            cherheit) sowie Spezialrahmen für Grundmaschinen mit Heckmotor usw.
+
+8701.10     Siehe die Erläuterungen zu Nr. 8701, 6. und 7. Absatz.
+
+8701.21/29 Im Sinne dieser Unternummern gelten als "Schlepper für den Strassenverkehr (Strassen-
+           zugmaschinen)" Automobile, die zum Ziehen von Sattelanhängern über grosse Strecken
+           gebaut sind. Die Strassenzugmaschine und der Sattelanhänger bilden eine mit verschie-
+           denen Namen bezeichnete Einheit (zum Beispiel "Sattelmotorfahrzeug", "Sattelzug" usw.).
+           Diese Fahrzeuge sind im Allgemeinen mit Dieselmotoren ausgestattet und können mit ei-
+           nem voll beladenen Anhänger mit einer Geschwindigkeit verkehren, die über der auf dem
+           städtischen Strassennetz (Strassen im allgemeinen Sinne, einschliesslich Avenuen, Bou-
+           levards und Autobahnen) erlaubten Geschwindigkeit liegt. Diese Fahrzeuge weisen eine
+           geschlossene Kabine für den Fahrer und die Beifahrer (manchmal auch mit Schlafgele-
+           genheiten), eine Vorrichtung zum Beleuchten der Fahrbahn und auf nationaler Ebene zu-
+           gelassene Abmessungen auf und sind im Allgemeinen mit einer Kupplung für Sattelanhä-
+           nger zum schnellen Wechseln des Sattelanhängers ausgestattet.
+
+            Ähnliche Fahrzeuge, die zum Ziehen von Sattelanhängern über kurze Strecken gebaut
+            sind, sind von diesen Unternummern ausgeschlossen (im Allgemeinen Nr. 8701.91/95).
+
+8701.30     Zu dieser Unternummer gehören auch Traktoren, die sowohl mit Raupen als auch mit Rä-
+            dern ausgestattet sind.
+
+8701.91/95 Diese Unternummern umfassen Fahrzeuge, die zum Ziehen von Sattelanhängern über
+           kurze Strecken gebaut sind. Fahrzeuge dieser Art sind unter verschiedenen Namen be-
+           kannt (z. B. Terminalzugmaschinen) und sind dazu bestimmt, Sattelanhänger innerhalb ei-
+           ner festgelegten Zone abzustellen oder zu verschieben. Sie sind nicht geeignet für den
+           Transport über grosse Strecken, für die die Schlepper für den Strassenverkehr (Strassen-
+           zugmaschinen) der Nrn. 8701.21 bis 8701.29 gebaut sind. Sie unterscheiden sich von
+           Strassenzugmaschinen dadurch, dass sie im Allgemeinen mit Dieselmotoren ausgestattet
+           sind, die im Allgemeinen eine Geschwindigkeit von höchstens 50 km/h erlauben, und dass
+           sie üblicherweise eine kleine geschlossene Kabine mit lediglich einem einzigen Sitz für
+           den Fahrer aufweisen.
+
+8702.       Automobile zum Befördern von 10 Personen oder mehr, einschliesslich Fahrer
+
+            Diese Nummer umfasst alle zum Befördern von zehn oder mehr als zehn Personen (ein-
+            schliesslich Fahrer) gebaute Automobile.
+
+            Diese Nummer umfasst Autobusse, Autocars, Trolleybusse und Gyrobusse.
+
+
+
+
+                                        5/24 (Stand: 1.9.2025)
+                                                                                         8703
+
+        Fahrzeuge dieser Nummer können mit jeder Art von Motor ausgestattet sein (Kolbenver-
+        brennungsmotor, Elektromotor, Kombination aus Kolbenverbrennungsmotor und einem
+        oder mehreren Elektromotoren usw.).
+
+        Fahrzeuge, die mit einem Kolbenverbrennungsmotor und einem oder mehreren Elektromo-
+        toren ausgestattet sind, werden als "Hybridelektrofahrzeuge (HEV)" bezeichnet. Diese
+        Fahrzeuge beziehen die Energie für die mechanische Antriebskraft sowohl aus einem
+        Treibstoff als auch aus einer Speichervorrichtung für elektrische Energie (zum Beispiel ein
+        elektrischer Akkumulator, ein Kondensator, ein Schwungrad mit Generator). Es gibt ver-
+        schiedene Arten von Hybridelektrofahrzeugen, die sich durch die Antriebskonfiguration
+        (paralleler Hybrid, serieller Hybrid, leistungsverzweigender Hybrid oder Mischhybrid) und
+        den Grad der Hybridisierung (Vollhybrid, Mildhybrid und Plug-in-Hybrid) voneinander un-
+        terscheiden.
+
+        Elektrofahrzeuge werden durch einen oder mehrere von elektrischen Akkumulator-Sätzen
+        gespeisten Elektromotoren angetrieben.
+
+        Trolleybusse beziehen die Energie aus Oberleitungen. Bei Gyrobussen erfolgt der Antrieb
+        in der Weise, dass kinetische Energie in einem schnellrotierenden Schwungrad gespei-
+        chert wird, welches die Energie an einen elektrischen Generator abgibt, der seinerseits
+        den Antriebsmotor mit Strom versorgt.
+
+        Diese Nummer umfasst auch Autobusse, die (bei unverändertem Motor) nur durch Aus-
+        wechseln der Räder und Blockieren der Lenkvorrichtung in Schienenbusse umgewandelt
+        werden können.
+
+8703.   Personenautomobile und andere hauptsächlich zum Befördern von Personen ge-
+        baute Automobile (andere als solche der Nr. 8702), einschliesslich "Breaks" und
+        Rennwagen
+
+        Mit Ausnahme der unter Nr. 8702 aufgeführten Automobile zum Befördern von Personen
+        gehören zu dieser Nummer Automobile aller Art zum Befördern von Personen, einschliess-
+        lich der Amphibienautomobile, ohne Rücksicht auf die Art ihres Antriebsmotors (Kolbenmo-
+        tor mit Funken- oder Kompressionszündung, Elektromotor, Gasturbine, Kombination aus
+        Kolbenverbrennungsmotor und einem oder mehreren Elektromotoren usw.).
+
+        Zu dieser Nummer gehören:
+
+        1)   Fahrzeuge, besonders zur Fortbewegung auf Schnee gebaut; Spezialfahrzeuge zum
+             Befördern von Personen auf Golfplätzen und ähnliche Fahrzeuge.
+
+             a)   Fahrzeuge, besonders zur Fortbewegung auf Schnee gebaut (z. B. Schneeauto-
+                  mobile, Motorschlitten).
+             b)   Spezialfahrzeuge zum Befördern von Personen auf Golfplätzen und ähnliche
+                  Fahrzeuge.
+
+        2)   Andere Fahrzeuge.
+             a)   Personenautomobile (z. B. Tourenwagen, Taxis, Sportwagen, Rennwagen).
+             b)   Spezialfahrzeuge zur Personenbeförderung, wie Krankenwagen, Gefangenenwa-
+                  gen, Leichenwagen.
+             c)   Wohnmobile (sog. Camping-Automobile oder Motorcaravans), die zum Befördern
+                  von Personen dienen und speziell zum Wohnen eingerichtet sind (mit Schlaf- und
+                  Kochgelegenheit, WC usw.).
+             d)   Vierrädrige Fahrzeuge mit Rohrrahmen, ausgestattet mit einer Autolenkung, wel-
+                  che z.B. auf dem Prinzip Ackermann beruht.
+
+
+
+
+                                     6/24 (Stand: 1.9.2025)
+                                                                                  8703
+
+Als "Breaks" im Sinne dieser Nummer gelten Fahrzeuge mit höchstens 9 Sitzplätzen (ein-
+schliesslich Fahrer), deren Innenraum ohne bauliche Veränderung sowohl zum Personen-
+als auch zum Warentransport verwendet werden kann.
+
+Für die Einreihung von gewissen Automobilen unter diese Nummer sind gewisse Merkma-
+le massgebend, die darauf hinweisen, dass sie hauptsächlich für den Personen- und nicht
+für den Warentransport (Nr. 8704) konstruiert sind. Diese Merkmale sind besonders
+zweckdienlich für die Einreihung von Automobilen, deren höchstzulässiges Gesamtgewicht
+im Allgemeinen weniger als 5 Tonnen beträgt. Solche Automobile weisen einen einzigen
+geschlossenen Innenraum auf, welcher einen Teil für den Fahrer und die Passagiere so-
+wie einen Teil umfasst, der sowohl für den Transport von Personen als auch zum Beför-
+dern von Waren verwendet werden kann. Zu dieser Fahrzeugkategorie gehören auch Au-
+tomobile, die im Allgemeinen als Mehrzweckfahrzeuge bezeichnet werden (z.B. Fahrzeuge
+nach Art der Lieferwagen, Sport- und Freizeitfahrzeuge sowie gewisse Fahrzeuge nach Art
+der "Pick-ups"). Derartige Automobile weisen im Allgemeinen die folgenden Bau- und Aus-
+stattungsmerkmale auf:
+a)   Fest montierte Sitze mit Sicherheitsvorrichtung (z.B. Sicherheitsgurte oder Veranke-
+     rungspunkte und Zubehöre zum Montieren von Sicherheitsgurten für jede Person)
+     oder fest montierte Halterungen und Zubehöre zum Einbau von Sitzen und Sicher-
+     heitsvorrichtungen im Raum hinter dem Fahrer und den Passagieren. Diese Sitze
+     können fest montiert oder umklappbar sein oder auch aus den Halterungen entfernt
+     werden;
+b)   Fenster entlang den beiden Seitenwänden;
+c)   Eine oder mehrere Schiebe-, Dreh- oder Klapptüren mit Fenstern, an den Seitenwän-
+     den oder auf der Heckseite;
+d)   Fehlen einer fest montierten Trennwand oder eines Trenngitters zwischen dem Raum
+     für Fahrer und Passagiere und dem hinteren Raum, der sowohl für den Personen- als
+     auch den Warentransport verwendet werden kann;
+e)   Der ganze Innenraum entspricht in Bezug auf Komfort, Ausstattung und Verarbeitung
+     demjenigen von Personenwagen (z.B. Bodenteppiche, Belüftung, Innenbeleuchtung,
+     Aschenbecher).
+
+Diese Nummer umfasst auch leichte dreiräderige Fahrzeuge, insbesondere:
+-    Fahrzeuge mit Motorradmotor, Motorradrädern usw., die sich durch ihre mechanische
+     Einrichtung (Autolenkung oder Ausstattung mit Rückwärtsgang und Ausgleichsgetrie-
+     be [Differential]) als Automobile kennzeichnen;
+-    Fahrzeuge mit T-förmigem Fahrgestell, deren zwei Hinterräder einzeln jeweils durch
+     einen von elektrischen Akkumulatoren gespeisten Elektromotor angetrieben werden.
+     Diese Fahrzeuge werden gewöhnlich mit Hilfe eines einzigen, in der Mitte angebrach-
+     ten Hebels bedient, der sowohl zum Anfahren, Beschleunigen, Bremsen, Halten und
+     Rückwärtsfahren sowie auch zum Lenken nach rechts oder links dient, was durch
+     Verändern der Drehzahl des einen Triebrades gegenüber der Drehzahl des anderen
+     Triebrades oder durch Schwenken des Vorderrades bewerkstelligt wird.
+
+Die Dreiradfahrzeuge mit den vorgenannten Merkmalen, zum Befördern von Waren ge-
+baut, gehören zur Nr. 8704.
+
+Die hierher gehörenden Fahrzeuge können entweder mit Rädern oder mit Raupen ausge-
+stattet sein.
+
+Fahrzeuge, die mit einem Kolbenverbrennungsmotor und einem oder mehreren Elektromo-
+toren ausgestattet sind, werden als "Hybridelektrofahrzeuge (HEV)" bezeichnet. Diese
+Fahrzeuge beziehen die Energie für die mechanische Antriebskraft sowohl aus einem
+Treibstoff als auch aus einer Speichervorrichtung für elektrische Energie (zum Beispiel ein
+elektrischer Akkumulator, ein Kondensator, ein Schwungrad mit Generator). Es gibt ver-
+schiedene Arten von Hybridelektrofahrzeugen, die sich durch die Antriebskonfiguration
+(paralleler Hybrid, serieller Hybrid, leistungsverzweigender Hybrid oder Mischhybrid) und
+
+
+
+
+                             7/24 (Stand: 1.9.2025)
+                                                                                        8704
+
+        den Grad der Hybridisierung (Vollhybrid, Mildhybrid und Plug-in-Hybrid) voneinander un-
+        terscheiden.
+
+        Bei Plug-in-Hybridelektrofahrzeugen (PHEV) können die elektrischen Akkumulatoren durch
+        Anschliessen an eine Steckdose des Stromnetzes oder eine Ladestation wieder aufgela-
+        den werden.
+
+        Fahrzeuge, die durch einen oder mehrere von elektrischen Akkumulatoren gespeiste
+        Elektromotoren angetrieben werden, werden als "Elektrofahrzeuge (EV)" bezeichnet.
+
+        Fahrzeuge, mit elektrischer Stromquelle, wie z.B. einem integrierten Alternator/Anlasser,
+        die ausschliesslich für nicht antriebsbezogene Funktionen verwendet wird, sind nicht als
+        HEV einzureihen. Diese Stromquellen können für das Start-Stopp-System verwendet wer-
+        den und mit einem regenerativen Bremssystem und einem Lademanagementsystem aus-
+        gestattet sein. Solche Fahrzeuge können als Fahrzeuge mit "Hybrid-Technologie" be-
+        zeichnet werden oder besitzen den Status "Mikro-Hybrid", weisen aber keinen Elektromo-
+        tor für den Antrieb auf.
+        Fahrzeuge, die speziell für Fahrgeschäfte für Vergnügungsparks und Schausteller-
+        Einrichtungen hergerichtet sind, insbesondere Autoscooter, gehören zu Nr. 9508.
+
+8704.   Automobile zum Befördern von Waren
+
+        Zu dieser Nummer gehören insbesondere:
+        Gewöhnliche Lastwagen und Kleinlastwagen (mit offener Ladebrücke, Blachenabdeckung,
+        geschlossenem Aufbau usw.) Lieferwagen aller Art, Möbelwagen, Lastwagen mit selbsttä-
+        tiger Entladevorrichtung, Kesselwagen, auch mit zugehörenden Pumpen, Kühlwagen mit
+        Kälteaggregat und isolierte Lastwagen, Lastwagen mit Etagenaufbau zum Befördern von
+        Säurebehältern, Butangasflaschen usw., Lastwagen mit Tiefladeplattform und Auf-
+        fahrtrampen zum Befördern von schweren Lasten (Panzerwagen, Hebemaschinen, Ma-
+        schinen für die Erdbewegung, elektrische Transformatoren usw.), speziell zum Befördern
+        von frischem Beton hergerichtete Lastwagen (ausgenommen Betonmischer-Lastwagen
+        der Nr. 8705), Kehrichtabfuhrwagen, auch mit Vorrichtungen zum Beladen, Zusammen-
+        pressen, Anfeuchten usw.
+
+        Diese Nummer umfasst auch leichte dreiräderige Fahrzeuge, insbesondere:
+        -   Fahrzeuge mit Motorradmotor, Motorradrädern usw., die sich durch ihre mechanische
+            Einrichtung (Autolenkung oder Ausstattung mit Rückwärtsgang und Ausgleichsgetrie-
+            be [Differential]) als Automobile kennzeichnen;
+        -   Fahrzeuge mit T-förmigem Fahrgestell, deren zwei Hinterräder einzeln jeweils durch
+            einen batteriegespeisten Elektromotor angetrieben werden. Diese Fahrzeuge werden
+            gewöhnlich mit Hilfe eines einzigen, in der Mitte angebrachten Hebels bedient, der
+            sowohl zum Anfahren, Beschleunigen, Bremsen, Halten und Rückwärtsfahren sowie
+            auch zum Lenken nach rechts oder links dient, was durch Verändern der Drehzahl
+            des einen Triebrades gegenüber der Drehzahl des anderen Triebrades oder durch
+            Schwenken des Vorderrades bewerkstelligt wird.
+
+        Die Dreiradfahrzeuge mit den vorgenannten Merkmalen, hauptsächlich zum Befördern von
+        Personen gebaut, gehören zur Nr. 8703.
+
+        Für die Einreihung von gewissen Automobilen unter diese Nummer sind gewisse Merkma-
+        le massgebend, die darauf hinweisen, dass sie für den Warentransport und nicht für den
+        Personentransport (Nr. 8703) konstruiert sind. Diese Merkmale sind besonders zweckdien-
+        lich für die Einreihung von Automobilen, deren höchstzulässiges Höchstgewicht im Allge-
+        meinen weniger als 5 Tonnen beträgt und die einen abgeschlossenen Laderaum oder eine
+        offene Ladefläche aufweisen, die üblicherweise zum Warentransport dienen. Diese Fahr-
+        zeuge können im hinteren Teil mit seitlich hochklappbaren Sitzbänken ausgestattet sein.
+        Dadurch kann die ganze Ladefläche für den Warentransport verwendet werden. Bei den
+        Sitzbänken fehlen sowohl die Sicherheitsgurte als auch die Vorrichtungen um solche zu
+
+
+
+
+                                    8/24 (Stand: 1.9.2025)
+                                                                                 8704
+
+befestigen. Zudem sind keine Komfortausstattungen für die Passagiere vorhanden. Derar-
+tige Automobile weisen im Allgemeinen die folgenden Bau- und Ausstattungsmerkmale
+auf:
+a)   Sitzbänke ohne Sicherheitsausstattung (z.B. Sicherheitsgurte oder Verankerungs-
+     punkte und Zubehör zum Montieren von Sicherheitsgurten) und im Raum hinter Fah-
+     rer und Passagieren fehlen die Komfortausstattungen für weitere Fahrgäste. Die Sitz-
+     bänke können meistens hochgeklappt werden, damit die hintere Ladefläche (Fahr-
+     zeug nach Art des Lieferwagens) resp. die offene Pritsche (Fahrzeuge nach Art des
+     "Pick-ups") vollständig für den Warentransport verwendet werden kann;
+b)   Separate Kabine für Fahrer und Passagiere; separate, offene Ladepritsche mit starren
+     Seitenwänden und einer Heckklappe (Fahrzeuge nach Art der "Pick-ups");
+c)   Keine Fenster an den beiden hinteren Seitenwänden. Eine oder mehrere fensterlose
+     Schieb-, Dreh- oder Klapptüren zum Laden und Entladen von Waren auf den Seiten-
+     wänden oder auf der Heckseite (Fahrzeuge nach Art der Lieferwagen);
+d)   Trennwand oder Trenngitter zwischen dem Fahrgastraum und dem hinteren Teil fest
+     eingebaut;
+e)   Im Laderaum sind keine Ausstattungselemente vorhanden, die man üblicherweise im
+     Fahrgastraum von Personenwagen findet (z.B. Bodenteppiche, Teppichboden, Belüf-
+     tung, Innenbeleuchtung, Aschenbecher).
+
+Hierher gehören ebenfalls:
+1)   "Muldenkipper" oder "Dumper", d.h. robust gebaute Fahrzeuge mit Kippmulde oder
+     Aufbau mit Klappboden, die zum Befördern von Abraum, Zuckerrüben und anderem
+     Schüttgut eingerichtet sind. Diese mit starrem (einteiligem) Fahrgestell oder mit Ge-
+     lenkfahrgestell ausgestatteten Fahrzeuge sind gewöhnlich mit geländegängigen Rä-
+     dern ausgerüstet und können auf Böden mit weichem Untergrund fahren. Hierzu ge-
+     hören Dumper schwerer und leichter Bauart; die letzteren besitzen manchmal als Be-
+     sonderheit einen drehbaren Fahrersitz, zwei einander gegenüber angeordnete Fah-
+     rersitze oder zwei Lenkräder, damit der Fahrer das Fahrzeug auch mit Sicht auf die
+     Ladefläche lenken und so das Entladen besser durchführen kann.
+2)   Pendelwagen, die in Bergwerken dazu verwendet werden, Kohle oder Erz von den
+     Schrämmaschinen bis zu den Bandförderern zu befördern. Es sind dies schwere
+     Fahrzeuge mit luftbereiften Rädern und niedrigem Fahrgestell, die durch Elektromoto-
+     ren oder Kolbenmotor mit Funken- oder Kompressionszündung angetrieben werden
+     und sich selbsttätig mit Hilfe ihres Rollbodens entladen.
+3)   Selbstladende Lastwagen, die das eigene Beladen mit Hilfe von Seilwinden, Stapel-
+     vorrichtungen, leichten Ladekranen usw. vornehmen und hauptsächlich zu Beförde-
+     rungszwecken dienen.
+4)   Strassen-Schienen-Lastwagen, d.h. Lastwagen, die so gebaut sind, dass sie sowohl
+     auf Strassen als auch auf Schienen fahren können. Bei diesen Fahrzeugen laufen die
+     gummibereiften Strassenräder auf den Schienen, wozu sie vorne und hinten mit einer
+     drehgestellartigen Führungsvorrichtung ausgestattet sind, die hydraulisch angehoben
+     wird, wenn das Fahrzeug wieder auf der Strasse fahren soll.
+
+Lastwagenchassis mit Führerkabine, ausgerüstet mit ihrem Motor, sind ebenfalls unter
+diese Nummer einzureihen.
+
+Ausserdem gehören nicht hierher:
+a) Portalkarren, die in Fabriken, Lagerhäusern, Häfen oder auf Flugplätzen zum Um-
+    schlag von langen Gütern oder von Warenbehältern (Containern) verwendet werden
+    (Nr. 8426).
+b) Lader mit Transportmulde, wie sie in Bergwerken verwendet werden (Nr. 8429).
+c) Motorräder, Motorroller und Fahrräder mit Hilfsmotor, die zur Güterbeförderung einge-
+    richtet sind, z.B. Liefermotorräder und Lastendreiräder, nicht die Merkmale von Drei-
+    radfahrzeugen dieser Nummer aufweisend (Nr. 8711).
+
+
+
+
+                             9/24 (Stand: 1.9.2025)
+                                                                                             8704
+
+8704.10     Im Allgemeinen können Muldenkipper dieser Unternummer von anderen Automobilen zum
+            Befördern von Waren (insbesondere von Kipplastwagen) aufgrund folgender Merkmale un-
+            terschieden werden:
+            -    die Mulde ist aus sehr starkem Stahlblech gefertigt; die Muldenvorderwand ist als ein
+                 über das Führerhaus gezogenes Schutzdach ausgeführt; der ganze Boden oder ein
+                 Teil des Bodens ist nach hinten hochgezogen;
+            -    in manchen Fällen ist das Fahrzeug mit einer Halbraumführerkabine ausgestattet;
+            -    eine Achsaufhängung fehlt;
+            -    hohe Bremsleistung;
+            -    beschränkte Geschwindigkeit und beschränkter Aktionsradius;
+            -    Spezialreifen für Erdarbeiten;
+            -    aufgrund der robusten Bauweise beträgt das Verhältnis von Leergewicht zu Nutzlast
+                 nicht mehr als 1:1,6;
+            -    zur Verhinderung des Festklebens oder Anfrierens des zu befördernden Materials
+                 kann die Mulde allenfalls durch die Abgase beheizt werden.
+
+            Zu bemerken ist jedoch, dass bestimmte Muldenkipper speziell für die Arbeit in Bergwer-
+            ken oder Tunnels hergerichtet sind, beispielsweise solche mit einem Aufbau mit Klappbo-
+            den. Diese weisen einige der oben erwähnten Merkmale auf, besitzen aber keine Führer-
+            kabine und keine als Schutzdach vorgezogene Muldenvorderwand.
+
+8704.21, 22, 23, 31, 32, 41, 42, 43, 51, 52
+             Das höchstzulässige Gesamtgewicht entspricht dem vom Hersteller an gegebenen maxi-
+             malen Fahrgewicht. Zu diesem Gewicht gehören: das Gewicht des Fahrzeugs, das vorge-
+             sehene Höchstladegewicht, das Gewicht des Fahrers und ein voller Treibstoffbehälter.
+
+8705.       Automobile zu besonderen Zwecken, andere als solche, die hauptsächlich zum Be-
+            fördern von Personen oder Waren gebaut sind (z.B. Abschleppwagen, Kranwagen,
+            Feuerlöschwagen, Betonmischer- Lastwagen, Strassenkehrwagen, Sprengwagen,
+            Werkstattwagen, mit Röntgenanlage ausgestattete Wagen)
+
+            Diese Nummer umfasst besonders konstruierte oder umgebaute Automobile, auf denen
+            Vorrichtungen oder Geräte angebracht sind, um sie für andere als blosse Beförderungs-
+            zwecke verwendbar zu machen. Es sind demnach Fahrzeuge, deren eigentlicher Zweck
+            nicht das Befördern von Personen oder Gütern ist.
+
+            Hierher gehören z.B.:
+            1)   Abschleppwagen. Sie bestehen aus einem Lastwagenfahrgestell mit oder ohne Lade-
+                 pritsche und sind mit Hebezeugen, z.B. mit nicht drehbaren Kranen, Hebebäumen,
+                 Flaschenzügen oder Seilwinden, die zum Anheben und Abschleppen von Pannen-
+                 fahrzeugen hergerichtet sind, ausgestattet.
+            2)   Spritzenwagen, deren Pumpe in der Regel durch den Fahrzeugmotor angetrieben
+                 wird, z.B. Spritzenwagen für die Feuerwehr.
+            3)   Leiterwagen und Wagen mit Hebeplattform zum Instandhalten von elektrischen
+                 Fahroberleitungen, der Strassenbeleuchtung usw. sowie Wagen mit verstellbarer
+                 Plattform und Schwenkarmen für Film- und Fernsehaufnahmen.
+            4)   Wagen für die Reinigung, z.B. von Strassen, öffentlichen Plätzen, Kanalisationen,
+                 Start- und Landebahnen für Flugzeuge usw., wie Kehrwagen, Wassersprengwagen,
+                 kombinierte Wasserspreng- und Kehrwagen sowie Fäkalienwagen mit Schmutzan-
+                 saugevorrichtung.
+            5)   Schneeräumwagen mit nichtabnehmbarer Ausrüstung. Es sind dies ausschliesslich für
+                 die Schneeräumung gebaute, meist mit Schneeschleudern oder Schneefräsen ausge-
+
+
+
+
+                                         10/24 (Stand: 1.9.2025)
+                                                                               8705
+
+     stattete Automobile. Die Schneeschleudern oder Schneefräsen werden durch den
+     Fahrzeugmotor oder einen besonderen Motor angetrieben.
+     Abnehmbare Schneeräumvorrichtungen aller Art gehören stets zu Nr. 8430, auch
+     wenn sie an einem Automobil anmontiert zur Abfertigung gestellt werden.
+6)   Sprengwagen und Streuwagen aller Art, auch mit Heizvorrichtung, z.B. zum Spritzen
+     von Teer bzw. zum Streuen von Kies, auch für landwirtschaftliche Zwecke.
+7)   Kranwagen, die nicht zum Befördern von Waren bestimmt sind, bestehend aus einem
+     Automobilchassis mit Führerkabine, auf dem ein Drehkran fest angebracht ist. Ausge-
+     schlossen sind jedoch Automobile der Nr. 8704, die das eigene Beladen vornehmen.
+8)   Fahrbare Tiefbohrgeräte, die aus einem Lastwagen und einem darauf angebrachten,
+     mit Seilwinden und anderen für Schürf- und Tiefbohrzwecke erforderlichen Geräten
+     ausgestatteten Metallgerüst bestehen.
+9)   Stapelfahrzeuge (ausgenommen Stapelkarren der Nr. 8427), die eine in der Regel
+     durch den Fahrzeugmotor betriebene und in einem senkrechten Hubgerüst gleitende
+     Gabel oder Hebeplattform besitzen. Selbstladefahrzeuge mit Seilwinden, Stapelvor-
+     richtungen oder dergleichen gehören jedoch zu Nr. 8704, wenn ihr Hauptverwen-
+     dungszweck nicht das Stapeln, sondern das Befördern von Gütern ist.
+10) Betonmischer-Lastwagen (bestehend aus einem Lastwagenchassis mit Führerkabine,
+    auf dem eine Betonmischmaschine dauernd angebracht ist), gleichzeitig sowohl zum
+    Herstellen als auch zum Befördern von Beton geeignet.
+11) Fahrbare Elektrogeneratorenstationen (Kraftstationen), die aus einem Automobil be-
+    stehen, auf dem ein elektrischer Generator angebracht ist. Dieser wird durch den
+    Fahrzeugmotor oder einen besonderen Motor angetrieben.
+12) Röntgenwagen (fahrbare Röntgenstationen) mit Untersuchungsraum, Entwicklungsla-
+    bor und vollständiger Röntgenanlage.
+13) Operationswagen und fahrbare Zahnstationen, mit Behandlungsraum, Narkoseeinrich-
+    tung und chirurgischen Geräten.
+14) Scheinwerferwagen, d.h. Lastwagen mit darauf aufgebautem Scheinwerfer, der meis-
+    tens durch einen vom Fahrzeugmotor angetriebenen elektrischen Generator mit Strom
+    versorgt wird.
+15) Rundfunkreportagewagen.
+16) Wagen mit Sende- und Empfangsanlage für die drahtgebundene oder die drahtlose
+    Telegrafie oder für den Funksprechverkehr; Radarwagen.
+17) Wagen mit Rechenmaschinen (Totalisatoren) zum Ausrechnen der Gewinnquoten der
+    Wetten auf Pferderennplätzen.
+18) Laborwagen, z.B. zum Prüfen der Arbeit von Landmaschinen.
+19) Mit Registriergeräten ausgestattete Lastwagen zum Ermitteln der Zugkraft der Auto-
+    mobile, von denen sie geschleppt werden.
+20) Bäckereiwagen mit vollständiger Einrichtung (Knetmaschine, Backofen usw.) und Kü-
+    chenwagen.
+21) Werkstattwagen, die mit verschiedenen Maschinen, Werkzeugen, Schweissgeräten
+    usw. ausgestattet sind.
+22) Wagen mit Bankeinrichtung (fahrbare Banken), Bibliothekwagen und Wagen mit Ein-
+    richtung zum Ausstellen und Vorführen von Waren.
+
+Ebenfalls gehören nicht hierher:
+a) Selbstfahrende Strassenwalzen (Nr. 8429).
+b) Motorbetriebene Ackerwalzen (Nr. 8432).
+c) Kleine fahrbare Geräte mit Hilfsmotor, die von einer zu Fuss gehenden Bedienungs-
+   person geführt werden, z.B. Kehrmaschinen für Parkanlagen, öffentliche Gärten, usw.
+   sowie Geräte zum Ziehen (Aufmalen) von Verkehrslinien auf Strassen (Nr. 8479).
+
+
+
+
+                            11/24 (Stand: 1.9.2025)
+                                                                                           8705
+
+          d)   Camping-Automobile (Nr. 8703).
+
+                Automobilchassis oder Lastwagen, die mit Arbeitsmaschinen
+                          oder Arbeitsgeräten ausgestattet sind
+
+          Mit Hebe- oder Fördervorrichtungen, Maschinen zur Erdbewegung, Bagger-, Tiefbohrgerä-
+          ten usw. ausgestattete Fahrzeuge gehören nur dann hierher, wenn sie aus einem wirkli-
+          chen Automobilchassis oder Lastwagen bestehen und somit mindestens folgende mecha-
+          nischen Vorrichtungen besitzen: Fahrmotor, Getriebe mit Gangschaltung sowie Lenkvor-
+          richtung und Bremsvorrichtung.
+
+          Im Abschnitt XVI (z.B. in den Nrn. 8426, 8429 und 8430) verbleiben dagegen, auch wenn
+          sie sich durch eigene Kraft auf der Strasse fortbewegen können, selbstfahrende Maschi-
+          nen (Krane, Bagger usw.), bei denen sich eine oder mehrere der vorstehend genannten
+          Antriebs- oder Bedienungsvorrichtungen in der Kabine der auf einem Rad- oder Raupen-
+          Fahrgestell angebrachten Arbeitsmaschine befinden.
+
+          Von dieser Nummer sind auch jene selbstfahrenden, auf Rädern laufenden Maschinen
+          ausgenommen, bei denen Fahrgestell und Arbeitsmaschine konstruktiv so aufeinander
+          abgestimmt sind, dass sie eine mechanische Einheit bilden (z.B. selbstfahrende Strassen-
+          hobel, die auch Motorgrader genannt werden). In diesem Fall wurde die Arbeitsmaschine
+          nicht lediglich auf ein Automobilchassis montiert, sondern mit einem für andere Zwecke
+          nicht verwendbaren Fahrgestell, das mit den vorstehend erwähnten wesentlichen mecha-
+          nischen Teilen eines Lastwagens ausgestattet sein kann, konstruktiv vollständig verbun-
+          den.
+
+          Schneeräumautomobile mit nichtabnehmbarer Schneeräumvorrichtung gehören jedoch
+          stets zu dieser Nummer.
+
+8705.10   Siehe die Erläuterungen zu Nr. 8705, Ziffer 7.
+
+                                 Schweizerische Erläuterungen
+
+          Hierher gehören auch Spezialautomobile mit einer von normalen Lastwagenchassis teil-
+          weise abweichenden Konstruktion (sog. lastwagenähnliche Fahrgestelle), wenn
+
+          -    das Fahrgestell (mit offenem oder geschlossenem Führerstand) einen eigenen Fahr-
+               motor, ein Schaltgetriebe, Schalthebel sowie Bremsen und Lenkvorrichtung für die
+               Fahrt besitzt und
+          -    die Arbeitsmaschine eine besondere Maschinenkabine mit eigenen Bedienungsorga-
+               nen aufweist.
+
+8706.     Chassis für Motorfahrzeuge der Nrn. 8701 bis 8705, mit Motor
+
+          Diese Nummer umfasst Fahrgestellrahmen (selbsttragende Karosserie) und noch nicht mit
+          Karosserie ausgestattete Gerippe für mitragende Karosserien, die für Fahrzeuge der Nrn.
+          8701 - 8705 bestimmt sind und in die der Fahrmotor, die Kraftübertragungsvorrichtung, die
+          Lenkvorrichtung und die Achsen (mit oder ohne Räder) eingebaut sind. Es handelt sich
+          demnach hier um Automobile oder Traktoren (Strassenzugmaschinen), welche noch nicht
+          mit ihrer Karosserie bzw. ihrer Führerkabine ausgerüstet sind.
+
+          Diese Fahrgestelle gehören hierher, auch wenn sie schon mit Motorhaube, Windschutz-
+          scheibe, Kotflügeln, Trittbrettern und Armaturenbrett (auch mit Instrumenten) ausgestattet
+          sind. Sie verbleiben auch dann hier, wenn sie mit Reifen, Vergaser, Akkumulatorenbatterie
+          oder anderen elektrischen Vorrichtungen ausgerüstet sind. Fahrgestelle, die durch die
+          Ausrüstung mit diesen Teilen einen vollständigen oder als vollständig anzusehenden Trak-
+          tor oder anderes Fahrzeug darstellen, gehören jedoch nicht hierher.
+
+
+
+
+                                      12/24 (Stand: 1.9.2025)
+                                                                                            8707
+
+            Ausgenommen sind auch:
+            a) Fahrgestelle mit Führerkabine, ausgerüstet mit ihrem Motor, auch mit unvollständiger,
+                z.B. noch nicht mit Fahrersitz ausgestatteter Führerkabine (Nrn. 8702 - 8704) (siehe
+                Anmerkung 3 zu Kap. 87).
+            b) Fahrgestelle ohne Motor, auch wenn sie mit verschiedenen mechanischen Bauteilen
+                ausgestattet sind (Nr. 8708).
+
+8707.       Karosserien für Motorfahrzeuge der Nrn. 8701 bis 8705, einschliesslich Führerkabi-
+            nen
+
+            Hierher gehören für Motorfahrzeuge der Nrn. 8701 bis 8705 bestimmte Karosserien (Auf-
+            bauten), einschliesslich der Führerkabinen.
+
+            Karosserien oder Aufbauten bilden den auf dem Fahrgestell aufgebauten Fahrzeugteil. Bei
+            Motorfahrzeugen ohne Fahrgestell tragen sie jedoch auch den Motor und die Achsen. In
+            diesem Falle handelt es sich um selbsttragende Karosserien oder um mittragende Karos-
+            serien, die auch "Schalenkarosserien" genannt werden und bei denen die Karosserie
+            (auch die Aufgabe des Fahrgestellrahmens übernimmt oder) mit Rahmenteilen vereinigt
+            wird.
+
+            Den verschiedenen Arten von Motorfahrzeugen (Personenwagen, Lastwagen, Spezial-
+            fahrzeuge usw.) entsprechend, gibt es viele verschiedene Karosserien. Sie werden ge-
+            wöhnlich aus Stahl, Leichtmetall-Legierungen, Holz oder Kunststoff hergestellt.
+
+            Sie können vollständig, z.B. mit ihrer gesamten Ausstattung und ihrem gesamten Zubehör
+            (Armaturenbrett, Sitzen und Polstern, Fussmatten, Kofferraum, Gepäckträgern, elektri-
+            schem Zubehör, usw.), ausgerüstet sein.
+
+            In dieser Nummer bleiben auch unvollständige Karosserien, bei denen einige Teile (z.B.
+            die Windschutzscheibe oder die Türen) fehlen bzw. deren innere oder äussere Ausstattung
+            unvollständig ist oder die noch nicht vollständig lackiert sind.
+
+            Führerkabinen (z.B. für Lastwagen oder Traktoren) gehören ebenfalls hierher.
+
+                                   Schweizerische Erläuterungen
+
+8707.9000   Hierher gehören überzählige oder als Ersatz gelieferte Kipp- und Absetzmulden zu Mul-
+            denkippern und ähnlichen Automobilen zum Befördern von Waren, der Tarif-Nr. 8704.
+
+            Nach dieser Nummer werden ferner für Lastwagen mit einer speziellen Hebe- und Absetz-
+            vorrichtung bestimmte Wechselbehälter zugelassen.
+
+            Ladebrücken gehören ebenfalls zu dieser Nummer.
+
+8708.       Teile und Zubehör für Motorfahrzeuge der Nrn. 8701 bis 8705
+
+            Hierher gehören die Teile und das Zubehör für Motorfahrzeuge der Nrn. 8701 bis 8705, so-
+            fern diese Teile und dieses Zubehör die beiden nachstehenden Voraussetzungen erfüllen:
+            1.   sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsächlich
+                 für diese Fahrzeuge bestimmt sein;
+            2.   sie dürfen nicht durch die Anmerkungen zu Abschnitt XVII von diesem Abschnitt aus-
+                 genommen sein (siehe die Erläuterungen zu Abschnitt XVII, Allgemeines).
+
+            Als solche Teile und solches Zubehör können z.B. genannt werden:
+            A)   Zusammengesetzte (komplette) Fahrgestellrahmen von Automobilen (auch mit Rä-
+                 dern, aber ohne Motor) und deren Teile, z.B. Längsträger, Verstrebungen, Querträger,
+                 Federaufhängungen sowie Träger oder Halter für die Karosserie, den Motor, die Tritt-
+                 bretter, die Batterie und die Treibstoffbehälter.
+
+
+
+
+                                        13/24 (Stand: 1.9.2025)
+                                                                                 8708
+
+B)   Karosserieteile und Karosseriezubehör, z.B.: Bodenteile, Seiten-, Vorder- und Rück-
+     wände sowie Kofferraumteile; Türen und Teile davon; Motorhauben, gerahmte Fens-
+     terscheiben, Fensterscheiben mit Heizwiderständen und elektrischen Anschlussvor-
+     richtungen sowie Fensterrahmen, Trittbretter, Kotflügel, Schmutzfänger usw.; Armatu-
+     renbretter, Kühlerverkleidungen, Nummernhalter, Stossstangen und Stossstangen-
+     hörner, Lenksäulenhalter, aussen anzubringende Gepäckträger, Sonnenblendschutz-
+     vorrichtungen, nichtelektrische Heiz- und Entfrostungsgeräte, welche die vom Fahr-
+     zeugmotor abgegebene Wärme ausnützen, Sicherheitsgurte, die dazu bestimmt sind,
+     zum Schutz von Personen dauernd in Automobilen befestigt zu werden, Fussmatten,
+     ausgenommen solche aus Spinnstoffen oder aus vulkanisiertem Weichkautschuk.
+     Hierher und nicht zu Nr. 8707 gehören zusammengesetzte Karosserieteile (auch von
+     selbsttragenden oder mittragenden Karosserien), die noch nicht die Merkmale unvoll-
+     ständiger Karosserien aufweisen, z.B. Karosserien ohne Türen, Kotflügel und Motor-
+     haube bzw. Heckdeckel.
+C) Schaltkupplungen (z.B. Kegelkupplungen, Scheibenkupplungen, hydraulische Kupp-
+   lungen und automatische Kupplungen), mit Ausnahme der elektromagnetischen Kupp-
+   lungen der Nr. 8505; Teile der hierher gehörenden Kupplungen, z.B. Kupplungsge-
+   häuse, Kupplungsdeckel, Kupplungsdruckplatten, Kupplungshebel und Kupplungs-
+   scheiben, auch mit montiertem Kupplungsbelag.
+D) Schaltgetriebe aller Art (z.B. mechanische Getriebe, Schnellganggetriebe [Overdri-
+   ves], Vorwählgetriebe, elektromechanische Getriebe und automatische Getriebe);
+   Drehmomentwandler; Teile von diesen Getrieben, z.B. Getriebegehäuse, Getriebede-
+   ckel, Getriebewellen, Getriebezahnräder, Schaltklauen und Schieberäder.
+E)   Antriebsachsen mit Ausgleichsgetriebe, Tragachsen (vorne oder hinten); Gehäuse für
+     Ausgleichsgetriebe; Tellerräder, Ausgleichkegelräder und Achswellenräder, Radna-
+     ben, Achsschenkel, Achsschenkelhalter.
+F)   Andere Kraftübertragungsteile und -organe, z.B. Wellen, Halbwellen, Zahnräder, La-
+     gerschalen, Untersetzungsgetriebe (Verteilergetriebe für Mehrradantrieb) und Gelenk-
+     verbindungen, mit Ausnahme der inneren Teile des Motors, wie Pleuelstangen, Ventil-
+     stangen und Ventilstössel (Nr. 8409), Kurbelwellen, Schwungräder und Nockenwellen
+     (Nr. 8483).
+G) Teile der Lenkvorrichtung, z.B. Lenkrohre (Mantelrohre), Lenkschubstangen, Lenkhe-
+   bel, Spurstangen; Lenkgehäuse, Lenkzahnstangen und Lenkzahnräder; Hilfskraftlen-
+   kungen (Servolenkungen).
+H) Bremsen (z.B. Backenbremsen, Segmentbremsen und Scheibenbremsen) und Teile
+   davon (z.B. Bremsbacken, Bremstrommeln, Bremszylinder, montierte Bremsbeläge
+   sowie Behälter für hydraulische Bremsen); Hilfskraftbremsen (Servobremsen).
+I)   Stossdämpfer (z.B. Reibungsstossdämpfer und hydraulische Stossdämpfer) sowie
+     andere Teile der Radaufhängung (ausgenommen Federn, jedoch einschliesslich der
+     Drehstäbe).
+K)   Räder (z.B. Räder aus gepresstem Blech, Räder aus Stahlguss und Speichenräder),
+     auch mit Voll- oder Luftreifen, Raupen und Radsätze für Raupenfahrzeuge; Radfel-
+     gen, Radscheiben, Radspeichen und Radzierkappen.
+L)   Bedienungsvorrichtungen: Lenkräder, Lenksäulen, Lenkgehäuse und Lenkspindeln;
+     Gangschalthebel und Hebel für Handbremsen; Gaspedale, Bremspedale, Kupplungs-
+     pedale; Bedienungsgestänge (z.B. für die Bremsen und die Kupplung).
+M) Kühler, Auspufftöpfe (Auspuffschalldämpfer), Auspuffrohre und Treibstoffbehälter usw.
+N) Kupplungskabel, Bremskabel, Gaskabel und ähnliche Kabel, bestehend aus einer fle-
+   xiblen Aussenhülle und innen einem beweglichen Kabel. Sie sind auf bestimmte Län-
+   gen zugeschnitten und mit Endstücken versehen.
+O) Airbags aller Art mit Aufblasvorrichtung (z.B. Fahrerairbags, Beifahrerairbags, Airbags
+   für die Installation in Türen zum Schutz bei einem seitlichen Aufprall, Airbags für die
+   Installation im Dachholm von Fahrzeugen zum zusätzlichen Schutz des Kopfes) und
+   Teile davon. Die Aufblasvorrichtung umfasst die Zündvorrichtung sowie das Treibgas-
+
+
+
+
+                            14/24 (Stand: 1.9.2025)
+                                                                                          8709
+
+             behältnis, das den Druck des Gases in den Airbag leitet. Fernsteuerungen oder elekt-
+             ronische Kontrollsensoren werden nicht als Teile der Aufblasvorrichtung angesehen
+             und sind von dieser Position ausgenommen.
+
+        Nicht hierher gehören Hydrozylinder und Druckluftzylinder der Nr. 8412.
+
+8709.   Selbstfahrende Arbeitskarren ohne Hebevorrichtung, der Art, wie sie in Fabriken,
+        Lagerhäusern, Häfen oder auf Flughäfen zum Transport von Waren auf kurzen Stre-
+        cken verwendet werden; Zugkarren der Art, wie sie auf Bahnhöfen verwendet wer-
+        den; Teile davon
+
+        Hierher gehören selbstfahrende Arbeitskarren der Art, wie sie ausschliesslich in Fabriken,
+        Lagerhäusern, Häfen oder auf Flugplätzen zum Kurzstreckentransport von verschiedenar-
+        tigen Ladungen (Gütern oder Containern) zum Einsatz gelangen oder auf Bahnhöfen zum
+        Ziehen kleiner Anhänger verwendet werden.
+
+        Von diesen Arbeitskarren gibt es viele verschiedene Typen unterschiedlicher Grösse. Sie
+        werden entweder durch einen von Akkumulatoren gespeisten Elektromotor oder durch ei-
+        nen Kolbenmotor mit Funken- oder Kompressionszündung oder einen anderen Motor an-
+        getrieben.
+
+        Arbeitskarren dieser Nummer unterscheiden sich in der Regel von Fahrzeugen der Nrn.
+        8701, 8703 oder 8704 durch folgende allgemeine charakteristische Merkmale:
+        1)   Sie sind wegen ihrer Bauweise und der Spezialvorrichtungen, mit denen sie gewöhn-
+             lich ausgestattet sind, weder zur Personalbeförderung geeignet noch zur Güterbeför-
+             derung auf öffentlichen Strassen verwendbar. Sie sind im Allgemeinen weder mit Si-
+             cherheitsvorrichtungen (z. B. Scheinwerfer, Rücklichter, Blinklichter) noch mit Aufhän-
+             gungen (Aufhängungsfedern) der für Strassenfahrzeuge erforderlichen Art ausgestat-
+             tet.
+        2)   Ihre Höchstgeschwindigkeit in beladenem Zustand liegt in der Regel nicht über 30 bis
+             35 km in der Stunde.
+        3)   Ihr Wenderadius entspricht ungefähr der Länge des Fahrzeuges, was es ihnen er-
+             laubt, in engen Verhältnissen zu manövrieren, wie sie häufig in Fabriken, Lagerhäu-
+             sern, Häfen oder auf Flughäfen anzutreffen sind.
+        4)   Sie verfügen gewöhnlich weder über Komfortausstattungen noch über Innenausklei-
+             dungen, mit denen üblicherweise Fahrzeuge der Nrn. 8702, 8703 und 8704 ausgerüs-
+             tet sind.
+
+        Arbeitskarren dieser Nummer haben gewöhnlich keine geschlossene Führerkabine. Der für
+        den Fahrer vorgesehene Platz besteht manchmal nur aus einer Plattform, auf welcher der
+        Fahrer beim Lenken des Fahrzeuges steht. Manchmal ist über dem Fahrersitz eine
+        Schutzvorrichtung, z.B. ein Schutzrahmen oder ein Metallgitter, angebracht.
+
+        Zu dieser Nummer gehören auch Arbeitskarren, die von einer zu Fuss gehenden Bedie-
+        nungsperson gelenkt werden müssen.
+
+        Arbeitskarren können zur Aufnahme der Warenladung u.a. mit Plattform oder Wagenkas-
+        ten ausgestattet sein.
+
+        Hierher gehören auch die insbesondere auf Bahnhöfen verwendeten Tankkarren, auch
+        wenn sie mit Pumpen ausgestattet sind.
+
+        Zugkarren der Art, wie sie auf Bahnhöfen verwendet werden, sind im Wesentlichen zum
+        Ziehen oder Schieben anderer Fahrzeuge, insbesondere kleiner Anhänger, gebaut. Sie
+        befördern selbst keine Güter. Diese Fahrzeuge sind in der Regel leichter und weniger leis-
+        tungsfähig als Traktoren der Nr. 8701. Zugkarren dieser Bauart können auch auf Hafen-
+        kais, in Lagerhallen usw. verwendet werden.
+
+
+
+
+                                     15/24 (Stand: 1.9.2025)
+                                                                                          8710
+
+                                             Teile
+
+        Hierher gehören auch Teile von Fahrzeugen dieser Nummer, sofern diese Teile die beiden
+        nachstehenden Voraussetzungen erfüllen:
+        1.   sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsächlich
+             für diese Fahrzeuge bestimmt sein;
+        2.   sie dürfen nicht durch die Anmerkungen zu Abschnitt XVII von diesem Abschnitt aus-
+             genommen sein (siehe die entsprechenden Erläuterungen zu Abschnitt XVII, Allge-
+             meines).
+
+        Als solche Teile können z.B. genannt werden:
+        1)   Fahrgestelle.
+        2)   Aufbauten, Plattformen (Pritschen), Bordwände für Pritschen, Kippmulden.
+        3)   Räder, auch mit Voll- oder Luftreifen.
+        4)   Schaltkupplungen.
+        5)   Schaltgetriebe, Ausgleichsgetriebe.
+        6)   Wellen und Achsen.
+        7)   Lenkknüppel und Lenkräder.
+        8)   Bremsvorrichtungen und Teile davon.
+        9)   Kupplungskabel, Bremskabel, Gaskabel und ähnliche Kabel, bestehend aus einer fle-
+             xiblen Aussenhülle und innen einem beweglichen Kabel. Sie sind auf bestimmte Län-
+             gen zugeschnitten und mit Endstücken versehen.
+
+        Nicht zu Nr. 8709 gehören:
+        a) Portalkarren und Krankarren (Nr. 8426).
+        b) Stapelkarren und andere mit Hebevorrichtung ausgerüstete Karren für den Warenum-
+            schlag (Nr. 8427).
+        c) Muldenkipper mit Fahrmotor (Nr. 8704).
+
+8710.   Panzerkampfwagen und andere selbstfahrende gepanzerte Kampffahrzeuge, auch
+        mit Waffen; Teile davon
+
+        Hierher gehören Panzerkampfwagen (Tanks) und andere selbstfahrende gepanzerte
+        Fahrzeuge, auch mit Waffen, sowie Teile davon.
+
+        Panzerkampfwagen oder Tanks sind gepanzerte Raupenfahrzeuge mit verschiedenartiger
+        Bewaffnung (z.B. Kanonen, Maschinengewehren und Flammenwerfern), die gewöhnlich in
+        einem Drehturm untergebracht ist. Manche dieser Fahrzeuge sind mit besonderen Kreisel-
+        vorrichtungen zur Stabilisierung ausgestattet, die das Zielen während der Fahrt erleichtern.
+        Sie können auch Schutzvorrichtungen gegen Minen besitzen, z.B. eine vor dem Panzer-
+        wagen angebrachte rotierende Trommel mit daran befestigten Ketten, die an einem Ende
+        gusseiserne, auf den Boden aufschlagende Kugeln tragen, oder schwere, vor dem Tank
+        montierte Walzen.
+
+        Amphibienpanzerwagen gehören auch hierher.
+
+        Andere selbstfahrende gepanzerte Fahrzeuge sind leichter gepanzert und bewaffnet als
+        Kampfpanzer. Sie erreichen eine grössere Geschwindigkeit, verursachen weniger Ge-
+        räusch und sind nicht so schwer gebaut wie Kampfpanzer. Manche dieser Fahrzeuge sind
+        nur teilweise gepanzert. Sie werden insbesondere für Polizeieinsätze, zur Feindaufklärung
+        und als Beförderungsmittel im Kampfgebiet verwendet. Bestimmte selbstfahrende gepan-
+        zerte Fahrzeuge sind zwar mit Raupen ausgerüstet, doch laufen die meisten dieser Fahr-
+        zeuge auf Rädern. Sie können auch Amphibienfahrzeuge sein, die z.B. als Landefahrzeu-
+        ge verwendet werden.
+
+
+
+
+                                     16/24 (Stand: 1.9.2025)
+                                                                                        8711
+
+        Hierher gehören auch:
+        A)   Tanks, die speziell zum Abschleppen anderer Fahrzeuge hergerichtet sind.
+        B)   Gepanzerte, in der Regel auf Raupen laufende Fahrzeuge, z.B. für den Nachschub
+             von Treibstoff, Mineralöl, Wasser oder Munition im Kampfgebiet, auch wenn sie auf-
+             grund der Bauweise nicht für eine Bewaffnung vorgesehen sind.
+        C) Ferngelenkte, kleine Tanks, die Munition zu den Artilleriestellungen oder zu Kampf-
+           fahrzeugen befördern, die sich in vorderer Linie befinden.
+        D) Gepanzerte Spezialfahrzeuge zum Zerstören von Hindernissen, z.B. von Hindernissen
+           aus Beton.
+        E)   Gepanzerte Fahrzeuge zum Befördern von Truppen.
+
+        Ausgenommen von dieser Nummer sind jedoch gewöhnliche Personen- und Lastwagen
+        mit festangebrachter leichter Panzerung oder mit abnehmbarer Panzerung (Nrn. 8702 bis
+        8705, je nach Beschaffenheit).
+
+        Geschütze auf Selbstfahrlafette gehören zu Nr. 9301. Für derartige Geschütze ist charak-
+        teristisch, dass sie nur aus dem Stand schiessen können und somit nur ein begrenztes
+        Schussfeld haben.
+
+                                            Teile
+
+        Hierher gehören auch Teile der vorstehend erwähnten gepanzerten Kampffahrzeuge, so-
+        fern diese Teile die beiden nachstehenden Voraussetzungen erfüllen:
+        1.   sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsächlich
+             für die genannten Fahrzeuge bestimmt sein;
+        2.   sie dürfen nicht durch die Erläuterungen zu Abschnitt XVII, Allgemeines, von diesem
+             Abschnitt ausgenommen sein.
+
+        Als solche Teile können beispielsweise genannt werden:
+        1)   Fahrgestelle von gepanzerten Fahrzeugen und Teile davon (z.B. Panzertürme und
+             gepanzerte Türen und Deckel).
+        2)   Spezialraupen für Panzerkampfwagen.
+        3)   Spezialräder für selbstfahrende gepanzerte Fahrzeuge.
+        4)   Antriebsräder für die Raupenfahrwerke von Panzerkampfwagen.
+        5)   Panzerplatten, die auf Grund ihrer Bearbeitung als Teile von Fahrzeugen dieser
+             Nummer erkennbar sind.
+        6)   Kupplungskabel, Bremskabel, Gaskabel und ähnliche Kabel, bestehend aus einer fle-
+             xiblen Aussenhülle und innen einem beweglichen Kabel. Sie sind auf bestimmte Län-
+             gen zugeschnitten und mit Endstücken versehen.
+
+8711.   Motorräder (einschliesslich Motorfahrräder) und Fahrräder mit Hilfsmotor, auch mit
+        Seitenwagen; Seitenwagen
+
+        Diese Nummer umfasst einerseits zweirädrige, im Wesentlichen zum Befördern von Per-
+        sonen bestimmte Motorfahrzeuge.
+
+        Neben den Motorrädern der üblichen Bauart gehören zu dieser Nummer auch die Motor-
+        roller, die an ihren kleinen Rädern und an der, den vorderen und hinteren Teil des Fahr-
+        zeugs verbindenden, horizontalen Plattform erkennbar sind, ferner die Motorfahrräder (Mo-
+        torräder mit geringer Leistung, auch "Mofa" genannt), sowie Fahrräder mit Hilfsmotor.
+
+        Diese Nummer umfasst auch die zweirädrigen Fahrzeuge mit Elektroantrieb, die zum
+        Transport einer einzigen Person im Langsamverkehr auf Trottoirs oder Radwegen dienen.
+
+
+
+
+                                    17/24 (Stand: 1.9.2025)
+                                                                                          8712
+
+        Die eingesetzte Technik ermöglicht es dem Fahrer, aufrecht zu stehen. Ein eingebautes
+        Kreisel- und Steuersystem stellt gleichzeitig sicher, dass das Gleichgewicht von Fahrer
+        und Maschine zwischen den zwei unabhängigen Rädern erhalten bleibt. Bei Motorrädern
+        dieser Nummer, die durch einen oder mehrere Elektromotoren fortbewegt werden, handelt
+        es sich um "Elektromotorräder". Diese Motorräder verfügen über einen elektrischen Akku-
+        mulator, der die Elektromotoren mit Energie versorgt. Die elektrischen Akkumulatoren die-
+        ser Motorräder (Typ "rechargeable") können wieder aufgeladen werden, indem sind an ei-
+        ne Steckdose des Stromnetzes oder eine Ladestation angeschlossen werden.
+
+        Motorräder können zum Schutz des Fahrers gegen die Witterung auch mit Karosserie
+        (Verkleidung) versehen oder mit einem Seitenwagen ausgestattet sein.
+
+        Hierher gehören auch Dreiradmotorfahrzeuge (z.B. der Art von Lastendreirädern), sofern
+        sie nicht die Merkmale von Automobilen der Nrn. 8703 oder 8704 aufweisen (siehe Erläu-
+        terungen zu den Nrn. 8703 und 8704).
+
+        Diese Nummer umfasst andererseits die für Motorräder oder Fahrräder bestimmten Sei-
+        tenwagen aller Art, die zur Personen- oder Warenbeförderung hergerichtet und allein nicht
+        verwendbar sind. Sie besitzen nur auf einer Seite ein Rad, die andere (radlose) Seite ist
+        mit Vorrichtungen ausgestattet, mit deren Hilfe der Seitenwagen seitlich am Motorrad oder
+        Fahrrad befestigt wird.
+
+        Dagegen sind ausgenommen:
+        a) Vierrädrige Fahrzeuge mit Rohrrahmen, ausgestattet mit einer Autolenkung, welche
+           z. B. auf dem Prinzip Ackermann beruht (Nr. 8703).
+        b) Anhänger für Motorräder oder Fahrräder (Nr. 8716).
+
+8712.   Zweiräder und andere Fahrräder (einschliesslich Lastendreiräder), ohne Motor
+
+        Hierher gehören Fahrräder, die mit Hilfe von Pedalen angetrieben werden, z.B. Zweiräder
+        (einschliesslich solche für Kinder), Tandems (zweisitzige Zweiräder), Dreiräder und Fahr-
+        räder mit vier Rädern.
+
+        Neben den gewöhnlichen Fahrrädern gehören                 auch    verschiedene    Fahrrad-
+        Spezialausführungen (Sonderbauarten) hierher, z.B.:
+        1)   Lastendreiräder, die meist einen auf den beiden Vorderrädern ruhenden, manchmal
+             gegen Wärme isolierten Kastenaufbau besitzen.
+        2)   Tandems (zweisitzige Zweiräder) und Triplets (dreisitzige Zweiräder).
+        3)   Einräder sowie Spezialfahrräder für Artisten (Kunstfahrer), die u.a. an ihrer leichten
+             Bauweise und am starren Zahnkranz (fehlenden Freilauf) zu erkennen sind.
+        4)   Fahrräder für Körperbehinderte (z.B. Fahrräder mit einer Vorrichtung, womit die Peda-
+             le mit nur einem Bein getreten werden können).
+        5)   Fahrräder, die mit zwei kleinen, meist an der Hinterradnabe befestigten seitlichen
+             Stützrädern ausgestattet sind.
+        6)   Rennräder.
+        7)   Vierräderige Fahrräder mit mehreren Sitzen und mehreren Tretlagern sowie mit einer
+             leichten Karosserie (Verkleidung).
+        8)   Trottinettes nach Art der Fahrräder, angetrieben mit Einzelpedal, Kette und Zahnrad,
+             bestimmt für Kinder, Jugendliche und Erwachsene, ausgerüstet mit verstellbarer
+             Lenksäule, Fahrradlenker, Rädern mit Luftreifen, Rahmen und von Hand betätigten
+             Bremsen.
+
+        Fahrräder ohne Motor, die mit einem Seitenwagen ausgestattet sind, bleiben in dieser
+        Nummer. Separat zur Abfertigung gestellte Seitenwagen gehören dagegen zu Nr. 8711.
+
+        Ausserdem gehören nicht hierher:
+
+
+
+
+                                     18/24 (Stand: 1.9.2025)
+                                                                                        8713
+
+        a)   Fahrräder mit Hilfsmotor (Nr. 8711).
+        b)   Kinderfahrräder (andere als Zweiräder für Kinder) (Nr. 9503).
+        c)   Nur für Schaustellerunternehmen verwendbare Spezialfahrräder (Nr. 9508).
+
+8713.   Rollstühle und andere Invalidenfahrzeuge, auch mit Motor oder anderem Antriebs-
+        mechanismus
+
+        Hierher gehören Rollstühle und Fahrzeuge, die speziell zum Befördern von Kranken oder
+        Körperbehinderten (Gelähmten, Körpergeschädigten usw.) bestimmt sind, mit oder ohne
+        Vorrichtung zur mechanischen Fortbewegung.
+
+        Die Fahrzeuge mit Vorrichtung zur mechanischen Fortbewegung werden in der Regel ent-
+        weder mit Hilfe eines Motors oder mit der Hand durch Hebel oder Kurbeln fortbewegt. Die
+        anderen Fahrzeuge (Rollstühle) werden entweder mit der Hand geschoben oder von den
+        Kranken oder Körperbehinderten direkt mit den Händen durch Drehen der Räder fortbe-
+        wegt.
+
+        Hierher gehören jedoch nicht:
+        a) Fahrzeuge, die, damit sie von Körperbehinderten benutzt werden können, nur umge-
+            baut worden sind, z.B. Automobile mit Handkupplung oder Handgashebel (Nr. 8703)
+            sowie Fahrräder mit einer Vorrichtung, womit die Pedale mit nur einem Bein getreten
+            werden können (Nr. 8712).
+        b) fahrbare Tragbahren (Nr. 9402).
+
+8714.   Teile und Zubehör für Fahrzeuge der Nrn. 8711 bis 8713
+
+        Hierher gehören Teile und Zubehör für Motorräder (einschliesslich Motorfahrräder), Fahr-
+        räder mit Hilfsmotor, Seitenwagen, Fahrräder ohne Motor, ferner für Rollstühle und andere
+        Invalidenfahrzeuge, sofern diese Teile und dieses Zubehör die beiden nachstehenden Vo-
+        raussetzungen erfüllen:
+        1.   sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsächlich
+             für die vorstehend erwähnten Fahrzeuge bestimmt sein;
+        2.   sie dürfen nicht durch die Erläuterungen zu Abschnitt XVII, Allgemeines, von diesem
+             Abschnitt ausgenommen sein.
+
+        Als solche Teile und solches Zubehör können z.B. genannt werden:
+        1)   Karosserien (Aufbauten) für Lastendreiräder, Seitenwagen oder Invalidenfahrzeuge
+             sowie Teile davon (z.B. Verdecke, Türen und Böden).
+        2)   Vollständige Fahrgestelle und Rahmen sowie Teile davon.
+        3)   Getriebezahnräder, Schaltgetriebe, Schaltkupplungen und andere Kraftübertragungs-
+             vorrichtungen für Motorräder sowie Teile davon.
+        4)   Räder und Radteile (z.B. Naben, Felgen und Speichen).
+        5)   Freilaufzahnkränze.
+        6)   Kettenschaltungen und andere Gangschaltungen für Fahrräder sowie Teile davon.
+        7)   Tretlager und Teile davon (z.B. Kettenräder, Tretkurbeln und Tretlagerachsen); Peda-
+             le und Teile davon (z.B. Achsen); Pedalhaken.
+        8)   Kickstarterhebel, Bedienungshebel und andere Bedienungsvorrichtungen.
+        9)   Bremsen aller Art (z.B. Backenbremsen, Felgenbremsen, Trommelbremsen, Schei-
+             benbremsen und Rücktrittbremsen, und Teile davon, z.B. Bremshebel, Hebel für
+             Bremsbackenhalter, Bremsbacken, Bremstrommeln und Bremssegmente für Trom-
+             melbremsen sowie Bremsjoche für Felgenbremsen.
+        10) Lenker (Lenkstangen), Lenkstangenschäfte sowie Lenkstangengriffe (z.B. aus Kork,
+            Kunststoff).
+
+
+
+
+                                    19/24 (Stand: 1.9.2025)
+                                                                                        8715
+
+        11) Sättel, Sattelstützen und Sattelbezüge (Decken).
+        12) Gabeln, einschliesslich der Teleskopgabeln, und Teile davon (Gabelköpfe und Gabel-
+            schäfte).
+        13) Fertigbearbeitete Rahmenrohre und Verbindungsstücke für Rahmen.
+        14) Hydraulische Stossdämpfer und Teile davon.
+        15) Schutzbleche und ihre Befestigungsvorrichtungen (Schutzblechhalter, Schutzblech-
+            streben).
+        16) Rückstrahler (Katzenaugen) mit Gehäuse.
+        17) Kleiderschutzvorrichtungen (ausgenommen Schutznetze der Nr. 5608), Kettenschutz-
+            kästen, Fussrasten und Beinschützer.
+        18) Motorradständer.
+        19) Blechverkleidungen (Schutzhauben) für Motorroller und Schutzdeckel für Ersatzräder
+            von Motorrollern.
+        20) Auspufftöpfe (Auspuffschalldämpfer) sowie Teile davon.
+        21) Treibstoffbehälter.
+        22) Windschutzscheiben.
+        23) Gepäckträger, Scheinwerferhalter und Trinkflaschenhalter.
+        24) Hebel und Kurbeln zur Fortbewegung von Invalidenfahrzeugen, Rückenlehnen und
+            durch die Rückenlehne betätigte Lenksäulen, ferner Fussrasten, Beinstützen und
+            Armlehnen für Invalidenfahrzeuge.
+        25) Kupplungskabel, Bremskabel, Gaskabel und ähnliche Kabel, bestehend aus einer fle-
+            xiblen Aussenhülle und innen einem beweglichen Kabel. Sie sind auf bestimmte Län-
+            gen zugeschnitten und mit Endstücken versehen.
+
+8715.   Kinderkastenwagen, Kindersportwagen und ähnliche Fahrzeuge zum Befördern von
+        Kindern, und Teile davon
+
+        Hierher gehören:
+
+        I.    Zwei- oder mehrrädrige Kinderwagen, auch zusammenklappbar, in denen Kleinkinder
+              befördert und die mit der Hand geschoben werden (z.B. Kindersportwagen und Kin-
+              derkastenwagen).
+
+        II.   Teile der hiervor genannten Fahrzeuge, sofern diese Teile die beiden nachstehenden
+              Voraussetzungen erfüllen:
+              1.   sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsäch-
+                   lich für Fahrzeuge dieser Nummer bestimmt sein;
+              2.   sie dürfen nicht durch die Anmerkungen zu Abschnitt XVII von diesem Abschnitt
+                   ausgenommen sein (siehe die entsprechenden Erläuterungen zu Abschnitt XVII,
+                   Allgemeines).
+
+        Als solche Teile können z.B. genannt werden:
+        1)    Aufbauten zum Befestigen auf dem Fahrgestell sowie abnehmbare, auch als Wiegen
+              benützbare Aufbauten von Kinderwagen.
+        2)    Fahrgestelle und Teile davon.
+        3)    Räder, auch mit Luftreifen, und Radteile.
+
+
+
+
+                                      20/24 (Stand: 1.9.2025)
+                                                                                         8716
+
+                                Schweizerische Erläuterungen
+
+        Kinderwagen und grössere Puppenwagen der Nr. 9503 sind in ihrer Bauart und Ausfüh-
+        rung einander oft sehr ähnlich. Für die Unterscheidung sind folgende Dimensionen mass-
+        gebend: Kinderkastenwagen haben eine Kastenlänge von mindestens 70 cm, in der Regel
+        aber 80 cm, die Lenkstange befindet sich 90 cm senkrecht über dem Boden; bei Puppen-
+        wagen beträgt die Kastenlänge im Maximum 65 cm, und die Lenkstange befindet sich un-
+        gefähr 70 cm senkrecht über dem Boden. Für Kindersportwagen sind indessen diese
+        Massgrenzen nicht ohne weiteres anwendbar.
+
+8716.   Anhänger, einschliesslich Sattelanhänger, für Fahrzeuge aller Art; andere nicht
+        selbstfahrende Fahrzeuge; Teile davon
+
+        Mit Ausnahme der in den vorhergehenden Nummern aufgeführten Fahrzeuge umfasst die-
+        se Nummer alle ein- oder mehrrädrigen, nicht selbstfahrenden Fahrzeuge, zum Befördern
+        von Personen oder Waren. Hierher gehören ferner Spezialfahrzeuge ohne Räder, z.B.
+        Schlitten.
+
+        Die Fahrzeuge dieser Nummer werden entweder von anderen Fahrzeugen (z.B. Traktoren,
+        Automobilen, Arbeitskarren, Motorrädern oder Fahrrädern) gezogen oder mit der Hand ge-
+        zogen bzw. geschoben oder mit dem Fuss gestossen oder von Tieren gezogen.
+
+        Hierher gehören:
+
+        A)   Anhänger, einschliesslich Sattelanhänger
+
+             Anhänger, einschliesslich Sattelanhänger, im Sinne dieser Nummer sind Fahrzeuge
+             (andere als Seitenwagen), die ausschliesslich dazu bestimmt sind, mit Hilfe einer be-
+             sonderen Vorrichtung (Kupplung), die auch automatisch sein kann, an andere Fahr-
+             zeuge angehängt zu werden.
+
+             Die wichtigste Gruppe der hierher gehörenden Anhänger sind die durch Motorfahr-
+             zeuge gezogenen Anhänger und Sattelanhänger. Anhänger sind in der Regel mit zwei
+             oder mehr Radsätzen und einer mit den beiden Vorderrädern verbundenen, drehba-
+             ren Anhängevorrichtung ausgestattet; die Vorderräder dienen dann bei diesen mehr-
+             achsigen Anhängern als Lenkräder. Sattelanhänger sind nur mit zwei Hinterrädern
+             ausgestattet. Der vordere Teil des Sattelanhängers liegt auf der Plattform des Zug-
+             fahrzeugs auf, mit dem er durch eine besondere Kupplung verbunden wird.
+
+             Die in den nachstehenden Erläuterungen verwendete Bezeichnung "Anhänger" be-
+             zieht sich auch auf Sattelanhänger.
+
+             Von den verschiedenen hierher gehörenden Anhängerarten können genannt werden:
+
+             1)   Wohnanhänger oder Anhänger für das Camping (sog. Caravans).
+
+             2)   Anhänger für landwirtschaftliche Zwecke, die mit Selbstladevorrichtung und evtl.
+                  mit Vorrichtungen zum Häckseln von Futter, Maisblättern usw. ausgestattet sind.
+
+                  Nicht hierher gehören dagegen Anhänger mit Selbstladevorrichtung und nichtab-
+                  nehmbarem Schneidewerk, die zum Mähen, Häckseln und Befördern von Gras,
+                  Mais usw. verwendet werden (Nr. 8433).
+
+             3)   Sog. "selbstentladende" Anhänger zum Befördern von verschiedenartigen Gütern
+                  (wie Viehfutter, Dünger usw.), die zur Erleichterung des Entladens einen Rollbo-
+                  den besitzen und die, um sie als Düngerstreuer, Futterausgeber oder Futter-
+                  rübenzuteiler verwenden zu können, mit entsprechenden Vorrichtungen (wie
+                  Düngerzerkleinerer, Futterschneider usw.) ausgestattet sind.
+
+
+
+
+                                     21/24 (Stand: 1.9.2025)
+                                                                                     8716
+
+     4)   Andere Anhänger zum Befördern von Waren, z.B.:
+          a)   Anhänger mit Kesselaufbau, auch solche, die zusätzlich mit einer Pumpe
+               ausgestattet sind.
+          b)   Anhänger für die Landwirtschaft (Ackerwagen) oder für den Strassen- und
+               Wegebau, auch mit Kippvorrichtung.
+          c)   Anhänger mit Kühleinrichtung (Kältesatz) oder mit Wärmeschutzisolierung,
+               zum Befördern von Lebensmitteln oder anderen verderblichen Waren.
+          d)   Spezialanhänger für den Möbeltransport.
+          e)   Ein- oder zweistöckige Anhänger, z.B. zum Befördern von Tieren, Automobi-
+               len oder Fahrrädern.
+          f)   Anhänger, die speziell für die Beförderung von bestimmten Waren, z.B. von
+               Glaswaren (Spiegeln usw.), eingerichtet sind.
+          g)   Schienen-Strassen-Anhänger (intermodal), die zwar hauptsächlich auf Stras-
+               sen fahren, aber infolge ihrer Bauart auch auf Spezialgüterwagen, deren
+               Plattform Führungsschienen trägt, befördert werden können.
+          h)   Mit Schienen ausgestattete Anhänger (Strassenroller) zum Befördern von Ei-
+               senbahnwagen auf der Strasse.
+          i)   Tiefladeanhänger, d.h. Anhänger mit niedriger Plattform und Auffahrtsrampe,
+               zum Befördern von schweren Lasten (z.B. von Kampfwagen, Kranen oder
+               Erdbewegungsmaschinen, elektrischen Transformatoren).
+          k)   Zwei- oder vierrädrige Untergestelle zum Befördern von Bauholz, Schnittholz
+               und dergleichen.
+          l)   Schleppachsen zum Befördern von Langholz.
+          m) Kleine Anhänger für Fahrräder oder Motorräder.
+
+     5)   Andere Anhänger, z.B.:
+          a)   Anhänger, die speziell zum Befördern von Personen eingerichtet sind.
+          b)   Wohnwagen oder -anhänger für Wanderschausteller (ausgenommen solcher,
+               die speziell als Teil von Schauständen hergerichtet sind (Nr. 9508)).
+          c)   Anhänger mit Einrichtung zum Ausstellen oder Vorführen von Waren.
+          d)   Anhänger mit eingebauter Bibliothek.
+
+B)   Fahrzeuge zum Ziehen oder Schieben mit der Hand oder zum Stossen mit dem Fuss
+
+     Als Erzeugnisse dieser Gruppe können genannt werden:
+     1)   Handtransportkarren aller Art, einschliesslich der Spezialhandkarren für bestimm-
+          te Industrien (z.B. für die Textilindustrie, die keramische Industrie oder für Molke-
+          reien).
+     2)   Schubkarren, Sackkarren und Muldenwagen, auch mit Kippmulde.
+     3)   Büffetwagen der Art, wie sie in Bahnhöfen verwendet werden und die nicht den
+          Charakter von Waren der Nr. 9403 aufweisen.
+     4)   Wagen und Karren, z.B. für die Müllabfuhr.
+     5)   Rikschas, d.h. leichte Wagen zum Befördern von Personen.
+     6)   Kleine Wagen mit gegen Wärme isoliertem Behälter, für den Eisverkauf.
+     7)   Handwagen aller Art zum Befördern von Waren; diese leichtgebauten Fahrzeuge
+          besitzen oft gummibereifte Räder.
+     8)   Handgelenkte Schlitten, zum Holztransport in Gebirgsländern.
+
+
+
+
+                              22/24 (Stand: 1.9.2025)
+                                                                                  8716
+
+      9)   Schlitten ("Kicksleds"), angetrieben durch das Abstossen des Fusses auf dem
+           schneebedeckten Boden, insbesondere bestimmt für den Personentransport und
+           subarktischen Regionen.
+
+      Hierher gehören nicht:
+      a) Fahrbare Mülltonnen (einschliesslich der im Freien verwendeten) (Nrn. 3924 oder
+          7323).
+      b) Gehhilfen, die auch als Rollatoren bezeichnet werden. Im Allgemeinen bestehen
+          sie aus einem Rahmen aus Metallrohren, der mit drei oder vier Rädern (davon
+          einzelne drehbar), Griffen und Handbremsen ausgerüstet ist (Nr. 9021).
+      c) Kleine fahrbare Behälter (Wagenkörbe usw.) die zwar Räder, aber kein Fahrge-
+          stell haben, z.B. aus Flechtwerk oder Blech bestehen und in Läden oder Waren-
+          häusern verwendet werden; sie sind nach Material und Beschaffenheit zu tarifie-
+          ren.
+
+C) Fahrzeuge zum Ziehen durch Tiere
+
+      Zu dieser Gruppe gehören insbesondere:
+      1)   Kutschen (Karossen), Kupees, Kaleschen, Droschken und Kabriolette.
+      2)   Leichenwagen.
+      3)   Trabrennwagen (Sulkys).
+      4)   Korbwagen für Kinder (zum Bespannen mit Eseln, Ziegen oder Ponys), wie sie
+           z.B. in öffentlichen Parkanlagen oder auf öffentlichen Plätzen verwendet werden.
+      5)   Lieferwagen aller Art sowie Möbelwagen.
+      6)   Kippkarren und andere Karren aller Art.
+      7)   Schlitten.
+
+             Fahrzeuge, auf denen Arbeitsmaschinen, -apparate
+                       oder -geräte angebracht sind
+
+Sind auf einem Fahrzeug dieser Nummer Maschinen, Apparate oder Geräte fest montiert
+und stellt das Ganze eine Einheit dar, so richtet sich die Tarifierung nach dem Teil der dem
+Ganzen den wesentlichen Charakter verleiht. Zu dieser Nummer gehören demnach Einhei-
+ten, denen das Fahrzeug den wesentlichen Charakter verleiht. Dagegen sind Einheiten,
+bei denen die Maschine, der Apparat oder das Gerät charakterbestimmend ist, von der Nr.
+8716 ausgenommen.
+
+Daraus ergibt sich, dass:
+I.    Wagen, Karren oder Anhänger mit Fässern oder Kesseln, einschliesslich solcher, die
+      zusätzlich mit einer Pumpe zum Füllen oder Entleeren der Fässer oder Kessel ausge-
+      stattet sind, hierher gehören.
+II.   von dieser Nummer ausgeschlossen und wie Arbeitsmaschinen, -apparate oder -
+      geräte zu tarifieren sind:
+
+      a)   Karren oder Wagen, auf die Apparate der Nr. 8424 aufgebaut sind (Nr. 8424).
+      b)   Maschinen, Apparate und Geräte, die auf einem einfachen Fahrgestell mit Rä-
+           dern aufgebaut sind und gezogen werden können, z.B. fahrbare Motorpum-
+           penaggregate und Motorkompressoraggregate (Nr. 8413 oder 8414) sowie fahr-
+           bare Krane und mechanische Leitern (Nr. 8426 oder 8428).
+      c)   Bestimmte Arten von Betonmischmaschinen (Nr. 8474).
+
+                                      Teile
+
+Hierher gehören auch Teile der hiervor erwähnten Fahrzeuge, sofern diese Teile die bei-
+den nachstehenden Voraussetzungen erfüllen:
+
+
+
+
+                              23/24 (Stand: 1.9.2025)
+                                                                                            8716
+
+            1.   sie müssen ihrer Beschaffenheit nach erkennbar ausschliesslich oder hauptsächlich
+                 für diese Fahrzeuge bestimmt sein.
+            2.   sie dürfen nicht durch die Anmerkungen zu Abschnitt XVII von diesem Abschnitt aus-
+                 genommen sein (siehe die entsprechenden Erläuterungen zu Abschnitt XVII, Allge-
+                 meines).
+
+            Als solche Teile können beispielsweise genannt werden:
+            1)   Fahrgestelle und Teile davon (z.B. Längsträger und Querträger).
+            2)   Achsen.
+            3)   Karosserien (Aufbauten) und Teile davon.
+            4)   Räder und Teile davon, einschliesslich Räder mit Luftbereifung.
+            5)   Anhängevorrichtungen.
+            6)   Bremsvorrichtungen und Teile davon.
+            7)   Deichseln, Wagenscheite und andere Wagnererzeugnisse.
+
+            Hierher gehören nicht Wintersportgeräte, wie Rodelschlitten, Bobschlitten und dergleichen
+            (Nr. 9506).
+
+                                   Schweizerische Erläuterungen
+
+8716.9000   Hierher gehören starre Wagenachsen, die erkennbar ausschliesslich oder vorwiegend für
+            Fahrzeuge der Nr. 8716 bestimmt sind. Sie können mit Lenkschenkeln und Bremstrom-
+            meln versehen sein. Treibachsen mit Differential, die sowohl bei gewissen Motorfahrzeu-
+            gen als auch bei landwirtschaftlichen Anhängerfahrzeugen usw. Verwendung finden, gehö-
+            ren zu Nr. 8708.
+
+
+
+
+                                         24/24 (Stand: 1.9.2025)
