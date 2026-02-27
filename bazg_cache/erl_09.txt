@@ -7,164 +7,324 @@
                                 Allgemeines
 
 
-Zu diesem Kapitel gehören Kaffee, Tee, Mate und Gewürze, soweit sie nicht in anderen
-Kapiteln einzureihen sind.
+Zu diesem Kapitel gehören:
+1)   Kaffee, Tee und Mate.
+2)   Eine Reihe von Waren, die reich an ätherischen Ölen und aromatischen Stoffen sind
+     und wegen ihres charakteristischen Geschmacks hauptsächlich zum Würzen verwen-
+     det und als Gewürze bezeichnet werden.
 
-Nicht hierher gehören:
-a) Arznei- und Heilkräuter (Nr. 1211);
-b) Parfums, Kosmetika und körperpflegende Mittel (Kapitel 33);
-c) Küchensalz und Salzsubstitute (Nr. 2501 oder 2103);
-d) Zubereitungen von Tee (Nr. 2101);
-e) Zubereitungen von Kaffee (Nr. 2101);
-f) Essig und Essigsubs titute (Nr. 2209).
+Die Waren dieses Kapitels können ganz, zerkleinert oder pulverisiert sein.
 
-0901.   Kaffee, auch geröstet oder entkoffeiniert; Kaffeeschalen und Kaffeehülsen;
-        Kaffee-Ersatz mit Kaffeegehalt, jeglicher Art
+Die Tarifierung von Mischungen von Waren der Nrn. 0904 bis 0910 ist in Anmerkung 1 zu
+diesem Kapitel geregelt. Nach dieser Vorschrift bleiben Waren der Nrn. 0904 bis 0910
+(einschliesslich der in den Absätzen a) und b) der genannten Anmerkung bezeichneten
+Mischungen), die andere Stoffe enthalten, im Kapitel 9, sofern sie den Charakter von Wa-
+ren dieser Nummern behalten haben.
+
+Das ist insbesondere der Fall bei Gewürzen und Gewürzmischungen mit Zusatz von:
+a)   Verdünnenden Stoffen, welche die Dosierung und homogene Verteilung des oder der
+     Gewürze in den Lebensmittelzubereitungen, denen sie zugesetzt werden, erleichtern
+     sollen (z.B. Getreidemehle, Paniermehl, Dextrose usw.).
+b)   Lebensmittel-Farbstoffen (z.B. Xanthophyll).
+c)   Synergisten d.h. Stoffen zur Steigerung des Geschmacks des oder der Gewürze (ins-
+     besondere Natriumglutamat).
+d)   Stoffen wie Salz oder chemischen Antioxidantien, im Allgemeinen in geringer Menge
+     zugefügt, um die gute Haltbarkeit der Waren sicherzustellen und die Dauer ihrer aro-
+     matisierenden Eigenschaften zu verlängern.
+
+Gewürze und Gewürzmischungen mit Zusatz von Stoffen aus anderen Kapiteln, die selbst
+aromatisierende oder würzende Eigenschaften haben, bleiben in diesem Kapitel, sofern
+die zugefügten Mengen derart sind, dass der Gewürzcharakter der Mischung nicht verän-
+dert wird.
+
+Zu diesem Kapitel gehören auch Mischungen aus Pflanzen, Pflanzenteilen, Samen oder
+Früchten (ganz, zerschnitten, zerkleinert oder pulverisiert) anderer Kapitel (z.B. Kapitel 7,
+11 und 12) von der Art, wie sie direkt zum Aromatisieren von Getränken oder zum Herstel-
+len von Auszügen für die Getränkeherstellung verwendet werden,
+1)   wenn die Mischung den wesentlichen Charakter eines oder mehrerer Produkte einer
+     einzelnen Nummer der Nrn. 0904 bis 0910 aufweist (Nrn. 0904 bis 0910, nach Art der
+     Ware);
+2)   wenn das Produkt den wesentlichen Charakter einer Mischung verschiedener Waren
+     der Nrn. 0904 bis 0910 aufweist (Nr. 0910).
+
+Mischungen, die weder Ziffer 1) noch 2) entsprechen, sind von diesem Kapitel ausge-
+nommen (Nr. 2106).
+
+
+
+
+                             1/6 (Stand: 1.10.2013)
+                                                                                       0901
+
+        Hierher gehören ausserdem nicht:
+        a) Küchenkräuter des Kapitels 7, wie Petersilie, Kerbel, Estragon, Kresse, Majoran, Kori-
+            ander und Dill.
+        b) Senfsaat (Nr. 1207) sowie Senfmehl, auch zubereitet (Nr. 2103).
+        c) Hopfen (Nr. 1210).
+        d) Gewisse Früchte, Samen und Pflanzenteile, wie z.B. Cassiahülsen, Rosmarin, Orega-
+            no, Basilikum, Borretsch, Ysop, Minzen aller Art, Raute und Salbei, die trotz ihrer
+            Verwendbarkeit als Gewürz vorwiegend zur Riechmittelherstellung oder für Zwecke
+            der Medizin verwendet werden und deshalb zu Nr. 1211 gehören.
+        e) Zusammengesetzte Würzmittel (Nr. 2103).
+
+                                Schweizerische Erläuterungen
+
+        Als "weder zerrieben noch in Pulverform" im Sinne dieses Kapitels gelten Erzeugnisse, die
+        ganz, auch geschält oder bloss in Stücke geschnitten sind. Ebenso gelten zufolge des
+        Transportes mehr oder weniger zerbröckelte Gewürze sowie Abfälle und Bruch von Ge-
+        würzen, welche bei der Ernte oder der mechanischen Bearbeitung üblicherweise anfallen
+        und als solche erkennbar sind, als "weder zerrieben noch in Pulverform". Hingegen gelten
+        durch absichtliches Zerkleinern gewonnene Produkte (z.B. Paprikaflocken) als "zerrieben
+        oder in Pulverform".
+
+0901.   Kaffee, auch geröstet oder entkoffeiniert; Kaffeeschalen und Kaffeehäutchen; Kaf-
+        fee-Ersatzmittel mit beliebigem Gehalt an Kaffee
 
         Hierher gehören:
-        1)   Roher Kaffee (nicht geröstet, nicht entkoffeiniert).
-        2)   Gerösteter Kaffee (nicht entkoffeiniert).
-        3)   Entkoffeinierter Kaffee (weder geröstet noch geröstet).
-        4)   Kaffeeschalen und Kaffeehülsen.
-        5)   Kaffee-Ersatz mit Kaffeegehalt.
+        1)   Kaffee, roh, in allen seinen Formen: als Kirschen, d.h. wie er vom Strauch geerntet
+             wird; als Bohnen in der gelblichen Schale; als Bohnen ohne Schale und Häutchen.
+        2)   Kaffee, entkoffeiniert, d.h. Kaffee, dem Koffein, im Allgemeinen durch Ausziehen aus
+             den rohen Bohnen mit Hilfe verschiedener Lösungsmittel, entzogen worden ist.
+        3)   Kaffee (auch entkoffeiniert), geröstet, auch gemahlen.
+        4)   Kaffeeschalen und -häutchen.
+        5)   Kaffee-Ersatzmittel, bestehend aus einem Gemisch von Kaffee in beliebigem Verhält-
+             nis mit anderen Stoffen.
 
-        Schweizerische Erläuterungen
-
-0901.10 Kaffee, nicht geröstet
-
-        Hierher gehören:
-        - grüner Kaffee (nicht geröstet, auch nicht entkoffeiniert);
-        - weisser Kaffee (Honey-Process-Kaffee), nicht geröstet.
-
-        Nicht hierher gehören:
-        - Chicorée und andere Kaffee-Ersatzmittel (Nr. 2101).
+        Hierher gehören nicht:
+        a) Kaffeewachs (Nr. 1521).
+        b) Auszüge oder Essenzen aus Kaffee, auch als Instant- Kaffee bezeichnet, und Zube-
+            reitungen auf der Grundlage solcher Auszüge oder Essenzen; geröstete Kaffee-
+            Ersatzmittel, die keinen Kaffee enthalten (Nr. 2101).
+        c) Koffein, ein Alkaloid aus Kaffee (Nr. 2939).
 
 0902.   Tee, auch aromatisiert
 
-        Hierher gehören:
-        - Schwarztee (fermentiert), auch aromatisiert;
-        - Grüntee (nicht fermentiert), auch aromatisiert;
-        - Oolong-Tee (halbfermentiert);
-        - Weisstee;
-        - Puerh-Tee;
-        - Tee-Mischungen.
+        Hierher gehören die verschiedenen Arten von Tee, der von Pflanzen der Gattung Thea
+        (Camellia) stammt.
 
-        Nicht hierher gehören:
-        - Kräuter- und Früchtetees (Nr. 1211 oder 2106);
-        - Aufgussbeutel aus Teekräutern (Nr. 2106 oder Nr. 1211).
+        Grüner Tee besteht aus den frischen Blättern, die hauptsächlich durch Erhitzen, Rollen
+        und Darren behandelt worden sind. Bei schwarzem Tee werden die Blätter gerollt und vor
+        dem Rösten oder Trocknen fermentiert.
+
+        Hierher gehört auch teilweise fermentierter Tee (z.B. Oolong- Tee).
+
+
+
+
+                                     2/6 (Stand: 1.10.2013)
+                                                                                       0903
+
+        Hierher gehören auch Teeblumen, Teeknospen und Abfälle; das gleiche gilt für Tee (Blät-
+        ter und Blumen oder Knospen), gemahlen oder zu Kugeln oder Tabletten agglomeriert,
+        sowie zusammengepresste Tees in verschiedenen Formen.
+
+        Tee, der durch Bedampfen (z.B. während der Fermentation) oder durch Zusatz von ätheri-
+        schen Ölen (z.B. Zitronenöl oder Bergamotteöl), von künstlichen Aromastoffen (in Form
+        von Kristallen oder pulverförmig) oder von Teilen verschiedener anderer Früchte oder
+        aromatisierender Pflanzen (wie Jasminblüten, getrocknete Orangenschalen oder Gewürz-
+        nelken) aromatisiert wurde, gehört ebenfalls zu dieser Nummer.
+
+        Tee, dem Koffein (Tein) entzogen ist, gehört ebenfalls zu dieser Nummer; Koffein (oder
+        Tein) gehört zu Nr. 2939.
+
+        Waren, die nicht von bestimmten Pflanzen der Gattung Thea stammen, jedoch manchmal
+        als "Tee" bezeichnet werden, sind von dieser Nummer ausgenommen, z.B.:
+        a) Mate (Paraguay-Tee) (Nr. 0903).
+        b) Waren zum Zubereiten von Aufgussgetränken. Diese gehören z.B. zu den Nrn. 0813,
+             0909, 1211 oder 2106.
+        c) Ginseng-Tee (Mischung von Ginseng-Extrakt und Laktose oder Glukose) (Nr. 2106).
 
 0903.   Mate
 
+        Mate besteht aus getrockneten Blättern einer in Südamerika wachsenden Stechpalmenart.
+        Man nennt ihn manchmal Paraguay-Tee oder Jesuiten-Tee. Er dient zur Bereitung eines
+        Aufgusses, der etwas Koffein enthält.
+
+0904.   Pfeffer der Gattung Piper; Früchte der Gattungen Capsicum oder Pimenta, getrock-
+        net oder zerrieben oder in Pulverform
+
+        1)   Pfeffer der Gattung Piper
+             Dies sind die Früchte aller Pfeffersträucher der Gattung Piper (ausgenommen Kube-
+             benpfeffer oder Piper cubeba der Nr. 1211). Die Haupthandelssorte stammt von Piper
+             nigrum und kann als schwarzer oder weisser Pfeffer gewonnen werden. Zur Gewin-
+             nung von schwarzem Pfeffer werden unreif geerntete Früchte an der Sonne oder im
+             Rauch getrocknet, manchmal nach einer Vorbehandlung in kochendem Wasser.
+             Weisser Pfeffer wird entweder aus reifen Früchten, die in Wasser eingeweicht oder
+             zum Gären auf Haufen geschüttet werden, oder aus schwarzem Pfeffer durch mecha-
+             nisches Entfernen der Schale gewonnen. Weisser Pfeffer, von gelbbrauner Farbe, ist
+             nicht so scharf wie schwarzer Pfeffer.
+             Langer Pfeffer (Piper longum) ist eine andere Pfefferart.
+             Hierher gehören auch Staub und Fegsel von Pfeffer.
+             Bestimmte Waren, die unzutreffend als Pfeffer bezeichnet werden (Indischer Pfeffer,
+             türkischer Pfeffer, spanischer Pfeffer, Cayennepfeffer, Jamaikapfeffer usw.) stammen
+             von Pflanzen der Gattungen Capsicum oder Pimenta.
+        2)   Früchte der Gattungen Capsicum oder Pimenta, getrocknet, zerrieben oder pulveri-
+             siert.
+             Die Früchte der Gattung Capsicum gehören im Allgemeinen zu den Arten Capsicum
+             frutescens oder Capsicum annuum, die sich in zwei Hauptgruppen, den Chilis oder
+             Guinea-Pfeffer und den Paprikas, gliedern. Sie umfassen verschiedene Sorten (Ca-
+             yenne-, Sierra Leone- oder Sansibar-Pfeffer, spanischer und ungarischer Paprika
+             usw.).
+
+
+
+
+                                      3/6 (Stand: 1.10.2013)
+                                                                                           0905
+
+               Zur Gattung Pimenta gehört u.a. Jamaikapfeffer, auch Nelkenpfeffer oder englischer
+               Pfeffer genannt.
+               Diese Früchte kennzeichnen sich durch einen sehr starken, scharfen, nachhaltig
+               brennenden Geschmack. Es gibt jedoch auch andere Varietäten von Capsicum, die
+               keinen brennenden Geschmack aufweisen (z.B. Capsicum annuum var. grossum).
+               Frische Früchte der Gattungen Capsicum oder Pimenta, weder zerrieben noch pulve-
+               risiert, gehören nicht zu dieser Nummer (Nr. 0709).
+
+0905.     Vanille
+
+          Vanille ist die sehr aromatische und schwärzliche Frucht (Schote) einer zur Familie der Or-
+          chideengewächse gehörenden Kletterpflanze. Neben der langen und der kurzen Vanille
+          gibt es noch eine sehr minderwertige Art (Vanilla pompona), die als Vanillon bezeichnet
+          wird und weich, fast klebrig und immer offen ist.
+
+          Hierher gehören nicht:
+          a) Vanille-Oleoresin, manchmal zu Unrecht auch als Vanille-Resinoide oder Vanille-
+              Extrakt bezeichnet (Nr. 1302).
+          b) Vanillezucker (Nr. 1701 oder 1702).
+          c) Vanillin, der Aromastoff der Vanille (Nr. 2912).
+
+0906.     Zimt und Zimtblüten
+
+          Zimt ist die innere Rinde junger Schösslinge gewisser zu den Lauraceen gehörender
+          Bäume. Sri-Lanka-(Ceylon)-Zimt, Seychellen-Zimt und Madagascar-Zimt (Cinnamomum
+          zeylanicum Blume) wird im Allgemeinen in Röhren von ineinander gerollten, mattgelben,
+          spielkartendicken Rindenstreifen gehandelt. Chinesischer (Cinnamomum cassia (Nees) ex
+          Blume), Indonesischer (Cinnamomum burmanii (C.G. Nees)) und Vietnamesischer (Cin-
+          namomum loureirii Nees) Zimt, auch Cassia oder gewöhnlicher Zimt genannt, besteht aus
+          dickeren, braun geäderten Rindenstreifen; er setzt sich aus nur einer gerollten Lage zu-
+          sammen. Weitere Sorten sind Cinnamomum obtusifolium, Cinnamomum tamala und Cin-
+          namomum sintek.
+
+          Hierher gehört auch der Zimtabfall, "Chips" genannt, der überwiegend zum Herstellen von
+          Zimt-Essenz verwendet wird.
+
+          Zimtblüten sind die gesiebten und getrockneten Blüten des Zimtbaumes. Es sind kleine,
+          keulenförmige Gebilde bis zu 1 cm Länge. Gemahlen werden sie dem Zimt beigemengt.
+
+          Die getrockneten Früchte des Zimtbaumes gehören ebenfalls hierher.
+
+0906.11   Zu dieser Unternummer gehört nur Zimt aus der Rinde junger Schösslinge des Baumes
+          Cinnamomum zeylanicum Blume, auch Sri-Lanka-(Ceylon)-Zimt, Seychellen-Zimt und Ma-
+          dagascar-Zimt genannt.
+
+          Die gebräuchlichsten Handelsformen umfassen Röhren, Bündel ineinander gerollter Röh-
+          ren, Stücke und Abfälle (Chips genannt).
+
+0907.     Gewürznelken (Mutternelken, Nelkenstiele)
+
+          Hierher gehören:
+          1)   Mutternelken, die Früchte des Gewürznelkenbaumes; sie sind nicht so kräftig im Ge-
+               schmack und Aroma wie die Gewürznelken.
+
+
+
+                                       4/6 (Stand: 1.10.2013)
+                                                                                           0908
+
+        2)   Gewürznelken, vor dem Entfalten geerntete und an der Sonne getrocknete Blüten-
+             knospen des Gewürznelkenbaumes.
+        3)   Nelkenstiele, die Blütenstiele des Gewürznelkenbaumes. Sie sind kleine, feine Stän-
+             gel von gräulicher Farbe und kräftigem Geruch.
+
+        Die Rinde und die Blätter des Gewürznelkenbaumes gehören zu Nr. 1211.
+
+0908.   Muskatnüsse, Muskatblüten, Amomen und Kardamomen
+
         Hierher gehören:
-        - Matebätter.
 
-        Nicht hierher gehört:
-        - Mate-Extrakt (Nr. 2101).
+        a)   Muskatnüsse, runde oder längliche, auch ohne Schale.
 
-0904.   Pfeffer (Gattung Piper); Früchte der Gattungen Capsicum oder Pimenta, getrocknet
-        oder gemahlen
+        b)   Muskatblüten (Macis), d.h. der Samenmantel der Muskatnuss, der sich zwischen
+             Fruchtfleisch und Samenschale befindet. Sie werden in Streifen geschnitten und be-
+             sitzen, sogar noch stärker ausgeprägt, die Eigenschaften der Muskatnuss. In frischem
+             Zustand sind sie leuchtend rot, werden jedoch mit zunehmendem Alter gelb, spröde
+             und durchscheinend wie Horn; gewisse Arten sind flachsfarben, manchmal weiss.
 
-        Hierher gehören:
-        1)   Schwarzer Pfeffer, weisser Pfeffer (Piper nigrum), getrocknet oder gemahlen.
-        2)   Langer Pfeffer (Piper longum), getrocknet oder gemahlen.
-        3)   Cubeben-Pfeffer (Piper cubeba), getrocknet oder gemahlen.
-        4)   Früchte der Gattungen Capsicum und Pimenta, getrocknet oder gemahlen (auch als
-             Paprika, Cayenne-Pfeffer, Guineapfeffer, Süsspaprika).
+        c)   Kardamomen, bei denen insbesondere zu unterscheiden ist zwischen:
+             1)   Traubenkardamom, der so genannt wird, weil die Früchte von Natur aus dicht an-
+                  einander gedrängt in Trauben angeordnet sind; er wird manchmal ganz, meist je-
+                  doch in Form von einzelnen Fruchtkapseln von der Grösse einer Weinbeere ge-
+                  handelt; diese Fruchtkapseln sind weisslich, rundlich mit drei stumpf hervortre-
+                  tenden Kanten, durchsichtig, häutig und innen in drei Fächer geteilt, in denen sich
+                  eine grosse Zahl sehr aromatischer Samen mit scharfem, pikantem Geschmack
+                  befindet.
+             2)   Kleinem und mittlerem Kardamom, Früchte, die nach Struktur und Eigenschaften
+                  dem Traubenkardamom ähnlich, jedoch dreikantig und länglich sind.
+             3)   Langem Kardamom, Früchte, die dreikantig und zwischen 27 und 40 mm lang
+                  sind und eine bräunliche Fruchtschale haben.
+             4)   Meleguetapfeffer oder Paradieskörner (Aframomum melegueta), der, fast immer
+                  ohne Fruchtschalen gehandelt, aus kleinen, länglichen, eckigen Samen mit rauer,
+                  glänzender Oberfläche besteht; diese Samen sind geruchlos, aber von scharfem,
+                  brennendem, pfefferartigem Geschmack.
 
-        Nicht hierher gehören:
-        - Peperoni, frisch oder gekühlt (Nr. 0709);
-        - Peperoni, vorrätig haltbar gemacht (Nr. 0711);
-        - Peperoni, gefroren (Nr. 0710);
-        - Peperoni, eingelegt (Kapitel 20).
+0909.   Anis-, Sternanis-, Fenchel-, Koriander-, Kreuzkümmel-, Kümmelfrüchte; Wacholder-
+        beeren
 
-0905.   Vanille
+        Diese Früchte oder Samen werden als Gewürze für Speisen verwendet. Sie werden auch
+        zum Herstellen von Getränken oder für Zwecke der Medizin gebraucht.
 
-        Hierher gehören:
-        - Vanilleschoten, nicht extrahiert.
+        Sie bleiben auch hier eingereiht, wenn sie, wie namentlich im Fall der Anissamen, insbe-
+        sondere in Beuteln, zum Zubereiten von Aufgussgetränken aufgemacht sind.
 
-        Nicht hierher gehören:
-        - Vanilleextrakt (Nr. 3302);
-        - Künstliche Vanille (Vanillin) (Nr. 2912).
+        Anisfrüchte sind eiförmig, längsgerippt, graugrün und von sehr charakteristischem aroma-
+        tischem Geruch und Geschmack. Sternanisfrüchte (Badian) sind sternförmig.
 
-0906.   Zimt und Zimtblüten
+        Koriander, Kreuzkümmel und Kümmel sind die aromatischen Samen gewisser Umbellife-
+        ren, die vor allem bei der Likörherstellung verwendet werden.
 
-        Hierher gehören:
-        - Echter Zimt (Cinnamomum zeylanicum) und Kassia-Zimt (Cinnamomum cassia);
-        - Zimtblüten.
 
-0907.   Nelken (Blüten, Blütenkelche und Stiele)
 
-        Hierher gehören:
-        - Gewnürznelken (Syzygium aromaticum).
 
-        Nicht hierher gehören:
-        - Zierblumen des Nelkenstrauches (Nr. 0603).
+                                      5/6 (Stand: 1.10.2013)
+                                                                                          0910
 
-0908.   Muskatnüsse, Muskatblüten und Kardamom
+        Fenchel sind die Samen oder Früchte der gleichnamigen Pflanze. Sie sind entweder dun-
+        kelgrau mit starkem, angenehmem Geruch oder blassgrün mit eigentümlichem mildem Ge-
+        ruch.
 
-        Hierher gehören:
-        1)   Muskatnuesse (Myristica fragrans), ganz oder gemahlen.
-        2)   Muskatblüten (Myristica fragrans), ganz oder gemahlen.
-        3)   Kardamom (Elettaria cardamomum), ganz oder gemahlen.
+        Wacholderbeeren sind dunkelbraun mit leicht violetter Tönung und haben einen harzarti-
+        gen Überzug; sie enthalten ein rötliches aromatisches Fruchtfleisch mit bitterem und leicht
+        süsslichem Geschmack, das drei kleine, sehr harte Samen umschliesst. Sie werden zum
+        Aromatisieren von verschiedenen alkoholischen Getränken (Gin), von Sauerkraut und an-
+        deren Nahrungsmittelzubereitungen sowie zur Gewinnung von ätherischem Öl verwendet.
 
-0909.   Samen von Anis, Sternanis, Fenchel, Koriander, Kuemmel, Kümmel oder Wachol-
-        der
-
-        Hierher gehören:
-        1)   Anissamen.
-        2)   Sternanissamen (Illicium verum).
-        3)   Fenchelsamen.
-        4)   Koriandersamen.
-        5)   Kümmelsamen (Carum carvi).
-        6)   Kuemsamen.
-        7)   Wacholdersamen.
-
-        Nicht hierher gehören:
-        - Kräuter und Pflanzen zum Herstellen von Tees (Nr. 1211 oder 2106);
-        - Samen, zu technischen Zwecken (Nr. 1207 oder 1209).
-
-0910.   Ingwer, Safran, Gelbwurz (Kurkuma), Thymian, Lorbeerblätter, Curry und andere
-        Gewürze
+0910.   Ingwer, Safran, Kurkuma, Thymian, Lorbeerblätter, Curry und andere Gewürze
 
         Hierher gehören:
-        1)   Ingwer.
-        2)   Safran.
-        3)   Gelbwurz (Kurkuma).
-        4)   Thymian.
-        5)   Lorbeerblätter.
-        6)   Curry.
-        7)   Andere Gewürze: z.B. Fenugreek (Bockshornklee), Bohnenkraut, Majoran, Oregano,
-             Rosmarin, Salbei, Bärenlauch, Senfkörner.
-
-        Schweizerische Erläuterungen
-
-        Mischgewürze ("Tandoori Masala", "Garam Masala", "Curry", "Ras-el-hanout" usw.) sind
-        als zusammengesetzte Würzmittel in Nr. 2103 einzureihen (auch wenn ein einzelnes Ge-
-        würz mengensmässig überwiegt).
-
-        Mischungen von Gewürzkräutern (z.B. "Bouquet garni", "Herbes de Provence") können
-        hierher eingereiht werden, sofern die Mischung ausschliesslich aus Gewürzkräutern
-        besteht.
-
-        Hierher gehören:
-        - Thymian;
-        - Origano;
-        - Rosmarin;
-        - Oregano;
-        - Salbei;
-        - Majoran;
-        - Bohnenkraut;
-        - Fenchel als Gewürz;
-        - getrockneter Lavendel;
-        - Basilikum als Gewürz.
-
-        Nicht hierher gehören:
-        - Frische Kräuter (Nr. 0709);
-        - Getrocknete Kräuter, zum Teil (Nr. 1211);
-        - Zusammengesetzte Würzmittel (Nr. 2103);
-        - Zubereitungen auf der Grundlage von Kräutern (Nr. 2106).
+        a)   Ingwer (einschliesslich frischer Ingwer, vorübergehend in Salzwasser haltbar ge-
+             macht, in diesem Zustand zur menschlichen Ernährung nicht geeignet); Ingwer, in Zu-
+             ckersirup konserviert, ist von dieser Nummer ausgenommen (Nr. 2008).
+        b)   Safran, d.h. die getrockneten Blütennarben und Blütengriffel der Pflanze gleichen
+             Namens (Crocus sativa). Er findet sich im Handel in Form eines orangeroten Pulvers;
+             sein Geruch ist stark, durchdringend und angenehm. Er enthält einen Farbstoff von
+             geringer Beständigkeit. Er wird als Gewürz, bei der Zuckerwarenherstellung und in der
+             Medizin verwendet.
+        c)   Kurkuma (Curcuma longa), wegen seiner goldgelben Farbe manchmal auch als "indi-
+             scher Safran" bezeichnet. Er wird entweder als ganzer Wurzelstock oder häufiger in
+             Pulverform gehandelt.
+        d)   Thymian (einschliesslich Feldthymian) und Lorbeerblätter, auch getrocknet.
+        e)   Currypulver, bestehend aus einer Mischung mit wechselndem Gehalt an Kurkuma,
+             verschiedenen anderen Gewürzen (z.B. Koriander, schwarzer Pfeffer, Kümmel, Ing-
+             wer und Gewürznelken) und sonstigen aromatisierenden Stoffen (z.B. Knoblauchpul-
+             ver), die, obwohl nicht zu diesem Kapitel gehörend, häufig nach Art der Gewürze ver-
+             wendet werden.
+        f)   Dillsamen (Anethum graveolens) und Bockshornkleesamen (Trigonella foenum grae-
+             cum).
+        g)   Mischungen von Waren der Nrn. 0904 bis 0910, wenn die Bestandteile der Mischung
+             zu verschiedenen Nummern gehören; das trifft z.B. für Gemische von Pfeffer
+             (Nr. 0904) mit Waren der Nr. 0908 zu.
 
 
 
 
-                                2/2 (Stand: 1.1.2026)
+                                     6/6 (Stand: 1.10.2013)
