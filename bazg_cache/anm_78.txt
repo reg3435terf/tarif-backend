@@ -1,0 +1,24 @@
+78 Blei und Waren daraus
+Unternummern-Anmerkung
+1. In diesem Kapitel gilt als «raffiniertes Blei»: Metall, welches mindestens 99,9 Gewichtsprozent Blei
+   enthält, sofern der Anteil irgendeines anderen Elementes die in der nachstehenden Tabelle aufge-
+   führten Grenzwerte nicht übersteigt:
+   Tabelle - andere Elemente
+       Element                   Grenzwert in Gewichtsprozent
+       Ag       Silber                       0,02
+       As       Arsen                        0,005
+       Bi       Wismut                       0,05
+       Ca       Calcium                      0,002
+       Cd       Cadmium                      0,002
+       Cu       Kupfer                       0,08
+       Fe       Eisen                        0,002
+       S        Schwefel                     0,002
+       Sb       Antimon                      0,005
+       Sn       Zinn                         0,005
+       Zn       Zink                         0,002
+       andere (z.B. Te), je                  0,001
+
+
+
+
+                                          1 (Stand: 1.1.2022)

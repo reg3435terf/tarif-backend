@@ -1,0 +1,74 @@
+84 Kernreaktoren, Kessel, Maschinen, Apparate und mechanische Geräte; Teile davon
+Anmerkungen
+1. Dieses Kapitel umfasst nicht:
+   a) Mühlsteine, Schleifsteine oder andere Waren des Kapitels 68;
+   b) Maschinen und Apparate (z.B. Pumpen) aus keramischen Stoffen sowie Teile solcher Waren aus
+      keramischen Stoffen (Kapitel 69);
+   c) Laborgeräte aus Glas (Tarifnummer 7017); Maschinen, Apparate, mechanische Geräte oder
+      andere Artikel zu technischen Zwecken aus Glas (Tarifnummer 7019 oder 7020);
+   d) Artikel der Tarifnummer 7321 (Herde, Öfen usw.) oder der Tarifnummer 7322 (Sammelheizungs-
+      kessel usw.) sowie Teile solcher Artikel aus Eisen oder Stahl; ähnliche Artikel sowie Teile davon
+      aus anderen unedlen Metallen (Kapitel 74 bis 76 und 78 bis 81);
+   e) staubsaugerartige Entstaubungsmaschinen des Kapitels 85;
+   f)  elektrische Haushalts-Wärmegeräte (Tarifnummer 8516);
+   g) Geräte des Kapitels 90;
+   h) Uhren, Armbanduhren und ähnliche Zeitmeßgeräte des Kapitels 91;
+   i)  Fahrzeuge, Schiffe und Luftfahrzeuge des Abschnitts XVII;
+   j)  Artikel des Abschnitts XXI (Kunstwerke, Sammlungsstücke und Antiquitäten).
+2. Vorbehaltlich der Anmerkung 3 zu diesem Kapitel und der Anmerkung 9 zu Abschnitt XVI werden
+   Maschinen für besondere Verwendungszwecke, auch wenn sie mit Datenverarbeitungsmaschinen
+   verbunden sind oder von solchen gesteuert werden, nach dem Kapitel eingereiht, das der Maschine
+   entspricht.
+3. Maschinen, die sich als geeignet erweisen, Waren herzustellen, die in verschiedene Kapitel einzu-
+   reihen sind, werden in dasjenige Kapitel eingereiht, das der hauptsächlichen Verwendung der
+   Maschine entspricht.
+4. Vorbehaltlich der Anmerkungen 1 und 2 zu Abschnitt XVI werden Maschinen und Apparate für die
+   chemische oder verwandte Industrie (einschliesslich Maschinen und Apparate zur Herstellung von
+   Gasen) sowie von Ölen, Fetten oder Fettsäuren und Apparate für die Aufbereitung von Industrie-
+   wasser nach Tarifnummer 8419 eingereiht, ausser wenn dies Maschinen und Apparate sind, die in
+   andere Tarifnummern von Kapitel 84 einzureihen sind.
+5. Maschinen und Apparate für die Wärmeerzeugung oder -übertragung werden wie folgt eingereiht:
+   a) Maschinen und Apparate, die vorwiegend der Wärmeerzeugung durch Verbrennung oder anderen
+      nichtelektrischen Prozessen dienen und die ausschliesslich oder hauptsächlich für die Beheizung
+      von Gebäuden, von Warm- oder Freibädern sowie zur Wassererwärmung verwendet werden,
+      werden nach Tarifnummer 8403 eingereiht;
+   b) Maschinen und Apparate mit Ausnahme derjenigen von Buchstabe a, die hauptsächlich
+      Wärme erzeugen oder übertragen, werden nach Tarifnummer 8419 eingereiht;
+   c) elektrische Maschinen und Apparate werden nach Tarifnummer 8516 eingereiht.
+6. In diesem Kapitel gilt als «automatische Datenverarbeitungsmaschine» eine Maschine, die die
+   folgenden Merkmale aufweist:
+   a) sie ist in der Lage, ein Verarbeitungsprogramm zu speichern und dieses Programm sowie das
+      Programm, das die Verarbeitung erfordert, auszuführen;
+   b) sie ist in der Lage, durch logische Entscheidungen, die während des Ablaufs des Verarbeitungs-
+      programms auftreten, ihr Programm frei zu ändern;
+   c) sie ist in der Lage, von dem Benutzer angegebene arithmetische Berechnungen durchzuführen;
+   d) sie ist in der Lage, ohne menschliches Eingreifen ein Verarbeitungsprogramm auszuführen,
+      welches das Eingreifen des Benutzers erfordert.
+   Lochkartengesteuerte Maschinen sind nicht als automatische Datenverarbeitungsmaschinen
+   einzureihen.
+7. Tarifnummer 8471 umfasst ausserdem automatische Datenverarbeitungsmaschinen in Form von
+   Systemen aus mehreren Einheiten.
+8. Tarifnummer 8472 umfasst Banknotenausgabeautomaten (Geldautomaten).
+9. Tarifnummer 8481 umfasst auch Hähne, Ventile und ähnliche Armaturen für Leitungsrohre und für
+   Behälter, einschliesslich Druckminderventile, thermostatische Ventile und Rückschlagventile.
+10. Für Tarifnummer 8482 gelten als «Wälzlager»:
+    a) Kugellager aller Art (einfache und mehrteilige Kugellager);
+    b) Nadellager;
+    c) Rollenlager (Tonnenlager, Kegelrollenlager, Zylinderrollenlager, Rillenlager, Pendelrollenlager
+       usw.).
+11. Tarifnummer 8483 umfasst Transmissionsriemen und -seile aller Art (Flachriemen, Keilriemen,
+    Gliederkeilriemen usw.), sofern sie für das Getriebe bestimmt sind, und zwar auch:
+    a) V-förmige Riemen;
+    b) geformte Transmissionsriemen;
+    c) unendliche Transmissionsriemen, in denen Fasern eingebettet sind.
+12. Für Tarifnummer 8484 gelten als «Dichtungspackungen und ähnliche Verbindungen aus metall-
+    beschichteten Geweben»:
+    a) Dichtungen und ähnliche Verbindungen aus Metallfolien über einem anderen Material;
+    b) Dichtungen und ähnliche Verbindungen aus zwei oder mehr Metalllagen.
+13. Tarifnummer 8485 umfasst auch Teile von Maschinen, die nicht in diesem Kapitel, sondern in einem
+    anderen Kapitel einzureihen sind, sofern sie aus 3D-Druck hergestellt wurden.
+
+
+
+
+                                          1 (Stand: 1.1.2022)

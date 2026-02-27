@@ -1,0 +1,14 @@
+88 Luftfahrzeuge, Raumfahrzeuge und Teile davon
+Anmerkungen
+1. Für Tarifnummer 8801 gilt als «Ballon»: ein Luftfahrzeug ohne Antrieb, das auf dem Auftrieb von
+   Gas basiert, das leichter als Luft ist.
+2. Für Tarifnummer 8802 gilt als «Luftfahrzeug»: ein Fahrzeug, das durch den aerodynamischen Auf-
+   trieb getragen wird.
+3. Unbemannte Luftfahrzeuge (UAV) werden nach Tarifnummer 8806 eingereiht.
+4. Für Tarifnummer 8807: Als «Teile» von Luftfahrzeugen gelten nicht elektrische Teile, die in anderen
+   Kapiteln einzureihen sind.
+
+
+
+
+                                          1 (Stand: 1.1.2022)
