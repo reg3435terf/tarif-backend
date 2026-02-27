@@ -12,7 +12,9 @@ CORS(app)
 
 # ── API Key (aus Render Environment Variable) ──
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL_QUALITY = "llama-3.3-70b-versatile"   # 6,000 TPM free tier
+GROQ_MODEL_FAST    = "llama-3.1-8b-instant"       # 131,072 TPM free tier
+GROQ_MODEL = GROQ_MODEL_FAST  # Default: high-throughput model
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # ── BAZG Cache Pfad ──
@@ -62,10 +64,10 @@ CHV 4: Behältnis = unmittelbare Umschliessung der Ware.
 - Kap. 25-97 (Industrieprodukte): seit 1.1.2024 weitgehend zollfrei (0 CHF)"""
 
 
-def call_groq(messages, max_tokens=2000, temperature=0.1, _retry=True):
-    """Groq API call with automatic 429 retry."""
+def _call_groq_model(model, messages, max_tokens, temperature):
+    """Perform a single Groq API call with the given model."""
     payload = json.dumps({
-        "model": GROQ_MODEL,
+        "model": model,
         "messages": messages,
         "max_tokens": max_tokens,
         "temperature": temperature,
@@ -78,17 +80,24 @@ def call_groq(messages, max_tokens=2000, temperature=0.1, _retry=True):
         "User-Agent": "Tarifierungstool/4.0"
     })
 
+    with urllib.request.urlopen(req, timeout=45) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+        content = data["choices"][0]["message"]["content"]
+        return json.loads(content)
+
+
+def call_groq(messages, max_tokens=2000, temperature=0.1, _retry=True):
+    """Groq API call. On 429, falls back to the high-throughput model."""
     try:
-        with urllib.request.urlopen(req, timeout=45) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-            content = data["choices"][0]["message"]["content"]
-            return json.loads(content)
+        return _call_groq_model(GROQ_MODEL, messages, max_tokens, temperature)
     except urllib.error.HTTPError as e:
-        if e.code == 429 and _retry:
-            # Rate limit: wait and retry once
-            retry_after = int(e.headers.get('Retry-After', 15))
-            time.sleep(min(retry_after, 20))
-            return call_groq(messages, max_tokens, temperature, _retry=False)
+        if e.code == 429 and _retry and GROQ_MODEL != GROQ_MODEL_FAST:
+            # Primary model rate-limited → fall back to high-throughput model
+            time.sleep(2)
+            try:
+                return _call_groq_model(GROQ_MODEL_FAST, messages, max_tokens, temperature)
+            except urllib.error.HTTPError as e2:
+                raise Exception(f"HTTP Error {e2.code}: {e2.reason}")
         raise Exception(f"HTTP Error {e.code}: {e.reason}")
 
 
