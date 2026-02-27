@@ -1,0 +1,663 @@
+74
+
+                               Kapitel 74
+
+                       Kupfer und Waren daraus
+
+                                Allgemeines
+
+Dieses Kapitel behandelt Kupfer und Kupferlegierungen, sowie gewisse Waren aus diesen
+Stoffen.
+
+Die Kupfergewinnung geht von den verschiedenen natürlichen Verbindungen (s. Erläute-
+rung zu Nr. 2603), sowie von gediegenem Metall, Kupferabfällen und Kupferschrott aus.
+
+Kupfer wird aus seinen sulfidischen Erzen durch ein Trocken- Extraktionsverfahren ge-
+wonnen, bei dem das pulverisierte und konzentrierte Erz - gegebenenfalls nach vorheri-
+gem Rösten zur Entfernung des überschüssigen Schwefels - in einem Ofen zur Gewin-
+nung von Matte oder Regulus geschmolzen wird.
+
+In gewissen Fällen wird das Erzkonzentrat ohne vorheriges Rösten in einem Lichtbogen-
+schmelzofen unter Zufuhr von Luft oder Sauerstoff geschmolzen (flash smelting).
+
+Die Kupfermatte wird in einem Konverter verblasen, um den grössten Teil des Eisens und
+Schwefels zu entfernen und Blisterkupfer (so genannt wegen seiner rauen und blasigen
+Oberfläche) zu gewinnen. Das Blisterkupfer wird zur Gewinnung von feuerraffiniertem Kup-
+fer in einem Flammofen raffiniert und gegebenenfalls anschliessend mittels Elektrolyse
+weiter raffiniert.
+
+Bei gewissen Erzen und gewissen Zwischenprodukten wird auch ein nassmetallurgisches
+Verfahren (Laugung) angewandt (s. Erläuterung zu Nr. 7401).
+
+Kupfer ist ein sehr dehnbares und gut verformbares Metall und nach dem Silber der beste
+Wärme- und Elektrizitätsleiter. In reinem Zustand findet es insbesondere in der Elektro-
+technik in Form von Draht und in der Industrie in Form von Rohrschlangen oder Platten als
+Kühlelement Verwendung; es eignet sich jedoch besonders in Form von Legierungen für
+zahlreiche Verwendungszwecke.
+
+Gemäss Anmerkung 5 zu Abschnitt XV (siehe "Allgemeines" zu diesem Abschnitt) gehören
+zu den Legierungen von Kupfer mit anderen unedlen Metallen, die wie Kupfer eingereiht
+werden können:
+1)   Legierungen auf Kupfer-Zinkbasis (Messing) mit unterschiedlichem Kupfer- und Zink-
+     gehalt (siehe Unternummern- Anmerkung 1a)), insbesondere gewöhnliches Messing
+     mit vielseitiger Verwendung umfassend und Tombak, der sich besonders zur Herstel-
+     lung von Phantasieschmuck eignet.
+     Kupfer-Zink-Legierungen mit geringen Mengen anderer Metalle ergeben Sondermes-
+     singsorten, die charakteristische Eigenschaften aufweisen. Von den Sondermes-
+     singsorten sind insbesondere zu nennen: Messing mit hoher Widerstandsfähigkeit
+     (auch Manganbronze genannt), das im Schiffsbau Verwendung findet, sowie Bleimes-
+     sing, Eisenmessing, Aluminiummessing und Siliciummessing.
+2)   Legierungen auf Kupfer-Zinnbasis (Bronze) (siehe Unternummern-Anmerkung 1b)),
+     die gegebenenfalls noch andere Elemente enthalten können, die der Legierung be-
+     sondere Eigenschaften verleihen. Insbesondere sind zu erwähnen: Münzenbronze;
+     Hartbronze für Getriebe, Gleitlager und andere Maschinenteile; Glockenbronze;
+     Kunstbronze; Bleibronze für Gleitlager; Phosphorbronze (desoxidierte Bronze), die für
+     die Herstellung von Federn und von Metallgeweben und -geflechten für Filter und Sie-
+     be verwendet wird, usw.
+3)   Legierungen auf Kupfer-Nickel-Zinkbasis (Neusilber) (siehe Unternummern-
+     Anmerkung 1c)), die eine gute Korrosionsbeständigkeit und gute mechanische Eigen-
+
+
+
+
+                             1/11 (Stand: 1.1.2024)
+                                                                                         7401
+
+             schaften besitzen. Sie werden hauptsächlich verwendet zur Herstellung von Geräten
+             für das Fernmeldewesen (insbesondere im Telefonbau), Instrumententeilen, von Qua-
+             litätsarmaturen und -zubehör zu Rohren, Reissverschlüssen, in der Elektroindustrie
+             (Klemmen, Federn, Verbindungen, Stromabnahmevorrichtungen usw.), in der Bau-
+             wirtschaft (als Handwerksbedarf und für Verzierungen, für die Herstellung von Metall-
+             konstruktionen) sowie für verschiedene Geräte der chemischen Industrie und der Nah-
+             rungsmittelindustrie. Gewisse Sorten von Neusilber werden auch zur Herstellung von
+             Tafelgeschirr und -bestecken usw. verwendet.
+        4)   Legierungen auf Kupfer-Nickelbasis (Kupronickel) (siehe Unternummer-Anmerkung
+             1d)), die oft geringe Mengen Aluminium oder Eisen enthalten und besonders korrosi-
+             onsbeständig gegen Meerwasser sind. Kupronickel wird deshalb in hohem Masse im
+             Schiffsbau, insbesondere für Kondensatoren und Rohrleitungen, jedoch auch zur Her-
+             stellung von Münzen und elektrischen Widerständen verwendet.
+        5)   Aluminiumbronze, die im Wesentlichen aus Kupfer mit Aluminiumzusatz besteht und
+             wegen ihrer hervorragenden mechanischen Eigenschaften und ihrer Korrosionsbe-
+             ständigkeit bei bestimmten mechanischen Konstruktionen Verwendung findet.
+        6)   Berylliumkupfer (manchmal Berylliumbronze genannt), das im Wesentlichen aus Kup-
+             fer mit Berylliumzusatz besteht. Diese Legierung wird wegen ihrer hervorragenden
+             mechanischen Eigenschaften und ihrer hohen Korrosionsbeständigkeit für die Herstel-
+             lung von Federn aller Art, von Gussformen für Kunststoffe, von Elektroden für die Wi-
+             derstands-Schweissung und von nicht pyrophoren Werkzeugen verwendet.
+        7)   Siliciumkupfer, das im Wesentlichen aus Kupfer oder Messing mit Siliciumzusatz be-
+             steht. Es hat hervorragende mechanische Eigenschaften und eine hohe Korrosions-
+             beständigkeit und wird insbesondere bei der Herstellung von Lagerbehältern, Bolzen
+             und anderen Befestigungselementen verwendet.
+        8)   Chromkupfer, das hauptsächlich zur Herstellung von Elektroden für die Widerstands-
+             Schweissung verwendet wird.
+
+        Zu diesem Kapitel gehören:
+        A)   Matten und andere Zwischenerzeugnisse der Kupfergewinnung, Kupfer in Rohform
+             sowie Abfälle und Schrott (Nrn. 7401 bis 7405).
+        B)   Pulver und Flitter aus Kupfer (Nr. 7406).
+        C) Halberzeugnisse, die gewöhnlich durch Walzen, Ziehen oder Schmieden von Kupfer
+           der Nr. 7403 hergestellt werden (Nrn. 7407 bis 7410).
+        D) Eine gewisse Anzahl genau bezeichneter Waren (Nrn. 7411 bis 7418), sowie eine
+           Gruppe anderer Waren aus Kupfer, die weder in der Anmerkung 1 zu Abschnitt XV,
+           noch in den Kapiteln 82 oder 83 oder an anderer Stelle der Nomenklatur aufgeführt
+           sind (Nr. 7419).
+
+        Die Halberzeugnisse und Waren dieses Kapitels werden zur Verbesserung der Eigen-
+        schaften oder des Aussehens des Metalls häufig verschiedenen Bearbeitungen unterzo-
+        gen. Bei diesen Bearbeitungen, die keinen Einfluss auf die Einreihung der Waren haben,
+        handelt es sich im Allgemeinen um die im Abschnitt "Allgemeines" zu Kapitel 72 beschrie-
+        benen Verfahren.
+
+        Bezüglich der Bestimmungen betreffend zusammengesetzte Waren, insbesondere der
+        Fertigwaren, wird auf den Abschnitt "Allgemeines" zu Abschnitt XV verwiesen.
+
+7401.   Kupfermatte; Zementkupfer (gefälltes Kupfer)
+
+        A)   Kupfermatte
+
+             Kupfermatte entsteht dadurch, dass geröstete sulfidische Kupfererze geschmolzen
+             werden, um das Kupfersulfid vom Ganggestein und den anderen Metallen zu trennen,
+             die sich in Form von Schlacken an der Oberfläche der Matte absetzen. Kupfermatte
+
+
+
+
+                                      2/11 (Stand: 1.1.2024)
+                                                                                          7402
+
+             besteht also im Wesentlichen aus Kupfer- und Eisensulfiden und liegt im Allgemeinen
+             in Form von schwarzen oder braunen Körnern (Granalien) (die beim Eingiessen der
+             geschmolzenen Matte in Wasser entstehen) oder von grossen Brocken mit stumpfem,
+             metallischem Aussehen vor.
+
+        B)   Zementkupfer (gefälltes Kupfer)
+
+             Zementkupfer (gefälltes Kupfer) wird durch Ausfällen mit Eisen (Zementation) gewon-
+             nen; bei diesem Verfahren wird einer wässrigen Kupfersalzlösung, die durch Auslau-
+             gen bestimmter gerösteter Erze oder Zwischenprodukte entstanden ist, Eisen zuge-
+             setzt. Zementkupfer liegt in Form eines staubfeinen schwarzen Pulvers vor, das Oxide
+             und unlösliche Verunreinigungen enthält. Es findet manchmal in Anstrichen für Fäul-
+             nisschutz sowie in Fungiziden für die Landwirtschaft Verwendung, doch wird es meist
+             der Charge eines Schmelzofens zur Herstellung von Kupfermatte beigemengt.
+
+             Zementkupfer darf jedoch nicht mit Kupferpulver der Nr. 7406 verwechselt werden,
+             das keine Verunreinigungen enthält.
+
+7402.   Nicht raffiniertes Kupfer; Kupferanoden für die elektrolytische Raffination
+
+        Diese Nummer umfasst:
+        1)   Schwarzkupfer; dieses Erzeugnis stellt unreines, durch Reduktion von oxidischen
+             Kupfererzen oder unreinen Kupferabfällen im Flamm-, Schacht- oder Elektroofen ge-
+             wonnenes Rohkupfer dar. Der Kupfergehalt variiert beträchtlich, gewöhnlich in
+             Grenzwerten zwischen 60 und 85 Gewichtsprozent.
+        2)   Blisterkupfer (Blasenkupfer, Konverterkupfer); dieses Erzeugnis stellt unreines, durch
+             Verblasen von flüssiger Kupfermatte hergestelltes Rohkupfer dar. Beim Verblasen der
+             Kupfermatte oxidieren Schwefel, Eisen und andere Unreinheiten. Der Kupfergehalt
+             beträgt normalerweise ca. 98 Gewichtsprozent.
+        3)   Kupferanoden für die elektrolytische Raffination
+             Im Schmelzfluss vorraffiniertes Kupfer wird zu Anoden gegossen, die der zusätzlichen
+             elektrolytischen Raffination unterzogen werden. Die Anoden haben im Allgemeinen
+             die Form gegossener Platten, die mit zwei Haken zum Einhängen in das elektrolyti-
+             sche Bad versehen sind. Sie dürfen nicht mit Anoden zum galvanischen Verkupfern
+             verwechselt werden (Nr. 7419).
+
+
+
+
+                                      3/11 (Stand: 1.1.2024)
+                                                                                                              7403
+
+                                         Schweizerische Erläuterungen
+
+        Allgemeine Hinweise zu den Nrn. 7402 und 7403
+
+        Die folgenden Skizzen stellen Erzeugnisse der Nrn. 7402 und 7403 dar und sollen deren
+        Tarifeinstufung erleichtern.
+
+
+
+
+            Französische Bezeich- Deutsche Bezeichnung Italienische Bezeich- Englische Bezeichnung
+                     nung                                         nung
+        1        cuivre blister    Blisterkupfer Konver- rame blister rame da     blister copper
+                                  terkupfer Blasenkupfer convertitore rame nero
+
+        2           anodes               Anoden für Raffinade             anodi            refinery anode/s
+
+        3          cathode/s                   Kathode/n                  catodi              cathode/s
+
+        4         barre/s à fil               Drahtbarren             barre da filo           wirebar/s
+
+        5     plaque/s à laminer          Walzplatte/ Walzbar- lastre e billette rotonde    cake/s slab/s
+             plateau/x à laminer                  ren
+
+        6   billette/s, lopin/s bloc/s    Pressbolzen, Press-            masselli              billet/s
+                    de presse             block, Pressbaren,
+                                         Rundbolzen, Rundbar-
+                                                  ren
+
+        7      lingot/s lingotin/s         Blöckchen Massel              lingotti              ingot/s
+
+
+        8       lingot/s-barre/s         Kerbbarren, Kerbmalle      lingotti a tacche        ingot bar/s
+
+
+
+
+7403.   Raffiniertes Kupfer und Kupferlegierungen, in Rohform
+
+        Diese Nummer umfasst raffiniertes Kupfer und Kupferlegierungen, in Rohform, wie in den
+        Anmerkungen 1a) und 1b) zu diesem Kapitel umschrieben.
+
+        Raffiniertes Kupfer mit einem minimalen Kupfergehalt von 99,85 Gewichtsprozent wird
+        entweder durch elektrolytische Raffination, durch elektrolytischen Abbau, durch chemische
+        Raffination oder Feuerraffination gewonnen. Eine andere Art von raffiniertem Kupfer (mit
+        einem minimalen Kupfergehalt von 97,5 Gewichtsprozent) wird hergestellt, indem man
+
+
+
+
+                                                4/11 (Stand: 1.1.2024)
+                                                                                        7404
+
+        dem oben erwähnten raffinierten Kupfer eines oder mehrere anderer Elemente bis zu dem
+        in der Tabelle zu Anm. 1 a) zu diesem Kapitel aufgeführten Maximalanteil beifügt.
+
+        Es wird zu Rohblöcken (Ingots) oder Kerbblöcken, die zum Umschmelzen (insbesondere
+        zur Herstellung von Legierungen) bestimmt sind oder zu Drahtbarren, Walzplatten, Rund-
+        knüppeln und ähnlichen Formen gegossen, die zum Walzen, Strangpressen, Ziehen und
+        Schmieden verwendet werden und zum Herstellen von Platten, Blechen, Bändern, Draht,
+        Rohren und anderen Produkten dienen.
+
+        Nach dem elektrolytischen Verfahren raffiniertes Kupfer hat manchmal die Form von Ka-
+        thoden in Platten oder Tafeln, die mit zwei Haken versehen sind, an denen die Unterleg-
+        bleche (Startbleche) im elektrolytischen Bad aufgehängt waren. Sie werden teils in dieser
+        Form gehandelt, teils ohne Haken, teils auch in mehrere Abschnitte zerteilt.
+
+        Raffiniertes Kupfer kann auch die Form von Körnern (Granalien) aufweisen, die haupt-
+        sächlich zur Herstellung von Legierungen verwendet oder manchmal auch zu Pulver ver-
+        mahlen werden. Pulver und Flitter aus Kupfer gehören jedoch zu Nr. 7406.
+
+        Hierher gehören auch gegossene oder gesinterte Brammen, Rundstäbe, Stäbe, Rohblöcke
+        (Ingots) usw., unter der Voraussetzung, dass sie nach ihrer Herstellung keine weiterge-
+        henden Bearbeitungen erfahren haben als grobes Abgraten oder Entzundern durch Ent-
+        fernen der obersten Schicht (mehrheitlich aus Kupferoxid bestehend) oder durch Abscha-
+        ben, Meisseln, Schleifen und dergleichen, um beim Erkalten oder beim Giessen entstan-
+        dene Fehler zu beseitigen, oder solche, die lediglich auf einer Seite zu Untersuchungs-
+        zwecken (Qualitätsprüfung) bearbeitet wurden.
+
+        Gesinterte Erzeugnisse werden aus Pulver aus Kupfer oder Kupferlegierungen oder aus
+        Kupferpulver vermischt mit Pulver anderer Metalle durch Druck (Kompression) und Sintern
+        (Erhitzen auf eine unter dem Schmelzpunkt der Metalle liegende Temperatur) hergestellt.
+        In gesintertem Zustand sind die Erzeugnisse porös und von geringer mechanischer Wider-
+        standskraft; sie werden im Allgemeinen gewalzt, gezogen, geschmiedet usw., um die er-
+        forderliche Dichte zu erhalten. Diese durch Walzen usw. hergestellten Erzeugnisse gehö-
+        ren nicht hierher (z.B. Nrn. 7407, 7409).
+
+        Zu dieser Nummer gehören auch Drahtbarren und Knüppel, die lediglich zum leichteren
+        Einführen in die Maschinen, in denen sie z.B. zu Walzdraht oder Röhren umgeformt wer-
+        den, an beiden Enden zugespitzt oder anderweitig bearbeitet worden sind.
+
+        Vorbehältlich der vorstehenden Bestimmungen bezüglich der Bearbeitungen, die sie nach
+        der Herstellung erfahren dürfen, gehören zu den Stäben dieser Nummer insbesondere:
+        1.   Durch Präzisionsguss in Spezialformen hergestellte, allgemein als massive Jets
+             (Gussstücke) bezeichnete Erzeugnisse mit rundem, quadratischem oder sechsecki-
+             gem Querschnitt und einer Länge von im Allgemeinen nicht mehr als einem Meter.
+        2.   Längere Erzeugnisse werden in einem kontinuierlichen Giessverfahren hergestellt, in-
+             dem das geschmolzene Metall kontinuierlich in eine wassergekühlte Form gegossen
+             wird, in der es rasch erstarrt.
+
+        Jets und auch die kontinuierlich gegossenen Stäbe und Stangen (Stranggiessen) werden
+        häufig für die gleichen Zwecke verwendet, wie die gewalzten oder gezogenen Stäbe und
+        Stangen.
+
+7404.   Abfälle und Schrott, aus Kupfer
+
+        Die Bestimmungen der Erläuterung zu Nr. 7204, die sich auf Abfälle und Schrott aus Eisen
+        beziehen, gelten mutatis mutandis auch für diese Nummer. Kupferhaltige Schlacken,
+        Aschen und Rückstände gehören jedoch zu Nr. 2620. Die Abfälle dieser Nummer umfas-
+        sen insbesondere den beim Ziehen von Kupfer entstehenden Schlamm, der hauptsächlich
+        aus Kupferpulver besteht, das mit den beim Ziehvorgang verwendeten Schmiermitteln
+        vermischt ist.
+
+
+
+
+                                     5/11 (Stand: 1.1.2024)
+                                                                                         7405
+
+        Von dieser Nummer ausgenommen sind durch Wiedereinschmelzen von Abfällen und
+        Schrott aus Kupfer hergestellte Rohblöcke (Ingots) und ähnliche Rohformen (Nr. 7403).
+
+7405.   Kupfervorlegierungen
+
+        Kupfervorlegierungen werden in Anmerkung 1c) zu diesem Kapitel umschrieben.
+
+        Die Vorlegierungen dieser Nummer sind Legierungen, die neben mehr als 10 Gewichts-
+        prozent Kupfer noch andere Elemente enthalten und die aufgrund ihrer Zusammensetzung
+        zu spröde sind, um verformt zu werden. Sie werden dazu verwendet, dem Messing, der
+        Bronze oder der Aluminiumbronze andere Elemente zuzusetzen, die entweder einen höhe-
+        ren Schmelzpunkt als diese Legierungen haben, oder stark oxidierbar (Aluminium, Cadmi-
+        um, Arsen, Magnesium usw.), oder bei Schmelztemperatur sublimierbar sind, oder die die
+        Herstellung gewisser Legierungen durch Zusatz desoxidierender, entschwefelnder oder
+        ähnlicher Elemente (z.B. Cadmium) erleichtern.
+
+        Weil Kupfer für die anderen Elemente wie ein Lösungs- oder Verdickungsmittel wirkt, muss
+        der Anteil dieses Metalls ausreichend sein, um die Schmelztemperatur herabzusetzen
+        oder die Oxidations- oder Sublimierungswirkung zu erhöhen. Ist der Kupferanteil zu hoch,
+        verdünnt dieses Metall die anderen, der Legierung beigefügten Elemente übermässig. Der
+        Kupferanteil beträgt in der Regel 30 bis 90%, kann aber in besonderen Fällen diese Werte
+        über- oder unterschreiten.
+
+        Kupfer-Nickel gehört nicht zu dieser Nummer, auch wenn er zur Verwendung als Kupfer-
+        vorlegierung bestimmt ist, da er sich, unabhängig von seiner Zusammensetzung, zum
+        Walzen oder Schmieden eignet. Legierungen, wie Mangan-Kupfer und Silicium-Kupfer
+        eignen sich, je nach Anteil der einzelnen darin enthaltenen Metalle, zum Walzen oder
+        Schmieden. Hierher gehören nur solche, die sich praktisch weder walzen noch schmieden
+        lassen.
+
+        Von den von dieser Nummer erfassten Kupfervorlegierungen sind zu nennen: Kupfer-
+        Aluminium, Kupfer-Beryllium, Kupfer-Bor, Kupfer- Cadmium, Kupfer-Chrom, Kupfer-Eisen,
+        Kupfer-Magnesium, Kupfer- Mangan, Kupfer-Molybdän, Kupfer-Silicium, Kupfer-Titan oder
+        Kupfer-Vanadium.
+
+        Kupferlegierungen haben gewöhnlich die Form von kleinen, leicht zu zerkleinernden Bro-
+        cken (Blocks oder Cakes), brüchigen Stäbchen oder von Körnern (Granalien) und sehen
+        aus wie Rohgussstücke.
+
+        Verbindungen von Phosphor und Kupfer (Kupferphosphid) mit einem Gehalt an Phosphor
+        von mehr als 15 Gewichtsprozent gehören zu Nr. 2853.
+
+7406.   Pulver und Flitter, aus Kupfer
+
+        Diese Nummer umfasst Pulver aus Kupfer, wie in Anmerkung 8b) zu Abschnitt XV um-
+        schrieben, sowie Flitter aus Kupfer, mit Ausnahme des Zementkupfers (gefälltes Kupfer),
+        welches zu Nr. 7401 gehört. Vorbehältlich der Bestimmungen der Anmerkung 7 zu Ab-
+        schnitt XV gehören zu dieser Nummer auch Gemische von Kupferpulver und Pulver aus
+        anderen unedlen Metallen (insbesondere sogenanntes Bronzepulver, das aus einer einfa-
+        chen Mischung von Kupfer- und Zinnpulver besteht).
+
+        Kupferpulver wird hauptsächlich durch elektrolytischen Niederschlag oder durch Zerstäu-
+        ben eines aus einer engen Düse austretenden Strahls geschmolzenen Metalls, der durch
+        einen mit hoher Geschwindigkeit senkrecht dazu fliessenden Strom von Wasser, welcher
+        unter Druck von Dampf, Luft oder anderen Gasen geführt wird, gewonnen.
+
+        Ausser durch diese beiden wichtigsten Verfahren kann Kupferpulver in kleinerem Umfang
+        auch durch Reduktion fein verteilter Oxide mit Gasen, durch Ausfällen aus gewissen Lö-
+        sungen oder durch feines Zerkleinern von massivem Kupfer erhalten werden. Pulver mit
+        Lamellenstruktur und Flitter werden im Allgemeinen durch Zerreiben von Folien hergestellt.
+
+
+
+
+                                    6/11 (Stand: 1.1.2024)
+                                                                                          7407
+
+        Die Lamellenstruktur lässt sich bei Flittern mit dem blossen Auge oder mit der Lupe, bei
+        den echten Pulvern nur mit dem Mikroskop erkennen.
+
+        Die Abmessungen dieser Erzeugnisse und deren Form (mehr oder weniger unregelmäs-
+        sig, knollig, kugelig oder lamellenförmig) hängen vom Herstellungsverfahren ab. Pulver mit
+        Lamellenstruktur sind oft glänzend und enthalten in der Regel Spuren von fett- oder
+        wachshaltigen Stoffen (insbesondere Stearinsäure oder Paraffin), die im Verlauf der Her-
+        stellung verwendet werden.
+
+        Pulver aus Kupfer wird durch Pressen und Sintern zu Lagerschalen, Muffen und anderen
+        technischen Bestandteilen verarbeitet. Es findet ebenfalls Verwendung als Reagens in der
+        Chemie oder der Metallurgie, zum Schweissen und Hartlöten, bei der Herstellung be-
+        stimmter Spezialzemente, zum Überziehen nichtmetallischer Oberflächen, als Träger (Ba-
+        sis) in der Galvanoplastik usw., Pulver mit Lamellenstruktur werden hauptsächlich als
+        Farbpigmente bei der Tinten- und Farbenherstellung verwendet. Flitter dienen zur unmit-
+        telbaren Verwendung als Metallfarbe durch Trockenzerstäubung, z.B. auf eine Lack-
+        schicht.
+
+        Hierher gehören ebenfalls nicht:
+        a) Bestimmte mitunter als Bronzen oder Gold bezeichnete Erzeugnisse, die gewöhnlich
+            die Form von Flittern oder Pulver haben und bei der Herstellung von Farben verwen-
+            det werden, in Wirklichkeit aber aus chemischen Verbindungen, wie bestimmten Anti-
+            monsalzen, Zinnsulfid usw. bestehen (Kapitel 28 oder Kapitel 32, wenn sie als zube-
+            reitete Anstrichfarbe vorliegen).
+        b) Pulver und Flitter, die zubereitete Farben oder Anstrichfarben sind, z.B. solche, die
+            Farbstoffen beigemengt oder in Suspensionen, Dispersionen oder Pasten in einem
+            Binde- oder Lösungsmittel aufgemacht sind (Kapitel 32).
+        c) Granalien aus Kupfer (Nr. 7403).
+        d) Zugeschnittener Flitter der Nr. 8308.
+
+7407.   Stäbe, Stangen und Profile, aus Kupfer
+
+        Stäbe und Stangen werden in Anmerkung 9 a) und Profile in Anmerkung 9 b) zum Ab-
+        schnitt XV umschrieben.
+
+        Diese Erzeugnisse werden gewöhnlich durch Walzen, Strangpressen oder Ziehen, aber
+        mitunter auch durch Schmieden (auf der Presse oder mit dem Hammer) hergestellt. Sie
+        können (gegebenenfalls nach dem Glühen) auf kaltem Wege durch Strecken, Richten oder
+        andere Verfahren fertiggestellt werden, die den Erzeugnissen einen höheren Fertigungs-
+        grad verleihen. Sie können auch bearbeitet (gelocht, gedreht, gewellt usw.) sein, sofern sie
+        durch diese Bearbeitungen nicht den Charakter von Waren erhalten haben, die an anderer
+        Stelle erfasst sind. Ebenfalls zu dieser Nummer gehören Profile mit geschlossenem Hohl-
+        raum (Hohlprofile). Ferner umfasst diese Nummer durch Strangpressen hergestellte Rip-
+        penrohre. Dagegen gehören Rohre mit z.B. aufgeschweissten Rippen nicht hierher (in der
+        Regel zur Nr. 7419).
+
+        Die durch Giessen (einschliesslich des sogenannten Jetverfahrens und des kontinuierli-
+        chen Giessverfahrens mittels senkrechter Gussform) oder durch Sintern hergestellten Stä-
+        be und Stangen gehören zu Nr. 7403, sofern sie nach ihrer Herstellung keine über ein gro-
+        bes Abgraten (Putzen) oder Entzundern hinausgehende Bearbeitung erfahren haben.
+        Weisen sie jedoch eine weitergehende Bearbeitung auf, so bleiben sie in dieser Nummer,
+        sofern sie durch diese Bearbeitung nicht den Charakter von Waren erhalten haben, die zu
+        anderen Tarifnummern gehören.
+
+        Drahtbarren und Knüppel, die lediglich zum leichteren Einführen in die Maschinen, in de-
+        nen sie z.B. zu Walzdraht oder Röhren umgeformt werden, an beiden Enden zugespitzt
+        oder anderweitig bearbeitet worden sind, gehören jedoch zu Nr. 7403.
+
+
+
+
+                                     7/11 (Stand: 1.1.2024)
+                                                                                             7408
+
+7408.   Draht aus Kupfer
+
+        Draht ist in Anmerkung 9 c) zum Abschnitt XV umschrieben.
+
+        Draht wird durch Walzen, Strangpressen oder Ziehen hergestellt und stets aufgerollt. Die
+        Bestimmungen des zweiten Abschnittes der Erläuterung zu Nr. 7407 sind mutatis mutandis
+        anwendbar.
+
+        Hierher gehören nicht:
+        a) Steriler, dünner Bronzedraht zur Verwendung als chirurgisches Nähmittel (Nr. 3006).
+        b) Metallgarne und metallisierte Garne der Nr. 5605.
+        c) Bindfäden und Seile mit Metalleinlage (Nr. 5607).
+        d) Kabel und andere Waren der Nr. 7413.
+        e) Überzogene Drähte und Stäbe zum Schweissen oder Auftragen von Metall (Nr. 8311).
+        f) Isolierte Drähte für die Elektrotechnik (einschliesslich Lackdraht) (Nr. 8544).
+        g) Musiksaiten (Nr. 9209).
+
+7409.   Bleche und Bänder, aus Kupfer, mit einer Dicke von mehr als 0,15 mm
+
+        Diese Nummer umfasst die in der Anmerkung 9 d) zum Abschnitt XV umschriebenen Er-
+        zeugnisse, deren Dicke mehr als 0,15 mm beträgt.
+
+        Bleche und Bänder werden im Allgemeinen durch Warm- oder Kaltwalzen gewisser Er-
+        zeugnisse der Nr. 7403 hergestellt; Bänder können auch durch Zerschneiden von Tafeln
+        hergestellt werden.
+
+        Diese Waren verbleiben in dieser Nummer, selbst wenn sie bearbeitet (z.B. anders als
+        quadratisch oder rechteckig zugeschnitten, gelocht, gewellt, geriffelt, gerillt, poliert, über-
+        zogen, geprägt oder an den Kanten abgerundet) sind, sofern sie durch diese Bearbeitun-
+        gen nicht den Charakter von Waren erhalten haben, die an anderer Stelle erfasst sind
+        (siehe Anmerkung 9 d) zu Abschnitt XV).
+
+        Bei der Ermittlung des Grenzwertes von 0,15 mm Dicke ist eine allfällige Überzugsschicht
+        (Lack usw.) miteinzubeziehen.
+
+        Hierher gehören nicht:
+        a) Blattmetall und dünne Bänder mit einer Dicke von nicht mehr als 0,15 mm (Nr. 7410).
+        b) Streckbleche und Streckbänder (Nr. 7419).
+        c) Isolierte Bänder für die Elektrotechnik (Nr. 8544).
+
+7410.   Blattmetall (Folien) und dünne Bänder, aus Kupfer (auch bedruckt oder auf Papier,
+        Pappe, Kunststoff oder ähnlichen Unterlagen), mit einer Dicke (ohne Unterlage) von
+        nicht mehr als 0,15 mm
+
+        Diese Nummer umfasst die in der Anmerkung 9 d) zum Abschnitt XV umschriebenen Er-
+        zeugnisse, deren Dicke nicht mehr als 0,15 mm beträgt.
+
+        Blattmetall (Folien) und dünne Bänder dieser Nummer werden durch Walzen, Hämmern
+        oder durch Elektrolyse hergestellt. Sie haben die Form von sehr dünnem Blattmetall, des-
+        sen Dicke in keinem Fall mehr als 0,15 mm beträgt. Das für unechte Vergoldungen, Minia-
+        turmalerei usw. verwendete Blattmetall wird im Allgemeinen zwischen Papierblätter gelegt
+        und in Heftform aufgemacht. Die übrigen Folien (Blattmetall), insbesondere solche für Ga-
+        lanteriewaren, werden oft auf Papier, Pappe, Kunststoff und ähnlichen Unterlagen befes-
+        tigt, um die Handhabung oder die Beförderung oder aber die weitere Verarbeitung usw. zu
+        erleichtern. Blattmetall (Folien) und dünne Bänder dieser Nummer können geprägt, zuge-
+        schnitten (auch anders als rechteckig), gelocht, überzogen (vergoldet, versilbert, lackiert
+        usw.) oder bedruckt sein.
+
+        Bei der Ermittlung des Grenzwertes von 0,15 mm Dicke ist die Überzugsschicht (Lack
+        usw.), jedoch nicht die Unterlage (Papier usw.) miteinzubeziehen.
+
+
+
+
+                                      8/11 (Stand: 1.1.2024)
+                                                                                         7411
+
+        Hierher gehören nicht:
+        a) Prägefolien, die aus Kupferpulver bestehen, das mit Gelatine, Leim oder einem ähnli-
+            chen Bindemittel agglomeriert ist, oder aus Kupfer, das auf Papier, Kunststoff oder ei-
+            ner anderen Unterlage aufgebracht ist und für das Prägen von Einbänden, Innenaus-
+            rüstungen von Hüten, usw. verwendet wird (Nr. 3212).
+        b) Bedruckte Etiketten aus Kupferfolie, durch ihre Bedruckung als anderweitig erfasste
+            Waren erkennbar (Nr. 4911).
+        c) Metallgarne und metallisierte Garne der Nr. 5605.
+        d) Bleche und Bänder mit einer Dicke von mehr als 0,15 mm (Nr. 7409).
+        e) Als Christbaumschmuck aufgemachte Folien (Nr. 9505).
+
+7411.   Rohre aus Kupfer
+
+        Rohre sind in Anmerkung 9 e) zum Abschnitt XV umschrieben.
+
+        Die Bestimmungen der Erläuterungen zu den Nrn. 7304 bis 7306 sind bezüglich Geltungs-
+        bereich und Herstellungsverfahren mutatis mutandis auch für Erzeugnisse dieser Nummer
+        anwendbar.
+
+        Die meisten Rohre aus Kupfer sind nahtlos, doch können sie in gewissen Fällen auch
+        durch Hartlöten oder Schweissen von Bändern oder nach anderen Verfahren hergestellt
+        werden. Die nahtlosen Rohre werden gewöhnlich dadurch hergestellt, dass aus einem
+        Knüppel durch Bohren oder Strangpressen ein Rohling hergestellt wird, der warmgewalzt
+        oder durch eine Matrize zu der endgültigen Form gezogen wird. Manchmal erhalten die
+        Kupferrohre durch Strangpressen ohne anschliessendes Ziehen bereits ihre endgültige
+        Abmessung.
+
+        Rohre aus Kupfer finden vielfältige Verwendung in der Industrie (insbesondere bei der
+        Herstellung von Koch-, Heiz-, Kühl-, Destillier-, Rektifizier- und Verdampfungsgeräten) und
+        werden im Bauwesen als Wasser- und Gasleitungen für Haushalts- oder allgemeine Zwe-
+        cke verwendet. Kondensatorrohre aus Kupferlegierungen werden wegen ihrer hohen Kor-
+        rosionsbeständigkeit, insbesondere gegen Salzwasserkorrosion, häufig in Schiffen und
+        Wasserkraftwerken verwendet.
+
+        Hierher gehören nicht:
+        a) Hohlprofile einschliesslich der durch Strangpressen hergestellten Rippenrohre
+            (Nr. 7407).
+        b) Zubehör zu Rohren (Nr. 7412).
+        c) Rippenrohre mit nachträglich angebrachten Rippen, z.B. aufgeschweissten Rippen (im
+            Allgemeinen Nr. 7419).
+        d) Schläuche (Nr. 8307).
+        e) Zu erkennbaren Waren verarbeitete Rohre, welche von anderen Kapiteln erfasst wer-
+            den, insbesondere Maschinenteile (Abschnitt XVI).
+
+7412.   Zubehör zu Rohren (z.B. Verbindungsstücke, Kniestücke, Muffen), aus Kupfer
+
+        Die Bestimmungen der Erläuterung zu der Nr. 7307 gelten mutatis mutandis auch für die
+        Waren dieser Nummer.
+
+        Hierher gehören nicht:
+        a) Bolzen und Muttern, die beim Montieren und Zusammensetzen von Rohren verwendet
+            werden (Nr. 7415).
+        b) Zubehör zu Rohren, die mit Hahnen, Ventilen usw. ausgerüstet sind (Nr. 8481).
+
+7413.   Litzen, Kabel, Seile und ähnliche Waren, aus Kupfer, nicht für die Elektrotechnik
+        isoliert
+
+        Die Bestimmungen der Erläuterung zu Nr. 7312 gelten mutatis mutandis auch für Waren
+        dieser Nummer.
+
+
+
+
+                                     9/11 (Stand: 1.1.2024)
+                                                                                               7415
+
+            Wegen seiner hohen Leitfähigkeit für Elektrizität wird Kupfer gewöhnlich zur Herstellung
+            von elektrischen Drähten und Kabeln verwendet, die auch dann hierher gehören, wenn sie
+            eine Seele aus Stahl oder einem anderen Metall haben, vorausgesetzt, dass Kupfer ge-
+            wichtsmässig vorherrscht (siehe Anmerkung 7 zu Abschnitt XV).
+
+            Isolierte Drähte und Kabel für die Elektrotechnik gehören jedoch nicht hierher (Nr. 8544).
+
+7415.       Stifte, Nägel, Reissnägel, zugespitzte Krampen und ähnliche Waren, aus Kupfer oder
+            mit Schaft aus Eisen oder Stahl und Kopf aus Kupfer; Schrauben, Bolzen, Muttern,
+            Hakenschrauben, Nieten, Splinte, Stifte, Keile, Unterlegscheiben (einschliesslich
+            Federringscheiben) und ähnliche Waren, aus Kupfer
+
+            Die Bestimmungen der Erläuterungen zu den Nrn. 7317 und 7318 gelten mutatis mutandis
+            auch für Waren dieser Nummer; zu erwähnen ist jedoch, dass Zier- und Polsternägel mit
+            Kopf aus Kupfer und Schaft aus Eisen oder Stahl hierher gehören.
+
+            Sohlenschoner, auch mit Befestigungsstiften gehören nicht hierher (Nr. 7419).
+
+7415.33     Der Begriff "Schraube" umfasst weder Haken- noch Ringschrauben mit Holzgewinde. Die-
+            se gehören zur Nr. 7415.39.
+
+7418.       Haushalt- oder Hauswirtschaftsartikel, Sanitär-, Hygiene- oder Toiletteartikel, und
+            Teile davon, aus Kupfer; Schwämme, Putzlappen, Handschuhe und ähnliche Waren
+            zum Scheuern, Polieren oder dergleichen, aus Kupfer
+
+            Die Bestimmungen der Erläuterungen zu den Nrn. 7321, 7323 und 7324 gelten mutatis
+            mutandis auch für Waren dieser Nummer.
+
+            Hierher gehören insbesondere Kocher und andere Koch- und Heizgeräte aus Kupfer der
+            im Haushalt verwendeten Art. Darunter fallen insbesondere kleine Geräte in der Art wie
+            Benzin-, Petrol-, Alkoholkocher und Kocher mit ähnlichen Brennstoffen, welche üblicher-
+            weise im Haushalt, auf Reisen oder beim Camping verwendet werden. Hierher gehören
+            auch Haushaltsapparate in der Art wie sie in den Erläuterungen zu Nr. 7322 beschrieben
+            sind.
+
+            Hierher gehören nicht:
+            a) Haushaltartikel mit dem Charakter von Werkzeugen (Kapitel 82) (siehe Erläuterung zu
+                Nr. 7323).
+            b) Lötlampen (Nr. 8205).
+            c) Messerschmiedewaren, sowie Löffel, Schöpfkellen, Gabeln usw. (Nrn. 8211 - 8215).
+            d) Ziergegenstände der Nr. 8306.
+            e) Apparate und Vorrichtungen zum Heizen Kochen, Rösten, Destillieren usw. und ähnli-
+                che Apparate für Laboratorien der Nr. 8419, insbesondere:
+                1) Nichtelektrische Warmwasserbereiter und Badeöfen (für den Haushalt bestimmt
+                     oder nicht).
+                2) Kaffeefilter, andere als solche für den Tischgebrauch sowie andere spezielle Ge-
+                     räte und Apparate zu Heiz-, Kochzwecken usw. zu anderen als Haushalts- und
+                     Hauswirtschaftszwecken.
+            f) Haushaltapparate des Kapitels 85 und insbesondere solche der Nrn. 8509 und 8516.
+            g) Waren des Kapitels 94.
+            h) Handsiebe (Nr. 9604).
+            i) Feuerzeuge und Anzünder (Nr. 9613).
+            k) Zerstäuber zu Toilettenzwecken (Nr. 9616).
+
+                                   Schweizerische Erläuterungen
+
+7418.1000   Kochgeschirr dieser Nummern mit dazugehörendem Deckel aus unedlen Metallen
+            und/oder Kunststoff, ist stets nach Massgabe des Kochgeschirrs zu tarifieren, sofern das
+            Ganze in einer gemeinsamen Detailverkaufspackung zur Zollbehandlung angemeldet wird.
+
+
+
+
+                                         10/11 (Stand: 1.1.2024)
+                                                                                             7419
+
+          Bei Kochtöpfen, Pfannen, Kasserollen und dgl. sind Aufhänger, einfache Ringbeschläge
+          sowie Spannstifte und andere Hilfsmittel zum Befestigen des Stiels oder der Griffe für die
+          Einreihung ausser acht zu lassen.
+
+7419.     Andere Waren aus Kupfer
+
+          Unter diese Nummer gehören alle Waren aus Kupfer, die weder in den vorstehenden
+          Nummern dieses Kapitels, noch in Anmerkung 1 zu Abschnitt XV, noch in den Kapiteln 82
+          oder 83, noch anderweit in der Nomenklatur erfasst sind.
+
+          Hierher gehören insbesondere:
+          1)   Sicherheitsnadeln und andere Nadeln (andere als Schmucknadeln) aus Kupfer, an-
+               derweit weder genannt noch inbegriffen.
+          2)   Sammelbehälter, Fässer, Bottiche und ähnliche Behälter, für Stoffe aller Art, aus Kup-
+               fer, mit beliebigem Fassungsvermögen, ohne mechanische oder wärmetechnische
+               Einrichtung, auch mit Innenauskleidung oder Wärmeschutzverkleidung (siehe Erläute-
+               rungen zu den Nrn. 7309 und 7310).
+          3)   Behälter für verdichtete oder verflüssigte Gase (siehe Erläuterung zur Nr. 7311).
+          4)   Ketten, Kettchen und Teile davon, aus Kupfer (siehe Erläuterung zu Nr. 7315), mit
+               Ausnahme der kleinen Ketten, welche den Charakter von Phantasieschmuck haben
+               (z.B. solche für Uhren, Uhrgehänge und dergleichen (Nr. 7117).
+          5)   Waren aus Kupfer der in den Erläuterungen zu den Nrn. 7325 und 7326 beschriebe-
+               nen Art.
+          6)   Anoden aus Kupfer und Kupferlegierungen (insbesondere Messing), die in der Galva-
+               noplastik verwendet werden (siehe Abschnitt A der Erläuterung zur Nr. 7508).
+          7)   Rippenrohre mit z.B. durch Schweissen angesetzten Rippen, anderweit weder ge-
+               nannt noch inbegriffen.
+          8)   Metallgeflechte, Drahtgeflechte und Gitter aus Kupferdrähten; Streckbleche und
+               Streckbänder.
+          9)   Kupferfedern, andere als Uhrenfedern der Nr. 9114.
+
+          Hierher gehören nicht:
+          a) Gewebe aus Metalldrähten für Bekleidung, Innenausstattung und ähnlichen Zwecken
+              (Nr. 5809).
+          b) Mit Flussmitteln überzogene Kupfergeflechte zum Löten oder Schweissen (Nr. 8311).
+          c) Zu Sieben und Handsieben montierte Geflechte, Drahtgeflechte und Gitter (Nr. 9604).
+
+7419.20   Die Erläuterung zu den Nrn. 7326.11 und 7326.19 ist mutatis mutandis auch für Erzeug-
+          nisse dieser Unternummer anwendbar. Bei gegossenen Erzeugnissen wird zudem auch
+          noch das Beseitigen von Ansätzen und das Entfernen von Gussnähten toleriert.
+
+
+
+
+                                       11/11 (Stand: 1.1.2024)
