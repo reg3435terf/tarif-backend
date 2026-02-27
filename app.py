@@ -824,6 +824,25 @@ def ping():
     return jsonify({"python": sys.version, "method": request.method, "ok": True})
 
 
+@app.route('/test-groq', methods=['GET'])
+def test_groq():
+    """Minimal Groq test to diagnose 413/429 issues."""
+    results = {}
+    for tokens in [100, 500, 1000, 2000]:
+        try:
+            r = _call_groq_model(GROQ_MODEL, [
+                {"role": "user", "content": 'Antworte: {"ok": true}'}
+            ], max_tokens=tokens, temperature=0)
+            results[f"max_tokens_{tokens}"] = "ok"
+            break
+        except urllib.error.HTTPError as e:
+            results[f"max_tokens_{tokens}"] = f"HTTPError {e.code}: {e.reason}"
+        except Exception as e:
+            results[f"max_tokens_{tokens}"] = f"{type(e).__name__}: {e}"
+    results["model"] = GROQ_MODEL
+    return jsonify(results)
+
+
 @app.route('/classify', methods=['POST'])
 def classify():
     try:
