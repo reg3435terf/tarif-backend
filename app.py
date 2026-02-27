@@ -827,19 +827,30 @@ def ping():
 @app.route('/test-groq', methods=['GET'])
 def test_groq():
     """Minimal Groq test to diagnose 413/429 issues."""
-    results = {}
+    results = {"model": GROQ_MODEL}
+    # Test 1: tiny prompt, various max_tokens
     for tokens in [100, 500, 1000, 2000]:
         try:
-            r = _call_groq_model(GROQ_MODEL, [
+            _call_groq_model(GROQ_MODEL, [
                 {"role": "user", "content": 'Antworte: {"ok": true}'}
             ], max_tokens=tokens, temperature=0)
-            results[f"max_tokens_{tokens}"] = "ok"
-            break
+            results[f"tiny_prompt_tokens_{tokens}"] = "ok"
         except urllib.error.HTTPError as e:
-            results[f"max_tokens_{tokens}"] = f"HTTPError {e.code}: {e.reason}"
+            results[f"tiny_prompt_tokens_{tokens}"] = f"HTTPError {e.code}"
         except Exception as e:
-            results[f"max_tokens_{tokens}"] = f"{type(e).__name__}: {e}"
-    results["model"] = GROQ_MODEL
+            results[f"tiny_prompt_tokens_{tokens}"] = f"{type(e).__name__}"
+    # Test 2: large system prompt (simulate classify), max_tokens=2000
+    big_sys = "X" * 16000  # ~4000 tokens
+    try:
+        _call_groq_model(GROQ_MODEL, [
+            {"role": "system", "content": big_sys},
+            {"role": "user", "content": 'Antworte: {"ok": true}'}
+        ], max_tokens=2000, temperature=0)
+        results["large_prompt_2000"] = "ok"
+    except urllib.error.HTTPError as e:
+        results["large_prompt_2000"] = f"HTTPError {e.code}"
+    except Exception as e:
+        results["large_prompt_2000"] = f"{type(e).__name__}: {e}"
     return jsonify(results)
 
 
