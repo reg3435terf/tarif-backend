@@ -14,6 +14,9 @@ CORS(app)
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GROQ_MODEL_QUALITY = "llama-3.3-70b-versatile"   # 6,000 TPM free tier
 GROQ_MODEL_FAST    = "llama-3.1-8b-instant"       # 131,072 TPM free tier
+# JSON mode (response_format) supported only by select Groq models:
+GROQ_JSON_MODE_MODELS = {"llama-3.3-70b-versatile", "llama-3.1-70b-versatile",
+                          "llama-3.1-8b-instant", "gemma2-9b-it", "mixtral-8x7b-32768"}
 GROQ_MODEL = GROQ_MODEL_FAST  # Default: high-throughput model
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
@@ -64,15 +67,40 @@ CHV 4: Behältnis = unmittelbare Umschliessung der Ware.
 - Kap. 25-97 (Industrieprodukte): seit 1.1.2024 weitgehend zollfrei (0 CHF)"""
 
 
+def _extract_json(text):
+    """Extract JSON object from text, handling markdown code fences."""
+    text = text.strip()
+    # Remove markdown code fences if present
+    text = re.sub(r'^```(?:json)?\s*', '', text, flags=re.MULTILINE)
+    text = re.sub(r'\s*```$', '', text, flags=re.MULTILINE)
+    text = text.strip()
+    # Try direct parse first
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+    # Find outermost JSON object
+    m = re.search(r'\{[\s\S]*\}', text)
+    if m:
+        try:
+            return json.loads(m.group())
+        except json.JSONDecodeError:
+            pass
+    raise ValueError(f"No valid JSON found in response: {text[:200]}")
+
+
 def _call_groq_model(model, messages, max_tokens, temperature):
     """Perform a single Groq API call with the given model."""
-    payload = json.dumps({
+    body = {
         "model": model,
         "messages": messages,
         "max_tokens": max_tokens,
         "temperature": temperature,
-        "response_format": {"type": "json_object"}
-    }).encode("utf-8")
+    }
+    # Only add JSON mode for models that support it (avoids 413/422 errors)
+    if model in GROQ_JSON_MODE_MODELS:
+        body["response_format"] = {"type": "json_object"}
+    payload = json.dumps(body).encode("utf-8")
 
     req = urllib.request.Request(GROQ_URL, data=payload, headers={
         "Authorization": f"Bearer {GROQ_API_KEY}",
@@ -83,7 +111,7 @@ def _call_groq_model(model, messages, max_tokens, temperature):
     with urllib.request.urlopen(req, timeout=45) as resp:
         data = json.loads(resp.read().decode("utf-8"))
         content = data["choices"][0]["message"]["content"]
-        return json.loads(content)
+        return _extract_json(content)
 
 
 def call_groq(messages, max_tokens=2000, temperature=0.1, _retry=True):
