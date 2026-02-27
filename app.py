@@ -114,18 +114,20 @@ def _call_groq_model(model, messages, max_tokens, temperature):
         return _extract_json(content)
 
 
+def _is_rate_limit_error(e):
+    """Groq uses 429 OR 413 with 'Too Many Requests' for rate limiting."""
+    return e.code == 429 or (e.code == 413 and 'too many' in str(e.reason).lower())
+
+
 def call_groq(messages, max_tokens=2000, temperature=0.1, _retry=True):
-    """Groq API call. On 429, falls back to the high-throughput model."""
+    """Groq API call with rate-limit retry (waits up to 30s then retries)."""
     try:
         return _call_groq_model(GROQ_MODEL, messages, max_tokens, temperature)
     except urllib.error.HTTPError as e:
-        if e.code == 429 and _retry and GROQ_MODEL != GROQ_MODEL_FAST:
-            # Primary model rate-limited → fall back to high-throughput model
-            time.sleep(2)
-            try:
-                return _call_groq_model(GROQ_MODEL_FAST, messages, max_tokens, temperature)
-            except urllib.error.HTTPError as e2:
-                raise Exception(f"HTTP Error {e2.code}: {e2.reason}")
+        if _is_rate_limit_error(e) and _retry:
+            retry_after = int(e.headers.get('Retry-After', 30))
+            time.sleep(min(retry_after, 30))
+            return call_groq(messages, max_tokens, temperature, _retry=False)
         raise Exception(f"HTTP Error {e.code}: {e.reason}")
 
 
