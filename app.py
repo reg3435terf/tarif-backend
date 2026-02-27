@@ -100,7 +100,8 @@ def _call_groq_model(model, messages, max_tokens, temperature):
     # Only add JSON mode for models that support it (avoids 413/422 errors)
     if model in GROQ_JSON_MODE_MODELS:
         body["response_format"] = {"type": "json_object"}
-    payload = json.dumps(body).encode("utf-8")
+    # ensure_ascii=False keeps German chars as UTF-8 (saves ~15% payload size)
+    payload = json.dumps(body, ensure_ascii=False).encode("utf-8")
 
     req = urllib.request.Request(GROQ_URL, data=payload, headers={
         "Authorization": f"Bearer {GROQ_API_KEY}",
@@ -671,13 +672,11 @@ def build_prompt(av_text, docs, chapter, extra_chapters, product_data_str):
     anm_primary = docs.get(f"anm_{primary_ch}")
 
     if erl_primary:
-        # Kapiteleinleitung + den relevanten Positionsabschnitt
-        # max_section=6000 stellt sicher, dass wir unter 6000 TPM (Groq Free Tier) bleiben
         erl_trimmed = extract_position_section(
             erl_primary,
             target_position=primary_position,
-            intro_chars=1200,
-            max_section=6000
+            intro_chars=800,
+            max_section=4000
         )
         doc_parts.append(f"═══ OFFIZIELLE ERLÄUTERUNGEN – KAPITEL {chapter} (Auszug) ═══\n{erl_trimmed}")
     else:
@@ -688,7 +687,7 @@ def build_prompt(av_text, docs, chapter, extra_chapters, product_data_str):
 
     if anm_primary:
         doc_parts.append(
-            f"═══ OFFIZIELLE ANMERKUNGEN – KAPITEL {chapter} ═══\n{anm_primary[:3000]}"
+            f"═══ OFFIZIELLE ANMERKUNGEN – KAPITEL {chapter} ═══\n{anm_primary[:2000]}"
         )
 
     # Extra-Kapitel: nur die direkt konkurrierende Position extrahieren
@@ -708,8 +707,8 @@ def build_prompt(av_text, docs, chapter, extra_chapters, product_data_str):
             extra_section = extract_position_section(
                 erl_extra,
                 target_position=target_pos,
-                intro_chars=500,
-                max_section=2000
+                intro_chars=300,
+                max_section=1500
             )
             doc_parts.append(
                 f"═══ VERGLEICH: ERLÄUTERUNGEN KAPITEL {extra_ch} – Position {target_pos} ═══\n"
@@ -792,7 +791,7 @@ def classify_product(product_query):
                 f"Zitiere die massgebenden Erläuterungen wörtlich. "
                 f"Prüfe zuerst die Kapitel-Anmerkungen auf Ausschlüsse."
             )}
-        ], max_tokens=2000)
+        ], max_tokens=1500)
     except Exception as e:
         return {"error": f"LLM-Einreihung fehlgeschlagen: {e}"}
 
