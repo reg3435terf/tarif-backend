@@ -5,7 +5,7 @@ Deployed auf Render.com als Web Service.
 """
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import json, os, re, urllib.request, urllib.error, urllib.parse
+import json, os, re, time, urllib.request, urllib.error, urllib.parse
 
 app = Flask(__name__)
 CORS(app)
@@ -62,8 +62,8 @@ CHV 4: Behältnis = unmittelbare Umschliessung der Ware.
 - Kap. 25-97 (Industrieprodukte): seit 1.1.2024 weitgehend zollfrei (0 CHF)"""
 
 
-def call_groq(messages, max_tokens=3500, temperature=0.1):
-    """Groq API call."""
+def call_groq(messages, max_tokens=2000, temperature=0.1, _retry=True):
+    """Groq API call with automatic 429 retry."""
     payload = json.dumps({
         "model": GROQ_MODEL,
         "messages": messages,
@@ -78,10 +78,18 @@ def call_groq(messages, max_tokens=3500, temperature=0.1):
         "User-Agent": "Tarifierungstool/4.0"
     })
 
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-        content = data["choices"][0]["message"]["content"]
-        return json.loads(content)
+    try:
+        with urllib.request.urlopen(req, timeout=45) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            content = data["choices"][0]["message"]["content"]
+            return json.loads(content)
+    except urllib.error.HTTPError as e:
+        if e.code == 429 and _retry:
+            # Rate limit: wait and retry once
+            retry_after = int(e.headers.get('Retry-After', 15))
+            time.sleep(min(retry_after, 20))
+            return call_groq(messages, max_tokens, temperature, _retry=False)
+        raise Exception(f"HTTP Error {e.code}: {e.reason}")
 
 
 # ── Open Food Facts lookup ──
@@ -401,7 +409,9 @@ JUICE_INDICATORS = {
     'fruchtsaftkonzentrat', 'fruchtsäfte', 'direktsaft', '100% saft',
     'orangensaft', 'apfelsaft', 'traubensaft', 'tomatensaft',
     'grapefruitsaft', 'ananassaft', 'zitronensaft', 'mangosaft',
-    'fruchtnektar', 'gemüsesaft', 'pure juice', '100% frucht'
+    'fruchtnektar', 'gemüsesaft', 'pure juice', '100% frucht',
+    'hohes c', 'tropicana', 'granini', 'minute maid', 'eckes granini',
+    'capri-sonne', 'capri sonne', 'innocent', 'pfanner saft'
 }
 
 # Schlüsselwörter die klar auf Softdrink/Getränk (Kap. 22) hinweisen
@@ -410,6 +420,12 @@ DRINK_INDICATORS = {
     'energy drink', 'bier', 'wein', 'rivella', 'eistee', 'kombucha',
     'kohlensäure', 'aromatisiert', 'tafelgetränk'
 }
+
+# Regex für Flüssigkeitsmengen → starker Hinweis auf Getränk
+LIQUID_VOLUME_RE = re.compile(
+    r'\b(?:(?:[0-9]+(?:[.,][0-9]+)?)\s*(?:ml|cl|dl|l(?:iter)?)\b)',
+    re.IGNORECASE
+)
 
 
 def detect_chapters(query, product_info):
@@ -428,6 +444,9 @@ def detect_chapters(query, product_info):
     # Spezialfall Getränke: Kap. 20 vs 22 unterscheiden
     has_juice = any(kw in text for kw in JUICE_INDICATORS)
     has_drink = any(kw in text for kw in DRINK_INDICATORS)
+
+    # Flüssigkeitsmenge (z.B. "1L", "500ml") in der Anfrage → könnte Getränk sein
+    has_liquid_volume = bool(LIQUID_VOLUME_RE.search(query))
 
     # Score-basierte Kapitelbestimmung
     scores = {}
@@ -459,6 +478,10 @@ def detect_chapters(query, product_info):
             if primary not in (20, 22):
                 primary = 22
             extra = [20] if primary == 22 else [22]
+    elif has_liquid_volume and primary is not None and 1 <= primary <= 24:
+        # Flüssigkeitsmenge erkannt, aber kein klarer Getränke-Hinweis:
+        # Primäres Kapitel beibehalten + Kap. 20 & 22 als Alternativ-Check
+        extra = [20, 22]
 
     return primary, extra
 
