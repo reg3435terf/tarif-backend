@@ -1,1 +1,545 @@
-placeholder_erl26
+26
+
+                               Kapitel 26
+
+                     Erze, Schlacken und Aschen
+
+                                Allgemeines
+
+Zu den Nrn. 2601 bis 2617 gehören nur metallurgische Erze und ihre Konzentrate, die:
+A)   mineralogische Arten sind, die tatsächlich in der metallurgischen Industrie zum Ge-
+     winnen von Metallen der Abschnitte XIV oder XV, von Quecksilber oder von Metallen
+     der Nr. 2844 verwendet werden, selbst wenn sie nicht für metallurgische Zwecke be-
+     stimmt sind, und
+B)   keinen Behandlungen unterworfen worden sind, die in der metallurgischen Industrie
+     nicht üblich sind.
+
+Die Bezeichnung "Erze" umfasst Metallverbindungen mit den Begleitstoffen, in denen sie
+in der Natur entstanden sind und mit denen sie im Bergbau gewonnen werden. Sie um-
+fasst auch die Metalle in nativem Zustand mit ihrer Gangart (z.B. metallhaltige Sande).
+
+Meistens gelangen die Erze nicht in den Handel, ohne vorher für die nachfolgenden metal-
+lurgischen Behandlungen aufbereitet worden zu sein. Von diesen Aufbereitungsverfahren
+sind diejenigen am wichtigsten, die der Konzentration des Erzes dienen.
+
+Die Bezeichnung "Konzentrate" im Sinne der Nrn. 2601 bis 2617 umfasst die Erze, bei de-
+nen die Begleitstoffe durch gewisse spezielle Verfahren teilweise oder ganz ausgeschie-
+den worden sind, entweder, weil diese die späteren metallurgischen Behandlungen er-
+schweren, oder aus wirtschaftlichen Gründen beim Transport.
+
+Aufbereitungen der Nrn. 2601 bis 2617 können physikalischen, physikalisch-chemischen
+oder chemischen Prozessen unterworfen worden sein, unter der Bedingung, dass es sich
+um übliche Aufbereitungsprozesse für Erze zur Metallgewinnung handelt. Mit Ausnahme
+von Veränderungen, die sich beim Calcinieren, Rösten oder Brennen (mit oder ohne Ag-
+glomerieren) ergeben, dürfen solche Prozesse die chemische Zusammensetzung der
+Grundverbindung, aus der das entsprechende Material gewonnen wird, nicht verändern.
+
+Von den physikalischen oder physikalisch-chemischen Prozessen sind das Zerkleinern,
+das Mahlen, die magnetische Trennung, die gravimetrische Trennung, die Flotation, das
+Sieben, das Aussondern, das Agglomerieren von Pulvern zu Körnern, Kugeln oder Briketts
+(insbesondere durch Sintern oder Pelletieren), auch mit Zusatz geringer Mengen von Bin-
+demitteln, das Trocknen, das Calcinieren, das oxidative Rösten, das reduzierende Rösten
+usw. zu nennen. Nicht gestattet ist dagegen das sulfatisierende Rösten, das chlorierende
+Rösten und dergleichen.
+
+Chemische Prozesse dienen dem Zweck, unerwünschte Stoffe auszuscheiden (z.B. durch
+Lösen).
+
+Durch andere Verfahren als Calcinieren oder Rösten hergestellte Erzkonzentrate, bei de-
+nen die chemische Zusammensetzung oder die kristallographische Struktur der Grundver-
+bindung des Erzes verändert wird, gehören nicht hierher (hauptsächlich Kapitel 28). Das
+gleiche gilt für mehr oder weniger reine Erzeugnisse, die durch wiederholte Änderung des
+Aggregatzustandes (fraktioniertes Kristallisieren, Sublimieren usw.) gewonnen werden,
+selbst wenn in diesem Fall die chemische Zusammensetzung der Grundverbindung des
+Erzes nicht verändert wird.
+
+Aus Erzen der Nrn. 2601 bis 2617 werden industriell gewonnen:
+1)   Edelmetalle im Sinne des Kapitels 71 (Silber, Gold, Platin, Iridium, Osmium, Palladi-
+     um, Rhodium und Ruthenium).
+
+
+
+
+                             1/10 (Stand: 1.1.2022)
+                                                                                          2601
+
+        2)   Unedle Metalle im Sinne des Abschnittes XV (Eisen, Kupfer, Nickel, Aluminium, Blei,
+             Zink, Zinn, Wolfram, Molybdän, Tantal, Kobalt, Wismut, Cadmium, Titan, Zirkon, Anti-
+             mon, Mangan, Chrom, Germanium, Vanadium, Beryllium, Gallium, Hafnium, Indium,
+             Niobium (Columbium), Rhenium und Thallium).
+        3)   Quecksilber der Nr. 2805.
+        4)   Metalle der Nr. 2844.
+
+        In gewissen Fällen gewinnt man daraus auch Metalllegierungen wie Ferro-Mangan oder
+        Ferrochrom.
+
+        Vorbehältlich anderweitiger Bestimmungen sind die aus mehr als einer mineralogischen
+        Art bestehenden Erze und Konzentrate den Nrn. 2601 bis 2617 zuzuweisen; entweder
+        durch Anwendung der Regel 3 b) der Allgemeinen Verzollungsvorschriften oder, wenn dies
+        nicht möglich ist, durch Anwendung der Regel 3 c).
+
+        Nicht zu den Nrn. 2601 bis 2617 gehören:
+        a) Natürliche Verbindungen der vorstehend genannten Metalle:
+            1. Wenn sie in einer anderen Nummer genannt sind (z.B. nicht gerösteter Schwefel-
+                 kies (Nr. 2502), natürlicher Kryolith und Chiolith (z.B. Nr. 2530).
+            2. Wenn sie nicht industriell zur Metallgewinnung verwendet werden (z.B. Farberden
+                 und Alunit oder Alaunstein [Nr. 2530], Edelsteine [Kapitel 71]).
+        b) Mineralien, die in der Regel zum Gewinnen von Magnesium verwendet werden, d.h.
+            Dolomit (Nr. 2518), Magnesit oder Giobertit (Nr. 2519) und Karnalit (Nr. 3104).
+        c) Natürliche Verbindungen der Alkali- oder Erdalkalimetalle der Nr. 2805 (Natrium, Lithi-
+            um, Kalium, Rubidium, Caesium, Calcium, Strontium, Barium), insbesondere Natrium-
+            chlorid (Nr. 2501), Baryt und Witherit (Nr. 2511), Islandspat, Aragonit, Strontianit und
+            Cölestin (Nr. 2530).
+        d) Metalle in nativem Zustand, d.h. Klumpen, Körner usw., sowie die von ihrer Gangart
+            getrennten natürlichen Legierungen, gehören zu Abschnitt XIV oder XV.
+        e) Erze der Metalle von seltenen Erden der Nr. 2530.
+
+2601.   Eisenerze und ihre Konzentrate, einschliesslich Schwefelkiesabbrände
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Rote Hämatite (Oligist, Martit usw.), die Eisenoxide sind, und braune Hämatite (Minet-
+             te), die Eisen- und Calciumcarbonat enthaltende Eisenhydroxide sind.
+        b)   Limonit, Eisenhydroxid.
+        c)   Magnetit, magnetisches Eisenoxid.
+        d)   Siderit (oder Chalybit), natürliches Eisencarbonat.
+        e)   Schwefelkiesabbrände oder Pyritaschen, auch agglomeriert.
+
+        Ebenfalls zu dieser Nummer gehören manganhaltige Eisenerze und ihre Konzentrate, mit
+        einem Gehalt an Mangan von weniger als 20 Gewichtsprozent, bezogen auf die Trocken-
+        substanz (wobei die Erze und Konzentrate auf eine Temperatur zwischen 105 und 110° C
+        erhitzt werden) (siehe Erläuterungen zu Nr. 2602) Diese Erze sind je nach Gehalt an Mag-
+        nesium unter der Bezeichnung manganhaltiges Eisenerz oder eisenhaltiges Manganerz
+        bekannt.
+
+        Nicht zu dieser Nummer gehören fein zerriebener Magneteisenstein und andere zur Ver-
+        wendung als Pigmente fein zerriebene Erze (Kapitel 32).
+
+
+
+
+                                       2/10 (Stand: 1.1.2022)
+                                                                                     2602
+
+2602.   Manganerze und ihre Konzentrate, einschliesslich eisenhaltige Manganerze und ihre
+        Konzentrate, mit einem Gehalt an Mangan von 20 Gewichtsprozent oder mehr, be-
+        zogen auf die Trockensubstanz
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Braunit, Mangansesquioxid.
+        b)   Diallogit (oder Rhodochrosit), Mangancarbonat.
+        c)   Hausmannit, salzhaltiges Manganoxid.
+        d)   Manganit, wasserhaltiges Mangansesquioxid.
+        e)   Psilomelan, wasserhaltiges Mangandioxid.
+        f)   Pyrolusit, Mangandioxid.
+
+        Ebenfalls zu dieser Nummer gehören eisenhaltige Manganerze und ihre Konzentrate, so-
+        fern der Gehalt an Mangan 20 Gewichtsprozent oder mehr ausmacht, bezogen auf die
+        Trockensubstanz (Erze und ihre Konzentrate werden auf eine Temperatur zwischen 105
+        und 110° C erhitzt); Erze und ihre Konzentrate mit einem Gehalt an Mangan von weniger
+        als 20 Gewichtsprozent, bezogen auf die Trockensubstanz, gehören nicht zu dieser Num-
+        mer (Nr. 2601).
+
+        Ebenfalls nicht zu dieser Nummer gehört zur Herstellung von Trockenbatterien behandel-
+        ter Pyrolusit (Nr. 2530).
+
+2603.   Kupfererze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Atacamit, natürliches Kupferhydroxychlorid.
+        b)   Azurit, basisches Kupfercarbonat.
+        c)   Bornit (oder Erubescit), Kupfereisensulfid.
+        d)   Bournonit, Kupferbleiantimonsulfid.
+        e)   Brochantit, basisches Kupfersulfat.
+        f)   Chalkosin (oder Chalchosit), Kupfersulfid.
+        g)   Chalkopyrit (oder Kupferpyrit), Kupfereisensulfid.
+        h)   Chrysokoll, wasserhaltiges Kupferhydrosilicat.
+        i)   Covellin (Covellit), Kupfersulfid.
+        k)   Cuprit, Kupferoxid.
+        l)   Dioptas, Kupfersilicat.
+        m) Erze von grauem Kupfer (oft silberhaltig), Kupferantimonsulfid (Tetraedrit oder
+           Fahlerz) und Kupferarsensulfid (Tennantit oder Enargit).
+        n)   Malachit, basisches Kupfercarbonat.
+        o)   Tenorit (Melaconit), Kupferoxid.
+
+2604.   Nickelerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Garnierit, Doppelsilicat des Nickels und Magnesiums.
+        b)   Nickelin oder Niccolit, Nickelarsenid.
+        c)   Pentlandit, Nickeleisensulfid.
+        d)   Nickelhaltiges Pyrrhotïn oder Pyrrhotit, nickelhaltiges Eisensulfid.
+
+
+
+
+                                        3/10 (Stand: 1.1.2022)
+                                                                                       2605
+
+2605.   Kobalterze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Cobaltin, Kobaltarsensulfid.
+        b)   Heterogenit, Kobalthydroxid.
+        c)   Linneit, Kobaltnickelsulfid.
+        d)   Smaltin, Kobaltsarsenid.
+
+2606.   Aluminiumerze und ihre Konzentrate
+
+        Zu dieser Nummer gehört Bauxit (Tonerdehydrat mit wechselnden Anteilen an Eisenoxid,
+        Kieseläure usw.).
+
+        Ebenfalls hierher gehört thermisch behandelter Bauxit (1200 bis 1400° C), der in der Me-
+        tallurgie zur Herstellung von Aluminium (carbothermische Reduktion in elektrischen
+        Schmelzöfen, Gross- Verfahren usw.) oder zu anderen Zwecken (insbesondere zum Her-
+        stellen von Schleifstoffen) verwendet werden kann.
+
+2607.   Bleierze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Anglesit, Bleisulfat.
+        b)   Cerussit, Bleicarbonat.
+        c)   Galenit, Bleisulfid, oft silberhaltig.
+        d)   Pyromorphit, Bleichlorphosphat.
+
+2608.   Zinkerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Zinkblende (Sphalerit), Zinksulfid.
+        b)   Calamin (oder Hemimorphit), Zinkhydrosilicat.
+        c)   Smithsonit, Zinkcarbonat.
+        d)   Zinkit, Zinkoxid.
+
+2609.   Zinnerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Kassiterit, Zinndioxid.
+        b)   Stannit, Zinnkupfereisensulfid.
+
+2610.   Chromerze und ihre Konzentrate
+
+        Zu dieser Nummer gehört Chromit (Chromeisenstein), ein Chromeisenoxid.
+
+2611.   Wolframerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Ferberit, Eisenwolframat.
+        b)   Hübnerit, Manganwolframat.
+        c)   Scheelit, Calciumwolframat.
+
+
+
+
+                                         4/10 (Stand: 1.1.2022)
+                                                                                       2612
+
+        d)   Wolframit, Eisenmanganwolframat.
+
+2612.   Uran- oder Thoriumerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Uranerze sind:
+        a)   Autunit, wasserhaltiges Calciumuranphosphat.
+        b)   Brannerit, Urantitanat.
+        c)   Carnotit, wasserhaltiges Kaliumuranvanadat.
+        d)   Coffinit, Uransilicat.
+        e)   Davidit, Eisenurantitanat.
+        f)   Parsonsit, wasserhaltiges Bleiuranphosphat.
+        g)   Pechblende und Uraninit, Uranoxide.
+        h)   Tobernit (oder Chalcolith), wasserhaltiges Kupferuranphosphat.
+        i)   Tujamunit, wasserhaltiges Calciumuranvanadat.
+        k)   Uranophan, Calciumuransilicat.
+        l)   Uranthorianit, Uranthoriumoxid.
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Thoriumerze sind:
+        a)   Monazit, Phosphat des Thoriums und der seltenen Erden.
+        b)   Thorit, wasserhaltiges Thoriumsilicat.
+
+        Nicht zu dieser Nummer gehören die im Handel als Uran- "Konzentrate" bezeichneten Er-
+        zeugnisse, die durch andere Verfahren gewonnen sind als solche, die üblicherweise im
+        Hinblick auf eine metallurgische Verwendung angewendet werden (Nr. 2844).
+
+2613.   Molybdänerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Molybdänerze sind:
+        a)   Molybdänit, Molybdänsulfid.
+        b)   Wulfenit, Bleimolybdat.
+
+        Ebenfalls zu dieser Nummer gehören geröstete Molybdänkonzentrate (durch einfaches
+        Rösten von Molybdänkonzentrat gewonnenes Molybdäntrioxid).
+
+        Nicht zu dieser Nummer gehört das zur Verwendung als Schmiermittel behandelte Molyb-
+        dänit (Nr. 2530).
+
+2614.   Titanerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Ilmenit, Eisentitanat.
+        b)   Rutil, Anatas, Brookit, Titanoxide.
+
+        Nicht zu dieser Nummer gehören die zur Verwendung als Pigmente fein gemahlenen Tita-
+        nerze (Kapitel 32).
+
+2615.   Nioberze, Tantalerze, Vanadiumerze oder Zirkonerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Zirkonerze sind:
+        a)   Baddeleyit, Zirkondioxid.
+
+
+
+
+                                         5/10 (Stand: 1.1.2022)
+                                                                                         2616
+
+        b)   Zirkon und Zirkonsand, Zirkonsilicate; Zirkon mit Schmuckstein-Charakter ist der
+             Nr. 7103 zuzuweisen.
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Niobiumerze (Columbi-
+        um) und Tantalerze sind Niobit (Columbit) und Tantalit, die beide Tantalniobate des Eisens
+        und Mangans sind.
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Vanadiumerze sind:
+        a)   Descloizit, basisches Bleizinkvanadat.
+        b)   Patronit, Vanadiumsulfid.
+        c)   Roscoelit, Vanadiumglimmer, komplexes Vanadiumsilicat des Aluminiums und Mag-
+             nesiums.
+        d)   Vanadinit, Bleichlorvanadat.
+
+        Nicht zu dieser Nummer gehören geschmolzene Vanadiumoxide, bei denen die chemische
+        Zusammensetzung oder kristallographische Struktur der Grundverbindung des Erzes
+        durch andere Verfahren als Calcinieren oder Rösten verändert worden ist (im Allgemeinen
+        Kapitel 28).
+
+        Ebenfalls nicht zu dieser Nummer gehört mikronisierter Zirkonsand zur Verwendung als
+        Trübungsmittel in der Emaillierindustrie (Nr. 2530).
+
+2616.   Edelmetallerze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+        a)   Argyros (Argentit oder Akanthit), Silbersulfid.
+        b)   Calaverit, Gold- und Silbertellurid.
+        c)   Keragyrit (Silberhornerz), Silberchloridjodid.
+        d)   Polybasit, Silberantimonsulfid.
+        e)   Proustit, Silberarsensulfid.
+        f)   Pyrargyrit, Silberantimonsulfid.
+        g)   Stephanit, Silberantimonsulfid.
+        h)   Gold- oder platinhaltige Sande. Die platinhaltigen Sande enthalten häufig Metalle der
+             Platingruppe (Iridium, Osmium, Palladium, Rhodium und Ruthenium).
+
+2617.   Andere Erze und ihre Konzentrate
+
+        Die hauptsächlichsten allgemein zu dieser Nummer gehörenden Erze sind:
+
+        1)   Antimonerze.
+             a)   Cervantit, Antimonoxid.
+             b)   Kermesit, Antimonoxysulfid.
+             c)   Senarmontit, Antimonoxid.
+             d)   Stibnit oder Antimonit, Antimonsulfid.
+             e)   Valentinit oder Antimonblüte, Antimonoxid.
+
+        2)   Berylliumerze.
+             a)   Beryll, Berylliumaluminiumsilicat; Beryll oder gewöhnlicher Smaragd mit Edel- o-
+                  der Schmucksteincharakter ist der Nr. 7103 zuzuweisen.
+             b)   Bertrandit.
+
+
+
+
+                                       6/10 (Stand: 1.1.2022)
+                                                                                         2618
+
+        3)   Wismuterze.
+             a)   Bismuthin, Wismutsulfid.
+             b)   Bismutit, wasserhaltiges Wismutcarbonat.
+             c)   Wismutocker, wasserhaltiges Wismutoxid.
+
+        4)   Germaniumerze.
+             Germanit, Kupfergermaniumsulfid.
+             Nicht zu dieser Nummer gehören die im Handel als Germanium- "Konzentrate" be-
+             zeichneten Erzeugnisse, die durch andere Verfahren gewonnen sind als solche, die
+             üblicherweise im Hinblick auf eine metallurgische Verwendung angewendet werden
+             (im Allgemeinen Nr. 2825).
+
+        5)   Quecksilbererze.
+             Zinnober, Quecksilbersulfid.
+
+        Indium, Gallium, Rhenium, Celtium oder Hafnium, Thallium und Cadmium werden nicht
+        unmittelbar aus einem besonderen Erz gewonnen, sondern fallen als Nebenerzeugnisse
+        bei der Gewinnung anderer Metalle (Zink, Blei, Kupfer, Aluminium, Zirkon, Molybdän usw.)
+        an.
+
+2618.   Schlacken, granuliert (Schlackensand), von der Roheisen-, Eisen- oder Stahlherstel-
+        lung
+
+        Zu dieser Nummer gehört granulierte Schlacke (Schlackensand), die z.B. durch rasches
+        Eingiessen flüssiger, aus dem Hochofen kommender Schlacken in Wasser gewonnen
+        wird.
+
+        Nicht hierher gehören dagegen die mit Dampf oder Druckluft hergestellte Schlackenwolle
+        sowie die durch Zusatz von geringen Mengen Wasser in schmelzflüssige Schlacke ge-
+        wonnene Schaumschlacke (Nr. 6806) und Schlackenzement (Nr. 2523).
+
+2619.   Schlacken (ausgenommen granulierte Schlacken), Zunder und andere Abfälle von
+        der Roheisen-, Eisen- oder Stahlherstellung
+
+        Die zu dieser Nummer gehörenden Schlacken bestehen entweder aus Aluminium- und
+        Calciumsilicaten, die beim Schmelzen der Gangart der Erze anfallen und die sich wegen
+        ihres verhältnismässig geringen Gewichtes im Hochofen vom flüssigen Roheisen trennen
+        (sog. Hochofenschlacke), oder aus Eisensilicaten, die sich während der Raffination von
+        Roheisen oder bei der Stahlherstellung bilden (Konverterschlacke, Martinschlacke usw.).
+        Diese Schlacken verbleiben selbst dann in dieser Nummer, wenn sie einen Anteil Eisen-
+        oxid enthalten, der die Wiedergewinnung des Metalls erlaubt. Die aus der Behandlung von
+        phosphorhaltigem Roheisen stammenden Schlacken, die sog. Entphosphorierungsschla-
+        cken, Phosphatschlacken oder Thomas- Schlacken, gehören zu Kapitel 31.
+
+        Schlacken dienen als Rohstoff bei der Herstellung von Zement, zur Beschotterung, zum
+        Strassenbau usw. Zerkleinerte oder grob kalibrierte Hochofenschlacke in Form von
+        Macadam gehört zu Nr. 2517. Nicht zu dieser Nummer gehört ebenfalls granulierte Schla-
+        cke (Schlackensand) (Nr. 2618).
+
+        Unter Zunder versteht man Eisenoxidblättchen, die beim Schmieden, Walzen usw. von Ei-
+        sen oder Stahl anfallen.
+
+        Ebenfalls zu dieser Nummer gehören Hochofenstaub und andere Abfälle oder Rückstände
+        der eigentlichen Eisen- oder Stahlherstellung, jedoch nicht Schrott, Abfälle und Überreste,
+        die bei der Bearbeitung von Eisen oder Stahl anfallen und die zur Nr. 7204 gehören.
+
+
+
+
+                                     7/10 (Stand: 1.1.2022)
+                                                                                          2620
+
+2620.   Schlacken, Aschen und Rückstände (ausgenommen solche der Roheisen-, Eisen-
+        oder Stahlherstellung), die Metalle, Arsen oder ihre Verbindungen enthalten
+
+        Zu dieser Nummer gehören Schlacken, Aschen und Rückstände (andere als solche der
+        Nrn. 2618, 2619 und 7112), die Metalle, Arsen (auch Metall enthaltend) oder ihre Verbin-
+        dungen enthalten, wie sie zum Gewinnen von Arsen oder Metallen oder zum Herstellen ih-
+        rer chemischen Verbindungen verwendet werden. Diese Schlacken, Aschen und Rück-
+        stände fallen bei der Aufarbeitung von Erzen oder von metallurgischen Zwischenerzeugnisse
+        (wie Matten) an oder stammen aus elektrolytischen, chemischen oder anderen in-
+        dustriellen Verfahren, die keine mechanischen Bearbeitungen einschliessen. Abfälle von
+        der mechanischen Bearbeitung von Metallen oder Schrott von Altmetall gehören nicht zu
+        dieser Nummer (Abschnitt XIV, XV oder XVI). Dagegen verbleibt Hammerschlag, der im
+        Wesentlichen aus Oxiden besteht, ebenfalls in dieser Nummer, obwohl er aus der mecha-
+        nischen Bearbeitung von Nichteisenmetallen stammt.
+
+        Zu dieser Nummer gehören:
+        1)   Matten (mit Ausnahme der Kupfer-, Nickel- oder Kobaltmatten (Abschnitt XV) und
+             Schlacken, Gekrätz oder Abschaum wie gewisse Schlacken, die reich an Kupfer, Zink,
+             Zinn, Blei usw. sind.
+        2)   Galvanisationsmatten, die bei der Feuerverzinkung von Eisen entstehen.
+        3)   Elektrolyseschlämme (Rückstände von der elektrolytischen Raffination von Metallen)
+             und Schlämme aus galvanischen Bädern.
+        4)   Akkumulatorenschlamm.
+        5)   Rückstände von der elektrolytischen Metallraffination, getrocknet oder konzentriert in
+             Form von Blöcken.
+        6)   Rückstände aus der Herstellung von Kupfersulfat.
+        7)   Unreine Kobaltoxide, die aus der Aufarbeitung silberhaltiger Erze stammen.
+        8)   Ausgebrauchte Katalysatoren und nur zum Gewinnen des Metalls oder zum Herstel-
+             len von chemischen Erzeugnissen zu verwenden sind.
+        9)   Laugenrückstände von der Carnallit-Aufbereitung, die zum Gewinnen von Magnesi-
+             umchlorid verwendet werden.
+
+        10) Bleihaltige Benzinschlämme und Schlämme von bleihaltigen Antiklopfmitteln, d.h.
+            Schlämme, die sich in Lagertanks von bleihaltigem Benzin und bleihaltigen Antiklopf-
+            mitteln ansammeln und die im Wesentlichen aus Blei, Bleiverbindungen (einschliess-
+            lich Tetraethylblei und Tetramethylblei) und Eisenoxid (aus der Oxidation der La-
+            gertanks) bestehen. Diese Schlämme werden in der Regel zum Wiedergewinnen von
+            Blei und deren Verbindungen verwendet und enthalten praktisch kein Erdöl.
+        11) Flugaschen, die aus der Zink-, Blei- und Kupferschmelze zurückbleiben. Arsen ist im
+            Allgemeinen in den Flugaschen aus der Kupfer- und Bleischmelze vorhanden. Blei-
+            und Zinkschmelzen enthalten Thallium.
+        12) Schlacken, Aschen und Rückstände aus der Zink-, Blei- und Kupferschmelze, welche
+            einen erhöhten Quecksilbergehalt aufweisen (im Allgemeinen in Form von Oxid,
+            Schwefel oder Amalgam mit anderen Metallen).
+        13) Schlacken, Aschen und Rückstände, welche Antimon, Beryllium, Cadmium, Chrom
+            oder deren Mischungen enthalten. Diese Abfälle stammen im Allgemeinen aus der
+            Behandlung (z.B. thermischen Behandlung) von Erzeugnissen, welche diese Metalle
+            enthalten.
+        14) Schlacken, Aschen und Rückstände aus Abfällen, welche aus der Herstellung, Aufbe-
+            reitung und dem Gebrauch von Druckfarben, Farbstoffen, Pigmenten, Anstrichfarben
+            und Lacken stammen, in der Art, wie sie zur Wiedergewinnung von Metallen oder de-
+            ren Verbindungen verwendet werden.
+
+
+
+
+                                     8/10 (Stand: 1.1.2022)
+                                                                                        2621
+
+        Hierher gehören ebenfalls nicht:
+        a) Aschen und Rückstände aus der Verbrennung von Siedlungsmüll (Nr. 2621)
+        b) Schlämme aus Lagertanks von Erdölen, hauptsächlich diese Öle enthaltend (Nr. 2710)
+        c) Chemisch einheitliche Verbindungen des Kapitels 28.
+        d) Abfälle und Bruch von Edelmetallen, Doublé-Waren oder Edelmetallplattierungen
+            (einschliesslich z.B. der ausgebrauchten oder beschädigten Katalysatoren in Form
+            von Netzen aus Platinlegierungen) Andere Abfälle und Bruch, Edelmetalle oder Edel-
+            metallverbindungen enthaltend, in der Art wie sie hauptsächlich zur Wiedergewinnung
+            der Edelmetalle verwendet werden. (Nrn. 7112 oder 8549).
+        e) Metallabfälle und -rückstände von der Bearbeitung von Metallen des Abschnittes XV
+            herrührend.
+        f) Zinkstaub (Nr. 7903).
+
+2621.   Andere Schlacken und Aschen, einschliesslich Seetangasche; Aschen und Rück-
+        stände aus der Siedlungsmüllverbrennung
+
+        Zu dieser Nummer gehören Schlacken und Aschen (andere als solche der Nrn. 2618,
+        2619 oder 2620 und Entphosphorierungsschlacken des Kapitels 31), die aus der Aufberei-
+        tung von Erzen stammen oder anderer Herkunft sind, und auch dann, wenn sie zur Bo-
+        denverbesserung verwendet werden können.
+
+        Das sind insbesondere:
+        1)   Aschen und Schlacken mineralischen Ursprungs, die hauptsächlich bei der Verbren-
+             nung von Kohle, Braunkohle, Torf oder Erdöl in Heizkesseln von Kraftwerken anfallen.
+             Sie werden hauptsächlich als Rohstoffe für die Zementindustrie, als Zementzusatz in
+             Beton, zur Schachtfüllung in Minen, als mineralische Füllstoffe für Kunststoffe und
+             Farben, als leichte Zuschlagstoffe für die Herstellung von Baublocks und im Tiefbau
+             für Aufschüttungen, Autobahnauffahrten und Brückenwiderlager verwendet. Zu diesen
+             Aschen und Schlacken gehören:
+             a)   Flugaschen – feine, im Rauch enthaltene Partikel, die mittels Filtersäcken oder
+                  elektrostatischen Filtern entfernt werden;
+             b)   Aschen von Heizkesselböden – gröbere, im Rauch enthaltene Aschepartikel, die
+                  sich unmittelbar nach dem Austritt aus dem Heizkessel niederschlagen;
+             c)   Schlacken - grobe Rückstände vom Boden von Heizkesseln;
+             d)   Aschen von Fliessbett-Brennern (FBC-Aschen) – anorganische Rückstände aus
+                  der Verbrennung von Kohle oder Erdöl in einem Fliessbett aus Kalkstein oder Do-
+                  lomit.
+        2)   Seetangasche und andere Pflanzenaschen. Seetangasche entsteht beim Verbrennen
+             gewisser Arten von Meeresalgen (Seetang, Seegras usw.). Im Rohzustand hat diese
+             Asche die Form von schwärzlichen, schweren, unregelmässigen, rauen Stücken, die
+             eine Vielzahl kleiner Löcher aufweisen; nach dem Raffinieren hat sie das Aussehen
+             eines mattweissen Pulvers. Sie wird vor allem zur Jodgewinnung und in der Glasin-
+             dustrie verwendet.
+             Von den anderen Aschen ist die Asche von Reiishülsen zu erwähnen, die fast ganz
+             aus Siliciumdioxid besteht und besonders zum Herstellen von schallisolierenden Stei-
+             nen und anderen schallisolierenden Materialien verwendet wird.
+        3)   Knochenasche, die durch Glühen von Knochen an der Luft gewonnen wird. Dieses
+             Erzeugnis wird ausser zur Bodenverbesserung zum Auskleiden von Kokillen für die
+             Kupferschmelze verwendet. Tierisches Schwarz, das durch Glühen von Knochen in
+             geschlossenen Gefässen gewonnen wird, gehört dagegen zu Nr. 3802.
+        4)   Schlempekohle, ein Nebenerzeugnis der Zuckerindustrie, das durch Veraschen und
+             Auslaugen von Melasseschlempe (Rückstand der Vergärung der Zuckerrübenmelas-
+             se) erhalten wird.
+        5)   Aschen und Rückstände aus der Verbrennung von Siedlungsmüll (vgl. Anmerkung 4
+             zu Kapitel 38). Diese Aschen und Rückstände bestehen oft aus einer Mischung von
+
+
+
+
+                                     9/10 (Stand: 1.1.2022)
+                                                                                  2621
+
+    Klinker und gewissen giftigen Metallen (z.B. Blei) und werden in der Regel beim Bau
+    von vorübergehenden Fahrbahnen bei Deponien als Mineralstoffersatz verwendet.
+    Der Metallgehalt dieser Aschen und Rückstände rechtfertigt kaum eine Wiedergewin-
+    nung des Metalls oder der Metallverbindungen.
+
+Nicht hierher gehört isolierter chemisch einheitlicher Silikastaub, welcher als Nebenprodukt
+bei der Herstellung von Silicium, Ferrosilicium und Zirconiumdioxid anfällt und im Allge-
+meinen als puzzolanischer Zusatz in Beton, Faserzement oder feuerfesten Mörteln und als
+Additiv in Polymeren verwendet wird (Nr. 2811).
+
+
+
+
+                            10/10 (Stand: 1.1.2022)

@@ -1,1 +1,502 @@
-placeholder_erl27
+2701
+
+                                          Kapitel 27
+
+  Mineralische Brennstoffe, Mineralöle und Erzeugnisse ihrer Destillation; bituminöse
+                                Stoffe; Mineralwachse
+
+                                          Allgemeines
+
+Zu den Stoffen, die in diesem Kapitel behandelt werden, gehören mineralische Brennstoffe
+(Kohle, Braunkohle usw., Koks und Halbkoks, andere feste Kohlenwasserstoffe), Erdöl und
+seine Destillationserzeugnisse sowie bituminöse Stoffe und Mineralwachse.
+
+Die Klassierung der Erzeugnisse des Kap. 27 richtet sich nach den physikalischen Kenn-
+grössen Siedepunkt, Dichte und Zähigkeit sowie nach dem Produktionsverfahren.
+
+Zu diesem Kapitel gehören nicht:
+a) Eigens für die Verwendung als Tinte, Farbe oder Firnis zubereitete farbige Erzeugnisse
+   auf der Grundlage von Russ (Nr. 3215), Druckfarben (Nr. 3215), Anstrichfarben (Nr.
+   3208 - 3210) oder Lacke (Nr. 3208-3210);
+b) Arzneimittel des Kapitels 30;
+c) Medizinisches Vaselin (Petrolatum) (Nr. 3003 oder Nr. 3004);
+d) Geruchsverbesserte Paraffinöle und Paraffinöle für kosmetische Zwecke (Nr. 3304);
+e) Brennstäbe (Kerzen) und ähnliche Waren (Nr. 3406);
+f)  Wachsmasse für Zahnabdrücke (Nr. 3407);
+g) Isoliermittel, Schmiermittel, Treibstoffe usw., in abgeteilten Mengen für den Einzelver-
+   kauf (Nr. 3824);
+h) Anstrichfarben auf der Grundlage von Asphalt (Nr. 3209 oder Nr. 3210).
+
+2701.       Steinkohle; Steinkohlenbriketts und ähnliche aus Steinkohle hergestellte feste
+            Brennstoffe
+
+            Steinkohle ist das wichtigste feste kohlenstoffhaltige mineralische Brennmaterial.
+
+            Zu dieser Nummer gehörenüberwiegend aus Steinkohle hergestellte, auch pressgeformte
+            feste Brennstoffe sowie Steinkohlenbriketts (auch mit Zusatz von Koks) und Agglomerate,
+            die hauptsächlich aus Steinkohle, Koks und Pech hergestellt sind.
+
+2702.       Braunkohle, auch agglomeriert, ausgenommen Gagat
+
+            Zu dieser Nummer gehören rohe Braunkohle und agglomerierte Braunkohle, z.B. Briketts
+            und Eier.
+
+            Braunkohle ist eine Art Kohle mit einem hohen Gehalt an sauerstoffhaltigen Bestandtei-
+            len, die stärker als Torf aber weniger stark als Steinkohle verkohlt ist. Die Braunkohle
+            kann nahezu schwarz sein und eine Schichtstruktur aufweisen oder auch eine braune
+            Farbe von holzartigem Aussehen haben.
+
+            Gagat gehört zu Nr. 2530.
+
+2703.       Torf (einschliesslich Torfstreu), auch agglomeriert
+
+            Torf besteht aus Pflanzenresten, die sich in morastigen Gebieten gebildet haben. Er wird
+            vorwiegend zum Heizen verwendet.
+
+            Torfstreu ist ein auf besondere Art getrockneter Torf (aus dem Wasser ist ausgedruckt),
+            der hauptsächlich als Einstreumaterial für Tierställe verwendet wird.
+
+
+
+
+                                     1/12 (Stand: 1.4.2025)
+                                                                                           2704
+
+2704.       Koks und Halbkoks aus Steinkohle, aus Braunkohle oder aus Torf, auch in Stab-
+            form gepresst; Retortenkohle
+
+            Koks wird durch Erhitzen von Steinkohle oder Braunkohle in Abwesenheit von Luft ge-
+            wonnen. Der Rückstand von diesem Erhitzungsvorgang ist Koks. Koks wird in erster
+            Linie zur Schmelzung von Eisen und zum Herstellen von Eisenlegierungen verwendet.
+            Andererseits wird Halbkoks oder Schwelkoks durch Erhitzen bei niedrigerer Temperatur
+            als gewöhnlicher Koks hergestellt.
+
+            Retortenkohle fällt als festes Rückstandsprodukt an, wenn Kohlengas in Retorten ge-
+            wonnen wird. Retortenkohle ist zum Grossteil Graphit.
+
+2705.       Kohlengas, Wassergas, Generatorgas und ähnliche Gase, ausgenommen Erdgas-
+            arten und andere gasförmige Kohlenwasserstoffe
+
+            Zu dieser Nummer gehören folgende Gasarten:
+            1)   Kohlengas: Dieses Gas fällt als Nebenprodukt bei der Verkokung von Kohle an. Es
+                 besteht überwiegend aus Wasserstoff und Methan, mit Beimengungen von Kohlen-
+                 dioxid, Kohlenmonoxid, Äthylen, Propylen, Benzol usw. Steinkohlengas wird auch
+                 als Leuchtgas, Stadtgas und Stadtleuchtgas bezeichnet.
+            2)   Wassergas: Es wird durch Einleiten von überhitztem Wasserdampf durch glühende
+                 Koksschichten hergestellt und besteht überwiegend aus Kohlenmonoxid und Wasser-
+                 stoff.
+            3)   Generatorgas (Erzeugergas, Luftgas): Es wird durch Verbrennen von Koks in Luft mit
+                 einem Unterschuss an Sauerstoff hergestellt und besteht überwiegend aus Stickstoff,
+                 Kohlenmonoxid und Wasserstoff.
+            4)   Rückstandsgase: Gasgemische, die bei bestimmten Entgasungsverfahren oder Krackverfah-
+                 ren anfallen. Dazu gehören Raffinerigas, Ölgas, Rückstandsgas und Synthese-
+                 gas (Synthesegas kann auch als Kohlengas, Wassergas oder Generatorgas oder
+                 durch Dampfreformierung hergestellt werden).
+
+2706.       Teer aus Steinkohle, aus Braunkohle oder aus Torf und andere Mineralteer, auch
+            entwassert oder teilweise destilliert, einschliesslich des durch Mischen von Teer- und
+            Bitumenerzeugnissen zusammengesetzten Teers
+
+            Steinkohle, Braunkohle oder Torf wird bei hohen Temperaturen in Abwesenheit von Luft
+            (Pyrolyse) zu Koks oder Halbkoks verarbeitet. Beim Abkühlen der sich dabei bildenden
+            Dämpfe fällt Teer an.
+
+            Zu dieser Nummer gehört rohes kohlehaltiges Teeröl (auch bezeichnet als Rohöl oder
+            roher Steinkohlenteer), das nach der fraktionierten Destillation seiner wichtigsten Be-
+            standteile bereinigt worden ist. Er fällt als dickflüssiges, zähes, schwarzes oder beinahe
+            schwarzes Produkt an, das zu Bitumenmörteln verarbeitet wird.
+
+            Nicht zu dieser Nummer gehören Erzeugnisse aus bituminösem Schieferöl und aus bi-
+            tuminösem Sand. Diese gehören zu Nr. 2713.
+
+2707.       Öle und andere Erzeugnisse aus der Destillation von Kohlenteer bei hoher Tem-
+            peratur; ähnliche Erzeugnisse, bei denen die aromatischen Bestandteile gewichts-
+            mässig die nichtaromatischen überwiegen
+
+            Zu dieser Nummer gehören die Öle und anderen Erzeugnisse, die bei der Destillation
+            von Steinkohlenteer bei hoher Temperatur (d.h. über 700 ° C) anfallen sowie ähnliche
+            Erzeugnisse, bei denen die aromatischen Bestandteile gewichtsmässig die nichtaromati-
+            schen überwiegen.
+
+
+
+
+                                     2/12 (Stand: 1.4.2025)
+                                                                                           2708
+
+2708.       Pech und Pechkoks, aus Steinkohlenteer oder aus anderen Mineralteeren
+
+            Steinkohlenteer-Pech fällt als Rückstand bei der Destillation von Steinkohlenteer an.
+            Es ist fest oder halbfest, schwarz, mit glatterem und weniger glänzendem Bruch als
+            natürlicher Asphalt und mit einem Erweichungspunkt, der von sehr niedrig bis sehr hoch
+            reicht. Pech wird hauptsachlich zur Herstellung von Elektroden und Füllmaterialien für
+            den Hoch- und Tiefbau sowie als Grundlage bei der Herstellung einiger Isoliermittel ver-
+            wendet.
+
+            Aus Mineralteer oder Pech, insbesondere Steinkohlenteer-Pech, wird durch Koksifikation
+            bei Temperaturen um 1300° C Pechkoks gewonnen.
+
+2709.       Erdöl und öl aus bituminösen Mineralien, roh
+
+            Zu dieser Nummer gehören Erdöle, die in der Natur vorkommen, unverarbeitet oder nach
+            physikalischer Behandlung (z.B. Dekantieren, Filtrieren, Zentrifugieren, Entsalzen,
+            Entfeuchten, Entwässerung) oder Entfernung von flüchtigen Bestandteilen durch beson-
+            dere Behandlungsmethoden (Stabilisierung). Gleicher Behandlung unterworfen, gehören
+            ebenfalls zu dieser Nummer Kondensate, die beim Fördern von Erdölgasen zurückgehal-
+            ten werden. Diese Kondensate können je nach dem Gewicht des verlorenen Gases reich
+            oder arm an leichtem Benzin sein.
+
+            Hierher gehören ferner Öle aus bituminösem Sand, die durch Zerstörung der Kohlenwas-
+            serstoff-Matrix des bituminösen Sandes mittels Dampfflutung oder in der Retorte erhalten
+            werden, jedoch keine Öle, die noch nicht durch diese Verfahren verarbeitet wurden. Eben-
+            falls hierher gehören Öle aus bituminösem Schiefer, die durch Wärmebehandlung von bi-
+            tuminösem Schiefer (Rettortenverfahren) gewonnen werden.
+
+            Nicht zu dieser Nummer gehören:
+            a) Reinigung von Erdöl im Sinne des Zolltarifs: Das Erdöl gilt als roh im Sinne des
+               Zolltarifs, wenn es keinerlei Raffination erfahren hat. Nicht unter Nr. 2709 gehören
+               also Erdöle und Öle aus bituminösen Mineralien, die mit Ausnahme der vorgesehenen
+               physikalischen Behandlungen oder der Stabilisierung anderweitige Prozesse (z.B.
+               Destillation, Raffination, Cracking usw.) erfahren haben.
+            b) Kondensate des Erdgases (soweit sie als destilliert gelten), da sie Erdöl ganz ersetzen
+               oder dem Roherdöl die leichten Bestandteile zuführen können.
+
+2710.       Erdöl und Öl aus bituminösen Mineralien, andere als rohe; Zubereitungen mit
+            einem Gehalt an Erdöl oder Öl aus bituminösen Mineralien von 70 GHT oder mehr,
+            in denen diese Öle den wesentlichen Bestandteil bilden, anderweit weder ge-
+            nannt noch inbegriffen; Ölhaltige Abfälle
+
+            Zu dieser Nummer gehören Erdöle und andere Öle aus bituminösen Mineralien (andere
+            als rohe), die je nach ihrer Beschaffenheit in verschiedene Kategorien eingeteilt werden.
+
+            Sie können nach ihrer Verwendung wie folgt unterschieden werden:
+            a)   Leichte Öle: Benzin, Benzin, Naphtha, Petroleum.
+            b)   Schwere Öle: Heizöl, Schmieröl, Vaselinöl usw.
+
+            Ebenfalls zu dieser Nummer gehören:
+            1)   Rohbenzin (Straight-run Naphtha, auch Headings genannt) für petrochemische
+                 Zwecke, das durch Destillation aus Erdöl- oder Naturgaskondensat hergestellt wird
+                 und auch als Testbenzin bezeichnet werden kann.
+            2)   Zubereitungen, die nicht das besondere Merkmal eines Stoffs haben, der unter eine
+                 bestimmte Nummer oder einen bestimmten Abschnitt des Kap. 27 oder an einer an-
+                 deren Stelle des Schemas fallen würde, wenn er als chemisch einheitliche Verbindung
+                 vorkommen würde, mit einem Gehalt an Erdöl oder anderen Ölen aus bituminösen
+                 Mineralien von 70 GHT oder mehr.
+            3)   Ölhaltige Abfälle, d.h. Abfälle von Schmieröl. Die Abfälle, die aus der Behandlung
+                 von Mineralölen stammen (z.B. aus der Raffination von Schmiermitteln, aus der
+                 Herstellung von Bitumen) oder die sich in Lagerbehältern (Schlammfällung) ange-
+                 sammelt haben (bestehend zu einem grossen Teil aus Mineralöl). Derartige Abfälle
+                 sind u.a.: verbrauchte und Abfall-Schmiermittel, Motorenaborte und Schwimmöle.
+
+
+
+
+                                     3/12 (Stand: 1.4.2025)
+                                                                                        2711
+
+2711.       Erdgas und andere gasförmige Kohlenwasserstoffe
+
+            Zu dieser Nummer gehören Erdgas und andere gasförmige Kohlenwasserstoffe, wie Erd-
+            gas aus natürlichen Quellen, Flüssiggas (LPG) und andere Kohlenwasserstoffe, die bei
+            Zimmertemperatur und unter Normaldruck gasförmig sind.
+
+            Erdgas besteht hauptsächlich aus Methan (CH4), mit überwiegend höheren Kohlenwas-
+            serstoffen wie Ethan, Propan, Butan usw. in kleinen Mengen.
+
+2712.       Vaselin; Paraffin, Mikrowachs, Slack Wax, Ozokerit, Montanwachs, Torfwachs,
+            andere Mineralwachse und ähnliche durch Synthese oder auf anderen Wege gewon-
+            nene Erzeugnisse, auch gefärbt
+
+            Zu dieser Nummer gehören:
+            1) Vaselin (auch Petrolatum, Vaseline oder Weissvaselin genannt): Es besteht aus einem
+            Gemisch gesattigter aliphatischer (geradkettiger) und alicyclischer (ringförmiger) Kohlen-
+            wasserstoffe, die vorwiegend Wachscharakter haben und bei Destillation von Erdöl ge-
+            wonnen werden. Im Folgenden: Es ist ein homogenes, fast geruchloses, halbfestes Ge-
+            misch mit einem Schmelzpunkt von 38 - 54 °C.
+
+            2) Paraffin (Paraffin wax): Es besteht vorwiegend aus geradkettigen aliphatischen Kohlen-
+            wasserstoffen. Die Paraffine können nach ihrer Schmelztemperatur klassiert werden, bei-
+            spielsweise Hartparaffin (solid paraffin wax) mit einem Schmelzpunkt über 45 °C und
+            Weichparaffin (soft paraffin wax oder wax petrolatum) mit einem Schmelzpunkt zwischen
+            35 bis 45 °C.
+
+            3) Mikrowachs: Mikrokristallinie Wachse, die durch Raffination von Schmierölen gewon-
+            nen werden (Wachscharakter im Gegensatz zu Paraffin). Mikrowachs fällt mit dem Erdöl
+            bei der Destillation als Nebenprodukt an.
+
+            4) Slack Wax: Roher Prozessrohstoff der Paraffin- und Wachsherstellung. Slack Wax ist
+            ein Gemisch aus Paraffin und Schmieröl, das bei der Entparaffinierung von Schmiermölen
+            aus Destillationskolonnen fällt.
+
+            5) Ozokerit (Erdharz): Natürliches Gemisch von Wachsen, die bei den verschiedenen
+            Erdpechquellen vorkommen. Je nach Fundort und Reinheit ist seine Farbe gelb, braun
+            oder schwarz.
+
+            6) Montanwachs (Montansaure): Destillat aus dem Braunkohleteer, in dem Wächse vor-
+            herrschen und das durch Extraktion gewonnen wird. Montanwachs ist ein hartes, duenkes,
+            brüchiges Wachs.
+
+            7) Torfwachs (Torf-Öl): Ein bei der Torfverarbeitung entstehendes Gemisch, ähnlich
+            dem Braunkohlenteer, das bei der Tieftemperaturverkokung von Torf gewonnen wird.
+
+2713.       Petroleumkoks, Petroleumbitumen und andere Rückstände aus Erdöl oder Öl
+            aus bituminösen Mineralien
+
+            Petroleumkoks ist ein festes Produkt, das bei der Raffination von Erdöl anfallend als
+            Nebenprodukt der Krakprozesse (Hochtemperaturkrachen) anfällt. In den weichen,
+            schwammigen und unreifen Typen ("Green Coke") wird er hauptsächlich als Brennstoff
+            eingesetzt, wogegen der gesinterte, harte und hochwertige Typ ("Calcined Coke") als
+            Reduktionsmittel oder als Graphitelektrode eingesetzt wird.
+
+            Petroleumbitumen (oder Strassenbitumen) ist ein zah flüssiges Produkt, das nach der
+            Raffination von Erdöl als Nebenprodukt anfallend, und mit einem sehr hohen Viskositäts-
+            bereich. Es ist wie natürliches Asphalt (Erdpech) und bituminöse Stoffe in der Natur,
+            aber in raffinierter Form.
+
+            Zu dieser Nummer gehören ausserdem:
+            1) Rohölschlampf, der an den Wänden der Lagertanks haftet und aus Rohöl, Wasser und
+            Sand besteht.
+            2) Rückstände aus der Erdölraffination, d.h. Destillationsreste, andere als Petroleum-
+            koks und Petroleumbitumen.
+
+2714.       Natürlicher Asphalt (Erdpech) und anderes natürliches Bitumen; bituminöser
+            Schiefer und Teersand (Teer- oder Ölsand); Asphaltit und Asphaltfelsen
+
+            Zu dieser Nummer gehören natürlicher Asphalt oder Erdpech (ein ähnliches Produkt wie
+            das raffinierte Petroleumbitumen, das jedoch in der Natur vorkommt), und andere natür-
+            liche bituminöse Stoffe sowie bituminöser Schiefer und Teersand.
+
+            Nicht zu dieser Nummer gehören:
+            a) bituminoser Sand, der als bituminöser Sand betrachtet wird und von dem Öl durch Destillation oder andere in der Industrie verwendet Verfahren gewonnen werden kann (Nr. 2709).
+            b) Bitumenömulsionen (Nr. 2715).
+
+2715.       Bituminöse Gemische auf der Grundlage von Naturasphalt, natSrlichem Bitumen,
+            von Petroleum-Bitumen, von Mineralteer oder von Mineralteerpech (z.B. Bitumin-
+            öse Mastix, Cut-Back-Bitumen)
+
+            Bituminöse Gemische sind flüssige oder halbfeste Gemische, die als Grundbestandteile
+            bituminöse Stoffe wie Asphalt, Teer oder Bitumen enthalten. Diese Gemische werden
+            für verschiedene Anwendungen wie Strassenbau, Dacheindeckung oder Isolation ver-
+            wendet.
+
+2716.       Elektrische Energie (nur für den Inlandsverbrauch bestimmt, auch vorgezogen)
+
+            Diese Nummer erfasst elektrische Energie, soweit sie zum Inlandsverbrauch bestimmt
+            ist (d.h. bezäglich der schweizerischen Abgrenzung: soweit sie Gegenstand der Ein-
+            fuhrzollanmeldung ist).
+
+                                    Schweizerische Erläuterungen
+
+2701.1090,1010
+            Hierher gehören auch Kohlen und Koks zum Vergasen. Werden Kohle in einem Gas-
+            generator verwendet, wobei Generatorgas erzeugt wird (Nr. 2705), dann handelt es
+            sich bei diesen Waren um Rohstoffe für das Generatorgas-Herstellungsverfahren.
+
+2701.       Steinkohle-Koks gemäss Anmerkung 2 zu Kap. 27 ist ein durch die Destillation von
+            Steinkohle in Abwesenheit von Luft hergestellter Koks. Die Grenztemperatur liegt bei
+            700°C. Halbkoks (Schwelkoks) ist ein bei Temperaturen zwischen 450 und 700 °C in
+            Abwesenheit von Luft hergestellter Koks.
+
+2708.       Pech ist ein Rückstandsprodukt, das entweder durch Destillation von Kohlenteer bei
+            verschiedenen Temperaturen (Tieftemperatur oder Hochtemperaturkrachen) oder bei
+            der Chlorierung von Bitumen oder bei der Pyrolyse (Verkokung) verschiedener organi-
+            scher Rohstoffe oder bei der Zersetzung von Tetrahydronaphthalin gewonnen wird.
+
+2709.       Erdrölkondensate (oder Gaskondensate): Flüssige Erdölprodukte, die während der
+            Förderung von Erdgas durch Kondensation zu einer Flüssigkeit werden. Diese werden
+            in der Praxis als Roherdöl behandelt.
+
+2710.       Zu Nr. 2710 gehören alle leichten Öle oder Zubereitungen mit Ausnahme von Rohöl,
+            Vaselin, Paraffin, Wachsen und anderen verwandten Mineralerzeugnissen.
+
+2710.1210-1290, 1910-1990, 9110-9190
+            Unter dem Begriff "leichte Öle oder Zubereitungen", die eine Destillationskomponente von
+            90 v. H. oder mehr bei 210 °C aufweisen, sind Erdoeldestillationsprodukte oder Erdoel-
+            derivate zu verstehen, die aus Kohlenwasserstoffe zusammengesetzt sind, von denen
+            mindestens 90 v. H. (nach Volumen bei einer Temperatur von 210° C, einschliesslich
+            Verluste) abdestillieren.
+
+2710.11     Der Begriff "Benzin" gemäss Note 4 zu Kap. 27 ("Benzin oder Flugbenzin") schliesst
+            Stoffe ein, welche:
+            1. Zu mindestens 90 v. H. bis 210 °C abdestillieren;
+            2. Eine Octanzahl von 15 RON oder mehr aufweisen.
+
+2710.1911-1919
+            Als Petroleum oder Kerosin gilt ein Gemisch von Kohlenwasserstoffen, von dem ein
+            Anteil von mindestens 50 v. H. bei einer Temperatur von 250 °C oder niedriger abdestil-
+            liert.
+
+2710.19     Hierzu gehören Gasöl (= Dieselöl), d.h. Kohlenwasserstoffsgemische, von denen nach
+            ASTM-Destillationsverfahren mehr als 10 v. H. aber nicht mehr als 65 v. H. bis 250 °C
+            abdestillieren und mehr als 85 v. H. bis 350 °C abdestillieren.
+
+2710.9100   Hierher gehören Altlösungsmittel und Abfälleöl gemischt mit anderen Substanzen.
+
+2711.1100   Unter dem Begriff "Erdgas, verfllüssigt" versteht man Erdgas, das durch Druckkühlung
+            oder Tiefkühlung verflüssigt wurde und primär aus CH4 besteht (Methan mit min.
+            75 v. H. des Volumens nach der Entspannung bei Normaldruck und -temperatur).
+
+2711.1200   Als "Propan, verfllüssigt" gilt Propan, das durch Druck oder Tiefkühlung verflüssigt
+            worden ist. Es ist primär aus C3H8 zusammengesetzt.
+
+2711.1300   Als "Butan, verfllüssigt" gilt Butan, das durch Druck oder Tiefkühlung verflüssigt
+            worden ist. Das verflüssigte Butan ist primär aus C4H10 zusammengesetzt.
+
+2711.2100   Als "Erdgas in gasförmigem Zustand" gilt Erdgas, das nicht verflüssigt worden ist.
+
+
+
+
+                                     4/12 (Stand: 1.4.2025)
+                                                                                         2711
+
+2712.       Unter Vaselin versteht man im Sinne dieses Kapitels eine halbfeste Mischung von
+            Kohlenwasserstoffe mit Wachscharakter, die aus der Destillation von Rohröl gewon-
+            nen wird und zwischen 38 und 54 °C schmilzt. Vaselin muss einen Gehalt an Öl von
+            wenigstens 3 Gew. % aufweisen.
+
+2712.1000   Vaselin dieser Nummer umfasst sowohl das rohe als auch das raffinierte Vaselin.
+
+2713.       Hierher gehören Petroleumkoks, auch raffiniert, d.h. Erzeugnisse der Nr. 2713, bei
+            denen der Kohlenstoff oder die Kohlenstoffverbindungen dominieren.
+
+2714.       Hierher gehören natürlicher Asphalt und andere bituminöse Materialien, die aus
+            Asphaltit und Asphaltfelsen gewonnen werden.
+
+2715.       Hierher gehören Mischungen oder Zubereitungen auf der Grundlage von Naturasphalt,
+            natürlichem Bitumen, von Petroleum-Bitumen, von Mineralteer oder Mineralteerpech.
+
+                                    Besondere Bestimmungen
+
+2709.       Einzuändere und Einzuvermerkende:
+
+            1. Die Ware gilt als roh im Sinne von Nr. 2709, solange keine Raffination im Sinne des
+               Zolltarifs angewendet worden ist. Als Raffination im Sinne des Zolltarifs gilt jede
+               Destillation (ausgenommen die Stabilisierung im Sinne des Zolltarifs), Entschwefelung,
+               Behandlung mit Schwefelsäure oder anderen Säuren, die Überleitung durch Öfen, die
+               chemische Behandlung oder das Cracken.
+
+            2. Das Erdöl gilt als raffiniert im Sinne des Zolltarifs, wenn es mindestens einen der
+               vorgenannten Prozesse erfahren hat.
+
+2710.       Hierher gehören Mineralerzeugnisse nach dem Raffinieren. Sie unterscheiden sich von
+            "rohem Erdöl" dadurch, dass sie beim Raffinierungsprozess einer oder mehrerer der
+            unter 2709 genannten Behandlungen unterworfen worden sind.
+
+2710.1260,1960,9160
+            Die Einfuhr von Heiztreibstoffen und Motorentreibstoffen, die mit bleiorganischen Verbindun-
+            gen nicht oder bis zu 0,013 g/l Blei versetzt sind, ist nicht bewilligungspflichtig.
+
+2710.1261,1961,9161
+            Die Einfuhr von Heiztreibstoffen und Motorentreibstoffen, die mit bleiorganischen Verbindun-
+            gen bis zu 0,013 g/l bis 0,15 g/l Blei versetzt sind, ist nicht bewilligungspflichtig (Stand:
+            1.1.2022).
+
+2710.1269,1969,9169
+            Die Einfuhr von Heiztreibstoffen und Motorentreibstoffen, die mit mehr als 0,15 g/l Blei
+            versetzt sind, ist bewilligungspflichtig.
+
+2716.       Elektrische Energie, die nur dem Inlandsverbrauch dient, ist in der Einfuhranmeldung
+            anzumelden. Es gilt Nr. 2716.0000.
+
+            Zollpflichtig sind nur Importe, die zum Inlandsverbrauch bestimmt sind (nicht Importe im
+            Rahmen des Energiedurchleitungsverkehrs), siehe auch Bem.
+
+                                    Zolltechnische Erläuterungen
+
+2710.1920,1960,1961,9120,9160,9161
+            Heizöle: Mindesteigengewicht bei 15 °C: 860 g/l.
+
+2710.1250   Zur Bestimmung des Cetanindexes wird die ASTM-Methode D976 (Einzel-Messung) oder
+            ISO-Methode ISO 4264 verwendet.
+
+2710.1251   Die Einfuhr von Heizöl, das aus Erdöl und bituminösen Mineralien hergestellt worden
+            ist und das einen Schwefelgehalt von mehr als 2 Gewichtshundertstel besitzt, ist bewilli-
+            gungspflichtig. Die Bewilligung wird vom BAZG eingeholt.
+
+2710.1261   Hierher gehören blyhaltige (bleihaltige) Treibstoffe mit einem Bleigehalt über 0,013 g/l
+            bis 0,15 g/l Blei, die in Flaschen von 1 Liter oder weniger für Modellmotoren, Flugzeug-
+            modelle usw., einschliesslich Drohnen, abgepackt sind. Diese Treibstoffe dürfen nicht
+            bewilligungspflichtig sein.
+
+2710.1950   Solche Heiztreibstoffe sind in der Einfuhrzollanmeldung als entsprechende Treibstoffe zu
+            deklarieren.
+
+2710.1969   Die Einfuhr von Treibstoffen, die mit mehr als 0,15 g/l Blei versetzt sind, ist bewilligungs-
+            pflichtig.
+
+2710.9110   Abfallöl in diesem Sinne ist jedes Erdöl oder Öl aus bituminösen Mineralien, das nicht
+            mehr für den ursprünglichen Zweck geeignet ist. Dazu zählen Abfallöle aus dem Betrieb
+            von Verbrennungsmotoren, Kraftfahrzeugen, Turbinen usw.
+
+2710.9900   Hierher gehören Abfälle, die Erdöl oder andere bituminöse Mineraldestillate enthalten.
+
+2711.       Als gasförmige Kohlenwasserstoffe gelten Gase, die bei einem Druck von 1013 mbar
+            und einer Temperatur von 15 °C gasförmig sind.
+
+2712.       Vaselin, Paraffin, Mikrowachs, Slack Wax, Ozokerit, Montanwachs, Torfwachs und
+            ähnliche durch Synthese oder auf anderen Wegen gewonnene Mineralerzeugnisse.
+
+
+
+
+                                     5/12 (Stand: 1.4.2025)
+                                                                                            2714
+
+2714.       Zu Nr. 2714 gehören natürlicher Asphalt und andere natürliche bituminöse Materialien,
+            die aus Asphaltit und Asphaltfelsen gewonnen werden.
+
+                                      Besondere Bestimmungen
+
+Einfuhrscheine:
+
+2709.0000   Für die Einfuhr von Erdöl, roh, wird ein Einfuhrschein (ES) des BAZG benötigt.
+
+2710.       Für die Einfuhr von Kraftstoffen wird ein Einfuhrschein (ES) benötigt.
+
+2710.1221 - 2710.1229
+            Für die Einfuhr dieser Waren wird ein Einfuhrschein (ES) benötigt.
+
+2710.1230
+            Für die Einfuhr dieser Ware wird ein Einfuhrschein (ES) benötigt.
+
+2710.1250 - 2710.1269
+            Für die Einfuhr dieser Waren wird ein Einfuhrschein (ES) benötigt.
+
+2710.1260 - 2710.1269 Für die Einfuhr dieser Waren wird ein Einfuhrschein (ES) benötigt.
+
+2710.1290
+            Für die Einfuhr dieser Ware wird ein Einfuhrschein (ES) benötigt.
+
+2710.1910 - 2710.1990
+            Für die Einfuhr dieser Waren wird ein Einfuhrschein (ES) benötigt.
+
+2710.9100, 9900
+            Für die Einfuhr dieser Waren wird ein Einfuhrschein (ES) benötigt.
+
+2710.      Ist die Ware als Treibstoff nach Art. 12 MinBStG (SR 641.61) bestimmt, ist ein Frei-
+            gabeschein des Waren-Administrationsdienstes (WAD) nötig. Im Falle des Art. 12 Abs. 1
+            Bst. e MinBStG (Treibstoff in Kleinkännen bis 10 Liter für Motorfahrzeuge) ist kein Frei-
+            gabeschein notwendig.
+
+2716.0000   Elektrische Energie: Beim Zoll ist für die Einfuhr elektrischer Energie eine Ausfuhr-
+            Einfuhr-Bewilligung gemacht Anmeldung (Einfuhrschein mit Status E1) erforderlich.
+
+                                      Zolltechnische Erläuterungen
+
+2710.1210 - 2710.1290, 2710.1910 - 2710.1990, 2710.9110-9190
+            Die für den Einsatz als Biokraftstoff bestimmten Biokraftstoffe müssen folgende Voraus-
+            setzungen erfüllen:
+            a. Sie müssen nach der schweizerischen gesetzlichen Definition als Biokraftstoff gelten
+               (z.B. gereinigte oder aufbereitete Pflanzensäfte, Ester von pflanzlichen Ölen oder von
+               pflanzlichem Fett, Etanol aus Biomasse oder andere chemische Verbindungen aus der
+               Biomassepyrolyse oder Hydrolyse).
+            b. Sie müssen die Anforderungen für CO2-Einsparungen gemäss den entsprechenden
+               Verordnungen erfüllen.
+            c. Für Biokraftstoffe, die als Treibstoff eingesetzt werden, ist der ökologische Nachweis
+               zu erbringen.
+
+2716.0000   Elektrische Energie: nur zum Inlandsverbrauch bestimmt. Es gilt Nr. 2716.0000.
+
+            Gegenstand der Einfuhranmeldung ist nur die elektrische Energie, die zum Inlandsver-
+            brauch bestimmt ist (nicht: elektrische Energie für den Energiedurchleitungsverkehr).
