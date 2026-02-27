@@ -781,6 +781,12 @@ def health():
     return jsonify({"status": "ok", "service": "Tarifierungstool Backend"})
 
 
+@app.route('/ping', methods=['GET', 'POST'])
+def ping():
+    import sys
+    return jsonify({"python": sys.version, "method": request.method, "ok": True})
+
+
 @app.route('/classify', methods=['POST'])
 def classify():
     try:
