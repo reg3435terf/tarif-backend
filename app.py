@@ -783,20 +783,28 @@ def health():
 
 @app.route('/classify', methods=['POST'])
 def classify():
-    if not GROQ_API_KEY:
-        return jsonify({"error": "GROQ_API_KEY nicht konfiguriert"}), 500
+    try:
+        if not GROQ_API_KEY:
+            return jsonify({"error": "GROQ_API_KEY nicht konfiguriert"}), 500
 
-    data = request.get_json()
-    if not data or not data.get("product", "").strip():
-        return jsonify({"error": "Kein Produkt angegeben"}), 400
+        data = request.get_json()
+        if not data or not data.get("product", "").strip():
+            return jsonify({"error": "Kein Produkt angegeben"}), 400
 
-    product_query = data["product"].strip()
-    result = classify_product(product_query)
+        product_query = data["product"].strip()
+        result = classify_product(product_query)
 
-    if "error" in result:
-        return jsonify(result), 500
+        if not isinstance(result, dict):
+            return jsonify({"error": f"Unerwarteter Ergebnistyp: {type(result)}"}), 500
 
-    return jsonify(result)
+        if "error" in result:
+            return jsonify(result), 500
+
+        return jsonify(result)
+    except Exception as e:
+        import traceback
+        tb = traceback.format_exc()
+        return jsonify({"error": f"Interner Fehler: {type(e).__name__}: {e}", "traceback": tb}), 500
 
 
 if __name__ == '__main__':
