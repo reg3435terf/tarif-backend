@@ -108,7 +108,7 @@ def _call_groq_model(model, messages, max_tokens, temperature):
         "User-Agent": "Tarifierungstool/4.0"
     })
 
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    with urllib.request.urlopen(req, timeout=25) as resp:
         data = json.loads(resp.read().decode("utf-8"))
         content = data["choices"][0]["message"]["content"]
         return _extract_json(content)
@@ -784,7 +784,7 @@ def classify_product(product_query):
                 f"Zitiere die massgebenden Erläuterungen wörtlich. "
                 f"Prüfe zuerst die Kapitel-Anmerkungen auf Ausschlüsse."
             )}
-        ], max_tokens=1500)
+        ], max_tokens=1000)
     except RateLimitError as e:
         return {"error": str(e), "rate_limited": True, "retry_after": 60}
     except Exception as e:
