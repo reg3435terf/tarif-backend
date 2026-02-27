@@ -1,31 +1,922 @@
 69
 
-                                      Kapitel 69
+                               Kapitel 69
 
-                                   Keramische Waren
+                           Keramische Waren
 
-                                      Allgemeines
+                                Allgemeines
 
-     Dieses Kapitel umfasst keramische Waren. Darunter sind zu verstehen Waren, die durch
-     Formen von Erden oder anderen mineralischen Stoffen (wie Kaolin, Ton, Feldspat, Magnesit,
-     Talkum und anderen) und anschliessendes Brennen hergestellt worden sind. Diese Defini-
-     tion schliesst folgende Herstellungsverfahren ein: Pressen, Formen (Giessen, Pressen, Ziehen,
-     Drehen usw.) und Brennen (bei hohen Temperaturen) oder Sintern.
+Der Begriff keramische Waren bezeichnet Waren, die hergestellt sind:
+A)   Durch Brennen von nicht metallischen, anorganischen Stoffen nach vorgängiger, ge-
+     wöhnlich bei normaler Temperatur vorgenommener Zubereitung und Formgebung. Als
+     Rohstoffe werden insbesondere Tone, kieselsäurehaltige Stoffe, (einschliesslich ge-
+     schmolzenes Siliciumdioxid), Stoffe mit hohem Schmelzpunkt wie Oxide, Karbide, Nit-
+     ride, Graphit oder anderer Kohlenstoff, und in gewissen Fällen, Bindemittel wie feuer-
+     feste Tone und Phosphate, verwendet.
+B)   Aus Steinen (z.B. Speckstein), die nach dem Formen erhitzt wurden.
 
-     Das Kapitel umfasst nicht:
-     a) Rein mineralische Erzeugnisse der Kapitel 25 oder 26;
-     b) Schleifscheiben und ähnliche Waren der Nr. 6804;
-     c) Waren des Kapitels 71;
-     d) Teile und Zubehör von Maschinen und Apparaten, die unter Kapitel 84 oder 85 fallen;
-     e) Waren des Abschnittes XVII (z.B. für Schiffe, Schienenfahrzeuge, Fahrzeuge, Luft- oder
-        Raumfahrzeuge);
-     f) Waren des Kapitels 90;
-     g) Waren des Kapitels 91 (z.B. Uhrgehäuse);
-     h) Waren des Kapitels 94 (z.B. Möbel, Leuchten und Beleuchtungskörper, vorgefertigte Gebäude);
-     i) Waren des Kapitels 95 (z.B. Spielzeug, Spiele, Sportgeräte, Angel- und Jagdgerät).
+Die Herstellung der keramischen Waren des vorstehenden Alinea A) umfasst, gleich aus
+welchem Stoff sie bestehen, hauptsächlich folgende Arbeitsgänge:
 
-     Zu beachten ist, dass keramische Waren aus bestimmten Mischungen von Ton und anderen
-     Stoffen hergestellt werden können. Ton kann in den verschiedensten Formen vorkommen und
-     wird in vielen Industrien eingesetzt.
+1.   Herstellen der Grundmasse.
+
+     In gewissen Fällen (z.B. beim Herstellen von Waren aus gesinterter Tonerde) wird der
+     Rohstoff unmittelbar in Form von Pulver, dem eine geringe Menge eines Schmiermit-
+     tels zugesetzt wird, verwendet. In den meisten Fällen wird er jedoch zuerst in eine
+     plastische Masse verwandelt. Die Herstellung der Grundmasse erfolgt durch Dosieren
+     und Mischen der verschiedenen Bestandteile und gegebenenfalls durch Mahlen
+     (Feinzerkleinern), Sieben, Filtrieren unter Druck, Kneten, Reifen und Entlüften. Gewis-
+     se feuerfeste Produkte werden ebenfalls aus einer dosierten Mischung aus gröberen
+     und feineren Bestandteilen hergestellt, der man eine kleine Menge Bindemittel, auch
+     in wässriger Form, beifügt (z.B. Teer, Harzstoffe, Phosphorsäure, Ligninlösung).
+
+2.   Formen.
+
+     Diese Arbeit soll dem Pulver oder der so hergestellten plastischen Masse eine Form
+     geben, die der gewünschten Form so nahe wie möglich kommt.
+
+     Das Formen geschieht durch Strangpressen (Durchgang durch ein Mundstück),
+     Stempel- oder Streichpressen, Giessen oder Modellieren; diesen Arbeitsgängen folgt
+     in gewissen Fällen ein mehr oder weniger weitgehendes Nachbearbeiten.
+
+3.   Trocknen der erhaltenen Formstücke.
+
+4.   Brennen.
+
+     Bei diesem Arbeitsgang werden die rohen Stücke einer Temperatur ausgesetzt, die je
+     nach Art der Erzeugnisse bei 800 °C oder mehr liegt. Dieser Brennvorgang erlaubt es,
+     durch Diffusion, chemische Umwandlung oder teilweises Schmelzen, eine feste Ver-
+     bindung in der Körnung zu erhalten.
+
+     Als nicht keramisch gebrannt im Sinne der Anmerkung 1 zu diesem Kapitel gelten je-
+     ne Waren, welche einer Temperatur von unter 800 °C unterzogen worden sind, um die
+     Verhärtung der in ihnen enthaltenen Harze, die Beschleunigung der Hydratationswir-
+     kung oder die Ausscheidung von Wasser oder anderen flüchtigen Stoffen zu bewir-
+     ken, welche vorhanden sein können.
+
+     Solche Waren sind vom Kapitel 69 ausgenommen.
+
+
+
+
+                             1/16 (Stand: 1.1.2024)
+                                                                                    69
+
+5.    Schlussbearbeitung.
+
+      Die Schlussbearbeitungen hängen von der Verwendung der fertigen Stücke ab. Sie
+      können, wenn nötig, in einer maschinellen Nachbearbeitung, die einen hohen Grad an
+      Präzision erreichen kann, oder in gewissen Oberflächenbearbeitungen, wie Markieren,
+      Metallisieren oder Imprägnieren bestehen.
+
+Beim Herstellen keramischer Waren verwendet man sehr oft in der Grundmasse, als
+Überzug, als Glasur oder für Schmuckmotive besonders zubereitete Farben und Trü-
+bungsmittel, Schmelzglasuren und andere verglasbaren Massen, Engoben, Glanzmittel
+und ähnliche Zubereitungen.
+
+Das Brennen nach der Formgebung ist das grundlegende charakteristische Merkmal der
+Waren dieses Kapitels; hierdurch unterscheiden sie sich von den Waren aus Steinen und
+anderen mineralischen Stoffen des Kapitels 68, die im Allgemeinen nicht gebrannt sind,
+und den Waren aus Glas des Kapitels 70, bei denen das verglasbare Gemisch vollkom-
+men verschmolzen wird.
+
+Je nach der Zusammensetzung der keramischen Masse und der Art des Brennens erhält
+man:
+I.    Waren aus kieselsaurem Fossilienmehl oder anderen ähnlichen kieselsauren Erden
+      und feuerfeste Waren, die alle zu Unterkapitel I (Nrn. 6901 bis 6903) gehören.
+II.   Andere keramische Waren, hauptsächlich Waren aus gewöhnlichem Ton, Steinzeug,
+      Steingut und Porzellan, die zu Unterkapitel II (Nrn. 6904 bis 6914) gehören.
+
+Nicht zu diesem Kapitel gehören:
+a) Scherben und Bruch von keramisch hergestellten Waren und Ziegelsteinbruch (Nr.
+    2530).
+b) Waren der Nr. 2844.
+c) Blöcke, Platten, Stangen und ähnliche Halbfabrikate aus Graphit oder anderem Koh-
+    lenstoff, aus graphitierten, metallhaltigen oder anderen Zubereitungen, aus denen un-
+    ter anderem durch Zuschneiden Kohlebürsten für elektrische oder elektrotechnische
+    Zwecke hergestellt werden (Nr. 3801, s. die entsprechenden Erläuterungen).
+d) Geschnittene, nicht montierte Teile aus piezo- elektrischen keramischen Stoffen, z.B.
+    aus Bariumtitanat oder Bleititanatzirkonat (Nr. 3824).
+e) Waren der Nr. 6804.
+f) Waren aus Glaskeramik (Kapitel 70).
+g) Gesinterte Gemische von Metallpulvern und innige heterogene Gemische von unedlen
+    Metallen, die durch Verschmelzen hergestellt sind (Abschnitt XV).
+h) Cermets der Nr. 8113.
+i) Plättchen, Stäbchen, Spitzen und ähnliche Formstücke für Werkzeuge, nicht gefasst,
+    aus Cermets (Nr. 8209) sowie andere Waren des Kapitels 82.
+
+
+
+
+                             2/16 (Stand: 1.1.2024)
+                                                                  UNTERKAPITEL-I
+
+                                     UNTERKAPITEL-I
+
+Waren aus kieselsaurem Fossilienmehl oder ähnlichen kieselsauren Erden und feuer-
+                                 feste Waren.
+
+                                         Allgemeines
+
+         Zu diesem Unterkapitel gehören, auch wenn sie nicht aus tonhaltigen Erden hergestellt
+         sind:
+         A)   Zu Nr. 6901: Keramische Waren, die durch Formen oder Brennen von kieselsaurem
+              Fossilienmehl oder ähnlichen kieselsauren Erden wie Kieselgur, Tripel oder Diatomit
+              (in den meisten Fällen von der Nr. 2512), oder von Kieselsäure, die beim Verbrennen
+              bestimmter pflanzlicher Produkte (z.B. Reishülsen) entsteht, hergestellt sind. Die
+              Grundstoffe werden im Allgemeinen mit Bindemitteln (z.B. Ton oder Magnesia) und
+              manchmal mit anderen Stoffen (Asbest, Sägemehl, Kohlenstaub, Tierhaare usw.)
+              vermischt.
+              Diese Waren haben im Allgemeinen eine geringe Dichte und sind dank ihrer porösen
+              Struktur sehr gut wärmeisolierend; sie werden daher in der Bauindustrie und zum Ver-
+              kleiden von Gas- oder Dampfleitungen verwendet. Verschiedene dieser Waren wer-
+              den auch als feuerfeste Erzeugnisse beim Bau von Heizöfen, Industrieöfen, Dampf-
+              kesseln und anderen industriellen Apparaten sowie für andere Verwendungszwecke
+              benutzt, bei denen sowohl Leichtigkeit der Materialien, geringe Wärmeleitfähigkeit als
+              auch Widerstandsfähigkeit gegen Hitze gefordert werden. Andere Waren werden als
+              Wärmeisolatoren bei Temperaturanwendungen von weniger als 1000° C verwendet.
+         B)   Zu den Nrn. 6902 und 6903: Feuerfeste Waren; unter dieser Warenbezeichnung ver-
+              steht man durch Brennen hergestellte Erzeugnisse, die als wesentliches Merkmal eine
+              besondere Beständigkeit gegenüber hohen Temperaturen haben (wie sie bei der Ver-
+              hüttung, in der Glasindustrie usw. auftreten, von 1500° C oder mehr). Je nach ihrem
+              besonderen Verwendungszweck können sie ausserdem eine der nachstehenden Ei-
+              genschaften haben: äusserst wärmeisolierend oder im Gegensatz dazu gut wärmelei-
+              tend, porös oder kompakt sein, einen sehr niedrigen Ausdehnungskoeffizienten ha-
+              ben, gegen plötzlichen Temperaturwechsel, Einwirkung von Gasen, Flüssigkeiten
+              oder ätzenden Stoffen unempfindlich sein, eine erhöhte Druckfestigkeit besitzen sowie
+              gegen Reibung und wiederholte Stosswirkung widerstandsfähig sein.
+              Aus dem Vorstehenden darf nicht geschlossen werden, dass alle Waren aus feuerfes-
+              ten Stoffen zu diesen beiden Nummern gehören. Es ist ausserdem erforderlich, dass
+              diese Waren fähig sind, erhöhten Temperaturen zu widerstehen und dass sie zu Ver-
+              wendungszwecken bestimmt sind, welche die oben genannten Eigenschaften erfor-
+              dern. Daraus ergibt sich z.B., dass ein Schmelztiegel aus gesinterter Tonerde zu Nr.
+              6903 gehört, dagegen nicht Fadenführer aus dem gleichen Material, die in der Textil-
+              industrie zu einem Zweck verwendet werden, bei dem Feuerfestigkeit nicht erforder-
+              lich ist. Diese letzteren Waren gehören zu Nr. 6909.
+
+         Die wichtigsten feuerfesten Waren, um die es sich hier handelt, sind:
+         1)   Erzeugnisse mit hohem Gehalt an Tonerde, auf der Grundlage von Bauxit, Mullit oder
+              Korund (manchmal mit Ton vermischt), von Cyanit, Andalusit oder Sillimanit (Alumini-
+              umsilikate), mit Ton gemischt, oder von gesinterter Tonerde.
+         2)   Tonerde-kieselsäurehaltige Erzeugnisse, die hauptsächlich aus Siliziumoxid, feuerfes-
+              tem Ton und Schamotte bestehen.
+         3)   Kieselsäurehaltige oder halb kieselsäurehaltige Erzeugnisse, die aus gewöhnlichem
+              Sand, zerkleinertem quarzhaltigen Gestein, Feuerstein usw. bestehen, denen Binde-
+              mittel wie Ton oder Kalk beigemischt sind.
+
+
+
+
+                                      3/16 (Stand: 1.1.2024)
+                                                                                           6901
+
+        4)   Magnesiumhaltige Erzeugnisse, auf der Grundlage von Magnesit (oder Giobertit),
+             Meerschaum oder von Dolomit; Erzeugnisse aus Chromit (Chromeisenoxid) oder
+             Chromoxid.
+        5)   Erzeugnisse aus Siliziumkarbid (Karborund).
+        6)   Erzeugnisse aus Zirkonsilikat oder Zirkonoxid, meist mit Ton gebunden; Erzeugnisse
+             aus Berylliumoxid; Erzeugnisse, die Thoriumoxid oder Ceroxid enthalten.
+        7)   Erzeugnisse aus Kohlenstoff, in Form von Graphit oder Potlot, Retortenkohle oder
+             Koks, meist mit Zusatz von Teerpech oder Ton (Teile und Gegenstände aus Graphit
+             oder anderem Kohlenstoff für die Elektrotechnik gehören zu Nr. 8545).
+        8)   Feuerfeste Waren, auf der Grundlage von anderen Stoffen wie Siliziumnitrid, Bornitrid,
+             Aluminiumtitanat und verwandte Verbindungen.
+
+        Feuerfeste Stoffe dieser Art werden insbesondere zum Verkleiden von Hochöfen,
+        Kracköfen, Öfen für die Glas- und Keramikindustrie und andere Industrieöfen, sowie auch
+        in Form von Behältern, Tiegeln u. dgl. bei der Ausstattung von Werken der chemischen In-
+        dustrie, der Glas-, Zement- und Aluminiumindustrie sowie anderen metallverarbeitenden
+        Industrien verwendet.
+
+        Waren, die manchmal als feuerfest oder halbfeuerfest bezeichnet werden, jedoch die vor-
+        stehend beschriebenen Eigenschaften nicht aufweisen, gehören nicht in die Nummern
+        6902 oder 6903. Derartige Erzeugnisse gehören in die entsprechenden Nummern des Un-
+        terkapitels II.
+
+
+6901.   Steine, Platten, Fliesen und andere keramische Waren aus kieselsaurem Fossilien-
+        mehl (z.B. Kieselgur, Tripel, Diatomit) oder aus ähnlichen kieselsauren Erden
+
+        Hierher gehören alle Waren aus den vorstehend aufgezählten Stoffen, ohne Rücksicht auf
+        ihre Form (z.B. Backsteine, Fliesen, Tafeln, Hourdis, Isolierschalen und dergleichen, Roh-
+        re, usw.), auch feuerfest.
+
+        Nicht hierher gehören:
+        a) Leichte, nicht feuerfeste und verhältnismässig poröse Steine, die nicht Kieselgur, Tri-
+            pel oder ähnliche kieselsäurehaltige Erden enthalten (z.B. Steine aus gebranntem
+            Ton, bei denen der Grundmasse gehäckseltes Stroh, Sägespäne, Torffasern usw. zu-
+            gesetzt worden sind, die während des Brennvorganges verbrannt sind) (Nr. 6904).
+        b) Filterrohre aus einem Gemisch von Kieselgur und Quarz (Nr. 6909).
+
+
+6902.   Feuerfeste Steine, Platten, Fliesen und ähnliche keramische Bauteile, andere als
+        solche aus kieselsaurem Fossilienmehl oder aus ähnlichen kieselsauren Erden
+
+        Diese Nummer ist vorgesehen für eine Reihe von feuerfesten Waren (andere als die der
+        Nr. 6901), die normalerweise beim Bau von Öfen, Herden, Apparaten für die metallurgi-
+        sche und chemische Industrie, die Glas- und Keramikindustrie und für andere ähnliche In-
+        dustrien verwendet werden.
+
+        Hierher gehören insbesondere:
+        1)   Steine aller Formen (quader-, keil-, zylinder-, halbzylinderförmig usw.) einschliesslich
+             Schlusssteine und andere besonders geformte Steine (z.B. Rinnen, die auf einer
+             Oberfläche konkav, auf der andern geradlinig sind), auch wenn sie ohne weiteres als
+             Waren erkennbar sind, die zum Bau von Apparaten des Abschnitts XVI bestimmt sind.
+        2)   Feuerfeste Fliesen und Platten für Bodenbeläge und zum Verkleiden.
+
+        Nicht zu dieser Nummer gehören Rohre, Halbrohre (Rinnen), Röhrenverbindungsstücke
+        und andere Röhrenteile für Kanalisationen und ähnliche Zwecke, aus feuerfesten Stoffen
+        (Nr. 6903).
+
+
+
+                                      4/16 (Stand: 1.1.2024)
+                                                                                           6902
+
+6902.10   Für die Einreihung in diese Unternummer gilt es, den Gehalt an MgO, CaO oder Cr2O3,
+          einzeln oder zusammen, zu berücksichtigen. Dieses Ergebnis erhält man normalerweise
+          durch Bestimmung des Gehaltes an Elementen Mg, Ca oder Cr, von dem aus der entspre-
+          chende Oxidgehalt errechnet wird. Zum Beispiel, 40 % Ca entsprechen 56 % CaO und
+          24 % Mg entsprechen 40 % MgO. Somit gehört ein Erzeugnis auf der Grundlage von Kal-
+          ziumsilikat mit 40% Ca (gleichbedeutend mit 56% CaO) zu dieser Unternummer.
+
+
+6903.     Andere feuerfeste keramische Waren (z.B. Retorten, Schmelztiegel, Muffeln, Aus-
+          güsse, Stöpsel, Stützen, Kapellen, Rohre, Schutzrohre, Stäbe, Sperrschieber), ande-
+          re als solche aus kieselsaurem Fossilienmehl oder aus ähnlichen kieselsauren Er-
+          den
+
+          Zu dieser Nummer gehören alle anderen Waren aus feuerfesten keramischen Stoffen, die
+          in den vorhergehenden Nummern nicht erfasst sind.
+
+          Von diesen Waren sind zu nennen:
+          1)   Erzeugnisse, deren wesentliches charakteristisches Merkmal im Gegensatz zu den
+               feuerfesten Waren der Nr. 6902 ist, dass sie im Allgemeinen beweglich sind, wie Re-
+               torten, Töpfe, Schmelztiegel, Schalen, Kapellen und ähnliche Gegenstände für die In-
+               dustrie oder für Laboratorien; Muffeln, Ausgüsse, Stopfen, Brenner und ähnliche Teile
+               für Öfen; Kapseln, Stützen und dergleichen, die besonders dazu dienen, Töpferwaren
+               während des Brennens in den Öfen zu trennen oder zu stützen; Schutzrohre und Stä-
+               be, Ständer für Schmelztiegel; Giessformen; Sperrschieber, Rollen, Rohlinge, Form-
+               werkzeuge, Töpfe, usw.
+          2)   Rohre, Halbrohre (Rinnen), Rohrverbindungsstücke und andere Teile für die Kanalisa-
+               tion und zu ähnlichen Zwecken, auch wenn diese Waren zum festen Einbau bestimmt
+               sind.
+
+          Nicht zu dieser Nummer gehören Segerkegel für die keramische Industrie, die nach dem
+          Formen nicht gebrannt sind (Nr. 3824) (s. die entsprechenden Erläuterungen).
+
+6903.10   Als "freier Kohlenstoff" im Sinne dieser Unternummer werden Kohlenstoffarten wie Graphit,
+          amorpher Kohlenstoff (Ruß) und organischer Kohlenstoff (Pech, Teer oder Harz) bezeich-
+          net.
+
+                                     UNTERKAPITEL-II
+
+                                Andere keramische Waren
+
+                                          Allgemeines
+
+          Zu diesem Unterkapitel gehören andere keramische Waren als die Erzeugnisse aus kie-
+          selsaurem Fossilienmehl oder anderen ähnlichen kieselsauren Erden und die feuerfesten
+          Waren des Unterkapitels I.
+
+          Die Einreihung der keramischen Waren dieses Unterkapitels richtet sich ausschliesslich
+          nach der Erscheinungsform der hergestellten Waren (Backsteine, Dachziegel, sanitäre In-
+          stallationsgegenstände usw.), ausgenommen für Geschirr, andere Haushalt- oder Haus-
+          wirtschaftsartikel und Toilettenartikel aus Porzellan (Nr. 6911) oder anderen keramischen
+          Stoffen (Nr. 6912).
+
+
+
+
+                                       5/16 (Stand: 1.1.2024)
+                                                                        UNTERKAPITEL-II
+
+                              I.      Porzellan
+
+Unter Porzellan versteht man Hartporzellan, Weichporzellan, Biskuitporzellan (einschliess-
+lich Parian) und Knochenporzellan. Alle diese keramischen Erzeugnisse sind fast vollstän-
+dig verglast, hart und beinahe undurchlässig, auch wenn sie nicht glasiert worden sind.
+
+Sie sind weiss oder künstlich gefärbt, durchscheinend (ausgenommen, wenn sie von er-
+heblichen Dicken sind) und nachklingend.
+
+Hartporzellan wird aus einem Gemisch von Kaolin (oder anderem kaolinhaltigen Ton),
+Quarz, Feldspat (oder Feldspatoide) und manchmal Kalziumcarbonat hergestellt. Es ist mit
+einer farblosen und durchsichtigen Glasur überzogen, die gleichzeitig mit dem Brennen der
+Masse hergestellt wird und dadurch fest mit dieser verschmolzen ist.
+
+Weichporzellan enthält weniger Tonerde, aber mehr Kieselsäure und Flussmittel (insbe-
+sondere Feldspat), während Knochenporzellan, das noch weniger Tonerde enthält, mit
+Kalziumphosphat angereichert ist (z.B. in Form von Knochenasche) und bei niedrigen
+Temperaturen als Hartporzellan durchscheinend gebrannt werden kann. Die Glasur wird
+im Allgemeinen vor einem zweiten Brennvorgang bei noch niedrigerer Temperatur aufge-
+bracht, wodurch man eine grössere Verschiedenartigkeit der Verzierungen unter der Gla-
+sur erreichen kann.
+
+Biskuit ist ein mattes (unglasiertes) Porzellan. Parian (manchmal auch Carrara-Porzellan
+genannt) ist eine Abart des Biskuitporzellans mit hohem Gehalt an Feldspat, feinkörnig und
+mit leicht gelblicher Tönung; sein Aussehen erinnert an parischen Marmor, von dem sich
+sein Name herleitet.
+
+                     II.    Andere keramische Waren
+
+Keramische Waren, andere als solche aus Porzellan, sind insbesondere folgende:
+
+A)   Keramische Waren aus poröser Masse, die im Gegensatz zu Porzellan flüssigkeits-
+     durchlässig und nicht durchscheinend sind, sich von Eisen leicht ritzen lassen und ei-
+     nen Scherben haben, der an der Zunge haftet. Die beiden Arten sind:
+     1)   Waren, aus gewöhnlichem eisen- und kalkhaltigem Ton (Ziegelerde) hergestellt;
+          sie haben einen erdigen und matten Scherben und eine farbige Masse (im Allge-
+          meinen braun, rot oder gelb). Sie können glasiert sein.
+     2)   Waren aus Steingut, Bezeichnung für eine Reihe von keramischen Waren aus
+          weisser oder farbiger, mehr oder weniger feiner Grundmasse. Sie werden mit ei-
+          ner Glasur überzogen, um eine künstliche Undurchlässigkeit zu erzielen. Diese
+          Glasur kann undurchsichtig (weiss oder mit Metalloxiden gefärbt) oder durch-
+          scheinend sein. Sie werden aus feingesiebtem und mit Wasser verrührtem Ton
+          hergestellt und bei höheren Temperaturen als Waren aus gewöhnlichem Ton, je-
+          doch nicht bis zur Sinterung gebrannt und haben daher einen feinkörnigen, ho-
+          mogenen Scherben, was sie vom Porzellan unterscheidet.
+
+B)   Steinzeug, obwohl dicht und so hart, dass es nicht von einer Stahlspitze geritzt wer-
+     den kann, unterscheidet sich von Porzellan dadurch, dass es nicht durchscheinend
+     und normalerweise nur teilweise verglast ist. Steinzeug kann auch ganz oder teilweise
+     glasig (wasserundurchlässig) sein. Es ist gewöhnlich grau oder bräunlich wegen der
+     Unreinheit der bei der Herstellung verwendeten Grundmasse, und es ist gewöhnlich
+     glasiert.
+
+C) Gewisse keramische Waren, die mit ihrem Aussehen Porzellan nachahmen: gleiche
+   Zubereitungsart der Grundmasse, gleiche Glasur und Verzierung. Ohne geradezu un-
+   durchscheinend wie Steingut oder eindeutig durchscheinend wie Porzellan zu sein,
+   können diese Erzeugnisse trotzdem an dünneren Stellen (insbesondere am Boden
+   der Tassen) durchscheinend sein. Sie unterscheiden sich aber klar von dem eigentli-
+   chen Porzellan durch ihren Scherben, der körnig, erdig und nicht verglast ist; ausser-
+
+
+
+                             6/16 (Stand: 1.1.2024)
+                                                                                         6904
+
+             dem haftet der Scherben an der Zunge, wird von Wasser durchdrungen und lässt sich
+             mit einem Stahlmesser ritzen. (Allerdings können auch gewisse Weichporzellane von
+             Stahl geritzt werden). Solche Waren dürfen nicht als Porzellan betrachtet werden.
+
+        Zu diesem Unterkapitel gehören ebenfalls, soweit sie nicht wegen ihrer elektrotechnischen
+        Verwendung zu Kapitel 85 gehören, Waren, die durch Formen und Brennen von Stoffen
+        wie gepulvertem Speckstein, im Allgemeinen mit Ton (Kaolin) und Feldspat gemischt, her-
+        gestellt worden sind. Auch in dieses Unterkapitel gehören Waren, die durch Sägen aus
+        gebranntem Speckstein hergestellt worden sind.
+
+        Ausserdem gehören zu Unterkapitel II Waren, die aus feuerfesten Stoffen (z.B. gesinterter
+        Tonerde) hergestellt sind, sofern ihre Verwendung keine Feuerfestigkeit erfordert (s. z.B.
+        Erläuterungen zu Nr. 6909).
+
+
+6904.   Backsteine zu Bauzwecken, Hourdis, andere Deckensteine und ähnliche Waren, aus
+        Keramik
+
+        Diese Nummer ist vorgesehen für nicht feuerfeste Backsteine aus Keramik (Backsteine
+        halten nämlich Temperaturen von 1500° C oder mehr nicht aus), in der Art, wie sie übli-
+        cherweise zum Errichten von Gebäuden, Einfriedungsmauern, Fabrikschornsteinen und
+        dergleichen verwendet werden, auch wenn sie daneben noch zu anderen Zwecken ver-
+        wendet werden können, wie zum Pflastern, zum Bau von Brückenpfeilern usw., und im
+        Hinblick auf diese besondere Verwendung bei höheren Temperaturen als gewöhnlich ge-
+        brannt sind.
+
+        Backsteine dieser Art sind meist aus gewöhnlichem Ton; für bestimmte Spezialbauten
+        (z.B. chemische Anlagen), bei denen Druck- und Säurefestigkeit erforderlich sind, werden
+        sie jedoch aus Steinzeug hergestellt.
+
+        In diese Nummer gehören:
+        1)   Gewöhnliche, massive Backsteine von rechteckiger Form mit ebener oder geriffelter
+             Oberfläche.
+        2)   Gebogene, gewöhnliche Backsteine, auch gelocht, für Fabrikschornsteine.
+        3)   Gewöhnliche Hohlbacksteine, Lochbacksteine, Hourdis (Hohlbackstein mit grösseren
+             Abmessungen insbesondere für Fussböden und Decken), Backsteine in Spezialfor-
+             men, sogenannte Flanschbacksteine und dergleichen (in Ergänzung der Hourdis ver-
+             wendet).
+        4)   Backsteine zum Verblenden oder für Fassaden, hauptsächlich zum Verkleiden von
+             Häuserfronten, zum Umrahmen von Türen und Fenstern, zum Ausschmücken von
+             Mauern, einschliesslich Spezialbacksteinen für Säulenkapitelle, Einfassungen, Friese
+             und andere Verzierungen an Bauten.
+
+        Hierher gehören auch die mit besonderer Lochung in Längsrichtung versehenen, als Dop-
+        pelsteine bezeichneten Backsteine, die vor ihrer Verwendung gespalten werden, soweit sie
+        nach dem Spalten noch die charakterbestimmenden Merkmale von Bausteinen behalten.
+
+        Alle diese Waren können, wie das insbesondere bei den Verblend- oder Fassadensteinen
+        der Fall ist, geglättet, besandet (oberflächliches Auftragen von Sand während des Bren-
+        nens), mit einer Engobe versehen (d.h. mit einer leichten, weissen oder farbigen tonigen
+        Schicht überzogen sein, die die Farbe der Masse überdeckt), dunkel oder hell gebrannt, in
+        der Masse oder auf der Oberfläche gefärbt (insbesondere durch Beigabe von Eisen- oder
+        Manganoxiden oder durch Verwenden von eisenhaltigem Ton, oder auch durch Erhitzen in
+        reduzierender Atmosphäre bei Gegenwart von Kohlenwasserstoffen oder Kohle), mit Teer
+        getränkt oder glasiert sein. Sie können auch auf einer oder beiden Seiten beim Formen
+        hergestellte erhabene oder vertiefte Muster aufweisen.
+
+
+
+
+                                    7/16 (Stand: 1.1.2024)
+                                                                                          6905
+
+        Zu dieser Nummer gehören auch massive Backsteine, leicht und porös, deren Grundmas-
+        se Sägespäne, Torffasern, Häcksel und ähnliche Stoffe beigemischt worden sind, durch
+        deren Verbrennen während des Brennprozesses ein Netz von Hohlräumen entsteht.
+
+        Nicht hierher gehören dagegen:
+        a) Backstein aus Kieselgur usw. der Nr. 6901 und feuerfeste Steine der Nr. 6902.
+        b) Fliesen, gebrannte Pflastersteine, Boden- und Wandplatten der Nr. 6907 (s. die ent-
+            sprechende Erläuterung).
+
+
+6905.   Dachziegel, Kaminteile, Rauchleitungen, Bauverzierungen, aus Keramik, und andere
+        Baukeramik
+
+        Hierher gehört eine Reihe nicht feuerfester Waren, im Allgemeinen aus gewöhnlichem
+        Ton, manchmal jedoch aus Steinzeug, die wie Backsteine zum Bauen, insbesondere zum
+        Hausbau verwendet werden.
+
+        Es sind dies:
+        1)   Dachziegel (für Dächer, Mauerkronen usw.), gleich, ob es sich um gewöhnliche Dach-
+             ziegel aller Formen (flach, gelocht oder mit Nasen, halbrund, gefalzt, d.h. mit Rippen,
+             Riffelungen oder Laschen, mit denen sie ineinandergefügt werden können, usw.) oder
+             um Spezialdachziegel, wie Dachziegel für Giebel, Firste und Ränder oder Eckspar-
+             renziegel handelt.
+        2)   Teile von Schornsteinen und Rauchleitungen, wie Schornsteinrohre, Rauchfangziegel,
+             Schornsteinköpfe, Schornsteinaufsätze.
+        3)   Bauverzierungen für Fassaden, Dächer, Einfriedungsmauern und Portale, wie Gesim-
+             se, Friese, Wasserspeier, Firstabschlüsse, Giebel, Rosetten, Geländer, Konsolen,
+             Kapitelle, Giebelsäulen, Kugeln, verschiedene Firstverzierungen usw.
+        4)   Andere Bauteile, z.B.: Entlüftungsgitter, Gitter für Deckenverschalungen aus Draht-
+             netzen, die an den Kreuzungspunkten mit dem Metall weitgehend verdeckenden
+             Plättchen oder Kreuzen aus gewöhnlichem Ton versehen sind (Drahtziegelgeflechte)
+             usw.
+
+        Diese Waren gehören auch zu dieser Nummer, wenn sie besandet, mit Engoben überzo-
+        gen, gefärbt, mit anderen Stoffen getränkt, glasiert oder beim Formen mit Riefen oder an-
+        deren Verzierungen versehen worden sind.
+
+        Zu dieser Nummer gehören u.a. nicht, selbst wenn sie beim Bauen verwendet werden,
+        Rohre und andere Teile für Kanalisation und zu ähnlichen Zwecken, wie Ablaufrohre für
+        Regenwasser (Nr. 6906).
+
+
+6906.   Rohre, Rinnen und Zubehör zu Rohren, aus Keramik
+
+        Zu dieser Nummer gehören nicht feuerfeste Waren, die im Allgemeinen so beschaffen
+        sind, dass sie ineinandergesteckt werden können, und die zum Abfliessen oder zum Ver-
+        teilen von Flüssigkeiten dienen. Sie können von beliebiger Form oder beliebigem Quer-
+        schnitt (gradlinig, gebogen, mit Abzweigungen, mit gleichbleibendem oder sich änderndem
+        Querschnitt usw.) und glasiert sein.
+
+        Hierher gehören insbesondere:
+        1)   Drainagerohre (Entwässerungsrohre) für Landwirtschaft und Gartenbau, aus gewöhn-
+             lichem, porösem Ton, nur schwach gebrannt, grob bearbeitet.
+        2)   Andere Rohre für Kanalisation und zu ähnlichen Zwecken (z.B. Regenablaufrohre,
+             Fallrohre, Rohrelemente zum Trockenlegen von Wänden und Mauerwerk, nicht zu
+             Isolierzwecken dienende Rohre zum Schutz von Kabeln), einschliesslich der Halbroh-
+             re (Wasserrinnen oder Ablaufrinnen), die den gleichen Zwecken dienen.
+
+
+
+                                     8/16 (Stand: 1.1.2024)
+                                                                                        6907
+
+             Diese Waren können aus gewöhnlichem, nicht glasiertem Ton oder auch - meist,
+             wenn es sich um Rohre für chemische Installation handelt - aus durch Sintern (Stein-
+             zeug) oder Glasieren undurchlässig gemachten Ton bestehen.
+        3)   Rohrleitungszubehör, zum Verbinden oder Abzweigen bestimmt (Rohrschellen, Muf-
+             fen, Verbindungsstücke, Abzweiger, T- Rohre, Siphons usw.).
+
+        Nicht hierher gehören:
+        a) Rohrteile für Schornsteine, wie Schornsteinrohre, Schornsteinköpfe und andere
+            Rauchleitungen (Nr. 6905).
+        b) Rohre, auch mit Rohrstutzen (z.B. Verbrennungsrohre), im Allgemeinen aus Porzel-
+            lan, für Laboratorien besonders hergerichtet (Nr. 6909).
+        c) Isolierrohre und ihre Verbindungsstücke, sowie alle Rohrteile zu elektrotechnischen
+            Zwecken (insbesondere Nrn. 8546 und 8547).
+
+
+6907.   Fliesen, Boden- und Wandplatten, aus Keramik; Würfel, Steinchen und ähnliche Wa-
+        ren für Mosaike, aus Keramik, auch auf Unterlage; Stücke für die Endbearbeitung,
+        aus Keramik
+
+        Zu dieser Nummer gehört eine Reihe von keramischen Waren in den allgemein für Boden-
+        und Wandbelage verwendeten Formen.
+
+        Die Fliesen, Boden- und Wandplatten kennzeichnen sich im Wesentlichen dadurch, dass
+        ihre Dicke im Verhältnis zu den anderen Abmessungen geringer ist als bei den eigentli-
+        chen Backsteinen zu Bauzwecken. Während die letzteren im engen Zusammenhang mit
+        dem eigentlichen Bauwerk stehen, dessen Gerippe sie bilden, sind die Fliesen und Platten
+        vielmehr dazu bestimmt, mit Zement, Klebstoff oder anderen Mitteln an bereits errichteten
+        Wänden befestigt (verlegt) zu werden. Sie unterscheiden sich ausserdem von Dachziegeln
+        dadurch, dass sie flach sind, nicht wie diese Falze, Nasen oder andere Vorrichtungen zum
+        Ineinanderfügen haben und dazu bestimmt sind, nebeneinander verlegt zu werden, ohne
+        sich zu überdecken. Fliesen haben geringere Abmessungen als Platten und haben
+        manchmal, im Gegensatz zu diesen, geometrische Formen (Sechseck, Achteck usw.),
+        während Platten meist rechteckig sind. Fliesen verwendet man hauptsächlich zum Verklei-
+        den von Wänden, Kaminen, Herden, Fussböden, Gartenwegen; Platten werden besonders
+        als Boden- und Wandbelage oder als Grundplatten für offene Kamine verwendet. Beide
+        können aus Ton oder anderen anorganischen Rohstoffen gefertigt werden. Die Formge-
+        bung erfolgt gewöhnlich durch Strangpressen oder Pressen bei Raumtemperatur oder in
+        anderen Verfahren. Sie werden getrocknet und anschliessend zur Erreichung der erforder-
+        lichen physikalischen Eigenschaften bei genügend hohen Temperaturen gebrannt. Da sie
+        jedoch manchmal ziemlich widerstandsfähig sein müssen, sind sie oft aus mehr oder we-
+        niger verglasten Stoffen: so gibt es Fliesen und Platten aus Steinzeug und sogar aus Por-
+        zellan oder Speckstein (z.B. ziemlich dicke Fliesen zum Auskleiden von Email-
+        Brechmühlen und ähnlichen Apparaten).
+
+        Die Widerstandsfähigkeit und Verglasung hängen von der Struktur der Fliese ab. Diese
+        strukturellen Eigenschaften werden durch die Wasseraufnahmefähigkeit bestimmt und mit
+        dem Porositätsfaktor E gemessen. Ein hoher Satz entspricht einer porösen Struktur, ein
+        geringer einer dichten Struktur.
+
+        Man bezeichnet als Porositätsfaktor oder Wasseraufnahmekoeffizient (Symbol E) den Pro-
+        zentsatz des Wassers in der Masse nach Sättigung des trockenen Mustererzeugnisses
+        (Fliese) mit Wasser.
+
+        Die Bestimmung der Wasseraufnahme basiert auf dem Vakuumverfahren nach ISO-Norm
+        10545-3.
+
+        Formel zur Berechnung der Wasseraufnahme mittels folgender Gleichung:
+        E = {(Mf-Mi) / Mi} x 100 wobei:
+
+
+
+
+                                      9/16 (Stand: 1.1.2024)
+                                                                               6907
+
+E = Wasseraufnahmekoeffizient in %
+
+Mi = Masse der trockenen Fliese
+
+Mf = Masse der gesättigten Fliese
+
+Gewisse Keramikfliesen werden ausschliesslich zum Pflastern verwendet; im Gegensatz
+zu Backsteinen haben sie im Allgemeinen eine Würfel- oder Kegelstumpfform. Sie werden
+praktisch nur aus Steinzeug und ausnahmsweise aus Porzellan hergestellt (z.B. die Flie-
+sen zum Markieren der Strassenübergänge für Fussgänger).
+
+Für die Einreihung der Waren in diese Nummer sind also weniger die Zusammensetzung
+der Waren als ihre Formen und Abmessungen massgebend; daher gehören Backsteine,
+die sowohl zum Bauen als auch zum Pflastern verwendet werden können - insbesondere
+stärker gebrannte Backsteine - zu Nr. 6904.
+
+Waren dieser Nummer können Farbeffekte aufweisen (verziert durch Mischen der Massen,
+marmoriert usw.), gekehlt, geriffelt, gerillt, glasiert, emailliert usw. sein.
+
+Zu dieser Nummer gehören ebenfalls:
+1)   Stücke für die Endbearbeitung in der Art von Fliesen und Platten, jedoch als ergän-
+     zende Elemente verwendet und sich in den Formen erheblich von den gewöhnlichen
+     unterscheidend, nicht dreidimensional eben - mit oder ohne abgerundete Kanten -
+     hergestellt, was ihnen den Charakter von Abschlussstücken verleiht. Sie werden zur
+     Vervollständigung von Wandverkleidungen oder Pflasterungen verwendet; dies gilt
+     insbesondere für Fliesen und Platten für Randabschlüsse, zum Verkleiden von Stür-
+     zen oder Sockeln, zum Herstellen von Friesen, für Eckfliesen und -platten, Zierele-
+     mente und dergleichen. In diesem Fall müssen diese Stücke mit den Grundfliesen
+     dadurch übereinstimmen, dass ihre Oberflächen in der Regel von gleicher Farbe oder
+     Ausführung sind. Sie werden im Allgemeinen je Stück, in Einheiten oder am Meter
+     verkauft.
+2)   Spaltfliesen, die beim Verlegen gespalten werden.
+3)   Verkleidungselemente aus Ton für die Aussengestaltung oder den Innenausbau bei
+     Bauten, in verschiedenen Grössen, modular aufgebaut; sie werden z.B. mit Metall-
+     klammern an senkrechten oder waagrechten Metallprofilen an den Wänden des Roh-
+     baus befestigt.
+4)   Würfel, Steinchen und ähnliche Waren für Mosaike, auch auf Papier oder anderen Un-
+     terlagen befestigt, erkennbar an ihren geringen Abmessungen.
+
+Dagegen gehören u.a. nicht zu dieser Nummer:
+a) Fliesen, die zu Untersetzern verarbeitet sind (Nrn. 6911 oder 6912).
+b) Ziergegenstände im Sinne der Nr. 6913.
+c) Fliesen aus Keramik besonderer Ausführung (Kacheln) für Öfen (Nr. 6914).
+
+
+
+
+                            10/16 (Stand: 1.1.2024)
+                                                                                               6907
+
+6907.40   Einige Arten von Stücken für die Endbearbeitung dieser Unternummer sind in nachstehen-
+          den Abbildungen aufgeführt:
+
+                                                  Stücke für die Endbearbeitung
+
+                             Überblick - Fliesen für die Endbearbeitung auf drei Reihen verteilt
+
+
+
+
+          A    Fliese mit abgerundeter Kante (obere           J    Fliese mit abgerundeter oberer Kan-
+               Reihe)                                              te und Abschrägung nach rechts
+                                                                   (obere Reihe)
+          B    Fliese mit abgerundeter Kante (mittlere        K    Fliese mit abgerundeter Kante und
+               Reihe                                               Abschrägung nach rechts (mittlere
+                                                                   Reihe)
+          C    Sockelleiste mit Innenwinkel (untere           L    Innen-Ecksockelleiste (untere Reihe)
+               Reihe)
+          D    Aussen-Eckfliese mit abgerundeter              M    Fliese mit abgerundeter oberer Kan-
+               Kante (obere Reihe)                                 te und Abschrägung nach links (obe-
+                                                                   re Reihe)
+          E    Aussen-Eckfliese (mittlere Reihe)              N    Fliese mit abgerundeter Kante und
+                                                                   Abschrägung nach links (mittlere
+                                                                   Reihe)
+          F    Aussen-Ecksockelleiste (untere Reihe)          O    Fliese mit zwei abgerundeten Kanten
+                                                                   (obere Reihe)
+          G    Fliese mit abgerundeter Kante (obere           P    Fliese mit abgerundeter Kante (mitt-
+               Reihe)                                              lere Reihe)
+          H    Fliese (mittlere Reihe)                        Q    Abschluss-Sockelleiste mit Innen-
+                                                                   winkel (untere Reihe)
+          I    Sockelleiste mit Innenwinkel (untere
+               Reihe)
+
+
+
+
+                                         11/16 (Stand: 1.1.2024)
+                                                                                          6909
+
+
+
+
+        Fliese mit nur einer    Fliese mit nach in-      Einfaches Eckstück   Hohlkehlsockel
+        abgerundeten Kante      nen gebogener Kan-       mit rechtem Winkel
+        (unabhängig, welche     te
+        Kante, in allen Grös-
+        sen)
+
+
+        Schmale Sockel-         schmaler, flacher        Klassisches Eck-     Aussen-Ecksäule
+        leiste mit Innenwin-    Fries                    stück mit rechtem
+        kel                                              Winkel und Rand
+
+
+        Viertelstab             Viertelstab mit ge-
+                                spitztem und gebo-
+                                genem Ende
+
+
+6909.   Waren zu chemischen oder anderen technischen Zwecken, aus Keramik; Tröge,
+        Wannen und ähnliche Behältnisse für die Landwirtschaft, aus Keramik; Krüge und
+        ähnliche Behältnisse zu Transport- oder Verpackungszwecken, aus Keramik
+
+        Zu dieser Nummer gehört eine Reihe von Waren - ihrer Beschaffenheit nach ziemlich un-
+        gleichartig -, auch emailliert, die allgemein aus verglaster Keramik (Steinzeug, Porzellan,
+        Keramik auf der Grundlage von Speckstein) bestehen. Ausgenommen sind feuerfeste Wa-
+        ren, die ihrer Beschaffenheit nach zum Aushalten hoher Temperaturen, wie unter Allge-
+        meines unter Kapitel I vorgesehen, bestimmt sind; dagegen gehören Waren aus feuerfes-
+        ten Stoffen hierher, deren Verwendung keine feuerfesten Eigenschaften erfordert, wie es
+        z.B. bei den Fadenführern für die Textilindustrie oder den Email-Brechmühlen aus gesin-
+        terter Tonerde der Fall ist.
+
+        Hierher gehören:
+        1)   Geräte und Apparate für Laboratorien (für Forschung, für industrielle Zwecke usw.),
+             wie Tiegel, Tiegeldeckel, Kapseln, Schiffchen, Kapellen, Mörser, Stampfer, Säurelöf-
+             fel, Spachtel, Stützen für Filter und für Katalysatoren, Filter (Rohre, Platten, Kerzen
+             usw.), Kegel und Trichter zum Filtrieren, Wasserbäder, Spezialtrichter und -gefässe,
+             Gefässe mit Masseinteilung (andere als die einfachen Behälter mit Masseinteilung für
+
+
+
+                                     12/16 (Stand: 1.1.2024)
+                                                                                           6909
+
+               den Haushalt), Schalen, Quecksilberwannen, Spezialrohre, auch mit Rohrstutzen, für
+               Laboratorien hergerichtet (einschliesslich Verbrennungsrohre, Rohre zur Bestimmung
+               von Schwefel oder von anderen Elementen usw.).
+          2)   Andere technische Apparate und Geräte, ihrer Beschaffenheit nach hauptsächlich zu
+               industriellen Zwecken bestimmt, wie Pumpen, Ventile, Bottiche, Wannen, Kolben und
+               andere ortsfeste Behälter mit einfachen oder doppelten Wandungen (für Galvanoplas-
+               tik, zum Aufbewahren von Säuren usw.), Säurehähne, Schlangenrohre, Destillier- und
+               Fraktionierkolonnen usw., Raschigringe für Destillierkolonnen für Erdölerzeugnisse;
+               Brechmühlen und Mahlkugeln und dergleichen, Fadenführer für Textilmaschinen,
+               Spinndüsen für Chemiefasern, Plättchen, Stäbchen, Spitzen und ähnliche Artikel für
+               Werkzeuge, usw.
+          3)   Behälter, wie sie handelsüblich zum Transport und als Verpackung verwendet wer-
+               den, gleich, ob es sich um Behälter (Transportflaschen, Ballons usw.) zum Transport
+               von Säuren oder anderen chemischen Erzeugnissen oder um Behälter wie Krüge,
+               Terrinen, Töpfe usw. für Lebensmittel (Senf, Gewürze, Gänseleber, Liköre und
+               Branntweine, Öl usw.) für pharmazeutische und kosmetische Artikel (Pomaden, Sal-
+               ben, Cremes usw.) oder für Tinte usw. handelt.
+          4)   Waren mit Behältercharakter für die Landwirtschaft, wie Wannen, Tröge, Tränken und
+               dergleichen.
+
+          Nicht hierher gehören:
+          a) Waren der Nr. 6804.
+          b) Retorten, Tiegel, Muffeln, Kapellen und dergleichen aus feuerfesten Stoffen
+              (Nr. 6903).
+          c) Behälter für Küche oder Speisekammer (für Mehl, Salz, Gewürze usw.), die den Cha-
+              rakter von Haushaltsartikeln haben (Nrn. 6911 oder 6912).
+          d) Standgefässe für Laboratorien mit allgemeiner Verwendungsmöglichkeit und Krüge für
+              Läden (Apotheken, Süsswarengeschäfte usw.) (Nr. 6914).
+          e) Waren aus Cermets (Nr. 8113).
+          f) Elektrische Geräte (Schalter, Verbindungskästen, Sicherungen, Schmelzeinsätze für
+              Sicherungen usw.) der Nr. 8533 bis 8538 sowie Isolatoren und andere Isolierteile für
+              elektrische Installationen der Nrn. 8546 oder 8547.
+
+6909.12   Zu dieser Unterposition gehören hochwertige Keramikwaren. Diese Waren bestehen aus
+          einer kristallinen Keramikmatrix (z.B. aus Tonerde, Siliciumcarbid, Zirkonuimdioxid, oder
+          Nitriden des Siliciums, Bors oder Aluminiums, oder aus Mischungen daraus); Verstär-
+          kungsmaterial aus Haaren oder Fasern (z.B. Metall oder Graphit) können in der Matrix ver-
+          teilt sein, um ein zusammengesetztes keramisches Erzeugnis zu bilden.
+
+          Diese Waren kennzeichnen sich durch eine Matrix, die eine sehr niedrige Durchlässigkeit
+          hat und in der die Korngrösse sehr klein ist; durch hohen Widerstand gegen Abnutzung,
+          Korrosion, Materialermüdung und thermische Belastung; durch hohe Temperaturbestän-
+          digkeit und einem Belastung-Gewichtsverhältnis vergleichbar oder besser als dem von
+          Stahl.
+
+          Sie werden oft anstelle von Stahl oder anderen Metallteilen für mechanische Anwendun-
+          gen gebraucht, die enge Masstoleranzen erfordern (z.B. Rotoren für Turbolader, Walzen-
+          lager und Maschinenwerkzeuge).
+
+          Bei der in dieser Unterposition erwähnten Mohs-Härte-Skala wird ein Material in eine Rei-
+          henfolge eingeordnet, bei der das vorausgehende Material die Oberfläche des nachfol-
+          genden Materials zu ritzen vermag. Materialien werden eingeteilt zwischen 1 (für Talk) bis
+          10 (für Diamant). Die meisten der hochwertigen Keramikwaren gehören zum oberen Ende
+          der Skala. Siliciumcarbid und Aluminiumoxid, beide in hochwertigen Keramikwaren ver-
+          wendet, haben eine Mohs-Härte von 9 oder mehr. Um zwischen härteren Materialien zu
+          unterscheiden, ist die Mohs-Skala manchmal erweitert, mit Talk als 1 und Diamant als 15.
+          Auf der erweiterten Mohs-Skala hat Aluminiumoxid eine Härte entsprechend 12 und Silici-
+          umcarbid eine Härte entsprechend 13.
+
+
+
+                                      13/16 (Stand: 1.1.2024)
+                                                                                           6910
+
+6910.   Ausgüsse (Schüttsteine), Waschbecken (Lavabos), Träger für Waschbecken, Bade-
+        wannen, Bidets, Klosettschüsseln, Spülkästen, Urinierbecken und ähnliche Installa-
+        tionsgegenstände zu sanitären Zwecken, aus Keramik
+
+        Zu dieser Nummer gehören Installationsgegenstände, die im Allgemeinen an eine Wasser-
+        leitung oder einen Abfluss fest angeschlossen werden; sie bestehen aus Keramik, die
+        durch Glasieren oder längeres Brennen wasserundurchlässig gemacht worden sind: Stein-
+        zeug, Steingut (insbesondere Feuerton), Porzellanimitationen, Porzellan. Neben den im
+        Text dieser Nummer genannten Waren gehören ebenfalls die Waschfontänen hierher.
+
+        Die Spülkästen bleiben selbst dann in dieser Nummer eingereiht, wenn sie mit ihren me-
+        chanischen Vorrichtungen versehen sind.
+
+        Nicht zu dieser Nummer gehören dagegen tragbare Gegenstände zu sanitären oder hygi-
+        enischen Zwecken, wie Bettpfannen, Urinflaschen, Nachtgeschirre usw. und die kleinen
+        zusätzlichen Gegenstände für sanitäre oder hygienische Installation, auch wenn sie ihrer
+        Form nach dazu bestimmt sind, fest angebracht zu werden, wie Seifenhalter, Schwamm-
+        halter, Zahnbürstenhalter, Handtuchhaken, Toilettenpapierhalter usw. (Nr. 6911 oder
+        6912).
+
+
+6911.   Geschirr, andere Haushalt- oder Hauswirtschaftsartikel und Hygiene- oder Toiletten-
+        artikel, aus Porzellan
+
+        Siehe Erläuterungen zu Nr. 6912.
+
+
+6912.   Geschirr, andere Haushalt- oder Hauswirtschaftsartikel und Hygiene- oder Toiletten-
+        artikel, aus anderem Keramik als Porzellan
+
+        Geschirr, andere Haushalt- oder Hauswirtschaftsartikel und Hygiene- oder Toilettenartikel
+        gehören zu Nr. 6911, wenn sie aus Porzellan (Hart- oder Weichporzellan) sind, oder zu Nr.
+        6912, wenn sie aus anderer Keramik als Porzellan, wie gewöhnlichem Ton, Steinzeug,
+        Steingut, Porzellanimitationen bestehen (für die Beschreibung dieser verschiedenen kera-
+        mischen Waren siehe die Erläuterungen zu Unterkapitel II).
+
+        Zu diesen beiden Nummern gehören insbesondere:
+        A)   Geschirr und ähnliche Gegenstände zum Tischgebrauch: Tee- und Kaffeeservice, Tel-
+             ler, Suppenterrinen, Salatschüsseln, Schüsseln und Platten aller Art, Kaffeekannen,
+             Teekannen, Bierkrüge, Zuckerdosen, Tassen, Saucieren, Obst- und Kompottschalen,
+             Körbchen und Körbe (für Brot, Obst usw.), Butterdosen, Ölgiesser, Salzstreuer, Senf-
+             fässchen, Eierbecher, Schüsseluntersetzer, Messerbänkchen, Löffel, Serviettenringe
+             usw.
+        B)   Haushaltartikel: Töpfe, Kasserollen und Schmortöpfe in allen Formen und Abmessun-
+             gen, Bratschüsseln, Becher, Formen (für Kuchen, Süssspeisen usw.), Krüge für die
+             Küche, Marmeladentöpfe, Fetttöpfe, Töpfe zum Einsalzen usw., Milchtöpfe, Küchen-
+             behälter (für Mehl, Gewürze usw.), Trichter, Kellen, Behälter mit Masseinteilung für die
+             Küche, Teigwalzen usw.
+        C) Hauswirtschaftsartikel: Aschenbecher, Wärmeflaschen, Streichholzschachtelhalter
+           usw.
+        D) Hygiene- oder Toilettenartikel, gleich, ob sie für den Haushalt bestimmt sind oder
+           nicht: Waschtischgarnituren (Kannen, Schüsseln usw.), Becken für Spülungen, Toilet-
+           teneimer, Bettpfannen, Urinflaschen, Nachtgeschirre, Spucknäpfe, Irrigatoren, Scha-
+           len, Augenbäder, Seifenhalter, Schwammhalter, Zahnbürstenhalter, Toilettenpapier-
+           halter, Handtuchhaken und ähnliche Gegenstände zum Ausstatten der Badezimmer,
+           Toiletten, Küchen, auch wenn sie zum Befestigen an der Wand oder zum Einbau be-
+           stimmt sind, usw.
+
+
+
+
+                                     14/16 (Stand: 1.1.2024)
+                                                                                          6913
+
+        Nicht zu diesen beiden Nummern gehören:
+        a) Krüge, Ballons und andere Behälter zu Transport- oder Verpackungszwecken
+            (Nr. 6909).
+        b) Badewannen, Bidets, Ausgüsse und ähnliche Installationsgegenstände der Nr. 6910.
+        c) Figuren und andere Ziergegenstände im Sinne der Nr. 6913.
+        d) Gegenstände aus Keramik, die wegen ihrer Verbindung mit Edelmetallen oder Edel-
+            metallplattierungen (anders als in Form von nur unwesentlichen Verzierungen) Gold
+            und Silberschmiedewaren darstellen (Kapitel 71).
+        e) Kaffee- und Gewürzmühlen mit Behältern aus Keramik und arbeitendem Teil aus Me-
+            tall (Nr. 8210).
+        f) Elektrowärmegeräte (zu Küchen-, Heizzwecken usw.) der Nr. 8516, einschliesslich
+            elektrische Heizelemente (Heizplatten, Heizwiderstände usw.)
+        g) Waren des Kapitels 91, insbesondere Gehäuse für Uhrmacherwaren.
+        h) Feuerzeuge der Nr. 9613 und Parfumzerstäuber (Nr. 9616).
+
+6913.   Statuetten und andere Ziergegenstände, aus Keramik
+
+        Zu dieser Nummer gehört eine Vielzahl von Gegenständen aus Keramik, die hauptsächlich
+        zur Innenausstattung, zum Ausschmücken von Wohnungen, Büros, Versammlungsräu-
+        men, Kirchen usw. oder zur Aussenverzierung (z.B. von Gärten) bestimmt sind.
+
+        Nicht zu dieser Nummer gehören jedoch Gegenstände, die in anderen Nummern der No-
+        menklatur genauer erfasst sind, selbst wenn sie auf Grund ihrer Beschaffenheit oder Bear-
+        beitung auch zum Ausschmücken oder Verzieren von Räumen oder anderen Örtlichkeiten
+        geeignet sind. Dies trifft zu für:
+        a) Gesimse, Friese und ähnliche Bauverzierungen (Nr. 6905).
+        b) Waren, die Edelmetalle oder Edelmetallplattierungen über den Rahmen einer unwe-
+             sentlichen Verzierung hinaus enthalten (Kapitel 71).
+        c) Phantasieschmuck (Nr. 7117).
+        d) Barometer, Thermometer und andere Geräte des Kapitels 90.
+        e) Uhrmacherwaren und Gehäuse davon, auch wenn die letzteren verziert sind und z.B.
+             aus Figuren und dergleichen bestehen, sofern sie offensichtlich dazu bestimmt sind,
+             eine Uhr aufzunehmen (Kapitel 91).
+        f) Leuchten und Beleuchtungskörper und Teile davon (Nr. 9405).
+        g) Spielzeug, Spiele, Scherzartikel und Sportgeräte (Kapitel 95).
+        h) Knöpfe, Tabakpfeifen, Tischfeuerzeuge, Parfumzerstäuber und andere Waren des
+             Kapitels 96.
+        i) Bilder, Gemälde und Zeichnungen, vollständig mit der Hand geschaffen sowie Origi-
+             nalerzeugnisse der Bildhauerkunst, Sammlungsstücke und Antiquitäten, mehr als 100
+             Jahre alt (Kapitel 97).
+
+        Zu dieser Nummer gehören:
+        A)   Waren, die keinen tatsächlichen Gebrauchswert haben sowie Waren, deren eigentli-
+             cher Gebrauchswert darin besteht, andere Ziergegenstände aufzunehmen oder zu
+             tragen oder deren Zierwirkung zu erhöhen; Beispiele:
+             1)   Statuen, Figuren, Büsten, Hoch- und Flachreliefs und andere gleichartige figürli-
+                  che Darstellungen zur Innen- und Aussenausstattung; Ziergegenstände für Kami-
+                  ne, Wand- und Standuhren oder Regale (Tierfiguren, symbolische und allegori-
+                  sche Figuren usw.); Sport- oder Kunstpreise; Wandschmuck, (z.B. Plaketten,
+                  Platten, Schüsseln, Teller usw.), mit Aufhängevorrichtung; Medaillen, Ofenschir-
+                  me; künstlichen Blumen, Früchte und Blätter, einschliesslich Grabkränze, Roset-
+                  ten und ähnlicher Grabschmuck; Nippsachen für Regale oder Vitrinen usw.
+             2)   Kruzifixe und andere religiöse oder kirchliche Ziergegenstände.
+             3)   Vasen, Übertöpfe, Tisch-Blumenkrippen und Standvasen, mit reinem Ziercharak-
+                  ter.
+        B)   Geschirr und andere Haushaltartikel, bei denen der Ziercharakter eindeutig den tat-
+             sächlichen Gebrauchscharakter übertrifft, z.B. Schalen mit erhabenen Ziermotiven, die
+             eine gewöhnliche Verwendung ausschliessen, Aschenbecher, die so gestaltet sind,
+
+
+
+                                     15/16 (Stand: 1.1.2024)
+                                                                                       6914
+
+             dass ihre Eigenschaft als Behälter nur nebensächlich ist, Miniaturnachbildungen von
+             Gegenständen ohne tatsächlichen Gebrauchswert. Es ist in diesem Zusammenhang
+             zu beachten, dass Geschirr und Haushaltsgegenstände, obwohl sie ihrer Beschaffen-
+             heit nach zur Verwendung als solche bestimmt sind, auch Verzierungen in erhebli-
+             chem Umfang haben können, ohne dass ihre Verwendung als Gebrauchsgegenstän-
+             de dadurch ausgeschlossen wird. Wenn daher der Gebrauchscharakter solcher ver-
+             zierten Gegenstände der gleiche ist wie der der entsprechenden nicht verzierten Ge-
+             genstände, gehören diese Waren zu den Nrn. 6911 und 6912, und nicht zu dieser
+             Nummer.
+        C) Gegenstände (andere als Geschirr und Haushaltsartikel) zum Ausschmücken von
+           Wohnungen, Büros usw., insbesondere Rauchservice, Schmuckkästchen, Bonbonnie-
+           ren, Zigarettendosen, Parfumverbrenner, Schreibzeuge, Buchstützen, Briefbeschwe-
+           rer und ähnliche Schreibtischgarnituren, sowie Rahmen.
+
+
+6914.   Andere Waren aus Keramik
+
+        Zu dieser Nummer gehören alle Waren aus Keramik, die weder in anderen Nummern die-
+        ses Kapitels noch in anderen Kapiteln der Nomenklatur erfasst sind.
+
+        Insbesondere gehören zu dieser Nummer:
+        1)   Öfen und andere Heizgeräte, die im Wesentlichen aus Keramik bestehen (meist aus
+             Steingut und manchmal aus gewöhnlichem Ton), Fliesen besonderer Ausführung (Ka-
+             cheln) für diese Öfen, sowie gewisses nicht feuerfestes Zubehör für Kamine (Feuer-
+             stätte) und offene Feuerstellen. Elektrische Heizgeräte gehören zu Nr. 8516.
+        2)   Blumentöpfe und -kästen für den Gartenbau, nicht zu Zierzwecken.
+        3)   Beschläge für Türen, Fenster oder Möbel, wie Griffe und Knöpfe, Türschoner, sowie
+             Griffe oder Knöpfe für Ziehketten.
+        4)   Buchstaben, Zahlen, Hinweisschilder, Reklameschilder und dergleichen, auch mit ei-
+             nem Bild oder Text bedruckt, ausgenommen solche mit Beleuchtung (Nr. 9405).
+        5)   Sogenannte Patentverschlüsse für Bier- oder Limonadenflaschen, mit einer Vorrich-
+             tung aus Metalldraht versehen, Knöpfe oder Köpfe aus Porzellan für diese Verschlüs-
+             se.
+        6)   Standgefässe für Laboratorien mit allgemeiner Verwendungsmöglichkeit und Krüge für
+             Läden und Schaufenster (Apotheken, Süsswarengeschäfte usw.).
+        7)   Schliesslich andere Waren, wie Messer- und Tafelbesteckgriffe, Schultintenfässer,
+             Verdunstungsbehälter für Zentralheizungskörper, Zubehörteile für Vogelkäfige, usw.
+
+        Nicht hierher gehören:
+        a) Künstliche Zähne aus Keramik (Nr. 9021)
+        b) Spielzeug, Spiele, Scherzartikel und Sportgeräte (Kapitel 95)
+        c) Knöpfe, Tabakpfeifen und andere Waren des Kapitels 96.
+
+
+
 
                                     16/16 (Stand: 1.1.2024)
