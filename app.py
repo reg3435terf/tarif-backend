@@ -8,7 +8,7 @@ from flask_cors import CORS
 import json, os, re, urllib.request, urllib.error, urllib.parse
 
 app = Flask(__name__)
-CORS(app)  # Frontend darf von überall zugreifen
+CORS(app)
 
 # ── API Key (aus Render Environment Variable) ──
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
@@ -19,32 +19,50 @@ GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CACHE_DIR = os.path.join(BASE_DIR, 'bazg_cache')
 
-# ── AV text ──
-AV_TEXT = """ALLGEMEINE VORSCHRIFTEN (AV):
+# ── Allgemeine Vorschriften & CH-Vorschriften (vollständig) ──
+AV_TEXT = """═══ ALLGEMEINE VORSCHRIFTEN FÜR DIE EINREIHUNG (AV) ═══
 
-AV 1: Massgebend für die Einreihung sind der Wortlaut der Nummern und der Abschnitt- oder Kapitel-Anmerkungen.
-AV 2a: Unvollständige/unfertige Waren mit wesentlichen Merkmalen → wie fertige Ware. Zerlegte → wie zusammengesetzte.
-AV 2b: Erwähnung eines Stoffes gilt auch für Mischungen. Einreihung nach AV 3.
-AV 3: a) Genauere Warenbezeichnung hat Vorrang b) Mischungen → nach wesentlichem Charakter c) letzte zutreffende Nummer
-AV 4: Nicht einreihbare Waren → ähnlichste Waren.
-AV 5: Behältnisse/Verpackungen wie enthaltene Waren.
-AV 6: Unternummern nach Wortlaut + Unternummern-Anmerkungen, mutatis mutandis AV 1-5.
+AV 1 – VORRANG DES WORTLAUTS:
+Massgebend für die Einreihung sind der Wortlaut der Nummern und der Abschnitt- oder Kapitel-Anmerkungen sowie – soweit Nummern oder Anmerkungen nichts anderes vorschreiben – die nachstehenden Vorschriften.
 
-CHV 1: Für CH-Unternummern gelten AV sinngemäss.
-CHV 2-4: Gebrauchte Waren = gleicher Zoll. Stückgewicht = Eigengewicht. Behältnis = unmittelbare Umschliessung.
+AV 2a – UNVOLLSTÄNDIGE WAREN:
+Die Einreihung unvollständiger oder unfertiger Waren folgt der Einreihung vollständiger oder fertiger Waren, sofern sie im vorliegenden Zustand die wesentlichen Merkmale der vollständigen oder fertigen Ware besitzen. Zerlegte oder nicht zusammengesetzte vollständige/fertige Waren werden wie zusammengesetzte behandelt.
 
-MWST-SÄTZE SCHWEIZ (seit 1.1.2024):
-- Normalsatz: 8.1%
-- Reduzierter Satz: 2.6% → Lebensmittel, nicht-alkoholische Getränke, Fruchtsäfte, Wasser, Softdrinks, Bücher, Zeitungen, Medikamente, Pflanzen
-- Sondersatz: 3.8% → nur Beherbergung/Hotellerie
-- Alkoholische Getränke (>0.5% Vol) → 8.1%
+AV 2b – MISCHUNGEN UND GEMISCHE:
+Die Erwähnung eines Stoffes in einer Nummer gilt auch für Mischungen oder Gemische dieses Stoffes mit anderen Stoffen. Die Einreihung von Mischungen erfolgt nach AV 3.
 
-ZOLLANSÄTZE:
-- Kap. 1-24 (Agrar): Zollansätze gemäss Tarif (variieren stark)
-- Kap. 25-97 (Industrie): seit 1.1.2024 weitgehend zollfrei (0 CHF)"""
+AV 3 – MEHRERE MÖGLICHE NUMMERN:
+a) Die Nummer mit der genaueren Warenbezeichnung hat Vorrang vor Nummern mit allgemeiner Beschreibung.
+b) Mischungen, Kombinationswaren und Waren, die aus verschiedenen Stoffen bestehen: nach der Ware, die den wesentlichen Charakter bestimmt.
+c) Lässt sich die Einreihung nicht nach AV 3a oder 3b bestimmen: die letzte in Betracht kommende Nummer.
+
+AV 4 – NICHT EINREIHBARE WAREN:
+Waren, die sich mit den vorstehenden Vorschriften nicht einreihen lassen, werden nach den Waren eingereiht, denen sie am ähnlichsten sind.
+
+AV 5 – BEHÄLTNISSE UND VERPACKUNGEN:
+Behältnisse (Etuis, Futteral, Kästen usw.), die speziell für eine bestimmte Ware geformt sind, für längeren Gebrauch geeignet und zusammen mit der Ware eingeführt werden: Einreihung mit der Ware. Verpackungen: gleichfalls mit der enthaltenen Ware, ausser wenn die Verpackung dem Ganzen ihren wesentlichen Charakter verleiht.
+
+AV 6 – UNTERNUMMERN-EINREIHUNG:
+Die Einreihung in die Unternummern einer Nummer richtet sich nach dem Wortlaut dieser Unternummern und der Unternummern-Anmerkungen sowie mutatis mutandis nach den Vorschriften AV 1–5. Nur Unternummern der gleichen Gliederungsstufe sind vergleichbar.
+
+═══ SCHWEIZERISCHE VORSCHRIFTEN (CHV) ═══
+
+CHV 1: Für die Einreihung in Schweizer Unternummern gelten die AV sinngemäss.
+CHV 2: Gebrauchte Waren: gleicher Zollansatz wie neue Waren, ausser besondere Bestimmungen.
+CHV 3: Stückgewicht = Eigengewicht der Ware ohne Umschliessung.
+CHV 4: Behältnis = unmittelbare Umschliessung der Ware.
+
+═══ MWST-SÄTZE SCHWEIZ (seit 1.1.2024) ═══
+- Normalsatz 8.1%: Alkohol, Tabak, Elektronik, Maschinen, Fahrzeuge, Kosmetik, Kleidung, Industrieprodukte, alle nicht explizit reduzierten Waren
+- Reduzierter Satz 2.6%: Lebensmittel (Kap. 1-24 sofern nicht Alkohol/Tabak), nicht-alkoholische Getränke (Wasser, Saft, Softdrinks, Limonaden, Kaffee, Tee), Bücher/Zeitungen, Medikamente, Pflanzen
+- Sondersatz 3.8%: AUSSCHLIESSLICH Beherbergungsleistungen (Hotelübernachtungen)
+
+═══ ZOLLANSÄTZE ═══
+- Kap. 1-24 (Agrarprodukte): Zollansätze variieren stark, gemäss Tarif
+- Kap. 25-97 (Industrieprodukte): seit 1.1.2024 weitgehend zollfrei (0 CHF)"""
 
 
-def call_groq(messages, max_tokens=3000, temperature=0.1):
+def call_groq(messages, max_tokens=3500, temperature=0.1):
     """Groq API call."""
     payload = json.dumps({
         "model": GROQ_MODEL,
@@ -60,7 +78,7 @@ def call_groq(messages, max_tokens=3000, temperature=0.1):
         "User-Agent": "Tarifierungstool/4.0"
     })
 
-    with urllib.request.urlopen(req, timeout=25) as resp:
+    with urllib.request.urlopen(req, timeout=30) as resp:
         data = json.loads(resp.read().decode("utf-8"))
         content = data["choices"][0]["message"]["content"]
         return json.loads(content)
@@ -139,8 +157,8 @@ def format_off_product(product, ean=""):
                 break
         else:
             ingredients = ingredients[de_start:].strip()
-    elif len(ingredients) > 500:
-        ingredients = ingredients[:500]
+    elif len(ingredients) > 600:
+        ingredients = ingredients[:600]
     return {
         "name": product.get("product_name", ""),
         "brand": product.get("brands", ""),
@@ -210,208 +228,382 @@ def web_search_product(query):
     return None
 
 
-# ── BAZG document reading (from local cache) ──
-def get_chapter_docs(chapter_num):
-    ch = str(chapter_num).zfill(2)
-    texts = {}
-    erl_file = os.path.join(CACHE_DIR, f"erl_{ch}.txt")
-    if os.path.exists(erl_file):
-        with open(erl_file, 'r') as f:
-            texts["erlaeuterungen"] = f.read()
-    anm_file = os.path.join(CACHE_DIR, f"anm_{ch}.txt")
-    if os.path.exists(anm_file):
-        with open(anm_file, 'r') as f:
-            texts["anmerkungen"] = f.read()
-    return texts
+# ── BAZG document reading ──
+def read_cache_file(filename):
+    path = os.path.join(CACHE_DIR, filename)
+    if os.path.exists(path):
+        with open(path, 'r', encoding='utf-8') as f:
+            return f.read()
+    return None
 
 
-def extract_relevant_sections(full_text, product_keywords):
-    lines = full_text.split('\n')
-    sections = []
-    current_section = []
-    current_header = ''
-    for line in lines:
-        is_header = bool(re.match(r'^\s*(\d{4})', line)) or (len(line.strip()) > 5 and line.strip().isupper())
-        if is_header and current_section:
-            sections.append((current_header, '\n'.join(current_section)))
-            current_section = [line]
-            current_header = line.strip()
-        else:
-            current_section.append(line)
-    if current_section:
-        sections.append((current_header, '\n'.join(current_section)))
-
-    result_parts = []
-    if sections:
-        result_parts.append(sections[0][1][:4000])
-
-    priority_terms = {'mindestgehalt', 'quotient', 'fruchtsaft', 'fruchtmark', 'gemuesesaft',
-                      'anmerkung', 'ausgenommen', 'einschliesslich'}
-    keywords_lower = {k.lower() for k in product_keywords if len(k) > 3}
-
-    for header, text in sections[1:]:
-        text_lower = text.lower()
-        relevance = sum(1 for term in keywords_lower if term in text_lower)
-        has_priority = any(p in text_lower for p in priority_terms)
-        if relevance >= 1 or has_priority:
-            result_parts.append(text)
-
-    return '\n\n'.join(result_parts)
+def get_chapter_docs(chapter_nums):
+    """Load erl + anm for one or multiple chapters. Returns dict with labeled texts."""
+    if isinstance(chapter_nums, int):
+        chapter_nums = [chapter_nums]
+    result = {}
+    for ch_num in chapter_nums:
+        ch = str(ch_num).zfill(2)
+        erl = read_cache_file(f"erl_{ch}.txt")
+        anm = read_cache_file(f"anm_{ch}.txt")
+        if erl:
+            result[f"erl_{ch}"] = erl
+        if anm:
+            result[f"anm_{ch}"] = anm
+    return result
 
 
-# ── Classification prompt ──
-CLASSIFY_PROMPT = """Du bist ein Schweizer Zolltarif-Experte beim BAZG. Tarifiere das folgende Produkt.
+def smart_truncate_erl(full_text, product_keywords, max_chars=32000):
+    """
+    Intelligente Kürzung der Erläuterungen:
+    - Immer die ersten 5000 Zeichen (allgemeiner Kapitelteil)
+    - Alle Abschnitte, die relevante Schlüsselbegriffe enthalten
+    - Tabellen (Mindestgehalt etc.) werden NICHT herausgefiltert
+    - Abschnitte werden am Header aufgespalten (4-stellige Positionsnummer)
+    """
+    if len(full_text) <= max_chars:
+        return full_text
 
-═══ ALLGEMEINE VORSCHRIFTEN ═══
-{av_text}
+    # Split into sections at position headers (e.g. "2202." or "2009.")
+    # Keep intro + all sections with keyword matches
+    section_pattern = re.compile(r'(?=^\s{0,8}\d{4}[\.\s])', re.MULTILINE)
+    parts = section_pattern.split(full_text)
 
-═══ OFFIZIELLE ERLÄUTERUNGEN ZU KAPITEL {chapter} ═══
-{erl_text}
+    keywords_lower = {k.lower() for k in product_keywords if len(k) > 2}
+    # Priority terms that should always be included
+    priority_terms = {
+        'mindestgehalt', 'quotient', 'fruchtsaft', 'fruchtmark', 'gemüsesaft',
+        'anmerkung', 'ausgenommen', 'einschliesslich', 'hierher', 'nicht hierher',
+        'schweizerische erläuterungen', 'tabelle'
+    }
 
-═══ OFFIZIELLE ANMERKUNGEN ZU KAPITEL {chapter} ═══
-{anm_text}
+    kept = []
+    total = 0
 
-═══ PRODUKTDATEN ═══
-{product_data}
+    for i, part in enumerate(parts):
+        part_lower = part.lower()
+        # Always keep first section (chapter intro)
+        if i == 0:
+            kept.append(part[:5000])
+            total += min(len(part), 5000)
+            continue
+        # Keep if keywords match or priority terms present
+        has_keyword = any(kw in part_lower for kw in keywords_lower)
+        has_priority = any(p in part_lower for p in priority_terms)
+        if has_keyword or has_priority:
+            kept.append(part)
+            total += len(part)
+        if total >= max_chars:
+            break
 
-═══ AUFGABE ═══
-Tarifiere das Produkt AUSSCHLIESSLICH auf Basis der obigen offiziellen Dokumente und der Produktdaten.
-
-KRITISCHE REGELN:
-1. Wende die AV systematisch an (AV 1 → AV 6)
-2. Zitiere relevante Anmerkungen und Erläuterungen WÖRTLICH
-3. Tarifnummer IMMER im Format XXXX.XXXX (8 Ziffern, 1 Punkt nach 4. Stelle)
-4. MWST KORREKT bestimmen:
-   - 2.6% für: ALLE Lebensmittel, ALLE nicht-alkoholischen Getränke (Saft, Wasser, Softdrinks, Tafelgetränke), Bücher, Medikamente
-   - 8.1% für: Alkoholische Getränke, Tabak, Industrieprodukte, Elektronik, Werkzeuge, sonstige Waren
-   - 3.8% NUR für Beherbergung
-5. Bei Getränken mit Fruchtsaft: IMMER Mindestgehalttabelle + Quotienten-Methode aus den Erläuterungen anwenden!
-   - Berechne den Quotienten: Saftanteil / Mindestgehalt für jede Fruchtart
-   - Summe der Quotienten >= 1 → Fruchtsaftgetränk (2202.9931/32, 9969)
-   - Summe der Quotienten < 1 → UNTERSCHEIDE:
-     a) Basis = WASSER + Zucker/Süssmittel + Aroma/Fruchtsaft → **2202.1000** (aromatisiertes Tafelgetränk, Limonade)
-        Beispiele: Multivitaminsaft mit Wasser und 12% Saft, Limonaden, Cola, Eistee auf Wasserbasis
-     b) Basis NICHT Wasser (z.B. Sojamilch, Energydrink mit Taurin/Koffein) → **2202.9990**
-   WICHTIG: Die meisten handelsüblichen Fruchtgetränke/Multivitaminsäfte mit geringem Saftanteil sind Wasser-basiert → 2202.1000!
-6. Falls Infos fehlen → confidence "medium", erkläre was fehlt
-
-Antworte als JSON:
-{{
-  "product_identified": "Produktname und Marke",
-  "product_description": "Beschreibung mit allen zollrelevanten Merkmalen",
-  "material": "Zusammensetzung mit Anteilen",
-  "category": "Warenkategorie",
-  "chapter": {chapter},
-  "chapter_name": "...",
-  "position": "XXXX",
-  "position_name": "...",
-  "tariff_number": "XXXX.XXXX",
-  "tariff_description": "...",
-  "decision_path": [
-    {{"step": 1, "title": "Produktidentifikation", "detail": "..."}},
-    {{"step": 2, "title": "Anmerkungen geprüft", "detail": "Anmerkung X besagt: '...'"}},
-    {{"step": 3, "title": "Erläuterungen konsultiert", "detail": "..."}},
-    {{"step": 4, "title": "Positionsbestimmung (AV 1)", "detail": "..."}},
-    {{"step": 5, "title": "Unterposition (AV 6)", "detail": "..."}},
-    {{"step": 6, "title": "Zoll und MWST", "detail": "..."}}
-  ],
-  "legal_notes_consulted": ["..."],
-  "duty_info": "...",
-  "mwst_rate": "X.X%",
-  "mwst_category": "...",
-  "confidence": "high|medium|low",
-  "confidence_reason": "...",
-  "notes": "...",
-  "keywords": ["...", "..."],
-  "bazg_docs_used": true
-}}"""
+    result = '\n'.join(kept)
+    # Final safety truncation
+    if len(result) > max_chars:
+        result = result[:max_chars]
+    return result
 
 
-# ── Chapter determination ──
+# ── Chapter detection ──
 CHAPTER_KEYWORDS = {
-    1: ['tiere', 'lebend'],
-    2: ['fleisch', 'schlachtnebenerzeugnisse'],
-    3: ['fisch', 'krebs', 'weichtier'],
-    4: ['milch', 'eier', 'honig', 'kaese', 'butter', 'joghurt'],
-    5: ['tierisch', 'knochen', 'horn'],
-    6: ['pflanz', 'blumen', 'zwiebeln'],
-    7: ['gemuese', 'kartoffel', 'tomate'],
-    8: ['frucht', 'nuess', 'zitrus', 'banane', 'apfel', 'orange'],
-    9: ['kaffee', 'tee', 'mate', 'gewuerz'],
-    10: ['getreide', 'reis', 'weizen', 'mais', 'hafer'],
-    11: ['muellerei', 'mehl', 'staerke', 'malz'],
-    12: ['oelsaat', 'soja', 'raps'],
-    13: ['schellack', 'gummi', 'harz'],
-    14: ['flechtstoffe'],
-    15: ['fett', 'oel', 'olivenoel', 'margarine'],
-    16: ['wurst', 'fleischzubereitung', 'konserve'],
-    17: ['zucker', 'suess'],
-    18: ['kakao', 'schokolade'],
-    19: ['backware', 'teigware', 'brot', 'pizza', 'pasta', 'nudel', 'keks', 'gebaeck'],
-    20: ['gemusezubereitung', 'fruchtzubereitung', 'konfituere', 'marmelade'],
-    21: ['suppe', 'sauce', 'senf', 'hefe', 'wuerze', 'nahrungsergaenzung'],
-    22: ['getraenk', 'saft', 'wasser', 'bier', 'wein', 'alkohol', 'limonade', 'mineral', 'multivitamin', 'cola', 'energy', 'drink', 'tafelgetraenk', 'nektar'],
-    23: ['futtermittel', 'tierfutter'],
-    24: ['tabak', 'zigarett'],
-    25: ['salz', 'schwefel', 'stein', 'gips', 'kalk', 'zement'],
-    27: ['erdoel', 'mineraloel', 'benzin', 'diesel'],
-    28: ['anorganisch', 'chemisch'],
-    30: ['pharma', 'medikament', 'arznei', 'tablette', 'pille'],
-    33: ['parfum', 'kosmetik', 'shampoo', 'seife', 'creme'],
-    34: ['waschm', 'reinigung'],
-    39: ['kunststoff', 'plastik'],
-    40: ['kautschuk', 'gummi'],
-    42: ['leder', 'tasche', 'koffer'],
-    44: ['holz', 'holzkohle'],
-    48: ['papier', 'karton', 'pappe'],
-    49: ['buch', 'zeitung', 'druck'],
-    61: ['bekleidung', 'kleid', 'shirt', 'hose', 'jacke', 'pullover', 'gewirk'],
-    62: ['bekleidung', 'mantel', 'anzug', 'hemd'],
-    63: ['textil', 'decke', 'vorhang'],
-    64: ['schuh', 'stiefel', 'sandale'],
-    69: ['keramik', 'porzellan'],
-    70: ['glas', 'flasche'],
-    71: ['schmuck', 'gold', 'silber', 'perle', 'edelstein'],
-    72: ['eisen', 'stahl'],
-    73: ['eisenware', 'stahlware', 'schraube', 'nagel'],
-    76: ['aluminium'],
-    82: ['werkzeug', 'hammer', 'zange', 'saege', 'messer', 'schere', 'bohrer'],
-    83: ['schloss', 'schluessel', 'beschlag'],
-    84: ['maschine', 'motor', 'pumpe', 'kuehlschrank', 'waschmaschine', 'computer', 'laptop', 'drucker'],
-    85: ['elektr', 'telefon', 'handy', 'smartphone', 'fernseher', 'kabel', 'batterie', 'akku', 'lampe', 'led', 'kopfhoerer', 'lautsprecher', 'mikrofon'],
-    87: ['auto', 'fahrzeug', 'pkw', 'lkw', 'motorrad', 'fahrrad', 'velo'],
-    90: ['optik', 'kamera', 'brille', 'mikroskop', 'messgeraet'],
-    91: ['uhr', 'uhren'],
-    92: ['musikinstrument', 'gitarre', 'klavier'],
-    94: ['moebel', 'stuhl', 'tisch', 'bett', 'schrank', 'lampe', 'matratze'],
-    95: ['spielzeug', 'spiel', 'sport', 'ball'],
-    96: ['kugelschreiber', 'stift', 'buerste', 'kamm'],
-    97: ['kunst', 'antiquitaet', 'gemaelde'],
+    1:  ['lebende tiere', 'schlachtvieh', 'rind', 'schwein', 'geflügel'],
+    2:  ['fleisch', 'schlachtnebenerzeugnisse', 'hackfleisch', 'steak'],
+    3:  ['fisch', 'lachs', 'thunfisch', 'krebs', 'garnele', 'muschel', 'weichtier'],
+    4:  ['milch', 'joghurt', 'käse', 'butter', 'sahne', 'eier', 'honig', 'rahm'],
+    5:  ['tierische erzeugnisse', 'knochen', 'horn', 'tierhaare'],
+    6:  ['pflanzen', 'blumen', 'zwiebeln', 'setzling', 'strauch'],
+    7:  ['gemüse', 'kartoffel', 'tomate', 'gurke', 'salat', 'karotte', 'zwiebel'],
+    8:  ['früchte', 'nüsse', 'zitrusfrüchte', 'banane', 'apfel', 'orange', 'erdbeere', 'kirsche'],
+    9:  ['kaffee', 'tee', 'mate', 'gewürz', 'pfeffer', 'zimt', 'vanille'],
+    10: ['getreide', 'reis', 'weizen', 'mais', 'hafer', 'gerste', 'roggen'],
+    11: ['mehl', 'stärke', 'malz', 'müllerei', 'grieß', 'kleie'],
+    12: ['ölsaat', 'sojabohnen', 'raps', 'sonnenblumenkerne', 'leinsaat'],
+    13: ['schellack', 'pflanzengummi', 'harz', 'pektin'],
+    14: ['flechtstoffe', 'bambus', 'korbweiden', 'bast'],
+    15: ['fette', 'öle', 'olivenöl', 'palmöl', 'margarine', 'schmalz'],
+    16: ['wurst', 'fleischzubereitung', 'fischkonserve', 'pastete'],
+    17: ['zucker', 'zuckerrohr', 'rübenzucker', 'melasse', 'glucose', 'fructose'],
+    18: ['kakao', 'schokolade', 'kakaomasse', 'kakaobutter'],
+    19: ['backwaren', 'brot', 'teigwaren', 'pizza', 'pasta', 'nudeln', 'kekse', 'gebäck', 'waffeln', 'müsli', 'cornflakes'],
+    # Kap. 20: Fruchtsäfte (2009), Konserven, Konfitüren, Zubereitungen aus Früchten/Gemüse
+    20: ['fruchtsaft', 'gemüsesaft', 'direktsaft', 'fruchtnektar', 'nektar',
+         'orangensaft', 'apfelsaft', 'traubensaft', 'tomatensaft', 'zitronensaft',
+         'konfitüre', 'marmelade', 'fruchtzubereitung', 'gemüsekonserve',
+         '100% saft', '100% frucht', 'pure juice'],
+    21: ['suppe', 'brühe', 'sauce', 'senf', 'mayonnaise', 'hefe', 'suppenwürze',
+         'nahrungsergänzung', 'vitamin', 'mineral supplement', 'gewürzsauce'],
+    # Kap. 22: Getränke (NICHT reiner Fruchtsaft!) – Wasser, Bier, Wein, Spirituosen, Softdrinks
+    22: ['getränk', 'mineralwasser', 'tafelwasser', 'limonade', 'cola', 'fanta',
+         'bier', 'wein', 'sekt', 'champagner', 'spirituosen', 'whisky', 'vodka',
+         'energy drink', 'red bull', 'rivella', 'eistee', 'kombucha',
+         'alkohol', 'schnaps', 'likör', 'essig', 'softdrink'],
+    23: ['futtermittel', 'tierfutter', 'hundefutter', 'katzenfutter', 'kleie futter'],
+    24: ['tabak', 'zigaretten', 'zigarre', 'snus', 'e-zigarette', 'rauchtabak'],
+    25: ['salz', 'schwefel', 'gips', 'kalkstein', 'zement', 'sand', 'kies', 'quarz'],
+    27: ['erdöl', 'mineralöl', 'benzin', 'diesel', 'heizöl', 'kerosin', 'kohle'],
+    28: ['anorganische chemikalien', 'säuren', 'laugen', 'oxide', 'chlor', 'phosphor'],
+    29: ['organische chemikalien', 'kohlenwasserstoff', 'alkohol organisch', 'ester'],
+    30: ['arzneimittel', 'medikament', 'pharmazeutisch', 'tabletten', 'arznei', 'impfstoff'],
+    33: ['parfum', 'kosmetik', 'shampoo', 'seife', 'creme', 'lotion', 'lippenstift', 'deo'],
+    34: ['waschmittel', 'reinigungsmittel', 'spülmittel', 'geschirrspüler'],
+    39: ['kunststoff', 'plastik', 'polymer', 'polyethylen', 'pvc', 'polyester'],
+    40: ['kautschuk', 'gummi', 'latex', 'reifen'],
+    42: ['leder', 'handtasche', 'koffer', 'brieftasche', 'geldbörse', 'rucksack'],
+    44: ['holz', 'holzkohle', 'parkett', 'holzplatte', 'möbelholz'],
+    48: ['papier', 'karton', 'pappe', 'papierverpackung'],
+    49: ['buch', 'zeitung', 'zeitschrift', 'druck', 'atlas', 'kalender'],
+    61: ['bekleidung gewirkt', 'strickjacke', 'pullover', 'shirt', 'unterwäsche gewirkt'],
+    62: ['bekleidung gewebt', 'hose', 'jacke', 'mantel', 'anzug', 'hemd', 'kleid', 'jeans'],
+    63: ['textilwaren', 'decke', 'vorhang', 'bettwäsche', 'handtuch', 'teppich'],
+    64: ['schuhe', 'stiefel', 'sandalen', 'turnschuhe', 'pumps'],
+    65: ['kopfbedeckung', 'hut', 'mütze', 'helm', 'kappe'],
+    69: ['keramik', 'porzellan', 'steingut', 'fliesen'],
+    70: ['glas', 'glasflasche', 'glaswaren', 'spiegel'],
+    71: ['schmuck', 'gold', 'silber', 'platin', 'edelstein', 'diamant', 'perle', 'münzen edelmetall'],
+    72: ['eisen', 'stahl', 'roheisen', 'stahlblech', 'edelstahl'],
+    73: ['schrauben', 'nägel', 'stahlrohre', 'stahlwaren', 'eisenwaren', 'werkzeugstahl'],
+    76: ['aluminium', 'aluminiumfolie', 'aluminiumlegierung'],
+    82: ['werkzeuge', 'hammer', 'zange', 'säge', 'messer', 'schere', 'bohrer', 'schraubenzieher'],
+    83: ['schlösser', 'schlüssel', 'beschläge', 'metallwaren haushalt'],
+    84: ['maschinen', 'motoren', 'pumpen', 'kühlschrank', 'waschmaschine', 'drucker', 'computer', 'laptop', 'notebook', 'server'],
+    85: ['elektrisch', 'telefon', 'handy', 'smartphone', 'iphone', 'fernseher', 'kabel', 'batterie', 'akku', 'led lampe', 'kopfhörer', 'lautsprecher', 'playstation', 'konsole'],
+    87: ['auto', 'pkw', 'lkw', 'motorrad', 'fahrrad', 'velo', 'elektroauto', 'bus'],
+    88: ['flugzeug', 'drohne', 'hubschrauber', 'rakete'],
+    89: ['schiff', 'boot', 'yacht', 'kahn'],
+    90: ['optik', 'kamera', 'brille', 'mikroskop', 'teleskop', 'messgerät', 'thermometer'],
+    91: ['uhr', 'armbanduhr', 'wanduhr', 'uhrmacher'],
+    92: ['musikinstrument', 'gitarre', 'klavier', 'geige', 'flöte', 'schlagzeug'],
+    93: ['waffen', 'gewehr', 'pistole', 'munition'],
+    94: ['möbel', 'stuhl', 'tisch', 'bett', 'schrank', 'sofa', 'matratze', 'leuchte'],
+    95: ['spielzeug', 'spiele', 'sportgeräte', 'ball', 'puppe', 'lego'],
+    96: ['kugelschreiber', 'bleistift', 'bürste', 'kamm', 'feuerzeug', 'regenschirm'],
+    97: ['kunstwerk', 'gemälde', 'skulptur', 'antiquität'],
+}
+
+# Schlüsselwörter die KLAR auf reinen Fruchtsaft (Kap. 20, Nr. 2009) hinweisen
+JUICE_INDICATORS = {
+    'fruchtsaftkonzentrat', 'fruchtsäfte', 'direktsaft', '100% saft',
+    'orangensaft', 'apfelsaft', 'traubensaft', 'tomatensaft',
+    'grapefruitsaft', 'ananassaft', 'zitronensaft', 'mangosaft',
+    'fruchtnektar', 'gemüsesaft', 'pure juice', '100% frucht'
+}
+
+# Schlüsselwörter die klar auf Softdrink/Getränk (Kap. 22) hinweisen
+DRINK_INDICATORS = {
+    'limonade', 'mineralwasser', 'tafelwasser', 'softdrink', 'cola',
+    'energy drink', 'bier', 'wein', 'rivella', 'eistee', 'kombucha',
+    'kohlensäure', 'aromatisiert', 'tafelgetränk'
 }
 
 
-def guess_chapter(query, product_data=None):
+def detect_chapters(query, product_info):
+    """
+    Bestimmt das primäre Kapitel und ob ein zweites Kapitel geprüft werden muss.
+    Gibt (primary_chapter, extra_chapters) zurück.
+    """
     text = query.lower()
-    if product_data:
-        text += ' ' + (product_data.get('categories', '') + ' ' +
-                       product_data.get('name', '')).lower()
+    if product_info:
+        text += ' ' + (
+            product_info.get('categories', '') + ' ' +
+            product_info.get('name', '') + ' ' +
+            product_info.get('ingredients', '')
+        ).lower()
+
+    # Spezialfall Getränke: Kap. 20 vs 22 unterscheiden
+    has_juice = any(kw in text for kw in JUICE_INDICATORS)
+    has_drink = any(kw in text for kw in DRINK_INDICATORS)
+
+    # Score-basierte Kapitelbestimmung
     scores = {}
     for ch, keywords in CHAPTER_KEYWORDS.items():
         score = sum(1 for kw in keywords if kw in text)
         if score > 0:
             scores[ch] = score
+
+    primary = None
+    extra = []
+
     if scores:
         max_score = max(scores.values())
-        top_chapters = [ch for ch, sc in scores.items() if sc == max_score]
-        if len(top_chapters) == 1:
-            return top_chapters[0]
-        return max(top_chapters)
-    return None
+        top = [ch for ch, sc in scores.items() if sc == max_score]
+        primary = max(top)  # höchste Nummer bei Gleichstand
+
+    # Getränke-Grenzfall: Kap. 20 (2009 Säfte) und Kap. 22 beide laden
+    if primary in (20, 22) or has_juice or has_drink:
+        if has_juice and not has_drink:
+            # Eher reiner Saft → primär Kap. 20, extra Kap. 22
+            primary = 20
+            extra = [22]
+        elif has_drink and not has_juice:
+            # Klares Getränk → primär Kap. 22
+            primary = 22
+            extra = []
+        else:
+            # Beides oder unklar → beide laden, primär per Score
+            if primary not in (20, 22):
+                primary = 22
+            extra = [20] if primary == 22 else [22]
+
+    return primary, extra
+
+
+def guess_chapter_llm(query, product_info):
+    """LLM-basierte Kapitelbestimmung als Fallback."""
+    try:
+        ingredients_hint = ""
+        if product_info:
+            ingredients_hint = (
+                f"\nZutaten/Material: {product_info.get('ingredients', '')[:300]}"
+                f"\nKategorien: {product_info.get('categories', '')}"
+            )
+        ch_result = call_groq([
+            {"role": "system", "content": (
+                "Bestimme das Kapitel (1-97) des Schweizer Zolltarifs für dieses Produkt. "
+                "WICHTIG: Reiner Fruchtsaft = Kapitel 20 (Nr. 2009). "
+                "Softdrinks/Limonaden/aromatisierte Getränke = Kapitel 22. "
+                "Antworte als JSON: {\"chapter\": 22, \"reason\": \"...\", \"also_check\": [20]}"
+            )},
+            {"role": "user", "content": f"Produkt: {query}{ingredients_hint}"}
+        ], max_tokens=300)
+        primary = ch_result.get("chapter", 22)
+        extra = ch_result.get("also_check", [])
+        return primary, extra
+    except Exception:
+        return 22, []
+
+
+# ── Classification Prompt ──
+CLASSIFY_PROMPT = """Du bist ein zertifizierter Schweizer Zolltarif-Experte beim BAZG (Bundesamt für Zoll und Grenzsicherheit).
+Deine Aufgabe: das unten beschriebene Produkt korrekt in den Schweizerischen Gebrauchstarif einreihen.
+
+{av_section}
+
+{docs_section}
+
+{product_section}
+
+═══ PFLICHTABLAUF – FOLGE DIESEN SCHRITTEN EXAKT ═══
+
+SCHRITT 1 – PRODUKTIDENTIFIKATION:
+Beschreibe das Produkt vollständig: Zusammensetzung, Verwendungszweck, Verarbeitungsgrad.
+
+SCHRITT 2 – AV 1: KAPITEL UND POSITION BESTIMMEN:
+- Lies die Anmerkungen zum betreffenden Kapitel/Abschnitt VOLLSTÄNDIG durch.
+- Prüfe ob Ausschlussbestimmungen ("Nicht hierher gehören...") zutreffen.
+- Bestimme die 4-stellige Position nach dem Wortlaut (AV 1).
+- Bei Getränken: ZUERST prüfen ob Nr. 2009 (reiner Fruchtsaft, Kap. 20) zutrifft, DANN 2202!
+  Entscheidungskriterium: Ist das Produkt ein reiner Saft (gepresst/aus Konzentrat, ohne wesentliche Zusätze)?
+  → JA: 2009 (Kap. 20)
+  → NEIN (aromatisiert, verdünnt mit Wasser+Zucker+Aroma, mit anderen Zusätzen): 2202 (Kap. 22)
+
+SCHRITT 3 – AV 2/3 WENN NÖTIG:
+Nur wenn AV 1 keine eindeutige Einreihung erlaubt: wende AV 2a, 2b, 3a, 3b, 3c in dieser Reihenfolge an.
+
+SCHRITT 4 – AV 6 + CHV 1: UNTERPOSITION BESTIMMEN:
+- Lies die Erläuterungen zu den relevanten Unterpositionen durch.
+- Vergleiche nur Unterpositionen GLEICHER Gliederungsstufe.
+- Bei 2202: Wende die Mindestgehalt-Quotienten-Methode NUMERISCH an:
+  Für jede Fruchtart: Quotient = vorhandener_Saftanteil% / Mindestgehalt%
+  Summe aller Quotienten >= 1.0 → 2202.9931/32/9969 (Fruchtsaftgetränk)
+  Summe < 1.0 + Wasserbasis → 2202.1000 (aromatisiertes Tafelgetränk)
+  Summe < 1.0 + andere Basis → 2202.9990
+
+SCHRITT 5 – ZITIERE DEN ENTSCHEIDENDEN SATZ:
+Zitiere WÖRTLICH den Satz aus den Erläuterungen oder Anmerkungen, der deine Einreihung begründet.
+
+SCHRITT 6 – MWST UND ZOLL:
+Bestimme MWST-Satz gemäss den oben aufgeführten Regeln. Begründe explizit.
+
+═══ AUSGABE ═══
+Antworte AUSSCHLIESSLICH als JSON (kein weiterer Text):
+{{
+  "product_identified": "Produktname und Marke",
+  "product_description": "Vollständige zollrelevante Beschreibung",
+  "material": "Zusammensetzung mit %-Angaben soweit bekannt",
+  "category": "Warenkategorie",
+  "chapter": <Zahl>,
+  "chapter_name": "...",
+  "position": "XXXX",
+  "position_name": "vollständiger Wortlaut der Position",
+  "tariff_number": "XXXX.XXXX",
+  "tariff_description": "vollständiger Wortlaut der Unterposition",
+  "decision_path": [
+    {{"step": 1, "title": "Produktidentifikation", "detail": "..."}},
+    {{"step": 2, "title": "AV 1 – Kapitel/Position", "detail": "Geprüfte Kapitel: X. Anmerkung X besagt: '...' → Position XXXX weil ..."}},
+    {{"step": 3, "title": "AV 2/3 (falls angewandt)", "detail": "AV X angewandt weil: ... ODER 'Nicht angewandt, AV 1 reicht'"}},
+    {{"step": 4, "title": "AV 6 + CHV 1 – Unterposition", "detail": "Erläuterungen zu XXXX besagen: '...' → Unterposition XXXX.XXXX. Quotienten-Berechnung: ..."}},
+    {{"step": 5, "title": "Massgebende Rechtsgrundlage", "detail": "Wörtliches Zitat: '...' [Quelle: Erläuterungen/Anmerkungen Kap. X]"}},
+    {{"step": 6, "title": "MWST und Zoll", "detail": "MWST X.X% weil: ... Zoll: ..."}}
+  ],
+  "legal_notes_consulted": ["Anmerkung X zu Kap. Y: '...'", "..."],
+  "erlaeuterungen_zitat": "Wörtliches Zitat der entscheidenden Erläuterung",
+  "duty_info": "...",
+  "mwst_rate": "X.X%",
+  "mwst_category": "...",
+  "confidence": "high|medium|low",
+  "confidence_reason": "...",
+  "notes": "Hinweise auf fehlende Infos oder Grenzfälle",
+  "keywords": ["...", "..."],
+  "bazg_docs_used": true
+}}"""
+
+
+def build_prompt(av_text, docs, chapter, extra_chapters, product_data_str):
+    """Baut den vollständigen Klassifikations-Prompt auf."""
+
+    # AV-Sektion
+    av_section = av_text
+
+    # Dokumente aufbereiten
+    doc_parts = []
+    primary_ch = str(chapter).zfill(2)
+
+    erl_primary = docs.get(f"erl_{primary_ch}")
+    anm_primary = docs.get(f"anm_{primary_ch}")
+
+    product_keywords = product_data_str.lower().split()[:50]
+
+    if erl_primary:
+        erl_trimmed = smart_truncate_erl(erl_primary, product_keywords, max_chars=28000)
+        doc_parts.append(f"═══ OFFIZIELLE ERLÄUTERUNGEN ZU KAPITEL {chapter} ═══\n{erl_trimmed}")
+    else:
+        doc_parts.append(f"═══ OFFIZIELLE ERLÄUTERUNGEN ZU KAPITEL {chapter} ═══\n[Erläuterungen für Kapitel {chapter} nicht im Cache verfügbar – klassifiziere nach AV und allgemeinem Wissen]")
+
+    if anm_primary:
+        anm_trimmed = anm_primary[:20000]
+        doc_parts.append(f"═══ OFFIZIELLE ANMERKUNGEN ZU KAPITEL {chapter} ═══\n{anm_trimmed}")
+    else:
+        doc_parts.append(f"═══ OFFIZIELLE ANMERKUNGEN ZU KAPITEL {chapter} ═══\n[Nicht verfügbar]")
+
+    # Extra-Kapitel (z.B. Kap. 20 wenn Kap. 22 primär, für 2009-Abgrenzung)
+    for extra_ch in extra_chapters:
+        extra_str = str(extra_ch).zfill(2)
+        erl_extra = docs.get(f"erl_{extra_str}")
+        anm_extra = docs.get(f"anm_{extra_str}")
+        if erl_extra:
+            # Für extra-Kapitel nur die relevante Position extrahieren
+            erl_extra_trimmed = smart_truncate_erl(erl_extra, product_keywords, max_chars=12000)
+            doc_parts.append(
+                f"═══ VERGLEICHS-ERLÄUTERUNGEN KAPITEL {extra_ch} ═══\n"
+                f"[Prüfe ob das Produkt hier einzureihen ist, bevor du Kapitel {chapter} bestätigst]\n"
+                f"{erl_extra_trimmed}"
+            )
+        if anm_extra:
+            doc_parts.append(f"═══ ANMERKUNGEN KAPITEL {extra_ch} ═══\n{anm_extra[:8000]}")
+
+    docs_section = '\n\n'.join(doc_parts)
+    product_section = f"═══ PRODUKTDATEN ═══\n{product_data_str}"
+
+    return CLASSIFY_PROMPT.format(
+        av_section=av_section,
+        docs_section=docs_section,
+        product_section=product_section
+    )
 
 
 def classify_product(product_query):
-    """Main classification pipeline."""
-    # Step 1: Try Open Food Facts
+    """Hauptpipeline für die Tarifierung."""
+
+    # ── Schritt 1: Produktdaten ermitteln ──
     off_data = search_openfoodfacts(product_query)
     web_data = None
     data_source = "none"
@@ -425,81 +617,64 @@ def classify_product(product_query):
 
     product_info = off_data or web_data
 
-    # Step 2: Determine chapter
-    chapter = guess_chapter(product_query, product_info)
-    if chapter is None:
-        try:
-            ingredients_hint = ""
-            if product_info:
-                ingredients_hint = f"\nZutaten/Material: {product_info.get('ingredients', '')}"
-            ch_result = call_groq([
-                {"role": "system", "content": "Bestimme das Kapitel (1-97) des Schweizer Zolltarifs für dieses Produkt. Antworte als JSON: {\"chapter\": 22, \"reason\": \"...\"}"},
-                {"role": "user", "content": f"Produkt: {product_query}{ingredients_hint}"}
-            ], max_tokens=200)
-            chapter = ch_result.get("chapter", 22)
-        except Exception:
-            chapter = 22
+    # ── Schritt 2: Kapitel(n) bestimmen ──
+    primary_chapter, extra_chapters = detect_chapters(product_query, product_info)
 
-    # Step 3: Load BAZG documents
-    docs = get_chapter_docs(chapter)
-    erl_text = docs.get("erlaeuterungen", "[Erläuterungen nicht verfügbar]")
-    anm_text = docs.get("anmerkungen", "[Anmerkungen nicht verfügbar]")
+    if primary_chapter is None:
+        primary_chapter, extra_chapters = guess_chapter_llm(product_query, product_info)
 
-    product_keywords = product_query.split()
+    # ── Schritt 3: BAZG-Dokumente laden ──
+    all_chapters = [primary_chapter] + [c for c in extra_chapters if c != primary_chapter]
+    docs = get_chapter_docs(all_chapters)
+
+    # ── Schritt 4: Produktdaten-String aufbauen ──
     if product_info:
-        product_keywords += product_info.get('ingredients', '').split()[:20]
-        product_keywords += product_info.get('name', '').split()
-
-    max_chars = 24000
-    if len(erl_text) > max_chars:
-        erl_text = extract_relevant_sections(erl_text, product_keywords)[:max_chars]
-    if len(anm_text) > max_chars:
-        anm_text = anm_text[:max_chars]
-
-    # Step 4: Build product data string
-    if product_info:
-        source_label = "Open Food Facts (echte Produktdaten)" if data_source == "off" else "Web-Suche (automatisch recherchiert)"
-        desc_line = ""
-        if product_info.get("description"):
-            desc_line = f"Beschreibung: {product_info['description']}\n"
+        source_label = (
+            "Open Food Facts (offizielle Produktdaten)"
+            if data_source == "off"
+            else "Web-Suche (automatisch recherchiert)"
+        )
+        desc_line = f"Beschreibung: {product_info['description']}\n" if product_info.get("description") else ""
         product_data_str = (
-            f"Produkt: {product_info.get('name', product_query)} ({product_info.get('brand', 'unbekannt')})\n"
-            f"Menge: {product_info.get('quantity', 'unbekannt')}\n"
+            f"Anfrage: {product_query}\n"
+            f"Produktname: {product_info.get('name', product_query)}\n"
+            f"Marke: {product_info.get('brand', 'unbekannt')}\n"
+            f"Menge/Gewicht: {product_info.get('quantity', 'unbekannt')}\n"
             f"Zutaten/Zusammensetzung: {product_info.get('ingredients', 'unbekannt')}\n"
             f"{desc_line}"
             f"Kategorien: {product_info.get('categories', 'unbekannt')}\n"
             f"EAN: {product_info.get('ean', 'unbekannt')}\n"
-            f"Quelle: {source_label}"
+            f"Datenquelle: {source_label}"
         )
     else:
         product_data_str = (
-            f"Produkt: {product_query}\n"
-            f"HINWEIS: Keine Produktdaten gefunden. Zusammensetzung unbekannt.\n"
-            f"Bitte confidence entsprechend tief setzen."
+            f"Anfrage: {product_query}\n"
+            f"HINWEIS: Keine Produktdaten gefunden. Zusammensetzung und genaue Produktart unbekannt.\n"
+            f"→ confidence auf 'low' oder 'medium' setzen und fehlende Informationen benennen."
         )
 
-    # Step 5: LLM classification
-    prompt = CLASSIFY_PROMPT.format(
-        av_text=AV_TEXT,
-        chapter=chapter,
-        erl_text=erl_text,
-        anm_text=anm_text,
-        product_data=product_data_str
-    )
+    # ── Schritt 5: Prompt aufbauen und LLM aufrufen ──
+    prompt = build_prompt(AV_TEXT, docs, primary_chapter, extra_chapters, product_data_str)
 
     try:
         result = call_groq([
             {"role": "system", "content": prompt},
-            {"role": "user", "content": f"Tarifiere: {product_query}"}
-        ], max_tokens=3000)
+            {"role": "user", "content": (
+                f"Tarifiere folgendes Produkt nach Schweizer Zolltarif:\n{product_query}\n\n"
+                f"WICHTIG: Folge dem Pflichtablauf (Schritte 1-6). "
+                f"Zitiere die massgebenden Erläuterungen wörtlich. "
+                f"Prüfe zuerst die Kapitel-Anmerkungen auf Ausschlüsse."
+            )}
+        ], max_tokens=3500)
     except Exception as e:
         return {"error": f"LLM-Einreihung fehlgeschlagen: {e}"}
 
-    # Add metadata
+    # ── Metadaten ergänzen ──
     result["bazg_docs_used"] = True
     result["data_source"] = data_source
     result["off_data_used"] = data_source == "off"
     result["web_search_used"] = data_source == "web"
+    result["chapters_loaded"] = all_chapters
     if product_info:
         result["_off_product"] = {
             "name": product_info.get("name", ""),
