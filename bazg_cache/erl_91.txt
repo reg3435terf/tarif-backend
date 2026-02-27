@@ -1,0 +1,979 @@
+91
+
+                                Kapitel 91
+
+                             Uhrmacherwaren
+
+                                 Allgemeines
+
+Zu Kapitel 91 gehören Uhrmacherwaren, das heisst Apparate, die in der Hauptsache zum
+Messen der Zeit oder zum Ausführen einer zum Zeitablauf in Beziehung gesetzten Tätig-
+keit bestimmt sind. Das Kapitel umfasst die an der Person zu tragenden Uhren (Taschen-
+uhren und Stoppuhren, Armbanduhren und ähnliche Uhren) und andere Uhren (Turmuh-
+ren, Wand- und Standuhren, Stiluhren (Pendulen), Wecker, Schiffschronometer und der-
+gleichen, Uhren für Fahrzeuge, Zeitmesser), Kontrollapparate und Zeitauslöser sowie,
+ganz allgemein, Teile dieser Waren.
+
+Derartige Waren können aus beliebigen Stoffen (einschliesslich Edelmetall) sein; sie kön-
+nen auch verziert, mit echten Perlen, Edelsteinen, Schmucksteinen, synthetischen oder
+rekonstituierten Steinen usw. besetzt sein (s. Erläuterungen zu den Nrn. 9111 und 9112).
+
+Die Tarifierung von Uhrmacherwaren, die mit einem anderen Gegenstand (Möbel, Lampe,
+Schreibzeug, Briefbeschwerer, Schreibblock, Tabakdose, Feuerzeug, Handtasche, Puder-
+dose, Zigarettenetui, Drehbleistift, Spazierstock usw.) verbunden sind, richtet sich nach
+den Allgemeinen Vorschriften für die Auslegung des Harmonisierten Systems. Jedoch
+bleiben Uhrmacherwaren mit eingebauter Beleuchtung in diesem Kapitel.
+
+Neben den nachstehend in den Erläuterungen zu den einzelnen Nummern aufgeführten
+Ausnahmen gehören, allgemein gesagt, nicht zu diesem Kapitel:
+a) Sonnenuhren und Sanduhren (je nach Beschaffenheit);
+b) Musikautomaten (singende mechanische Vögel und dergleichen) und Spieldosen oh-
+    ne Zeitzifferblatt (Nr. 9208);
+c) Waren, die Spielzeug oder Christbaumschmuck sind, wie Uhren ohne Uhrwerk
+    (Nr. 9503 oder 9505);
+d) Bewegliche Figuren und Ausstellungsstücke für Schaufenster (Nr. 9618);
+e) Kunstgegenstände, Sammlungsstücke und Antiquitäten (Kapitel 97).
+
+Eine Uhr setzt sich aus zwei Hauptbestandteilen zusammen; dem Uhrwerk und dem Ge-
+häuse für dieses Uhrwerk.
+
+In einem mechanischen Uhrwerk unterscheidet man folgende Teile:
+1)   Das Werkgestell, das im Allgemeinen aus Werkplatte und Brücken besteht. Die Werk-
+     platte ist die Grundplatte des Uhrwerks, auf der die Brücken mit Hilfe von Schrauben
+     und Stiften befestigt werden. Gewisse Werkgestelle haben ausser den Brücken und
+     der eigentlichen Werkplatte eine oder mehrere zusätzliche Platinen (z.B. Gegenplati-
+     ne, Zifferblattplatine, untere Deckplatine) zum Befestigen bestimmter Werkteile (z.B.
+     Zeigerwerk, Weckerwerk usw.).
+2)   Das Antriebsorgan, dass das Uhrwerk antreibt. Es besteht im Allgemeinen aus Ge-
+     wichten oder aus Federn; als Energiequelle können auch Elektrizität, Schwankungen
+     des atmosphärischen Drucks, Temperaturschwankungen usw. dienen.
+3)   Das Räderwerk, das heisst die Gesamtheit der Zahnräder und Zahngetriebe (beweg-
+     lich), die ineinander greifen und dazu dienen, die durch das Antriebsorgan erzeugte
+     Energie auf die Hemmung zu übertragen und das Messen der Zeit zu ermöglichen.
+4)   Das Zeigerwerk, das alle Organe umfasst, die die Aufgabe haben, die Bewegung des
+     Minutenzeigers auf den Stundenzeiger zu übertragen. Bei den Uhrwerken mit einer
+     Zifferblattplatine liegt das Zeigerwerk in der Regel zwischen dieser Platine und der ei-
+     gentlichen Werkplatte.
+
+
+
+
+                             1/16 (Stand: 1.10.2024)
+                                                                                     91
+
+5)   Die Hemmung, die dem Zeitteiler (Gangregler) die erforderliche Kraft zur Unterhaltung
+     seiner Bewegung überträgt und das Ablaufen des Räderwerkes der Regulierung
+     durch den Zeitteiler unterwirft.
+     Verschiedene Arten von Hemmungen sind: die Ankerhemmung, Stiftenhemmung, Zy-
+     linderhemmung, Chronometerhemmung usw.
+6)   Der Zeitteiler (Gangregler), der die durch das Antriebsorgan bewirkte Bewegung regu-
+     liert. Er kann aus einem Pendel, einer Unruh mit Spiralfeder, einer Stimmgabel, einem
+     piezoelektrischen Kristall oder jedem anderen geeigneten Zeitteilersystem bestehen.
+7)   Den Aufzug- und Stellmechanismus (Drückeraufzug, Remontoiraufzug, Wippenaufzug
+     usw.).
+
+Das zusammengesetzte Uhrwerk, dem man das Zifferblatt und die Zeiger zufügt, wird in
+das Gehäuse eingepasst.
+
+Die Unruh, die beweglichen Teile der Hemmung und des Räderwerks enden in sehr feinen
+Zapfen. Bei den einfachen Uhren drehen sich diese Zapfen (Achsen) direkt in dem Metall
+der Werkplatte und der Brücken, während die besseren Erzeugnisse mit Lagern aus Edel-
+steinen, Schmucksteinen oder synthetischen Steinen ausgerüstet sind, um die Abnutzung
+zu verringern.
+
+Uhren können mit einem Stunden-Schlagwerk, einem Weckerwerk oder einem Glocken-
+spiel ausgerüstet sein. Jede dieser Vorrichtungen erfordert ein besonderes Werk.
+
+Uhren werden mit der Hand, durch Elektrizität oder automatisch aufgezogen.
+
+Bei den elektrischen und elektronischen Uhren, die ebenfalls zu diesem Kapitel gehören,
+unterscheidet man:
+A)   Selbständige Uhren mit Trockenbatterie oder Akkumulator, mit kleiner Gangreserve
+     (von einigen Minuten), die mit einem klassischen Uhrwerk mit Unruh mit Spiralfeder
+     oder mit Pendel ausgestattet sind, in denen die Feder periodisch durch einen Elekt-
+     romagneten aufgezogen wird.
+B)   Selbständige Uhren, mit Anschluss an das Stromnetz, mit grosser Gangreserve (meh-
+     rere Stunden), die ebenfalls mit dem üblichen Uhrwerk mit Unruh und Spiralfeder oder
+     mit Pendel ausgerüstet sind; die Feder oder das Gewicht werden hier periodisch
+     durch einen Elektromotor (Synchronmotor, Induktionsmotor usw.) aufgezogen.
+C) Selbständige Uhren mit Trockenbatterie oder Akkumulator oder Anschluss an das
+   Stromnetz, mit Pendelwerk, bei denen das Pendel durch eine elektromagnetische Vor-
+   richtung in Schwingung gehalten wird.
+D) Selbständige Uhren mit Trockenbatterie oder Akkumulator, mit einem Schwingsystem
+   als Zeitteiler (z.B. Stimmgabel, piezo-elektrischer Quarz), das durch eine elektroni-
+   sche Schaltung in Schwingung gehalten wird.
+E)   Selbständige Uhren mit Synchronmotor, mit Anschluss an einen Strom mit gleichblei-
+     bender Frequenz, deshalb ohne Zeitteiler (Gangregler) und nur aus Motor und Rä-
+     derwerk bestehend.
+
+Elektronische Zeitverteilernetze (mit Mutteruhr) werden in den Erläuterungen zu Nr. 9105
+eingehender behandelt.
+
+Manche elektrischen Uhren sind mit Stellvorrichtungen zum Einstellen der Uhrzeit durch
+Funk ausgerüstet.
+
+In Anwendung der Anmerkung 3 zu diesem Kapitel, welche die Uhrwerke definiert, sind
+folgende Messmethoden anzuwenden:
+
+
+
+
+                            2/16 (Stand: 1.10.2024)
+                                                                                        9101
+
+        a)   Messung der Dicke
+             Die Dicke des Uhrwerkes wird vom Träger des Zifferblattes oder ab der sichtbaren
+             Oberfläche der Anzeige gemessen, wenn letztere im Uhrwerk eingebaut ist, bis zu der
+             am weitesten entfernten Fläche, wobei vorstehende Bolzen, Schrauben und andere
+             feste Teile ausser acht zu lassen sind.
+        b)   Messung der Breite, der Länge oder des Durchmessers:
+             Die Messung, gegebenenfalls der Breite, Länge oder des Durchmessers - die durch
+             ihre symmetrische Achse definiert werden - hat ohne Rücksicht auf die Aufzugswelle
+             oder Aufzugskrone zu erfolgen.
+
+9101.   Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom
+        gleichen Typ), mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen
+
+        Die Bestimmungen der Erläuterungen zu Nr. 9102 sind mutatis mutandis für Waren dieser
+        Nummer anwendbar.
+
+        Gemäss Anmerkung 2 zu Kapitel 91, umfasst diese Nummer lediglich Uhren, deren Ge-
+        häuse ganz aus Edelmetallen oder Edelmetallplattierungen bestehen. Sie können zudem
+        mit Edelsteinen, echten oder Kulturperlen besetzt sein, einen Deckel oder Armband (auch
+        in Verbindung mit Edelsteinen) aus Edelmetallen aufweisen.
+
+        Gemäss Anmerkung 7 zu Kapitel 71 gelten als Edelmetallplattierungen Waren, bei denen
+        auf einer Metallunterlage auf einer oder auf mehreren Seiten Edelmetalle durch Löten,
+        Schweissen, Warmwalzen oder ähnliche mechanische Verfahren aufgebracht worden
+        sind.
+
+        Uhren mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen mit Stahlboden, sowie
+        solche aus unedlem Metall mit darin eingelegten Edelmetallen, gehören dagegen zu
+        Nr. 9102.
+
+9102.   Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom
+        gleichen Typ), andere als solche der Nr. 9101
+
+        Hierher gehören vollständige Uhren (einschliesslich elektrische und elektronische Uhren),
+        mit Gehäuse und Uhrwerk, die geeignet sind, an der Person, in der Handtasche usw. ge-
+        tragen zu werden, ohne Rücksicht auf die Dicke des Uhrwerks. Von diesen Uhren sind zu
+        nennen Taschenuhren, Armbanduhren, Uhren für Damenhandtaschen, Uhren zum Um-
+        hängen oder Anstecken, Ringuhren usw.
+
+        Dagegen gelten Taschenwecker (Reisewecker) mit einer Aufstellvorrichtung nicht als Uh-
+        ren im Sinne dieser Nummer.
+
+        Hierher gehören sowohl Uhren mit einfachem Werk als auch Uhren mit komplizierten Sys-
+        temen, das heisst Uhren, die andere Einrichtungen als nur die zum Anzeigen von Stunden,
+        Minuten und Sekunden haben, insbesondere Chronografen, Taschen- und Armbandwe-
+        cker, Repetieruhren mit Schlagwerk, Automatenuhren, Datum- oder Kalenderuhren, Uhren
+        mit Anzeige der Gangreserve, Uhren mit mehreren Sondereinrichtungen usw.
+
+        Alle diese Uhren können die Merkmale von Phantasiegegenständen haben oder Spezi-
+        alerzeugnisse sein, wie wasserdichte Uhren, stosssichere und antimagnetische Uhren,
+        Acht-Tage-Uhren, Uhren mit automatischem Aufzug, Uhren mit Leuchtzifferblatt und
+        Leuchtanzeigern, Uhren mit zentral angeordnetem Sekundenzeiger oder Sekundenzeiger
+        mit besonderem Zifferblatt, Uhren ohne Zeiger oder Fensteruhren, Sportuhren (Taucheruh-
+        ren mit Tiefenmesser z.B.), Uhren mit Blindenschrift-Zifferblatt usw.
+
+        Als Chronometer bezeichnet man Uhren von hoher Präzision, die in verschiedenen Stel-
+        lungen und bei unterschiedlichen Temperaturen reguliert worden sind. Zu dieser Gruppe
+
+
+
+
+                                    3/16 (Stand: 1.10.2024)
+                                                                                       9103
+
+        gehören auch Taschen- Bordchronometer, aber nicht die sogenannten Schiffschronometer
+        und dergleichen der Nr. 9105.
+
+        Chronografen dienen zum Anzeigen der Tageszeit und darüber hinaus zum Messen von
+        verhältnismässig kurzen Zeitabständen. Sie besitzen ausser den drei üblichen Zeigern
+        (Stunden-, Minuten-, Sekundenzeiger) zwei besondere Zeiger: den Chronografenanzeiger,
+        der in der Minute eine Umdrehung macht und mit Hilfe eines Drückers in Gang gesetzt,
+        angehalten und auf Null zurückgestellt werden kann, und den Zählzeiger, der die Minuten
+        anzeigt. Die Zwischenzeitnehmerchronografen (Doppelchronografen) haben einen zweiten
+        Chronografenzeiger (Doppel-, Einholzeiger).
+
+        Hierher gehören ebenfalls Taschen-Stoppuhren usw. (manchmal Sport-Stoppuhren ge-
+        nannt), die sich von den Chronografen dadurch unterscheiden, dass sie nicht die gewöhn-
+        lichen Zeitanzeiger (Stunden-, Minuten- und Sekundenzeiger), sondern nur den Chrono-
+        grafenanzeiger (mit oder ohne Doppel-, Einholzeiger) und den Zählzeiger haben. Immerhin
+        weisen elektronische Taschenzeitzähler Vorrichtungen zur Uhrzeitangabe auf.
+
+        Chronografen und Stoppuhren zeigen fünftel, zehntel oder hundertstel Sekunden an. Sie
+        haben manchmal Spezialvorrichtungen, womit ohne weitere Berechnung die Geschwindig-
+        keit eines Läufers, eines Fahrzeuges, des Schalles usw., die Pulstätigkeit, der Ausstoss
+        einer Maschine, u.a. festgestellt werden kann. Sie können auch Schreibvorrichtungen ha-
+        ben, die die Zeiten auf dem Zifferblatt markieren.
+
+        Zusammen mit den zugehörigen Uhren gestellte Uhrenarmbänder gehören mit den Uhren
+        hierher, auch wenn sie noch nicht an der Uhr befestigt sind.
+
+        Gesondert gestellt, gehören Gehäuse für Uhren dieser Nummer und Teile davon zu
+        Nr. 9111, Werke zu Nrn. 9108 oder 9110, Uhrenarmbänder zu Nr. 9113 und Teile der
+        Werke im Allgemeinen zu Nrn. 9110 oder 9114.
+
+        Hierher gehören nicht:
+        a) Schrittmesser (Nr. 9029).
+        b) Uhren und Penduletten mit Kleinuhrwerk (Nr. 9103).
+        c) Uhren für Fahrzeuge (Nr. 9104).
+
+9103.   Wecker und Standührchen (Pendulettes), mit Kleinuhrwerk
+
+        Hierher gehören Wecker und Standührchen (Pendulettes) (Geräte, deren wesentliche Auf-
+        gabe es ist, die Tageszeit anzuzeigen), mit einem Kleinuhrwerk ausgestattet, das heisst
+        gemäss Anmerkung 3 zu diesem Kapitel mit einer Vorrichtung, deren Gang durch eine Un-
+        ruh mit Spiralfeder, einen Quarz oder ein anderes geeignetes Zeitteilersystem geregelt
+        wird, mit einer Anzeige oder einem System zur Aufnahme einer mechanischen Anzeige
+        ausgerüstet. Die Dicke dieser Werke darf nicht mehr als 12 mm und deren Breite, Länge
+        oder Durchmesser nicht mehr als 50 mm betragen.
+
+        Hierher gehören nicht:
+        a) Uhren für Armaturenbretter und ähnliche Uhren für Automobile, Luftfahrzeuge, Schiffe
+            oder andere Fahrzeuge. Diese Uhren gehören ohne Rücksicht auf Art und Dicke des
+            Uhrwerkes in die Nr. 9104.
+        b) Wecker und Standührchen (Pendulettes), die den Voraussetzungen des ersten Ab-
+            schnittes nicht entsprechen, insbesondere Pendeluhren, Uhren mit irgendeinem ge-
+            eigneten Zeitteilersystem, deren Werksdicke 12 mm oder deren Breite, Länge oder
+            Durchmesser 50 mm übersteigt oder Uhren mit Uhrwerk ohne Zeitteiler (Gangregler)
+            (z.B. mit Synchronmotor) gehören zu Nr. 9105.
+
+        Die Wecker und Wecker-Penduletten sind mit einem Läutwerk ausgestattet, das im Allge-
+        meinen das Gehäuse als Klangkörper benutzt; das Läutwerk wird zu einer bestimmten Zeit
+        ausgelöst, die zuvor durch einen besonderen Zeiger eingestellt worden ist. Das Läutwerk
+        wird manchmal durch eine Musikvorrichtung ersetzt.
+
+
+
+
+                                   4/16 (Stand: 1.10.2024)
+                                                                                        9104
+
+        Unter der Voraussetzung, dass sie ein Kleinuhr-Werk haben, gehören unter anderem hier-
+        her:
+        1.   Wecker und Standührchen für Haushalt und Büro (mit Fuss, Gestell, Sockel usw.).
+        2.   Reisewecker und Reiseuhren, mit Etui.
+        3.   Wecker und Standührchen mit Datumanzeige oder Kalender.
+        4.   Wecker und Standührchen mit Acht-Tage-Werk.
+        5.   Wecker und Standührchen mit Stunden-Läutwerk.
+        6.   Wecker und Standührchen mit Leuchtzifferblatt und Leuchtzeiger, mit Sekundenan-
+             zeiger, mit Automaten usw.
+
+        Gesondert gestellt, gehören Gehäuse für Wecker oder für Standührchen zu Nr. 9112, die
+        Werke zu Nr. 9108 oder 9110 und Teile der Werke im Allgemeinen zu Nr. 9110 oder 9114.
+
+9104.   Armaturenbrettuhren und ähnliche Uhren, für Automobile, Luftfahrzeuge, Schiffe
+        oder andere Fahrzeuge
+
+        Hierher gehören alle Uhren, die speziell angefertigt sind und am Armaturenbrett, Lenkrad,
+        Rückspiegel usw. von Fahrzeugen (Kraftwagen, Motorrädern, Flugzeugen, Schiffen usw.)
+        montiert werden, ohne Rücksicht auf Art und Dicke des Uhrwerkes. Es handelt sich hierbei
+        meistens um elektrische, in der Regel elektronische Uhren, Uhren mit automatischem Auf-
+        zug oder um mechanische Acht-Tage-Uhren.
+
+        Ebenfalls zu dieser Nummer gehören die Chronografen für Fahrzeuge, die ausser den ge-
+        wöhnlichen Zeigern einen Chronografenzeiger, einen Minutenzeiger und eine Vorrichtung
+        zum Registrieren der Fahrzeit haben.
+
+        Gesondert gestellt gehören Uhrwerke zu den Nrn. 9108 bis 9110, Gehäuse zur Nr. 9112
+        und Teile der Werke im Allgemeinen zu den Nrn. 9110 oder 9114.
+
+9105.   Wecker, Pendulen, Uhren und ähnliche Apparate der Uhrenindustrie, mit anderem
+        als Kleinuhrwerk
+
+        Hierher gehören Turmuhren und dergleichen, Regulatoren, Wand- und Standuhren,
+        Standührchen (Pendulettes) und dergleichen, Wecker und ähnliche Uhren, die in diesem
+        Kapitel anderweit nicht erfasst sind, deren Hauptaufgabe darin besteht, die Tageszeit an-
+        zuzeigen. Von den Standührchen (Pendulettes) und den Weckern gehören nur Uhren mit
+        einem anderen als Kleinuhr-Werk hierher. Standührchen (Pendulettes) mit Kleinuhr-Werk,
+        wie es in Anmerkung 3 zum Kapitel definiert ist, gehören zu Nr. 9103.
+
+        Die Uhren dieser Nummer können durch Gewichte oder Federn, elektrisch oder elektro-
+        nisch angetrieben werden; als Zeitteiler (Gangregler) haben sie im Allgemeinen ein Pen-
+        del, eine Unruh mit Spiralfeder, eine Stimmgabel oder einen piezoelektrischen Quarz. Sie
+        sind häufig mit einem Schlagwerk (volle, halbe, viertel Stunden) für Glocke, Gong oder
+        Glockenspiel mit mehreren Gongs versehen.
+
+        Von diesen Uhren sind zu nennen:
+        Uhren für öffentliche Gebäude, Zimmeruhren, Ladenuhren usw., Stil-Uhren, Spezialtypen
+        (wie Neuenburger-Uhren, Pariser Pendeluhren, Uhren aus der Franche-Comté, Schwarz-
+        wälder Kuckucksuhren, Uhren mit Westminster-Schlag usw.), Automatenuhren (Uhren mit
+        beweglichen Figuren), Münzuhren, Uhren und Regulatoren zu astronomischen Zwecken
+        und für Observatorien, Uhren mit automatischem Aufzug (insbesondere durch Temperatur-
+        oder Luftdruckschwankungen), Weck-Uhren, Uhren mit Sekundenanzeige in der Mitte,
+        elektronische Uhren, Uhren mit piezo-elektrischem Quarz usw.
+
+        Hierher gehören ebenfalls Uhren für elektrische Uhrenanlagen (Zeitverteiler- und Gleich-
+        schaltungsnetze) in Städten, Fabriken, Elektro-, Telefon- und Telegrafenzentralen, Bahn-
+
+
+
+
+                                    5/16 (Stand: 1.10.2024)
+                                                                                             9105
+
+            höfen, Flugplätzen, Häfen, Banken, Hotels, Schulen, Krankenhäusern usw. Diese Anlagen
+            bestehen aus einer mit Präzision regulierten Hauptuhr (Mutter-Uhr) und den durch die
+            Hauptuhr ferngesteuerten Nebenuhren. Die Hauptuhr enthält im Allgemeinen ein mechani-
+            sches oder elektrisches Uhrwerk mit Pendel und eine Kontaktvorrichtung, die die durch
+            das Pendel bei jeder Schwingung ausgesandten Antriebsimpulse des Stromes periodisch
+            auf die Nebenuhren überträgt. Nebenuhren, die Stunden und Minuten anzeigen, empfan-
+            gen die Leitimpulse am Ende jeder Minute oder alle dreissig Sekunden. Sie sind mit einem
+            Elektromagneten ausgestattet, dessen rotierender oder schwingender Anker das Räder-
+            und Zeigerwerk weiterbewegt; jeder von der Hauptuhr ausgesandte Stromimpuls bewegt
+            den Minutenzeiger um eine ganze oder halbe Minute weiter. Das Räderwerk kann auch
+            durch eine Feder mit elektrischem Aufzug oder unmittelbar durch einen Elektromotor be-
+            trieben werden. Die Sekunden-Nebenuhren haben ausser dem Stunden- und Minutenzei-
+            ger noch einen Sekundenzeiger in der Mitte. Bei ihnen muss die Hauptuhr ausser mit dem
+            Minutenkontakt noch mit einer Spezialvorrichtung versehen sein, die jede Sekunde Impul-
+            se aussendet. Es gibt auch Nebenuhren, die nur Minuten und Sekunden anzeigen (insbe-
+            sondere zum Regulieren von Taschenuhren, Armbanduhren und dergleichen); derartige
+            Uhren gehören jedoch zu Nr. 9106.
+
+            Nebenuhren können zum Anbringen in Gebäuden, im Freien, auf Tischen usw. eingerich-
+            tet und beid- oder mehrseitig mit einem Zifferblatt versehen sein.
+
+            Hauptuhren steuern gelegentlich verschiedene andere elektrische Apparate, wie Registrie-
+            ruhren, Steckuhren, Schaltuhren, Registriervorrichtungen, akustische oder optische Signa-
+            le (Klingeln, Glocken, Signale, Lampen), Leuchttürme, Leuchtfeuer usw.
+
+            Für Uhranlagen verwendet man auch Gruppen von Synchronuhren, die an das Stromnetz
+            oder an pneumatische Installationen angeschlossen werden. Bei den letzteren wird der
+            elektrische Strom durch Pressluft ersetzt.
+
+            Hierher gehören noch sogenannte Schiffschronometer und dergleichen, das heisst Uhren
+            sehr hoher Präzision, die besonders dazu bestimmt sind, auf Schiffen die genaue Uhrzeit
+            beizubehalten. Sie werden auch bei wissenschaftlichen Arbeiten verwendet. Diese Uhren,
+            im Allgemeinen von grösserem Format als Taschenchronometer, sind in Gehäuse mit oder
+            ohne kardanische Aufhängevorrichtung eingebaut. Sie haben im Allgemeinen eine Laufzeit
+            von zwei oder acht Tagen und sind meist mit einer Chronometerhemmung, einer Schne-
+            cke, die die Aufgabe hat, die Antriebskraft der Antriebsfeder gleichmässig zu halten, sowie
+            einer Vorrichtung zum Anzeigen der Gangreserve ausgestattet.
+
+            Gesondert gestellt gehören Gehäuse für Uhren dieser Nummer zu Nr. 9112, Werke zu
+            Nr. 9109 oder 9110 und Teile der Werke im Allgemeinen zu den Nrn. 9110 oder 9114.
+
+            Hierher gehören nicht:
+            a) Atomuhren, die als autonome primäre Referenzquelle angesehen werden und dazu
+                konzipiert sind, präzise Synchronisationssignale zu erzeugen (Nr. 8543).
+            b) Taschen-Bordchronometer (Nr. 9101 oder 9102).
+            c) Uhren für Fahrzeuge (Nr. 9104).
+
+                                   Schweizerische Erläuterungen
+
+9105.1100/1900
+            Die Begriffsbestimmungen für Wecker und Wecker-Penduletten der Nr. 9103 gelten sinn-
+            gemäss für Erzeugnisse dieser Nummer.
+
+9105.2100/2900
+            Diese Nummern umfassen nur Pendulen und Wanduhren, die mit einer Vorrichtung (Loch,
+            Haken, Ring usw.) zum Aufhängen an eine Mauer oder Wand versehen sind.
+
+
+
+
+                                        6/16 (Stand: 1.10.2024)
+                                                                                          9106
+
+9106.   Zeitkontrollapparate und Zeitmesser, mit Uhrwerk oder Synchronmotor (z.B. Zeit-
+        kontrolluhren, Zeit- und Datumstempeluhren, Zeitregistrieruhren)
+
+        Hierher gehören, vorausgesetzt, dass sie durch ein Uhrwerk (auch Nebenuhrwerk oder
+        Synchronuhrwerk) oder einen einfachen Synchronmotor mit oder ohne Reduktionsgetriebe
+        betrieben werden:
+        1.   Eine Reihe von Apparaten, die das Aufzeichnen des Augenblicks ermöglichen, zu
+             dem eine Handlung oder ein Vorgang stattgefunden hat und alle anderweit nicht er-
+             fassten Kontrollapparate.
+        2.   Zeitmesser, andere als die der Nr. 9101 oder 9102, zum Messen von mehr oder weni-
+             ger kurzen Zeiträumen.
+
+        Grundsätzlich gehören diese Apparate nur hierher, wenn sie ein Zifferblatt mit Stunden-,
+        Minuten- oder Sekundenanzeiger haben. Jedoch bleiben gewisse Apparate hier, die zu-
+        weilen ohne Zifferblatt gebaut werden, wie Registrieruhren, Stechuhren, Brieftaubenkon-
+        trolluhren usw.
+
+        Von den Apparaten dieser Nummer sind zu nennen:
+
+        1)   Registrieruhren oder Arbeitszeitkontrolluhren, zur Anwesenheitskontrolle von Personal
+             in Fabriken, Werkstätten usw. Diese Apparate haben meist die Form eines Kastens
+             und enthalten als wesentliche Teile eine Uhr, einen Zeitmarkierer, der durch das Uhr-
+             werk betrieben wird, einen Hammer und ein Schreibband. Der Arbeiter schiebt seine
+             Kontrollkarte in den Apparat, betätigt den Hammer mechanisch oder elektrisch, so-
+             dass auf der Karte Tag, Stunde und Minute des Ein- oder Ausgangs eingetragen wer-
+             den. Mit Hilfe dieser Karten kann man sodann die Dauer der Anwesenheit errechnen.
+             Man verwendet am häufigsten elektrische Uhren oder mechanische Acht-Tage-Uhren.
+             Sie können selbständig sein, an eine Hauptuhr angeschlossen oder selbst Hauptuhr
+             sein; im letzteren Falle betätigen sie manchmal ein Läutwerk oder eine Sirene (s. Er-
+             läuterungen zu Nr. 9105).
+
+        2)   Zeit- und Datumstempeluhren, auch mit Zähler, Apparate, die den Registrieruhren
+             ähnlich sind, aber auch den Monat, das Jahr, die Nummer der Reihenfolge aufzeich-
+             nen oder andere Eintragungen ausführen, und manchmal auch mit einer Vorrichtung
+             zum Zusammenzählen der Arbeitsstunden (z.B. des Tages oder der Woche) versehen
+             sind. Manche dieser Apparate werden ausserdem zum Stempeln von Post, Bu-
+             chungsbelegen, Kassenzetteln usw. verwendet.
+
+        3)   Stechuhren, im Allgemeinen tragbare Apparate, mit einem Uhrwerk, das ein Zifferblatt
+             aus Papier oder einen Zeitmarkierer treibt. Mit Hilfe eines Spezialschlüssels markiert
+             der Posten (z.B. Nachtwärter) seinen Durchgang (Stunde, Minute, Nummer des Pos-
+             tens) an den Kontrollstellen durch Lochen oder Stempeln des sich drehenden Ziffer-
+             blattes oder durch Bedrucken eines Kontrollstreifens mit Hilfe eines Schreibbandes.
+
+        4)   Brieftaubenkontrolluhren, zum Aufzeichnen des Eintreffens von Reise-Brieftauben bei
+             Wettbewerben; sie haben die Form tragbarer Kästen und enthalten eine Uhr, eine
+             Trommel für Ringe und eine Vorrichtung zum Aufzeichnen von Tag, Stunde, Minute
+             und Sekunde der Ankunft, entweder durch Bedrucken eines Bandes oder durch Lo-
+             chen einer Scheibe oder eines Papierstreifens.
+
+        5)   Periodenkontrolluhren, für Parallelbetriebe von Kraftwerken, für Synchron-
+             Uhrenanlagen, Kontaktuhren, Zeitauslöser usw. Diese Uhren sind mit einem Zifferblatt
+             versehen, das die astronomische Zeit, die Synchronzeit und die Gangunterschiede
+             anzeigt. Sie enthalten im Wesentlichen einen Mechanismus zum Anzeigen der Gang-
+             unterschiede, ein Nebenuhrwerk, das von einer Hauptuhr gesteuert wird und die ast-
+             ronomische Zeit angibt, ein Synchronuhrwerk und verschiedene Kontakt-, Signal- und
+             Reguliervorrichtungen.
+
+
+
+
+                                     7/16 (Stand: 1.10.2024)
+                                                                                    9106
+
+6)   Chronometer zu wissenschaftlichen Zwecken, gelegentlich auch "Chronoskope" ge-
+     nannt, zum Messen der Dauer sehr kurzer Erscheinungen, die durch das Öffnen und
+     Schliessen elektrischer Kontakte abgegrenzt werden. Man verwendet diese Chrono-
+     meter zum Kontrollieren und Eichen von elektrischen Zählern, zum Messen der Reak-
+     tionsgeschwindigkeit eines Menschen bei psychotechnischen Prüfungen, usw. Sie
+     enthalten als wichtigste Organe einen Synchronmotor, eine elektromagnetische Kupp-
+     lung und einen Zähler mit einem in Sekunden und hundertstel Sekunden eingeteilten
+     Zifferblatt, das Ganze in ein Gehäuse eingebaut. Wenn der Apparat in Betrieb ist, läuft
+     der Synchronmotor ständig und wird während der Dauer der Erscheinung mit dem
+     Zählwerk gekuppelt.
+
+     Elektrische oder elektronische Chronoskope, die weder Uhrwerk noch Synchronmotor
+     haben, gehören zu Nr. 9031.
+
+7)   Tisch-Stoppuhren und Stadion-Stoppuhren für den Sport, die in Minuten und Sekun-
+     den die Einlaufszeit oder die Spielzeit anzeigen.
+
+     Stadionuhren mit Tageszeitzifferblatt gehören jedoch zu Nr. 9105.
+
+8)   Sekundenzähler, die zum Kontrollieren der Dauer eines Vorgangs dienen. Sie sind mit
+     einem Sekundenzifferblatt, einem Zifferblatt zum Zählen der Minuten und einer Vor-
+     richtung zum Anhalten und Ingangsetzen ausgestattet.
+
+9)   Zeitzähler für Telefongespräche, die in gleicher Weise wie Sekundenzähler arbeiten
+     und manchmal mit einem Läutwerk ausgestattet sind.
+
+10) Zeitregistrierapparate für den Sport mit Synchronuhrwerk, das von einem Schwin-
+    gungsquarz gesteuert wird. Diese Apparate ermöglichen es, gleichzeitig mit dem Re-
+    gistrieren der Zeit auf eine hundertstel Sekunde die Reihenfolge beim Einlauf entwe-
+    der fotografisch oder durch Bedrucken oder Lochen eines sich mit gleichbleibender
+    Geschwindigkeit bewegenden Papierstreifens festzuhalten.
+
+     Die Hilfsapparate für Zeitregistrierung zu Sportzwecken (Kästen und Bänke für Zeitre-
+     gistervorrichtungen, Laufbahnkontakte, Starttore, Vorrichtungen mit Fotozelle, Geräte
+     zur akustischen, elektrischen oder radiotelegrafischen Übertragung usw.) sind nach
+     ihrer eigenen Beschaffenheit zu tarifieren.
+
+11) Minutenzähler, Zeitmesser, bei denen nach einer bestimmten Minutenzahl (im Allge-
+    meinen bis 60) ein Läutwerk ertönt. Sie haben ein Weckerwerk und ein gewöhnlich
+    von 0 - 10, 0 - 30 oder 0 - 60 eingeteiltes Zifferblatt. Man verwendet sie überall, wo die
+    Dauer eines Vorganges genau überwacht werden muss.
+
+     Jedoch sind Zeitauslöser, die sich von den Zeitmessern dadurch unterscheiden, dass
+     sie statt im gewünschten Augenblick ein Läutwerk betätigen, einen elektrischen Strom
+     ein- oder ausschalten, hier ausgenommen und gehören zu Nr. 9107.
+
+12) Nebenuhren (von einer Hauptuhr gesteuert), die nur Minuten und Sekunden oder nur
+    Sekunden anzeigen (besonders zum Regulieren von Taschenuhren, Armbanduhren
+    und dergleichen).
+
+13) Billard-Zähler mit Uhrwerk, die die Dauer der Spielzeit oder unmittelbar den zu entrich-
+    tenden Betrag entsprechend der Spielzeit anzeigen.
+
+14) Chronometer für Schachspieler, mit zwei Uhrwerken mit Stunden- und Minutenzeiger
+    sowie zwei Knöpfen oder Schalthebeln zum Ein- und Ausschalten des Chronometers.
+
+Gesondert gestellt, gehören Gehäuse für Apparate dieser Nummer zu Nr. 9112 oder wer-
+den gemäss den Bestimmungen der Erläuterungen zu letzterer Nummer nach ihrer eige-
+nen Beschaffenheit tarifiert, während Uhrwerke zu den Nrn. 9108 bis 9110 und die Teile
+der Uhrwerke im Allgemeinen zu Nr. 9110 oder 9114 gehören.
+
+
+
+
+                             8/16 (Stand: 1.10.2024)
+                                                                                        9107
+
+        Hierher gehören nicht:
+        a) Apparate usw. des Kapitels 90, auch wenn sie zwar ein Uhrwerk, jedoch kein Ziffer-
+            blatt haben, insbesondere: Maregrafen und Seismografen (Nr. 9015), Barografen und
+            Thermografen (Nr. 9025), Manometer (Nr. 9026), Gaszähler, Flüssigkeits- und Elektri-
+            zitätszähler (Nr. 9028), Tourenzähler, Produktionszähler, Geschwindigkeitsmesser
+            und Tachometer, Taxameter, Podometer, Zähler zum Messen von Zeitteilen und Zeit-
+            intervallen (Nr. 9029) sowie Kurvenmesser (Nr. 9031).
+        b) Taschen-Chronometer, -Chronografen, -Stoppuhren usw. (Nrn. 9101 und 9102).
+        c) Metronome (Nr. 9209).
+
+9107.   Zeitschalter und andere Zeitauslöser, mit Uhrwerk oder Synchronmotor
+
+        Hierher gehören Uhrmacherwaren, die nicht die Merkmale der Uhren der Nr. 9105 aufwei-
+        sen, sondern meist dazu bestimmt sind, zu bestimmten Zwecken, das heisst zu festgesetz-
+        ten Stunden, nach einem im Allgemeinen täglich oder wöchentlich zuvor aufgestellten Pro-
+        gramm den elektrischen Strom automatisch ein- oder auszuschalten. Diese Apparate ge-
+        hören nur dann hierher, wenn sie ein Uhrwerk (auch Nebenuhrwerk- oder Synchronuhr-
+        werk) oder einen einfachen Synchronmotor haben.
+
+        Als Zeitschalter bezeichnet man im Allgemeinen Apparate zum Regeln der Stromzufuhr für
+        Beleuchtung (Strassenbeleuchtung, Beleuchtung von Schaufenstern, Treppenhäusern,
+        Leuchtschildern usw.), Heizanlagen (Warmwasserbereiter, Badeöfen usw.), Kühlanlagen,
+        Pumpstationen usw.; als Schaltuhren für Tarifumschaltung, Schaltuhren oder Uhren für
+        Hoch- und Niedrigtarifzähler bezeichnet man Apparate zum Steuern der Relais für Ver-
+        brauchszähler, für selbsttätige Ausschalter, für Registrierapparate usw. Die Terminologie
+        hängt jedoch mehr von der Stärke des verwendeten Stromes ab. Diese verschiedenen
+        Apparate enthalten in der Hauptsache ein mechanisches oder elektrisches Uhrwerk oder
+        einen einfachen Synchronmotor und haben im Allgemeinen ein Zifferblatt mit oder ohne
+        Zeiger, eine Vorrichtung zum Einstellen der gewünschten Zeiten (Hebel, Haken, Stifte),
+        sowie Systeme von Steuerrelais, Unterbrechern und Umschaltern. Das Ganze ist in einem
+        Gehäuse untergebracht, das einen Klemmschutzkasten enthält. Das Zifferblatt ist im All-
+        gemeinen nach Stunden, manchmal ausserdem nach Tagen und Monaten eingeteilt; an
+        seinem Rande sind Hebel, Haken oder Stifte angebracht, die zu den gewünschten Zeiten
+        die Kontaktvorrichtungen auslösen.
+
+        Die oben aufgeführten Apparate werden manchmal durch Thermostate, Druckregler, Füll-
+        höhenregler usw. gesteuert.
+
+        Hierher gehören ebenfalls Schalter zum Öffnen und Schliessen von Stromkreisen von
+        elektrischen Apparaten (Fernsehapparate, Bügeleisen, Waschmaschinen, Kegelbahnen
+        usw.). Das Einschalten wird durch Einwurf einer Münze und das Ausschalten durch einen
+        Synchronmotor bewirkt. Die Dauer zwischen diesen beiden Vorgängen ergibt sich aus der
+        Anzahl der eingeworfenen Münzen.
+
+        Gesondert gestellt, gehören Gehäuse für Apparate dieser Nummer zu Nr. 9112 oder wer-
+        den gemäss den Bestimmungen der Erläuterungen zu letzterer Nummer nach ihrer eige-
+        nen Beschaffenheit tarifiert, während Uhrwerke zu den Nrn. 9108 bis 9110 und Teile der
+        Uhrwerke im Allgemeinen zu Nr. 9110 oder 9114 gehören.
+
+9108.   Kleinuhrwerke, vollständig und zusammengesetzt
+
+        Hierher gehören Kleinuhr-Werke ohne Gehäuse, gangfertig, d.h. vollständig zusammenge-
+        setzt, in gangbereitem Zustand. Diese Uhrwerke können in fünf Hauptgruppen eingeteilt
+        werden:
+        1)   mechanische Uhrwerke;
+        2)   elektronische Uhrwerke mit Unruh und Spiralfeder;
+        3)   elektronische Uhrwerke mit Stimmgabelschwingsystem;
+        4)   Quarzuhrwerke mit analoger Anzeige (Zeigern);
+
+
+
+
+                                    9/16 (Stand: 1.10.2024)
+                                                                                         9109
+
+        5)   Quarzuhrwerke mit elektronischer digitaler Anzeige (Leuchtdiodenanzeige (LED) oder
+             Flüssigkristallanzeige (LCD)).
+
+        Analog anzeigende mechanische oder elektronische Kleinuhr-Werke gehören auch dann
+        hierher, wenn sie ohne Zifferblatt und Zeiger gestellt werden. Dagegen muss bei digital
+        anzeigenden Uhrwerken die Zeitanzeigeeinheit mit dem Uhrwerk zu einem Ganzen ver-
+        bunden sein, weil Uhrwerke, bei denen die Zeitanzeigeeinheit fehlt, nicht mehr in gangbe-
+        reitem Zustand sind und deshalb nicht als "gangfertig" im Sinne dieser Nummer angese-
+        hen werden können.
+
+        Gemäss Anmerkung 3 zu diesem Kapitel gelten als "Kleinuhrwerke" alle Vorrichtungen,
+        deren Gang durch eine Unruh mit Spiralfeder, einen Quarz oder ein anderes geeignetes
+        Zeitteilersystem geregelt wird, mit einer Anzeige oder einem System zur Aufnahme einer
+        mechanischen Anzeige ausgerüstet. Die Dicke dieser Werke darf nicht mehr als 12 mm
+        und deren Breite, Länge oder Durchmesser nicht mehr als 50 mm betragen. Uhrwerke die-
+        ser Art sind deshalb in erster Linie für Armbanduhren, Taschenuhren und ähnliche Uhren,
+        Wecker und Standührchen (Pendulettes) der Nr. 9101 bis 9103 bestimmt; sie bleiben auch
+        dann hier, wenn sie in andere Waren dieses Kapitels oder auch in Apparate, die zu ande-
+        ren Kapiteln gehören (Mess- und Präzisionsinstrumente, Podometer, Sprengvorrichtungen
+        usw.) eingebaut werden sollen.
+
+        Uhrwerke, die den vorstehenden Bedingungen nicht entsprechen, gehören zu Nr. 9109
+        oder 9110, einfache Federmotoren im Allgemeinen zu Nr. 8412.
+
+        Uhrwerke dieser Nummer können roh, poliert, vernickelt, rhodiniert, versilbert, vergoldet,
+        lackiert usw. sein.
+
+        Batterien- und Akkumulatorenuhrwerke gehören auch dann hierher, wenn sie ohne Batte-
+        rie bzw. Akkumulator gestellt werden.
+
+9109.   Uhrwerke, vollständig und zusammengesetzt, andere als Kleinuhrwerke
+
+        Hierher gehören alle anderen gangfertigen Uhrwerke, d.h. vollständig, zusammengesetzt,
+        in gangbereitem Zustand; solche mit analoger Anzeige (mit Zeigern) gehören auch dann
+        hierher, wenn sie ohne Zifferblatt und Zeiger gestellt werden.
+
+        Uhrwerke dieser Nummer sind hauptsächlich für Apparate der Nrn. 9104 bis 9107 be-
+        stimmt; sie gehören aber auch dann hierher, wenn sie zum Ausrüsten von Apparaten an-
+        derer Kapitel (Messinstrumente, Präzisionsinstrumente, Zähler, Sprengvorrichtungen usw.)
+        dienen sollen.
+
+        Hierher gehören nicht:
+        a) Mechanische Uhrwerke (mit Feder, Gewichten usw.), ohne Hemmung, wie solche, die
+            zum Antrieb von Spieluhren usw. verwendet werden (Nr. 8412);
+        b) Kleinuhr-Werke im Sinne der Anmerkung 3 dieses Kapitels (s. Erläuterungen zu
+            Nr. 9108).
+
+        Hierher gehören mechanische Uhrwerke mit Hemmung, die diesen Bedingungen nicht
+        entsprechen, insbesondere solche mit Unruh mit Spiralfeder oder irgend einem anderen
+        geeigneten Zeitteilersystem, die eine Dicke von mehr als 12 mm oder eine Breite, eine
+        Länge oder einen Durchmesser von mehr als 50 mm haben, solche mit Pendel sowie alle
+        elektrischen Uhrwerke (andere als die der Nr. 9108 oder 9110), auch wenn sie keinen Zeit-
+        teiler (Gangregler) haben (Uhrwerke für Nebenuhren, für Synchronuhren usw.).
+
+        Die hierher gehörenden Uhrwerke für Synchronuhren und Nebenuhren müssen ausser
+        dem Synchronmotor oder dem Elektromagneten ein Uhrräderwerk d.h. bewegliche Teile
+        wie Minutenrad, Kleinbodenrad, Sekundenrad, Wechselrad, Stundenrad, usw., aufweisen.
+        Gesondert gestellte Synchronmotoren für elektrische Uhren, auch mit Reduktionsgetriebe
+        zur Regulierung der Umdrehungsgeschwindigkeit des Spindels, sowie Elektromagneten
+        werden nach ihrer eigenen Beschaffenheit eingereiht.
+
+
+
+
+                                   10/16 (Stand: 1.10.2024)
+                                                                                             9110
+
+        Uhrwerke können aus rohen, polierten, vernickelten, rhodinierten, versilberten, vergolde-
+        ten, lackierten usw. Teilen hergestellt sein.
+
+9110.   Uhrwerke, vollständig, nicht zusammengesetzt oder teilweise zusammengesetzt
+        (Schablonen); Uhrwerke, unvollständig, zusammengesetzt; Rohwerke von Uhren
+
+        Als Schablonen gilt die Gesamtheit der nicht oder nur teilweise zusammengesetzten Be-
+        standteile eines Uhrwerks (in dieser Form in den Handel gebracht). Schablonen von Uhr-
+        werken mit mechanischer Anzeige gehören auch dann hierher, wenn sie ohne Zifferblatt
+        und Zeiger vorliegen.
+
+        Unter unvollständigen mechanischen Uhrwerken sind zusammengesetzte Uhrwerke zu
+        verstehen, bei denen ausser Zifferblatt, Zeigern und Aufzugswelle gewisse Teile fehlen
+        (z.B. die Hemmung oder die Federhaus-Brücke).
+
+        Unvollständige elektronische Uhrwerke sind zusammengesetzte Uhrwerke, bei denen aus-
+        ser der Batterie gewisse Teile fehlen (z.B. die Anzeige, ein Teil der elektronischen Schal-
+        tung oder Komponenten davon).
+
+        Als unvollständige, elektronische Uhrwerke mit mechanischem Zeigerwerk sind zusam-
+        mengesetzte Uhrwerke zu verstehen, bei denen unabhängig vom Zifferblatt, den Zeigern,
+        der Aufzugswelle und der Batterie gewisse Teile fehlen (z.B. die elektronische Schaltung
+        oder Teile derselben, der Antriebsmotor).
+
+        Als Rohwerke gelten die Gesamtheit der nicht zusammengesetzten Bestandteile eines
+        Uhrwerkes, d.h. die Werkplatte (Platine) - und, gegebenenfalls, einschliesslich die zusätzli-
+        chen Platinen - die Brücken, das Räderwerk, das Zeigerwerk, der Aufzugs- und Stellme-
+        chanismus, die Rückervorrichtung sowie zusätzliche Mechanismen (z.B. die Automatik,
+        Kalendermechanismus, Chronograf, Wecker, usw.), aber ohne Hemmung, Unruh-
+        Spiralfeder oder andere Regulierorgane, Zugfeder, Zifferblatt und Zeiger. Rohwerke kön-
+        nen auch ein Federhaus enthalten.
+
+9111.   Gehäuse für Uhren der Nrn. 9101 oder 9102, und Teile davon
+
+        Hierher gehören:
+
+        A)   Gehäuse für Uhren der Nrn. 9101 oder 9102 (Taschenuhren, Armbanduhren. Chrono-
+             grafen usw.), mit oder ohne Glas, ohne Uhrwerk zur Abfertigung gestellt.
+
+        B)   Teile dieser Gehäuse, insbesondere:
+             1)   Das Gehäuse-Mittelstück (Rand), das den Gehäuserahmen darstellt; manchmal
+                  enthält es Scharniere für den Boden oder auch (bei Taschenuhren) für den
+                  Staubdeckel und den Glasreif.
+             2)   Der Kronenhals, der an das Gehäusemittelstück gelötet ist, mit Tragbügel (bei
+                  Taschenuhren) sowie Aufzugskronen.
+             3)   Der Staubdeckel, innerer Deckel, der das Uhrwerk schützt (er fehlt bei gewöhnli-
+                  chen und bei flachen Uhren),
+             4)   Der Glasreif, der Teil, der das Glas trägt; der Rand, der dieses hält, wird als Glas-
+                  rand bezeichnet.
+             5)   Der Boden, der die Uhr auf der dem Glas gegenüber liegenden Seite abschliesst
+                  (während die gewöhnliche Taschenuhr nur einen Boden hat, besitzt die Sprung-
+                  deckeluhr zwei Böden, von denen einer, der Deckel, das Glas schützt).
+
+        Gehäuse für Armbanduhren haben weder Kronenhals noch Tragbügel; sie sind dagegen
+        mit Bügeln (Anstösse) zum Anbringen des Armbandes versehen. Diese Bügel bestehen
+        aus mehreren Teilen, von denen der Haltestift (Barrette, Steg) fest angebracht oder mit ei-
+
+
+
+
+                                     11/16 (Stand: 1.10.2024)
+                                                                                                   9111
+
+            ner Feder versehen sein kann. Damen-Armbanduhren haben manchmal keine Bügel, son-
+            dern Klauen zum Befestigen einer Kordel.
+
+            Gehäuse für Armbanduhren bestehen oft nur aus zwei Teilen. Bei Gehäuse-Kalotten sind
+            Gehäusemittelstück und Boden in einem Stück gefertigt. Es kommt auch vor, dass Boden
+            und Glasreif je einen Teil der Kalotte tragen oder dass Glasreif und Gehäusemittelstück
+            (Rand) in einem Stück gefertigt sind. Bei den besseren Uhren wird das Uhrwerk zunächst
+            in eine Schutzkalotte, auch Staubgehäuse genannt, eingepasst.
+
+            Gehäuse für Armbanduhren, Taschenuhren und ähnliche Uhren sowie Teile davon können
+            aus beliebigen Stoffen sein. Meist bestehen sie aus unedlen Metallen (gewöhnlichem oder
+            Spezialstahl, Nickel usw., poliert, verchromt, versilbert, vergoldet oder mit Edelmetallen
+            plattiert) oder aus Edelmetallen; zuweilen sind sie auch aus Kunststoff, Elfenbein, Achat,
+            Perlmutter oder Schildpatt. Sie können verziert sein (guillochiert, graviert, ziseliert, mit ech-
+            ten Perlen, Edelsteinen, Schmucksteinen, synthetischen oder rekonstituierten Steinen be-
+            setzt usw.).
+
+            Hierher gehören nicht:
+            a) Schutzgehäuse für Uhren und Uhrgläser (nach Beschaffenheit).
+            b) Teile mit allgemeiner Verwendungsmöglichkeit im Sinne der Anmerkung 2 zu Ab-
+                schnitt XV (einschliesslich der Federn für Uhrgehäuse, aus unedlen Metallen (Ab-
+                schnitt XV) oder aus Kunststoff (Kap. 39).
+            c) Gehäuse für Uhren oder Apparate der Uhrenindustrie der Nrn. 9103 bis 9107, und
+                Teile davon (Nr. 9112).
+
+                                     Schweizerische Erläuterungen
+
+9111.1000   Zu dieser Nummer gehören ausschliesslich Gehäuse ganz aus Edelmetallen oder Edelme-
+            tallplattierungen oder aus diesen Stoffen in Verbindung mit echten Perlen, Zuchtperlen,
+            Edelsteinen, Schmucksteinen, synthetischen oder rekonstituierten Steinen der Nrn. 7101
+            bis 7104. Gehäuse aus unedlem Metall mit darin eingelegten Edelmetallen gehören zu Nr.
+            9111.2000.
+
+9112.       Gehäuse für andere Uhren oder Apparate der Uhrenindustrie, und Teile davon
+
+            Hierher gehören, vorbehältlich der weiter unten erwähnten Ausnahmen, Gehäuse für
+            Turmuhren und ähnliche Uhren, Regulatoren, Wand- oder Standuhren, Standührchen
+            (Pendulettes) und dergleichen, Wecker, Schiffschronometer und dergleichen, Fahrzeuguh-
+            ren, Registrieruhren, Zeitkontrolluhren, Zeit- und Datumstempeluhren, Stechuhren, Zeit-
+            messer (Minuten-, Sekundenzähler usw.) und für andere Uhrmacherwaren dieses Kapitels,
+            mit Ausnahme der Gehäuse für Waren der Nr. 9101 oder 9102. Diese Gehäuse können
+            mit oder ohne Glas, fertig oder unfertig gestellt werden. Jedoch gehören Gehäuse, die
+            nicht von der üblicherweise in der Uhrmacherei verwendeten Art, sondern mehr von der
+            Art der Gehäuse für Chronometer zu wissenschaftlichen Zwecken oder für Chronometer
+            mit Registriervorrichtung, für Zeitauslöser, für Tarifumschaltuhren usw., nicht hierher, son-
+            dern sind nach ihrer sonstigen Beschaffenheit einzureihen.
+
+            Die Waren dieser Nummer haben die verschiedensten Formen und sind im Allgemeinen
+            aus Metall (einschliesslich Edelmetall), Holz, Kunststoff, Leder, Schildpatt, Perlmutter,
+            Marmor, Alabaster, keramischen Stoffen, Onyx, Achat oder Elfenbein. Sie können verziert,
+            mit echten Perlen oder Zuchtperlen, Edelsteinen, Schmucksteinen, synthetischen oder re-
+            konstituierten Steinen besetzt oder auch mit Ziermotiven, Skulpturen, Figuren, Tierfiguren
+            usw. verbunden sein.
+
+            Hierher gehören ebenfalls Teile von Gehäusen wie Glasreifen, Rahmen, Gestelle, Sockel,
+            Füsse.
+
+            Hierher gehören nicht:
+            a) Schutzglocken für Uhren usw., im Allgemeinen aus Glas, gesondert zur Abfertigung
+                gestellt (Nr. 7020).
+
+
+
+
+                                         12/16 (Stand: 1.10.2024)
+                                                                                               9113
+
+            b)   Teile mit allgemeiner Verwendungsmöglichkeit im Sinne der Anmerkung 2 zu Ab-
+                 schnitt XV (einschliesslich Federn für Gehäuse), aus unedlen Metallen (Abschnitt XV)
+                 sowie gleichartige Waren aus Kunststoff (Kapitel 39).
+            c)   Gehäuse für Uhren der Nr. 9101 und 9102 (Nr. 9111).
+
+9113.       Uhrenarmbänder und Teile davon
+
+            Diese Nummer umfasst Uhrenarmbänder aller Art. Als Uhrenarmbänder gelten alle Vor-
+            richtungen, die erlauben, Uhren am Handgelenk zu fixieren.
+
+            Uhrenarmbänder können aus Material jeder Art bestehen, wie unedlen Metallen, Edelme-
+            tallen, Leder, Kunststoff oder Textilien. Sie dürfen auch offensichtlich dekorativ sein, ohne
+            dass dadurch die Einreihung berührt wird.
+
+            Hierher gehören auch als solche erkennbare Teile zu Uhrenarmbändern, ohne Einschrän-
+            kungen hinsichtlich des Materials.
+
+            Nicht hierher gehören:
+            a) Andere Befestigungsvorrichtungen, wie Ketten, Ringe, Broschen usw., die nach eige-
+                ner Beschaffenheit einzureihen sind.
+            b) Schnallen und Spangen, aus Edelmetallen oder Edelmetallplattierungen oder mit
+                Edelmetallen überzogen (Nr. 7115) oder aus unedlen Metallen (Nr. 8308).
+            c) Uhrenarmbänder, auch gleichzeitig mit den Uhren gestellt, jedoch nicht an dieselben
+                montiert (Nr. 9101 oder 9102).
+
+                                    Schweizerische Erläuterungen
+
+9113.1000   Zu dieser Nummer gehören ausschliesslich Uhrenarmbänder und Teile davon ganz aus
+            Edelmetallen oder Edelmetallplattierungen oder aus diesen Stoffen in Verbindung mit ech-
+            ten Perlen, Zuchtperlen, Edelsteinen, Schmucksteinen, synthetischen oder rekonstituierten
+            Steinen der Nrn. 7101 bis 7104. Uhrenarmbänder und Teile davon aus unedlem Metall mit
+            darin eingelegten Edelmetallen gehören zu Nr. 9113.2000.
+
+9114.       Andere Uhrenbestandteile
+
+            Hierher gehören alle Teile von Uhrmacherwaren dieses Kapitels, ausgenommen:
+            a)   Teile und Bestandteile gemäss Anmerkung 1 zu diesem Kapitel, nämlich:
+                 1) Gläser und Gewichte für Uhren, Uhrketten, Kugeln für Kugellager (für automati-
+                      sche Uhren z.B.) und Kugellager.
+                 2) Teile mit allgemeiner Verwendungsmöglichkeit im Sinne der Anmerkung 2 zu Ab-
+                      schnitt XV, wie Schrauben (für Brücken, Kronen, Zifferblätter, Sperrräder, Sperr-
+                      kegel, Rückerplättchen, Wippen, Stellhebel usw.), Sperrstifte, Begrenzungsstifte,
+                      Keile, Ketten, Zahlen für Zifferblätter (für Turmuhren, Pendulen usw.), aus uned-
+                      len Metallen (Abschnitt XV), sowie ähnliche Waren aus Kunststoffen (Kapitel 39)
+                      oder aus Edelmetallen oder Edelmetallplattierungen (im Allgemeinen Nr. 7115).
+
+                 Diese Teile werden nach ihrer sonstigen Beschaffenheit eingereiht. Jedoch bleiben
+                 Uhrfedern (Zugfedern, Spiralfedern usw.) hier.
+
+            b)   Teile, die ausdrücklich in andern Nummern dieses Kapitels erfasst sind, wie die zu-
+                 sammengesetzten und kompletten Uhrwerke der Nrn. 9108 und 9109, Schablonen,
+                 Rohwerke und unvollständige Werke der Nr. 9110, Gehäuse der Nrn. 9111 oder 9112
+                 sowie Uhrenarmbänder der Nr. 9113.
+
+            Vorbehältlich der Bestimmungen der vorstehenden Absätze a) oder b) gehören Gegen-
+            stände, die sowohl für Uhrmacherwaren als auch für andere Zwecke, insbesondere in Zäh-
+            lern, Spielzeug und Mess- oder Präzisionsinstrumenten verwendet werden können (Fe-
+            dern, Räder, Lagersteine, Zeiger usw.) hierher. Dagegen gehören Teile, die nicht typisch
+            für die Uhrmacherei sind, wie die, mit denen man manche Apparate der Nrn. 9106 oder
+
+
+
+
+                                        13/16 (Stand: 1.10.2024)
+                                                                                                  9114
+
+           9107 ausstattet (Druckvorrichtungen für Zeitkontrolluhren, Zählvorrichtungen usw.) nicht
+           hierher.
+
+           Rohlinge von Teilen sind grundsätzlich wie die fertigen Teile einzureihen. Jedoch werden
+           Teile in dem Zustand, wie sie roh von der Drehbank kommen, sowie lediglich roh zuge-
+           schnittene Stücke (z.B. für Werkböden und Brücken) ohne Lochungen, Höhlungen usw.,
+           die nicht als Teile für Uhrmacherwaren erkennbar sind, nach Stoffbeschaffenheit einge-
+           reiht.
+
+           Uhrenteile können roh, poliert, vernickelt, rhodiniert, versilbert, vergoldet, lackiert usw. oder
+           mit Steinen versehen sein.
+
+           Unter Berücksichtigung des vorher Gesagten sind die wichtigsten zu dieser Nummer gehö-
+           renden Uhrenbestandteile:
+
+                                   A. Teile von Kleinuhrwerken
+
+                           (ohne Berücksichtigung komplizierter Systeme)
+
+           Hiervon können genannt werden:
+           1)   Werkgestell; Werkplatte (Platine), Zusatzplatine, Brücken für Federhaus, Minutenrad,
+                Kleinbodenrad, Sekundenrad, Unruh (Unruhkloben), Hemmung für Zeigerstellrad usw.
+           2)   Antriebsorgan: Zug- oder Antriebsfeder, Teile des Federhauses (Trommel, Deckel,
+                Federwelle und Sperrrad), Klinke oder Sperrkegel, Klinken- oder Sperrkegelfeder.
+           3)   Räderwerk: Minutenrad mit Trieb, Kleinbodenrad mit Trieb, Sekundenrad mit Trieb,
+                Zwischenräder.
+           4)   Zeigerwerk: Minutenrohr, Wechselrad mit Trieb, Stundenrad.
+           5)   Hemmung: (Ankerhemmung, Stiftankerhemmung, Zylinderhemmung, Hakenhemmung
+                usw.); Rad und Trieb der Hemmung, Anker, Ankerwelle, Hebelscheibe, Stift für Hebel-
+                scheibe (Ellipse), Zylinder.
+           6)   Zeitteiler (Gangregler): Unruh, Unruhwelle, Spiralfeder (flach, Bréguet-Feder, zylind-
+                risch), Spiralklötzchen, Stimmgabel, Spiralrolle, Rücker, Rückerschlüssel, oberes und
+                unteres Deckplättchen, Rückerfeder, einschliesslich der Spezialteile für Stosssiche-
+                rung.
+           7)   Aufzug- und Stellmechanismus: Krone, Aufzugswelle und Aufzugstrieb, Kupplungs-
+                trieb, Zeigerstellrad, Kronensperrrad, Kronenradkern, Kupplungshebel (Wippe), Win-
+                kelhebel (Stellhebel), Federn für Winkelhebel und Kupplungshebel.
+           8)   Teile von elektronischen Uhrwerken: Uhrenschaltungen, bestehend z.B. aus einem
+                isolierenden Träger mit aufgedruckten Leiterbahnen, auf dem andere als durch Dru-
+                cken hergestellte Einzelbauelemente (z.B. Spulen, Kondensatoren, Widerstände, Dio-
+                den und Transistoren) und evtl. eine integrierte Schaltung angebracht sind.
+           9)   Einsatzhemmungen: bestehend aus Werkplatte, Brücken, Hemmung, Unruh mit Spi-
+                ralfeder, Rückkehrvorrichtung eines Uhrwerkes, mit oder ohne Räderwerk; sie gehö-
+                ren hierher sowohl im montierten gangbereiten (regulierten) Zustand (fertig) wie auch
+                im zerlegten Zustand (roh).
+                Fertige Einsatzhemmungen sind meistens zum Einbau in Apparate mit einem Uhrwerk
+                (Registrierapparate, Schaltuhren, Kommutatoren usw.) bestimmt, manchmal auch für
+                Pendeluhren (Pendules), Standührchen (Pendulettes) oder Wecker.
+
+B. Teile von Werken für Wecker, Standührchen (Pendulettes), Wand- und Standuhren, Turmuh-
+                     ren und dergleichen und anderen Uhrmacherwaren
+
+           Viele Bestandteile dieser Uhrwerke gleichen im Prinzip den Teilen der Uhrwerke von Ta-
+           schenuhren, Armbanduhren und ähnlichen Uhren; sie haben nur grössere Abmessungen.
+
+
+
+
+                                        14/16 (Stand: 1.10.2024)
+                                                                                  9114
+
+Von den speziellen Teilen für Uhrwerke für Wand- und Standuhren, Turmuhren und der-
+gleichen sind zu nennen Trommeln für Gewichte, Pendel (mit Quecksilber, mit Invar-
+Stange usw.), Gabeln, Spindeln, Spindelräder, rückführende Hemmungen, ruhende Hem-
+mungen (Graham-Hemmungen) usw., separate sowie zum festen Anbringen bestimmte
+Schlüssel zum Aufziehen und Stellknöpfe.
+
+                  C. Teile von Läut- und Schlagwerken
+
+1)   Läutwerk für Wecker: Auslösung, Lochscheibe mit Gegenstift, Auslösewerk mit Hülse,
+     Weckersteigrad des Läutwerks, Weckerstellzeigerwelle, Anker, Hammer des Läut-
+     werks, usw.
+
+2)   Schlagwerk für Uhren (mit Schlussscheibenrand, Rechen usw.): Trommel oder Feder-
+     haus und Federhauszwischenrad, Zählrad oder Schlussscheibe, Hebnagelrad, Anlauf-
+     rad, Vorlaufrad, Windfang, Sperrungen, Hebel, Rechen, Schnecke, Hammer, Tonstä-
+     be, Aufhänger, Sperrhebel, Schwungrad, Stundeneinfallhebel, Stäbchen, Glocke,
+     Gang, Glockenspiel usw.
+
+                                   D. Steine
+
+Hierher gehören nur bearbeitete Steine, d.h. Steine, die gedreht, geschliffen, poliert, ge-
+locht, gehöhlt usw. oder gefasst (in eine Fassung oder Schraube eingelassen) sind. Rohe
+oder nur gesägte Steine gehören zu Kapitel 71. Uhrensteine sind im Allgemeinen von sehr
+kleinen Abmessungen: ihr Durchmesser überschreitet selten 2 mm und ihre Dicke selten
+0,5 mm.
+
+Die wichtigsten in der Uhrmacherei verwendeten Steine sind Rubin, Saphir und Granat
+(natürlich oder synthetisch), manchmal Diamant. Bei den billigen Uhrmacherwaren ver-
+wendet man gelegentlich Strass oder ersetzt die Steine durch Metallkapseln.
+
+Die Steine sind nach den beweglichen Teilen, die in ihnen gelagert sind, benannt. So un-
+terscheidet man Minutenradsteine, Kleinbodenradsteine, Sekundenradsteine, Hemmungs-
+radsteine, Ankersteine, Unruhsteine usw. Das Lager eines zylindrischen Zapfens besteht
+aus einem Lochstein oder aus einem Lochstein und einem massiven Stein (Deckstein).
+Bombierte Steine werden als Lager für konische Zapfen verwendet.
+
+Die Uhren mit Ankerhemmung haben im Allgemeinen ausser den runden Steinen, die als
+Lager dienen, noch drei besondere Steine: zwei Paletten oder Ankerhebesteine (abge-
+schrägte Steine, die an den beiden Klauen des Ankers befestigt werden) und einen Hebel-
+stein oder eine Ellipse (Stein mit im Allgemeinen halbrundem oder dreieckigem Quer-
+schnitt, der für die Hebelscheibe bestimmt ist).
+
+Das Anbringen der Steine (Steinsetzen) erfolgt durch Einsetzen mit der Hand, durch Ein-
+bau gefasster Steine oder meist mit einem Steineinpressapparat.
+
+                              E.    Zifferblätter
+
+Im Allgemeinen weisen Zifferblätter Unterteilungen auf oder tragen Ziffern zur Anzeige der
+Stunden, Minuten oder der Sekunden. Zifferblätter können flach oder gewölbt sein und
+sind meist aus versilbertem, vergoldetem, bemaltem, oxidiertem oder anders überzoge-
+nem Messing, aus emailliertem Kupfer, aus Gold oder Silber, manchmal auch aus Papier,
+Glas, Keramik oder Kunststoff. Ziffern und Aufschriften werden in verschiedenen Verfahren
+erzeugt (im Abziehbildverfahren, durch Aufmalen, Prägen, Aufsetzen usw.). Zifferblätter
+können Zahlen oder Leuchtpunkte aufweisen.
+
+Zifferblätter werden an der Werkplatte (oder gegebenenfalls an der zusätzlichen Werkplat-
+te (Platine), der sog. Zifferblattplatine) mit Schrauben, Stiften oder auch einem aussen an-
+gebrachten Metallring befestigt.
+
+
+
+
+                            15/16 (Stand: 1.10.2024)
+                                                                                   9114
+
+                                 F.   Zeiger
+
+Das sind die Anzeiger für Stunden, Minuten und Sekunden. Hierher gehören ebenfalls
+Spezialzeiger für Chronografen (Chronografenzeiger, Zählzeiger, Zwischenzeitnehmerzei-
+ger) und Zeiger für das Läutwerk von Weckern usw. Zeiger, die flach oder gewölbt sein
+können, werden aus Stahl, Messing oder Kupfer hergestellt und sind meist poliert, gebläut,
+oxydiert, vernickelt, verchromt, versilbert, vergoldet oder plattiert, manchmal aus Gold oder
+auch aus Bein. Leuchtzeiger haben kleine Fenster, die mit einer Verbindung auf der
+Grundlage radioaktiver Salze (Radiothorium, Mesothorium usw.) gefüllt sind. Es gibt auch
+eine grosse Zahl verschiedener Zeigerformen; sie sind im Stil den Zifferblättern angepasst.
+
+
+
+
+                            16/16 (Stand: 1.10.2024)
