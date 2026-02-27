@@ -119,16 +119,19 @@ def _is_rate_limit_error(e):
     return e.code == 429 or (e.code == 413 and 'too many' in str(e.reason).lower())
 
 
-def call_groq(messages, max_tokens=2000, temperature=0.1, _retry=True):
-    """Groq API call with rate-limit retry (waits up to 35s then retries once)."""
+def call_groq(messages, max_tokens=2000, temperature=0.1):
+    """Groq API call. Returns rate-limit errors as structured exceptions."""
     try:
         return _call_groq_model(GROQ_MODEL, messages, max_tokens, temperature)
     except urllib.error.HTTPError as e:
-        if _is_rate_limit_error(e) and _retry:
-            retry_after = int(e.headers.get('Retry-After', 35))
-            time.sleep(min(retry_after, 35))
-            return call_groq(messages, max_tokens, temperature, _retry=False)
+        if _is_rate_limit_error(e):
+            retry_after = e.headers.get('Retry-After', '60')
+            raise RateLimitError(f"Groq Rate Limit – bitte {retry_after}s warten")
         raise Exception(f"HTTP Error {e.code}: {e.reason}")
+
+
+class RateLimitError(Exception):
+    pass
 
 
 # ── Open Food Facts lookup ──
@@ -791,6 +794,8 @@ def classify_product(product_query):
                 f"Prüfe zuerst die Kapitel-Anmerkungen auf Ausschlüsse."
             )}
         ], max_tokens=1500)
+    except RateLimitError as e:
+        return {"error": str(e), "rate_limited": True, "retry_after": 60}
     except Exception as e:
         return {"error": f"LLM-Einreihung fehlgeschlagen: {e}"}
 
@@ -869,6 +874,9 @@ def classify():
 
         if not isinstance(result, dict):
             return jsonify({"error": f"Unerwarteter Ergebnistyp: {type(result)}"}), 500
+
+        if result.get("rate_limited"):
+            return jsonify(result), 429
 
         if "error" in result:
             return jsonify(result), 500
