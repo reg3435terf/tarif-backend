@@ -732,11 +732,9 @@ def classify_product(product_query):
     """Hauptpipeline für die Tarifierung."""
 
     # ── Schritt 1: Produktdaten ermitteln ──
-    # Web search (Groq compound) disabled: too slow + invalid model
-    # causes pipeline to exceed Render's 30s request timeout
-    off_data = search_openfoodfacts(product_query)
-    data_source = "off" if off_data else "none"
-    product_info = off_data
+    # OFF + web_search disabled: combined latency (~10s) + Groq (20s) exceeds Render's 30s limit
+    data_source = "none"
+    product_info = None
 
     # ── Schritt 2: Kapitel(n) bestimmen ──
     primary_chapter, extra_chapters = detect_chapters(product_query, product_info)
