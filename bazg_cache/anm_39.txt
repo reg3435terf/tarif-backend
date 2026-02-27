@@ -1,0 +1,151 @@
+39 Kunststoffe und Waren daraus
+Anmerkungen
+1. Als «Kunststoffe» gelten in der Nomenklatur Stoffe der Nrn. 3901 bis 3914, die, wenn sie einer
+   äusseren Einwirkung unterworfen wurden (im allgemeinen Wärme und Druck, nötigenfalls unter Zu-
+   hilfenahme von Lösungsmitteln oder Weichmachern), geeignet sind oder geeignet gewesen sind, im
+   Zeitpunkt der Polymerisation oder in einem anderen Stadium beim Giessen, Pressen, Strangpres-
+   sen, Walzen oder jedem anderen Verfahren eine Form zu erhalten, die auch dann bestehen bleibt,
+   wenn diese Einflüsse aufhören.
+   Der Begriff «Kunststoffe» umfasst in der Nomenklatur auch Vulkanfiber. Dagegen sind diese Ausdrü-
+   cke nicht anwendbar auf Stoffe, die als Spinnstoffe des Abschnittes XI gelten.
+2. Zu diesem Kapitel gehören nicht:
+   a) zubereitete Schmiermittel der Nrn. 2710 oder 3403;
+   b) Wachse der Nrn. 2712 oder 3404;
+   c) isolierte chemisch einheitliche organische Verbindungen (Kapitel 29);
+   d) Heparin und seine Salze (Nr. 3001);
+   e) Lösungen von Erzeugnissen der Nrn. 3901 bis 3913 (ausgenommen Kolodium), in flüchtigen or-
+      ganischen Lösungsmitteln, wenn der Anteil der Lösungsmittel 50 Gewichtsprozent der Lösung
+      übersteigt (Nr. 3208); Prägefolien der Nr. 3212;
+   f) organische grenzflächenaktive Stoffe und Zubereitungen der Nr. 3402;
+   g) Schmelzharze und Harzester (Nr. 3806);
+   h) zubereitete Additive für Mineralöle (einschliesslich Treibstoffe) oder für andere zu gleichen Zwe-
+      cken wie Mineralöle verwendete Flüssigkeiten (Nr. 3811);
+   i) zubereitete Hydraulik-Flüssigkeiten auf der Basis von Polyglykol, Silikon oder anderen Polymeren
+      des Kapitels 39 (Nr. 3819);
+   k) Diagnostik- oder Laborreagenzien auf einem Träger aus Kunststoff (Nr. 3822);
+   l) synthetischer Kautschuk im Sinne des Kapitels 40 und Waren daraus;
+   m) Sattlerwaren (Nr. 4201), Koffern, Handtaschen oder andere Behältnisse der Nr. 4202;
+   n) Flechtwaren und Korbmacherwaren des Kapitels 46;
+   o) Wandbezüge der Nr. 4814;
+   p) Erzeugnisse des Abschnittes XI (Spinnstoffe und Waren daraus);
+   q) Waren des Abschnittes XII (z.B. Schuhe und Schuhteile, Kopfbedeckungen und Teile davon, Re-
+      genschirme, Sonnenschirme, Spazierstöcke, Peitschen, Reitpeitschen und Teile davon);
+   r) Phantasieschmuck der Nr. 7117;
+   s) Waren des Abschnittes XVI (Maschinen und Apparate, elektrotechnische Waren);
+   t) Teile von Beförderungsmitteln des Abschnittes XVII;
+   u) Waren des Kapitels 90 (z.B. optische Elemente, Brillenfassungen, Zeicheninstrumente);
+   v) Waren des Kapitels 91 (z.B. Gehäuse für Uhren oder Apparate der Uhrenindustrie);
+   w) Waren des Kapitels 92 (z.B. Musikinstrumente und Teile davon);
+   x) Waren des Kapitels 94 (z.B. Möbel, Leuchten und Beleuchtungskörper, Reklameleuchten, vorge-
+      fertigte Gebäude);
+   y) Waren des Kapitels 95 (z.B. Spielzeug, Spiele, Sportgeräte);
+   z) Waren des Kapitels 96 (z.B. Bürsten, Knöpfe, Reissverschlüsse, Kämme, Mundstücke und Rohre
+      für Tabakpfeifen, Zigarettenspitzen oder dergleichen, Teile von Isolierflaschen, Kugelschreiber,
+      Füllstifte und Ein-, Zwei-, Dreibeinstative und ähnliche Waren).
+3. Zu den Nrn. 3901 bis 3911 gehören nur durch chemische Synthese hergestellte, zu den nachste-
+   henden Kategorien gehörende Erzeugnisse:
+   a) flüssige synthetische Polyolefine, von denen bei Anwendung eines Niederdruckdestillationsver-
+      fahrens, auf einen Druck von 1'013 Millibar berechnet, weniger als 60 % Vol bei 300 °C destillie-
+      ren (Nrn. 3901 und 3902);
+   b) niedrigpolymerisierte Cumaron-Inden-Harze (Nr. 3911);
+   c) andere synthetische Polymere mit durchschnittlich mindestens fünf monomeren Einheiten;
+   d) Silicone (Nr. 3910);
+   e) Resole (Nr. 3909) und andere Prepolymere.
+4. Als «Copolymere» gelten alle Polymere, in denen keine Monomereinheit einen Anteil von 95 Ge-
+   wichtsprozent oder mehr am gesamten Polymer aufweist.
+   Im Sinne dieses Kapitels gehören, vorbehältlich gegenteiliger Bestimmungen, Copolymere (ein-
+   schliesslich Copolykondensate, Copolyadditionserzeugnisse, Blockcopolymere und gepfropfte Copo-
+   lymere) und Polymergemische zu derjenigen Nummer, welche die Polymere der Comonomereinheit
+   umfasst, die gewichtsmässig gegenüber allen anderen einfachen Comonomereinheiten vorherrscht.
+   Im Sinne dieser Anmerkung sind die Comonomereinheiten der Polymere, die von der gleichen
+   Nummer erfasst werden, zusammenzunehmen.
+
+                                           1 (Stand: 1.1.2022)
+   Wenn keine einfache Comonomereinheit vorherrscht, so sind, je nach Fall, die Copolymere oder die
+   Polymergemische der in der Nummernfolge zuletzt genannten in Betracht kommenden Nummer zu-
+   zuweisen.
+5. Die chemisch modifizierten Polymere, bei denen lediglich die Anhänge der Polymerhauptkette durch
+   chemische Reaktion modifiziert worden sind, gehören zu derjenigen Nummer, die für das nicht modi-
+   fizierte Polymer massgebend ist. Diese Bestimmung ist für gepfropfte Copolymere nicht anwendbar.
+6. Der Begriff «Primärformen» im Sinne der Nrn. 3901 bis 3914 umfasst lediglich die nachstehenden
+   Formen:
+   a) Flüssigkeiten und Pasten, einschliesslich der Dispersionen (Emulsionen und Suspensionen) und
+      Lösungen;
+   b) Blöcke von unregelmässiger Form, Brocken, Krümel, Pulver (einschliesslich Formmassen), Gra-
+      nulat, Flocken und ähnliche lose Formen.
+7. Zu Nr. 3915 gehören nicht Abfälle, Schnitzel und Bruch eines einzelnen thermoplastischen Stoffes,
+   welche in Primärformen umgewandelt wurden (Nrn. 3901 bis 3914).
+8. Als «Rohre und Schläuche» im Sinne der Nr. 3917 gelten Hohlprodukte, die Halbfabrikate oder Fer-
+   tigwaren sind (z.B. gerippte Gartenschläuche, perforierte Rohre), wie sie üblicherweise zum Leiten,
+   Befördern oder Verteilen von Gasen oder Flüssigkeiten dienen. Diese Bezeichnungen beziehen sich
+   auch auf schlauchförmige Wursthüllen und ähnliche flachliegende Rohre und Schläuche. Mit Aus-
+   nahme der letztgenannten Erzeugnisse gelten jedoch solche mit einem anderen als runden, ovalen,
+   rechteckigen (wobei die Länge des Rechteckes nicht mehr als das 1,5fache der Breite betragen darf)
+   oder ein regelmässiges Vieleck aufweisenden Innenquerschnitt als Profile und nicht als Rohre oder
+   Schläuche.
+9. Als «Wand- oder Deckenbezüge aus Kunststoffen» im Sinne der Nr. 3918 gelten zum Ausschmü-
+   cken von Wänden oder Decken geeignete Erzeugnisse in Rollen mit einer Breite von 45 cm oder
+   mehr, welche aus dauerhaft auf einer Unterlage aus anderen Stoffen als Papier aufgebrachtem
+   Kunststoff bestehen und deren Kunststoffschicht (auf der Sichtseite) genarbt, geprägt, farbig gemus-
+   tert, mit Motiven bedruckt oder anders verziert ist.
+10. Als «Platten, Blätter, Folien, Bänder und Streifen» im Sinne der Nrn. 3920 und 3921 gelten aus-
+    schliesslich Platten, Blätter, Folien, Bänder und Streifen (andere als solche des Kapitels 54) und Blö-
+    cke von regelmässiger geometrischer Form, auch bedruckt oder anders oberflächenbearbeitet, nicht
+    zugeschnitten oder lediglich rechteckig oder quadratisch zugeschnitten (auch wenn sie dadurch den
+    Charakter von Fertigwaren erhalten haben), aber nicht anders bearbeitet.
+11. Die Nr. 3925 ist nur anwendbar für die nachstehenden Waren, soweit sie nicht durch vorstehende
+    Nummern des Unterkapitels II erfasst sind:
+    a) Sammelbehälter, Zisternen (einschliesslich Klärtanks), Bottiche und ähnliche Behälter, mit einem
+       Fassungsvermögen von mehr als 300 l;
+    b) Bauelemente, wie sie namentlich zum Herstellen von Fussböden, Mauern, Trennwänden, Decken
+       oder Bedachungen verwendet werden;
+    c) Traufrinnen und Zubehör dazu;
+    d) Türen, Fenster und deren Rahmen, Stöcke und Schwellen;
+    e) Geländer, Zäune, und ähnliche Abschrankungen;
+    f) Fensterläden, Storen (einschliesslich venezianische Storen) und ähnliche Waren, sowie Teile und
+       Zubehör dazu;
+    g) grosse Regale, zur Montage und zum festen Einbau z.B. in Läden, Werkstätten oder Lagerräu-
+       men bestimmt;
+    h) architektonische Ornamente, insbesondere Kannelierungen, Gewölbe, Taubenschläge;
+    i) Zubehör und Ausrüstungen zur bleibenden Befestigung an Türen, Fenstern, Treppenhäusern,
+       Wänden oder anderen Gebäudeteilen, z.B. Knöpfe, Handgriffe, Haken, Konsolen, Handtuchhal-
+       ter, Schalterplatten und andere Schutzplatten.
+
+
+Unternummern-Anmerkungen
+1. Innerhalb einer Nummer dieses Kapitels sind Polymere (einschliesslich Copolymere) und die che-
+   misch modifizierten Polymere nach folgenden Richtlinien einzureihen:
+   a) Wenn eine Unternummer «andere» in der Serie der Unternummern besteht:
+      1) Die Vorsilbe «Poly», dem Namen eines bestimmten, in den Unternummern aufgeführten Po-
+         lymers vorangestellt (z.B. Polyethylen oder Polyamid-6,6), bedeutet, dass die Monomereinheit
+         oder die Monomereinheiten des genannten Polymers gesamthaft einen Anteil von 95 oder
+         mehr Gewichtsprozenten aufweisen müssen.
+      2) Die in den Unternummern 3901.30, 3901.40, 3903.20, 3903.30 und 3904.30 genannten Copo-
+         lymere sind in diesen Nummern einzureihen, sofern die Comonomereinheiten des genannten
+         Copolymers 95 Gewichtsprozente oder mehr zum gesamten Polymergehalt beitragen.
+                                            2 (Stand: 1.1.2022)
+      3) Die chemisch modifizierten Polymere sind in den mit «andere» bezeichneten Unternummern
+         einzureihen, sofern diese chemisch modifizierten Polymere nicht in einer anderen Unternum-
+         mer genauer erfasst sind.
+      4) Polymere, die nicht den vorstehenden Ziffern 1), 2) oder 3) entsprechen, sind in denjenigen
+         der verbleibenden Unternummern der Serie einzureihen, welche die Polymere der Monome-
+         reinheit erfasst, die gewichtsmässig gegenüber allen anderen einfachen Comonomereinheiten
+         vorherrscht. Dabei sind Monomereinheiten, die unter die gleiche Unternummer fallen, zusam-
+         menzunehmen. Nur Comonomereinheiten von Polymeren der gleichen Serie von Unternum-
+         mern dürfen miteinander verglichen werden.
+   b) Wenn keine Unternummer «andere» in der Serie besteht:
+      1) Die Polymere sind derjenigen Unternummer zuzuweisen, welche die Polymere der Monome-
+         reinheit erfasst, die gewichtsmässig gegenüber allen anderen einfachen Comonomereinheiten
+         vorherrscht. Dabei sind Monomereinheiten, die unter die gleiche Unternummer fallen, als Ein-
+         heit zu betrachten. Nur Monomereinheiten von Polymeren der gleichen Serie von Unternum-
+         mern dürfen miteinander verglichen werden.
+      2) Die chemisch modifizierten Polymere sind in derjenigen Unternummer einzureihen, in der die
+         nicht modifizierten Polymere eingereiht sind.
+   Mischungen von Polymeren sind in der gleichen Unternummer einzureihen wie die aus den gleichen
+   Monomereinheiten in den gleichen Verhältnissen erhaltenen Polymere.
+2. Der Begriff «Weichmacher» im Sinne der Nr. 3920.43 umfasst auch die Sekundärweichmacher.
+
+
+
+
+                                         3 (Stand: 1.1.2022)
