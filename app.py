@@ -13,11 +13,11 @@ CORS(app)
 # ── API Key (aus Render Environment Variable) ──
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GROQ_MODEL_QUALITY = "llama-3.3-70b-versatile"   # 6,000 TPM free tier
-GROQ_MODEL_FAST    = "llama-3.1-8b-instant"       # 131,072 TPM free tier
+GROQ_MODEL_FAST    = "gemma2-9b-it"               # 15,000 TPM free tier, supports JSON mode
 # JSON mode (response_format) supported only by select Groq models:
 GROQ_JSON_MODE_MODELS = {"llama-3.3-70b-versatile", "llama-3.1-70b-versatile",
                           "gemma2-9b-it", "mixtral-8x7b-32768"}
-GROQ_MODEL = GROQ_MODEL_FAST  # Default: high-throughput model
+GROQ_MODEL = GROQ_MODEL_FAST  # Default: high-throughput model (2.5x more capacity)
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # ── BAZG Cache Pfad ──
