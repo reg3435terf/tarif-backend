@@ -12,12 +12,11 @@ CORS(app)
 
 # ── API Key (aus Render Environment Variable) ──
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
-GROQ_MODEL_QUALITY = "llama-3.3-70b-versatile"   # 6,000 TPM free tier
-GROQ_MODEL_FAST    = "gemma2-9b-it"               # 15,000 TPM free tier, supports JSON mode
+GROQ_MODEL_QUALITY = "llama-3.3-70b-versatile"   # 6,000 TPM free tier, best reasoning
 # JSON mode (response_format) supported only by select Groq models:
 GROQ_JSON_MODE_MODELS = {"llama-3.3-70b-versatile", "llama-3.1-70b-versatile",
-                          "gemma2-9b-it", "mixtral-8x7b-32768"}
-GROQ_MODEL = GROQ_MODEL_FAST  # Default: high-throughput model (2.5x more capacity)
+                          "mixtral-8x7b-32768"}
+GROQ_MODEL = GROQ_MODEL_QUALITY  # Best reasoning for tariff classification
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # ── BAZG Cache Pfad ──
@@ -121,13 +120,13 @@ def _is_rate_limit_error(e):
 
 
 def call_groq(messages, max_tokens=2000, temperature=0.1, _retry=True):
-    """Groq API call with rate-limit retry (waits up to 30s then retries)."""
+    """Groq API call with rate-limit retry (waits up to 35s then retries once)."""
     try:
         return _call_groq_model(GROQ_MODEL, messages, max_tokens, temperature)
     except urllib.error.HTTPError as e:
         if _is_rate_limit_error(e) and _retry:
-            retry_after = int(e.headers.get('Retry-After', 30))
-            time.sleep(min(retry_after, 30))
+            retry_after = int(e.headers.get('Retry-After', 35))
+            time.sleep(min(retry_after, 35))
             return call_groq(messages, max_tokens, temperature, _retry=False)
         raise Exception(f"HTTP Error {e.code}: {e.reason}")
 
