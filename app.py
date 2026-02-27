@@ -108,7 +108,7 @@ def _call_groq_model(model, messages, max_tokens, temperature):
         "User-Agent": "Tarifierungstool/4.0"
     })
 
-    with urllib.request.urlopen(req, timeout=45) as resp:
+    with urllib.request.urlopen(req, timeout=20) as resp:
         data = json.loads(resp.read().decode("utf-8"))
         content = data["choices"][0]["message"]["content"]
         return _extract_json(content)
@@ -148,7 +148,7 @@ def off_by_barcode(ean):
     try:
         url = f"https://world.openfoodfacts.org/api/v2/product/{ean}.json?fields=product_name,brands,ingredients_text,categories,quantity"
         req = urllib.request.Request(url, headers={"User-Agent": "Tarifierungstool/4.0"})
-        with urllib.request.urlopen(req, timeout=5) as resp:
+        with urllib.request.urlopen(req, timeout=2) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             if data.get("status") == 1 and data.get("product"):
                 return format_off_product(data["product"], ean)
@@ -183,7 +183,7 @@ def _off_search(query):
         encoded = urllib.parse.quote(query)
         url = f"https://world.openfoodfacts.org/cgi/search.pl?search_terms={encoded}&search_simple=1&action=process&json=1&page_size=3&fields=product_name,brands,ingredients_text,categories,quantity,code"
         req = urllib.request.Request(url, headers={"User-Agent": "Tarifierungstool/4.0"})
-        with urllib.request.urlopen(req, timeout=4) as resp:
+        with urllib.request.urlopen(req, timeout=2) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             products = data.get("products", [])
             for p in products:
@@ -732,18 +732,11 @@ def classify_product(product_query):
     """Hauptpipeline für die Tarifierung."""
 
     # ── Schritt 1: Produktdaten ermitteln ──
+    # Web search (Groq compound) disabled: too slow + invalid model
+    # causes pipeline to exceed Render's 30s request timeout
     off_data = search_openfoodfacts(product_query)
-    web_data = None
-    data_source = "none"
-
-    if off_data:
-        data_source = "off"
-    else:
-        web_data = web_search_product(product_query)
-        if web_data:
-            data_source = "web"
-
-    product_info = off_data or web_data
+    data_source = "off" if off_data else "none"
+    product_info = off_data
 
     # ── Schritt 2: Kapitel(n) bestimmen ──
     primary_chapter, extra_chapters = detect_chapters(product_query, product_info)
