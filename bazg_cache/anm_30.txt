@@ -6,13 +6,13 @@ Anmerkungen
       chende Nährstoffe (Abschnitt IV);
    b) Erzeugnisse wie Tabletten, Kaugummis oder Pflaster (perkutane Systeme), die Nikotin enthalten
       und zur Raucherentwöhnung bestimmt sind (Nr. 2404);
-   c) zu zahnarztlichen Zwecken besonders gebrannter oder fein gemahlener Gips (Nr. 2520);
+   c) zu zahnärztlichen Zwecken besonders gebrannter oder fein gemahlener Gips (Nr. 2520);
    d) destillierte aromatische Wasser und wässerige Lösungen etherischer Öle, zu medizinischen Zwe-
       cken (Nr. 3301);
    e) Zubereitungen der Nrn. 3303 bis 3307, auch mit therapeutischen oder prophylaktischen Eigen-
       schaften;
    f) Seifen und andere Erzeugnisse der Nr. 3401 mit medikamentösen Zusätzen;
-   g) Zubereitungen zu zahnarztlichen Zwecken auf der Grundlage von Gips (Nr. 3407);
+   g) Zubereitungen zu zahnärztlichen Zwecken auf der Grundlage von Gips (Nr. 3407);
    h) nicht zu therapeutischen oder prophylaktischen Zwecken zubereitetes Blutalbumin (Nr. 3502);
    i) Diagnostikreagenzien der Nr. 3822.
 2. Im Sinne der Nr. 3002 gelten als «immunologische Erzeugnisse» Peptide und Proteine (ausgenom-
@@ -26,30 +26,59 @@ Anmerkungen
       1) wässerige Lösungen ungemischter Erzeugnisse;
       2) alle Erzeugnisse der Kapitel 28 oder 29;
       3) einfache Pflanzenauszüge der Nr. 1302, nur auf einen bestimmten Wirkungswert eingestellt
-         oder standardisiert;
+          oder in einem beliebigen Lösungsmittel gelöst;
    b) als gemischte Erzeugnisse:
-      1) kolloidale Lösungen und Suspensionen (ausgenommen kolloidaler Schwefel);
-      2) pflanzliche Auszüge, die ein Gemisch aus mehreren Bestandteilen darstellen;
-      3) alle Erzeugnisse einer bestimmten Behandlung.
-4. Im Sinne der Nr. 3006 gelten als:
-   a) «sterile chirurgische oder zahnmedizinische Adhäsionsbarrieren», resorbierbare Produkte zur
-      Verwendung bei chirurgischen oder zahnmedizinischen Eingriffen, um die Bildung von Narbenge-
-      webe zu verhindern;
-   b) «chemisch kontrazeptive Mittel auf der Grundlage von Hormonen, anderen Erzeugnissen der Nr.
-      2937 oder Spermiziden», Zubereitungen in einer Aufmachung als Spermizide, hauptsächlich zur
-      Verhütung einer ungewollten Schwangerschaft, insbesondere in Form von Gels, Cremes oder
-      Schaumstößen;
-   c) «Abfallbehältnisse für medizinische Verwendung», durchstichsichere Einwegbehältnisse, die bei
-      der medizinischen Verwendung zur Entsorgung von gebrauchten chirurgischen Nadeln, Spritzen
-      und dergleichen eingesetzt werden;
-   d) «Opiate» im Sinne der Nr. 3006.93, Arzneimittel-Zubereitungen in einer Aufmachung zum Einzel-
-      verkauf zur Behandlung der Opiatabhängigkeit, die Methadon (INN) oder Buprenorphin (INN)
-      (partieller Opioidagonist) oder Naloxon (INN) (Opioidantagonist) enthalten;
-   e) «Apheresesysteme», Produkte, welche die selektive Extraktion bestimmter Elemente (z.B. Low
-      Density Lipoprotein (LDL)) aus dem Blut ermöglichen und welche ausschliesslich in der Medizin
-      angewendet werden.
+      1) kolloide Lösungen und kolloide Suspensionen (ausgenommen kolloider Schwefel);
+      2) Pflanzenauszüge, durch Behandlung von Mischungen pflanzlicher Stoffe erhalten;
+      3) Salze und konzentrierte Wasser, durch Eindampfen von natürlichem Mineralwasser erhalten.
+4. Zu Nr. 3006 gehören nur die nachfolgenden, unter diese Nummer und nicht unter eine andere Num-
+   mer der Nomenklatur einzureihenden Erzeugnisse:
+   a) steriles Katgut, ähnliche sterile chirurgische Nähmittel (einschliesslich sterile resorbierbare chirur-
+      gische Fäden zu chirurgischen oder zahnärztlichen Zwecken) und in der Chirurgie zum Schlies-
+      sen von Wunden verwendete sterile Haftmittel für organische Gewebe;
+   b) sterile Laminariastifte;
+   c) sterile resorbierbare blutstillende Einlagen zu chirurgischen oder zahnärztlichen Zwecken; sterile
+      nicht klebende Barrieren zu chirurgischen oder zahnärztlichen Zwecken, resorbierbar oder nicht;
+   d) Röntgenkontrastmittel sowie diagnostische Mittel zur Verwendung am Patienten, soweit es sich
+      um ungemischte, dosierte oder für die gleichen Zwecke verwendbare gemischte, aus zwei oder
+      mehr Stoffen bestehende Erzeugnisse handelt;
+   e) Scheinarzneimittel (Placebos) und Testsets für klinische Blindstudien (oder Doppelblindstudien),
+      zur Verwendung in anerkannten klinischen Studien, dosiert, auch aktive Arzneimittel enthaltend;
+   f) Zahnzement und andere Zahnfüllstoffe; Zement zum Wiederherstellen von Knochen;
+   g) Taschen und andere Behältnisse mit Apothekenausstattung für Erste Hilfe;
+   h) empfängnisverhindernde chemische Zubereitungen auf der Grundlage von Hormonen, anderen Er-
+      zeugnissen der Nr. 2937 oder Spermiciden;
+   i) Zubereitungen in Form von Gel zur Verwendung in der Human- oder Veterinärmedizin als Gleit-
+      mittel für gewisse Körperpartien während chirurgischen Eingriffen, medizinischen Untersuchun-
+      gen oder als Kontaktmittel zwischen dem Körper und den medizinischen Instrumenten;
+   k) pharmazeutische Abfälle, das heisst pharmazeutische Produkte, welche zum Beispiel wegen
+      Überschreiten ihres Verfalldatums für ihren ursprünglich beabsichtigten Zweck nicht mehr geeig-
+      net sind;
+   l) erkennbare Vorrichtungen zur Verwendung bei Stomie, wie geformte Beutel für Kolostomie, Ileo-
+      stomie und Urostomie und ihre Hautschutzpflaster oder Hautschutzplatten.
 
 
 
 
-                                          1 (Stand: 1.1.2022)
+                                             1 (Stand: 1.1.2022)
+Unternummern-Anmerkungen
+1. Im Sinne der Nrn. 3002.13 und 3002.14 gelten:
+   a) als ungemischte Erzeugnisse gelten reine Produkte, unabhängig davon, ob sie Verunreinigungen
+      enthalten oder nicht;
+   b) als gemischte Erzeugnisse gelten:
+      1) die vorstehend in Bst. a) genannten Erzeugnisse in Wasser oder anderen Lösungsmitteln ge-
+          löst;
+      2) die vorstehend in Bst. a) und b) 1) genannten Erzeugnisse mit Zusatz eines zu ihrer Erhaltung
+          oder ihrem Transport notwendigen Stabilisierungsmittel;
+      3) die vorstehend in Bst. a), b) 1) und b) 2) genannten Erzeugnisse mit anderen Additiven.
+2. Zu den Nrn. 3003.60 und 3004.60 gehören Arzneiwaren, die Artemisinin (INN) für die orale Einnah-
+   me in Kombination mit anderen pharmazeutischen Wirkstoffen, oder mit einem der folgenden Wirk-
+   stoffe, auch mit anderen pharmazeutischen Wirkstoffen kombiniert, enthalten: Amodiaquin (INN); Ar-
+   telinsäure oder deren Salze; Artenimol (INN); Artemotil (INN), Artemether (INN); Artesunat (INN),
+   Chloroquin (INN); Dihydroartemisinin (INN); Lumefantrin (INN), Mefloquin (INN); Piperaquin (INN);
+   Pyrimethamin (INN) oder Sulfadoxin (INN).
+
+
+
+
+                                          2 (Stand: 1.1.2022)

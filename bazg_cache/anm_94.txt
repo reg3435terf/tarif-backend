@@ -1,15 +1,54 @@
-94 Möbel; medizinisch-chirurgisches Mobiliar; Bettzeug und derglei-
-   chen; Leuchten und Beleuchtungskörper, anderweit weder genannt
-   noch inbegriffen; Beleuchtungsreklamen, beleuchtete Namensschilder
-   und dergleichen; vorgefertigte Gebäude
+94 Möbel; medizinisch-chirurgisches Möbel; Bettausstattungen und
+   ähnliche Waren; Beleuchtungskörper, anderweitig weder genannt
+   noch inbegriffen; Reklameleuchten, Leuchtschilder und ähnliche
+   Waren; vorgefertigte Gebäude
 Anmerkungen
 1. Zu diesem Kapitel gehören nicht:
-   a) pneumatische oder mit Wasser gefüllte Matratzen, Kissen oder Sitzpolster (Kap. 39 oder 40);
-   b) Spiegel, die zum Aufstellen oder Aufhängen geeignet sind (Pos. 7009);
-   c) Gegenstände aus Glas (Kap. 70);
-   d) Artikel des Kapitels 71;
-   e) Teile von allgemeiner Verwendbarkeit im Sinne der Anmerkung 2 zu Abschnitt XV sowie Waren aus unedlen Metallen (Abschnitt XV);
-   f) Leuchten oder Beleuchtungskörper des Kapitels 85;
-   g) kinematographische Projektoren (Pos. 9007);
-   h) Aufblasbare Spielzeug- oder Sportartikel (Pos. 9503 oder 9506).
-2. In Pos. 9401 bis 9403 gehören nur Möbel, die vorwiegend zum Sitzen, Liegenlassen, Aufbewahren oder Arbeiten bestimmt sind.
+   a) Aufblasbare Matratzen aus Kautschuk oder Kunststoff (Nrn. 4016 oder 3926);
+   b) Spiegel, für die Benutzung auf dem Boden bestimmt oder dafür geeignet (z.B. Psyche) (Nr.
+      7009);
+   c) Waren des Kapitels 66 (z.B. Regenschirme, Spazierstöcke und Teile davon) wenn auch zum
+      Ausruhen ausgelegt;
+   d) Waren des Kapitels 70, soweit sie als Lichtquellen dienen;
+   e) Teile von allgemeiner Verwendbarkeit im Sinne der Anmerkung 2 zu Abschnitt XV, aus unedlen
+      Metallen (Abschnitt XV), sowie entsprechende Waren aus Kunststoffen (Kapitel 39);
+   f) Waren der Nr. 7321 (Heizöfen, Herde, Kochplatten, Grills, Bratroste, Öfen usw.); Waren der
+      Nr. 7322 (Radiatoren, Heizkörper für die Zentralheizung usw.), sowie ähnliche Waren aus an-
+      deren unedlen Metallen (Kapitel 74 bis 76 und 78 bis 81);
+   g) Waren des Kapitels 94 anderer Art (z.B. Spielzeug, Sportgeräte, Spiele);
+   h) Elektroheizkörper der Nr. 8516;
+   i) Waren des Kapitels 91 (Uhren und andere Uhrwerke);
+   k) Waren des Kapitels 95 (z.B. Spielzeug, Spiele, Sportgeräte).
+2. Im Sinne dieses Kapitels gelten als «Möbel»:
+   a) Waren, die zum Aufstellen auf den Boden, an eine Wand, auf andere Möbelstücke oder Ausrü-
+      stungen, zum Einbau in Deckenkonstruktionen oder für auffällige Dekorationen bestimmt sind,
+      oder Waren zum Aufhängen oder Befestigen an einer Wand, die hauptsächlich dazu dienen, Platz
+      für den Menschen oder zum Ablegen von Gegenständen und für das Lagern von Waren zu bieten
+      (zum Beispiel Tische, Schreibtische, Stühle, Sofas, Regale, Betten und Büroartikel-Schubladen);
+   b) Artikel für Inneneinrichtungen, nicht zum Aufstellen auf den Boden, die von dem beschriebenen
+      Charakter und der Funktion der in Buchstabe a) genannten Artikel sind;
+   c) Teile der Waren des Buchstabens a) und b), ausgenommen Teile und Zubehör von allgemeiner
+      Verwendbarkeit.
+3. Leuchten und Beleuchtungskörper des Kapitels 94 gelten nicht als Teile von Gebäuden im Sinne
+   der Anmerkungen 1 und 2 zu Kapitel 70 und sind daher nicht aus dem Kapitel 94 auszuschliessen.
+4. Im Sinne der Nr. 9405 gelten als «Leuchten und Beleuchtungskörper» alle Artikel die für die Erzeu-
+   gung, Steuerung und Verteilung von Licht bestimmt sind und die die Lichtquellen einschliessen oder
+   nicht. Sie schliessen ebenfalls die Lampen und Röhren ein.
+4a. Zu Nr. 9405 gehören ausschliesslich:
+    a) Leuchten für die Verwendung mit LED-Modulen nach Nrn. 9405.11 bis 9405.69 ;
+    b) LED-Module, d.h. elektrische Lichtquellen, die LEDs enthalten und ohne Fassung für den elektri-
+       schen Anschluss konzipiert sind; und
+    c) LED-Lampen, d.h. Lampen, die LEDs enthalten und mit einer Fassung für den elektrischen An-
+       schluss konzipiert sind.
+   Zu Nr. 9405 gehören nicht:
+    d) getrennt vorgestellte Fassung (Nrn. 8535 oder 8536);
+    e) getrennt vorgestellte LED-Chips und LED-Dioden (Nr. 8541).
+5. Im Sinne der Nr. 9406 gelten als «vorgefertigte Gebäude» Gebäude, die in Fabrik hergestellt wer-
+   den und ganz oder grösstenteils aus Bauteilen bestehen, welche üblicherweise in ein oder mehrere
+   selbsttragende, transportierbare Teile zusammengesetzt werden, für den Einsatz vor Ort (z.B. Bo-
+   hrplattformen und Offshore-Bohrinseln, Häuser, Mödul-Gebäude).
+
+
+
+
+                                           1 (Stand: 1.1.2022)

@@ -1,12 +1,26 @@
 88 Luftfahrzeuge, Raumfahrzeuge und Teile davon
 Anmerkungen
-1. Für Tarifnummer 8801 gilt als «Ballon»: ein Luftfahrzeug ohne Antrieb, das auf dem Auftrieb von
-   Gas basiert, das leichter als Luft ist.
-2. Für Tarifnummer 8802 gilt als «Luftfahrzeug»: ein Fahrzeug, das durch den aerodynamischen Auf-
-   trieb getragen wird.
-3. Unbemannte Luftfahrzeuge (UAV) werden nach Tarifnummer 8806 eingereiht.
-4. Für Tarifnummer 8807: Als «Teile» von Luftfahrzeugen gelten nicht elektrische Teile, die in anderen
-   Kapiteln einzureihen sind.
+1. Zu diesem Kapitel gehören nicht:
+   a) Waren des Kapitels 95 (z.B. Spielzeug, Spiele, Sportgeräte).
+2. Im Sinne dieses Kapitels gelten als «Unbemannte Luftfahrzeuge» (UAV) Luftfahrzeuge ohne Piloten,
+   die autonom oder mit Fernsteuerung betrieben werden können. Diese beinhalten:
+   a) UAVs der Nr. 8806, die für den Einsatz in einem Umfeld ausgelegt sind, in dem die Fernpiloten-
+      lizenz und andere Betriebsregeln gelten. Sie sind nur für den zivilen Einsatz ausgelegt.
+   b) Relativ zu Buchstabe a) oben können diese UAVs eine oder mehrere der folgenden Fähigkeiten
+      haben:
+      1) Sehen und Vermeiden (detect and avoid) von anderen Luftfahrzeugen oder Hindernissen;
+      2) Längsneigung und andere Flugregelungsparameter automatisch zu regeln;
+      3) einen vorherbestimmten Flugweg oder eine vorherbestimmte Flugbahn einzuhalten;
+      4) automatisch zu landen;
+      5) automatisch zu starten;
+      6) ferngesteuert zu sein und als Fluggerät eingesetzt zu werden.
+2. Im Sinne der Nr. 8802 gelten als «Hubschrauber» Luftfahrzeuge, die hauptsächlich dazu dienen, in
+   einem senkrechten oder annähernd senkrechten Kurs aufzusteigen oder zu landen und ihre Fläche im
+   Wesentlichen durch Rotorsysteme mit angetriebenen Rotoren anstatt durch feste Tragflächen erzeu-
+   gen. Hierzu gehören auch sogenannte Tilt-Rotor-Luftfahrzeuge. Nicht dazu gehören Gyrokopter.
+3. Im Sinne der Nr. 8806 gelten als «Unbemannte Luftfahrzeuge» Luftfahrzeuge ohne Piloten.
+4. Im Sinne der Nr. 8807 gelten als «Teile» alle diejenigen Teile, die spezifisch für die Luftfahrt ver-
+   wendet werden und nicht für den allgemeinen Gebrauch bestimmt sind.
 
 
 

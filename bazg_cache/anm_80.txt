@@ -2,12 +2,22 @@
 Unternummern-Anmerkung
 1. In diesem Kapitel gelten als:
    a) Nicht legiertes Zinn
-       Metall, welches mindestens 99 Gewichtsprozent Zinn enthält.
+       Metall, welches mindestens 99 Gewichtsprozent Zinn enthält, sofern der Anteil an allfällig vorhan-
+       denem Wismut oder Kupfer weniger als die in der nachfolgenden Tabelle aufgeführten Grenzwer-
+       te beträgt:
+       Tabelle - andere Elemente
+          Element                  Grenzwert in Gewichtsprozent
+          Bi        Wismut                     0,1
+          Cu        Kupfer                     0,4
+
    b) Zinnlegierungen
-       Metallische Stoffe, in welchen Zinn gegenüber jedem anderen Element gewichtsmässig vor-
-       herrscht, sofern der Gesamtanteil aller anderen Elemente mehr als 1 Gewichtsprozent beträgt.
+      Metallische Stoffe, in welchen Zinn gegenüber jedem anderen Element gewichtsmässig vor-
+      herrscht, sofern:
+      1) der Gesamtanteil der anderen Elemente mehr als 1 Gewichtsprozent beträgt, oder
+      2) der gewichtsmässige Anteil an Wismut oder Kupfer die in der vorstehenden Tabelle aufgeführ-
+         ten Grenzwerte erreicht oder übersteigt.
 
 
 
 
-                                          1 (Stand: 1.1.2022)
+                                            1 (Stand: 1.1.2022)

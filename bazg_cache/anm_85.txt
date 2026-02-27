@@ -1,42 +1,129 @@
-85 Elektrische Maschinen, Apparate, Geräte und andere elektrotechnische Waren, Teile davon;
-Tonaufnahme- oder Tonwiedergabegeräte, Bild- und Tonaufzeichnungs- oder -wiedergabe-
-geräte für das Fernsehen, Teile und Zubehör für diese Geräte
+85 Elektrische Maschinen, Apparate, Geräte und andere elektrotech-
+   nische Waren sowie Teile davon; Tonaufnahme- und Tonwiederga-
+   begeräte, Bild- und Tonaufzeichnungsgeräte und Bild- und Ton-
+   wiedergabegeräte, für das Fernsehen, sowie Teile und Zubehör
+   dieser Geräte
 Anmerkungen
-1. Dieses Kapitel umfasst nicht:
-   a) Waren des Kapitels 84, sofern diese elektrisch betätigt werden;
-   b) Artikel des Kapitels 90;
-   c) Artikel des Kapitels 91 (Uhrwaren);
-   d) Artikel des Kapitels 95 (Spielzeug, Spiele und Sportgeräte);
-   e) Artikel des Kapitels 96 (z.B. elektrisch beheizte Kämme, Haarbürsten, Handbürsten usw.).
-2. Soweit der Zusammenhang nichts anderes erfordert, umfassen Teile und Zubehör aller Art für
-   Artikel dieses Kapitels sämtliche Teile und alles Zubehör dieser Artikel, sofern diese für die
-   ausschliessliche oder hauptsächliche Verwendung bei den Artikeln dieses Kapitels geeignet und
-   erkennbar sind.
-3. Für Tarifnummer 8536: Eine «Steckdose» ist ein Verbindungsstück für elektrische Leitungen (eine
-   Buchse), in die ein Stecker (ein Stift) eingeführt wird. Es können stationäre oder mobile Steckdosen
-   sein.
-4. Tarifnummer 8537 umfasst Schalt- und Steuertafeln für elektrische Leitungen, einschliesslich der
-   Schalttafeln, die für die Steuerung und Verteilung von elektrischer Energie bestimmt sind.
-5. Für Tarifnummer 8541:
-   a) «Dioden» sind elektronische Halbleiterbauelemente mit zwei Anschlüssen, die die elektrische
-      Leitung in einer Richtung begünstigen. Dies gilt auch für Leuchtdioden (LED).
-   b) «Transistoren» sind elektronische Halbleiterbauelemente mit drei oder mehr Anschlüssen und
-      einer Verstärker-, Schalt- oder Gleichrichterfunktion.
-   c) «Thyristoren, Diacs und Triacs» sind elektronische Halbleiterbauelemente.
-   d) «Photovoltaische Zellen» sind Halbleiterbauelemente, die direkt Lichtenergie in elektrische
-      Energie umwandeln.
-   e) «Leuchtdioden (LED)» sind Festkörper-Halbleiterbauelemente, die Licht durch Elektro-
-      lumineszenz emittieren und die Fähigkeit haben, uni- oder multidirektional zu strahlen. Ihre
-      Wellenlänge bestimmt die Farbe des Lichts.
-   f)  «Montierte piezoelektrische Kristalle» sind Kristalle, die elektrische Schwingungen erzeugen,
-      wenn sie unter mechanische Spannung gesetzt werden.
-6. Tarifnummer 8542 umfasst integrierte Schaltkreise, einschliesslich elektronischer integrierter Schalt-
-   kreise, und zwar Schaltkreise, bei denen die Elemente (Transistoren, Dioden, Widerstände, Konden-
-   satoren usw.) untrennbar auf einem Halbleiterkristall hergestellt und miteinander verbunden sind.
-7. Für Tarifnummer 8548: Als «elektrische Teile von Maschinen und Apparaten» gelten Teile, die
-   elektrisch sind und für elektrische Maschinen oder Apparate bestimmt sind.
+1. Zu diesem Kapitel gehören nicht:
+   a) Waren des Kapitels 84 (vgl. Anmerkung 2 zu Abschnitt XVI);
+   b) Waren für direkten Einsatz in Bekleidungsstoff-Rasterdruckmaschinen (Nr. 8443);
+   c) elektrisch beheizte Heizkissen (Nr. 6301);
+   d) Waren des Kapitels 90;
+   e) Uhren und Uhrwerke (Kapitel 91);
+   f) Waren des Kapitels 93;
+   g) Spielzeug und Spiele für Heimzwecke, durch elektromagnetische Wellen ferngesteuerter Art
+      (Nr. 9504);
+   h) Waren des Kapitels 95.
+2. Als «Widerstände» im Sinne der Nr. 8533 gelten Heizelemente nicht; sie gehören zur Nr. 8516.
+3. Im Sinne der Nr. 8536 gelten als «Sicherungen für elektrische Apparate» thermische Sicherungsele-
+   mente mit Schmelzdraht.
+4. Im Sinne der Nr. 8537 gelten als «SPS-Geräte» (Speicherprogrammierbare Steuergeräte) elektroni-
+   sche Geräte, die für den Einsatz in einer Maschine oder einer anderen Anlage eingesetzt werden
+   können, die eine bestimmte Funktion ausführen, indem das Steuerprogramm im Gerät gespeichert
+   wird.
+5. Im Sinne der Nrn. 8471, 8473, 8517, 8525, 8527 und 8528 gelten als «Multimediadaten» Daten, die
+   mindestens zwei der folgenden Inhalte in einem einheitlichen Speicher- und Verarbeitungsformat
+   umfassen: Audio, Standbilder oder Video.
+6. Aufzeichnungsträger im Sinne der Nr. 8523:
+   a) sind nur die Aufzeichnungsträger, die für die Aufzeichnung von Ton oder anderen Phänomenen
+      geeignet sind, sowie aufgezeichnete Aufzeichnungsträger, ausgenommen Waren des Kapitels 37;
+   b) gehören nicht zu Kapitel 37.
+7. Im Sinne der Nr. 8524:
+   a) Sind «flache Bildschirmtafeln» aktive Matrizen, die aus einem Substrat hergestellt sind, das Du-
+      nordnung von Pixeln in Reihen und Spalten aufweist, welches mittels Schaltern gesteuert wird.
+      Dies schliesst Technologien wie LCD (Flüssigkristallanzeige), OLED (organische Leuchtdiode) und
+      QLED (Quantum Dot Leuchtdiode) ein.
+   b) sind «LED-Hintergrundbeleuchtungsmodule» beleuchtete Einheiten, die aus einem oder mehreren
+      LED-Panels bestehen, auf der Grundlage von Leiterplatten und die Licht liefern für die Hinter-
+      grundbeleuchtung flacher Bildschirmtafeln.
+   c) Zu Nr. 8524 gehören nicht Leuchten und Beleuchtungskörper (Nr. 9405).
+8. Im Sinne dieses Kapitels:
+   a) Sind «Laser» Geräte, die eine Strahlung durch die stimulierte Emission von Photonen erzeugen.
+      Diese Strahlung kann kohärent oder nicht kohärent, monochromatisch oder nicht monochromatisch
+      sein.
+   b) Werden als «Modulatoren» Geräte angesehen, die dazu dienen, Merkmale des optischen Lichts
+      zu ändern (z.B. Intensität, Phase, Frequenz oder Polarisation), und die in einem optischen Sys-
+      tem betrieben werden.
+   c) Werden als «Demodulatoren» Geräte angesehen, die dazu dienen, das ursprüngliche Signal aus
+      dem modulierten optischen Licht wiederherzustellen, und die in einem optischen System betrie-
+      ben werden.
+   d) Werden als «optische Verstärker» Geräte angesehen, die Lichtsignale durch den Effekt der
+      stimulierten Emission verstärken, ohne dass eine Umwandlung in ein elektrisches Signal not-
+      wendig ist.
+   e) Als «Passive optische Bauelemente» gelten Geräte oder Bauteile, die mit einer elektromagneti-
+      schen Strahlung im Wellenlängenbereich des sichtbaren Lichts, der Infrarotstrahlung oder der
+      UV-Strahlung arbeiten und die die Strahlung leiten, fokussieren, filtern, modifizieren oder erzeu-
+      gen, ohne eine Energiequelle zu benötigen.
+
+
+Unternummern-Anmerkungen
+1. Zu Nr. 8548 gehören nur die nachstehend aufgeführten, in diesen Nummern einzureihenden Waren:
+   a) elektrische Teile von Maschinen oder Apparaten, nicht anderweitig genannt oder inbegriffen, im
+      Sinne des Kapitels 85;
+   b) Teile, die für die Verwendung ausschliesslich oder hauptsächlich mit zwei oder mehr Nummern
+      der Nrn. 8535 bis 8547 geeignet sind, nicht anderweitig genannt oder inbegriffen.
+   Zu Nr. 8548 gehören nicht elektronische integrierte Schaltungen (Nr. 8542).
 
 
 
 
-                                          1 (Stand: 1.1.2022)
+                                             1 (Stand: 1.1.2022)
+Unternummern-Anmerkungen (Forts.)
+2. Im Sinne der Nrn. 8525.81 und 8525.82 gelten:
+   a) Als «Infrarotkameras» solche Geräte, die für die Bildgebung durch Infrarotstrahlung konzipiert
+      sind. Ausgenommen sind Wärmebildkameras der Nr. 9025 und Nachtsichtgeräte der Nr. 9013.
+   b) Als «aufzeichnende Kameras» solche Geräte, die zwar Video aufzeichnen können, deren prima-
+      re Funktion jedoch nicht das Aufzeichnen von Standbildern oder Videos ist.
+   c) Als «other cameras» solche Geräte, die weder den Kameras der Unterpos. 8525.81 noch denen
+      der Unterpos. 8525.82 entsprechen.
+3. Im Sinne der Nr. 8536:
+   a) Gelten als «Elektronikschutzgeräte» Schutzgeräte, die zum Schutz von elektronischen Schaltun-
+      gen vor Schaltspannungen oder Fehler durch Überspannungen eingesetzt werden.
+   b) Ist «Rated voltage» die maximale Spannung, bei der ein Gerät sicher betrieben werden kann.
+   c) Sind «Halbleiter-Schaltvorrichtungen (z. B. Thyristoren, Triacs, Diacs, Transistoren)» Halbleiter-
+      Bauelemente, die zum Schalten, Regeln und Steuern von Schaltungen eingesetzt werden.
+4. Im Sinne der Nr. 8537:
+   a) Sind «HMI-Geräte» (Human-Machine-Interface) Geräte, die die Mensch-Maschine-Interaktion
+      ermöglichen.
+   b) Sind «SPS-Geräte» (Speicherprogrammierbare Steuergeräte) elektronische Geräte, die für den
+      Einsatz in einer Maschine oder einer anderen Anlage eingesetzt werden können, die eine be-
+      stimmte Funktion ausführen, indem das Steuerprogramm im Gerät gespeichert wird.
+   c) Sind «Frequenzumrichter» (auch bekannt als «VFD» oder «VSD» oder «drive») Geräte, die eine
+      AC-Spannung auf eine andere Frequenz und / oder Spannung umwandeln.
+   d) Sind «Servosteuerungsgeräte» Geräte, die bei der Motion Control Anwendung eingesetzt werden.
+   e) Sind «Motoranlasser» Geräte, die zum Anlassen von Motoren eingesetzt werden.
+5. Im Sinne der Nr. 8543:
+   a) Sind «ION-Implantatoren» Maschinen, die Ionen in ein Trägermaterial implantieren. Diese Maschi-
+      nen werden für die Herstellung von Halbleitern und anderen Bauteilen eingesetzt.
+   b) Sind «Galvanische Oberflächenbehandlungsgeräte» Geräte, die durch Elektrolyse eine dünne
+      Schicht aus einem Metall auf einem Substrat aufbringen.
+   c) Sind «Signalgeneratoren» Geräte, die elektrische Signale mit spezifischen Frequenzen, Amplitu-
+      den und Wellenformen erzeugen.
+   d) Sind «Elektronenmikroskope und Protonenmikroskope» Geräte, die für die Abbildung und Analy-
+      se von Materialien auf atomarer Ebene eingesetzt werden.
+6. Im Sinne der Nr. 8544:
+   a) Sind «koaxiale Kabel» Kabel, die aus einem Innenleiter, einer dielektrischen Schicht und einem
+      äusseren Leiter (Abschirmung) bestehen. Das koaxiale Kabel ermöglicht die Übertragung von
+      Signalen mit wenig Verlust bei hohen Frequenzen.
+   b) Sind «LWL-Kabel» (Lichtwellenleiter) Kabel, die aus Glasfasern bestehen. Diese Kabel werden
+      eingesetzt, um optische Signale zu übertragen.
+   c) Sind «flache Kabel» Kabel, die aus einer Anzahl von Einzelleitern bestehen, die nebeneinander in
+      einer Ebene angeordnet sind. Diese Kabel werden häufig in Geräten mit engen Räumen einge-
+      setzt.
+   d) Sind «Erdkabel» Kabel, die für den Einsatz unterirdisch geeignet sind.
+   e) Sind «Seeunterseekabel» Kabel, die für den Einsatz unter Wasser geeignet sind.
+7. Im Sinne der Nr. 8545:
+   a) Sind «Elektroden» Leiter, die dem Stromdurchgang in einem Elektrolyt dienen.
+   b) Sind «Bürsten» Verschleissstücke aus leitfähigem Material (wie Kohle, Graphit oder Metall), die
+      in Elektromotoren und Generatoren eingesetzt werden, um den Strom zwischen den stationalen
+      und rotierenden Teilen zu übertragen.
+   c) Sind «Kohle-Elektroden» solche, die vorwiegend aus Kohlenstoff bestehen.
+8. Im Sinne der Nr. 8547:
+   a) Sind «Isolierstoffteile» Teile, die als elektrische Isolation dienen und das elektrische Signal gegen
+      die Umgebung abschirmen.
+   b) Sind «metallische Fittings» Verbindungsstücke und Endstücke aus Metall für Rohrleitungen.
+
+
+
+
+                                          2 (Stand: 1.1.2022)

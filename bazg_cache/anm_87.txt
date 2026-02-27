@@ -1,18 +1,49 @@
-87 Kraftwagen und andere Kraftfahrzeuge; Teile und Zubehör davon
+87 Kraftfahrzeuge, Zugmaschinen, Fahrräder, andere nicht schienen-
+   gebundene Landfahrzeuge sowie Teile und Zubehör dafür
 Anmerkungen
-1. In diesem Kapitel gilt als «Traktor»: Kraftfahrzeug, das in erster Linie dazu bestimmt ist, andere
-   Fahrzeuge, Apparate oder Maschinen zu ziehen oder zu schieben. Es können auch Hilfswerkzeuge,
-   Einrichtungen oder Lasten auf dem Traktor befördert werden.
-2. Dieses Kapitel umfasst nicht:
-   a) Kraftfahrzeuge mit Spezialausrüstung für das Messen oder Prüfen von Strassen (Tarifnummer
-      9031);
-   b) Krankenwagen (Tarifnummer 8703).
-3. Kraftwagen für die Beförderung von 10 oder mehr Personen (einschliesslich Fahrer) werden nach
-   Tarifnummer 8702 eingereiht.
-4. Kraftwagen für die Beförderung von 9 oder weniger Personen (einschliesslich Fahrer) werden nach
-   Tarifnummer 8703 eingereiht.
-5. Kraftwagen für die Beförderung von Waren werden nach Tarifnummer 8704 eingereiht.
-6. Kraftwagen für besondere Zwecke werden nach Tarifnummer 8705 eingereiht.
+1. Zu diesem Kapitel gehören nicht:
+   a) Schienengebundene Fahrzeuge des Kapitels 86;
+   b) Waren des Kapitels 95 (z.B. Spielzeug, Spiele, Sportgeräte).
+2. Im Sinne dieses Kapitels gelten als «Schlepper» (Zugmaschinen) Fahrzeuge, die hauptsächlich zum
+   Ziehen oder Schieben anderer Fahrzeuge, Geräte oder Lasten bestimmt sind, ob mit oder ohne
+   Hilfseinrichtung für den Transport von Werkzeug, Samen, Dünger oder anderen Gütern.
+3. Kraftfahrzeuge für besondere Zwecke (Nr. 8705) sind andere als die für die Beförderung von Perso-
+   nen oder Gütern verwendeten Fahrzeuge. Sie umfassen namentlich:
+   a) Abschleppfahrzeuge;
+   b) Wohnmobile (Motorhomes);
+   c) Fahrzeuge mit Feuerwehrausrüstung;
+   d) Fahrzeuge mit Betonmischern;
+   e) Fahrzeuge mit Strassenpflegegeräten;
+   f) Werkstattfahrzeuge;
+   g) mobile Röntgenfahrzeuge.
+4. Im Sinne der Nrn. 8711 bis 8713 gelten als «Motorräder» Motorfahrräder und Mopeds; als «Fahr-
+   räder» alle Fahrräder ohne Motor.
+5. Im Sinne der Nr. 8712 gilt als «Fahrrad ohne Motor» ein Fahrzeug, das durch die Muskelkraft des
+   Fahrers angetrieben wird, mit zwei oder mehr Rädern, welche in Reihe hintereinander angeordnet
+   sind, und das nicht schienengebunden ist; es schliesst Dreiradfahrräder und Tandems ein.
+5a. Im Sinne der Nrn. 8711 und 8712 gelten als «Elektrofahrräder» Fahrräder, die mit einem Hilfsmo-
+    tor ausgestattet sind.
+6. Im Sinne dieses Kapitels gelten als «Teile und Zubehör» nicht:
+   a) Kupplungen und andere allgemeine mechanische Teile (Abschnitt XV);
+   b) Maschinen, Instrumente und andere Apparate, die Teile und Zubehör der Nr. 9401, 9402 oder
+      9405 sein könnten;
+   c) Heizkissen (Nr. 6301);
+   d) Waren der Kapitel 84, 85, 90 und anderer Kapitel, die noch als solche erkennbar sind;
+   e) Waren des Kapitels 95 (z.B. Spielzeug, Spiele, Sportgeräte).
+
+
+Unternummern-Anmerkungen
+1. Im Sinne der Nr. 8708.22 gelten als «Windschutzscheiben, Heckscheiben sowie rechte und linke
+   Seitenscheiben» nur die Scheiben, welche die Grenzen der Fahrgastkabine bilden.
+2. Im Sinne der Unternummern 8711.60 und 8712.00 gilt als «Elektrofahrrad» ein Fahrzeug, das durch
+   die Muskelkraft des Fahrers angetrieben wird, mit zwei oder mehr Rädern, welche in Reihe hinterei-
+   nander angeordnet sind und mit einem Hilfsmotor für elektrischen Antrieb ausgestattet ist, welcher
+   die Muskelkraft des Fahrers nur bei Pedalbetrieb unterstützt und automatisch abschaltet, wenn das
+   Fahrzeug eine Geschwindigkeit von 45 km/h überschreitet. Als Hilfsmotoren gelten in diesem Sinne
+   Motoren, die eine Nenndauerleistung von maximal 500 W aufweisen.
+3. Im Sinne der Nr. 8714.99 gilt als «Sattel» ein Sitz mit spezieller Form für das Fahren auf einem
+   Fahrrad, Motorrad oder ähnlichem Fahrzeug. Nicht als «Sattel» gilt ein Sitz für ein Motordreirad oder
+   eine andere Art von Fahrzeug, das von einem oder mehreren Motorrädern angetrieben wird.
 
 
 

@@ -50,23 +50,58 @@ Anmerkungen
    c) Flächenerzeugnisse aus parallel liegenden und miteinander durch Kautschuk verklebten Garnen
       aus Spinnstoffen.
    Zu dieser Nummer gehören jedoch nicht Platten, Blätter und Streifen aus Zellkautschuk in Verbin-
-   dung mit Gewebe, bei denen das Gewebe nur als einfache Unterlage dient (Kapitel 40).
-6. Als «Waren des technischen Bedarfs» im Sinne der Nr. 5911 gelten:
-   a) Filtrier- und Pressgaze aus Spinnstoffen, auch konfektioniert;
-   b) Formier- und Trockensiebe für Papiermaschinen, am Stück oder konfektioniert, gewoben oder
-      geformt, auch imprägniert oder beschichtet, mit einer Maschenweite von weniger als 0,15 mm;
-   c) Müllergaze aus Spinnstoffen, auch konfektioniert;
-   d) Transportbänder oder Förderbänder und Treibriemen, aus Spinnstoffen, auch imprägniert, be-
-      strichen oder überzogen, auch mit Lagen aus anderen Stoffen oder mit Metalleinlagen verstärkt;
-   e) Filtriertücher der in Filterpressen verwendeten Art, aus Spinnstoffen, auch aus menschlichem
-      Haar;
-   f) flache Gewebenadeln der in Maschinen oder mechanischen Apparaten verwendeten Art, aus
-      Spinnstoffen, auch imprägniert, bestrichen oder überzogen;
-   g) Schlauchgewebe und ähnliche Gewebe aus Spinnstoffen, in Verbindung mit Metallringen oder
-      Metallhülsen, der in mechanischen Maschinen oder technischen Geräten verwendeten Art;
-   h) Industrie-Siebgewebe aus Spinnstoffen;
-   i) Plissier- und Garniergewebe aus Spinnstoffen;
-   k) Waren aus mehrlagigen Vliesgewebe, der in der technischen Filtration verwendeten Art;
-   l) Gewebe und filzartige Stoffe, in der Form von endlosen Bändern oder Riemen, mit einer Mindest-
-      länge von 8 Metern, der in der Herstellung von Papier oder Pappe verwendeten Art; und
-   m) Geotextilien aus Faserstoffen, mit einem Flächengewicht über 200 g/m2.
+   dung mit Gewebe, bei denen das Gewebe nur als einfache Unterlage dient (Kapitel 40) sowie Spinn-
+   stofferzeugnisse der Nr. 5811.
+6. Zu Nr. 5907 gehören nicht:
+   a) Gewebe, bei denen das Imprägnieren, Bestreichen oder Überziehen mit blossem Auge nicht
+      wahrnehmbar ist (im Allgemeinen Kapitel 50 bis 55, 58 oder 60); bei der Anwendung dieser Be-
+      stimmung bleiben Änderungen der Farbe, die durch diese Behandlungen hervorgerufen sind,
+      ausser Betracht;
+
+                                           1 (Stand: 1.1.2022)
+   b) bemalte Gewebe (andere als bemalte Gewebe für Theaterdekorationen, Atelierhintergründe oder
+      dergleichen);
+   c) Gewebe, teilweise mit Scherstaub, Korkmehl oder ähnlichen Erzeugnissen in musterbildender
+      Weise überzogen; Samtimitationen bleiben jedoch unter dieser Nummer eingereiht;
+   d) Gewebe, mit den üblichen Schlussappreturen auf der Grundlage von stärkehaltigen oder ähnli-
+      chen Stoffen ausgerüstet;
+   e) Furnierblätter auf Gewebeunterlage (Nr. 4408);
+   f) natürliche oder künstliche Schleifstoffe, in Pulver- oder Körnerform, auf Gewebeunterlage (Nr.
+      6805);
+   g) agglomerierter oder wiedergewonnener Glimmer, auf Gewebeunterlage (Nr. 6814);
+   h) Blattmetall (Folien) und dünne Metallbänder auf Gewebeunterlage (im Allgemeinen Abschnitt XIV
+      oder XV).
+7. Zu Nr. 5910 gehören nicht:
+   a) Förderbänder und Treibriemen, aus Spinnstoffen, weniger als 3 mm dick, am Stück oder in Län-
+      gen geschnitten;
+   b) Förderbänder und Treibriemen, aus Geweben, mit Kautschuk imprägniert, bestrichen oder über-
+      zogen oder mit Lagen aus Kautschuk geschichtet, sowie solche, die unter Verwendung von mit
+      Kautschuk imprägnierten, bestrichenen, überzogenen oder umhüllten Spinnstoffgarnen oder -
+      bindfäden (-schnüren) hergestellt sind (Nr. 4010).
+8. Zu Nr. 5911, und nicht zu anderen Nummern des Abschnitts XI, gehören die folgenden Waren:
+   a) die nachstehend abschliessend aufgeführten Waren aus Spinnstoffen, am Stück, in Längen ge-
+      schnitten oder lediglich quadratisch oder rechteckig zugeschnitten (ausgenommen Waren, die
+      sich als solche der Nrn. 5908 bis 5910 kennzeichnen):
+      - Gewebe, Filze oder mit Filz belegte Gewebe, in Verbindung mit einer oder mehreren Lagen aus
+        Kautschuk, Leder oder anderen Stoffen, der zum Herstellen von Kratzengarnituren verwende-
+        ten Art, sowie ähnliche Erzeugnisse zu anderen technischen Zwecken, einschliesslich der mit
+        Kautschuk imprägnierten Samtbänder zum Überziehen von Kettbäumen;
+      - Beuteltuch (Müllergaze);
+      - Filtertücher und dichte Gewebe, der zum Pressen von Öl oder zu ähnlichen technischen Zwe-
+        cken verwendeten Art, auch aus Menschenhaaren;
+      - Gewebe, auch verfilzt, auch imprägniert oder bestrichen, zu technischen Zwecken, flach ge-
+        webt, mit mehrfacher Kette oder mehrfachem Schuss;
+      - Gewebe mit Metalleinlagen, der zu technischen Zwecken verwendeten Art;
+      - Schnüre, Seile, Geflechte und ähnliche Spinnstofferzeugnisse, der üblicherweise zu techni-
+        schen Zwecken als Schmier- oder Dichtungsmaterial verwendeten Art, auch imprägniert, bestri-
+        chen oder mit Metalleinlagen;
+   b) Waren des technischen Bedarfs, aus Spinnstoffen (ausgenommen Waren der Nrn. 5908 bis
+      5910) (z.B. Gewebe und Filze, endlos oder mit Verbindungsstücken versehen, der auf Papierma-
+      schinen oder auf ähnlichen Maschinen verwendeten Art (z.B. zum Herstellen von Papierhalbstoff
+      oder Asbestzement), Polierscheiben, Dichtungen, Unterlegscheiben und andere Teile von Ma-
+      schinen oder Apparaten).
+
+
+
+
+                                         2 (Stand: 1.1.2022)
