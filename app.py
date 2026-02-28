@@ -743,6 +743,28 @@ def build_prompt(av_text, docs, chapter, extra_chapters, product_data_str):
     )
 
 
+def _apply_mwst(result):
+    """Deterministically correct MWST rate based on tariff number / chapter.
+    The LLM often applies 8.1% to all of Ch. 22, ignoring the non-alcoholic rule."""
+    tariff = result.get("tariff_number", "")
+    pos4 = tariff[:4] if tariff else ""
+    chapter = result.get("chapter")
+
+    if pos4 in ("2201", "2202"):
+        result["mwst_rate"] = "2.6%"
+        result["mwst_category"] = "Reduzierter Satz – nicht-alkoholisches Getränk (2201/2202)"
+    elif pos4 in ("2203", "2204", "2205", "2206", "2207", "2208", "2209"):
+        result["mwst_rate"] = "8.1%"
+        result["mwst_category"] = "Normalsatz – alkoholisches Getränk / Essig"
+    elif chapter == 24:
+        result["mwst_rate"] = "8.1%"
+        result["mwst_category"] = "Normalsatz – Tabakwaren (Kap. 24)"
+    elif chapter and 1 <= chapter <= 23:
+        result["mwst_rate"] = "2.6%"
+        result["mwst_category"] = "Reduzierter Satz – Lebensmittel (Kap. 1–23)"
+    # Kap. 25–97: leave LLM value (mostly 8.1% for industrial goods, but some exceptions)
+
+
 def classify_product(product_query):
     """Hauptpipeline für die Tarifierung."""
 
@@ -804,6 +826,9 @@ def classify_product(product_query):
         return {"error": str(e), "rate_limited": True, "retry_after": 60}
     except Exception as e:
         return {"error": f"LLM-Einreihung fehlgeschlagen: {e}"}
+
+    # ── MWST deterministisch korrigieren (LLM vergisst oft Kap.-22-Regel) ──
+    _apply_mwst(result)
 
     # ── Metadaten ergänzen ──
     result["bazg_docs_used"] = True
