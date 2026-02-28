@@ -5,7 +5,7 @@ Deployed auf Render.com als Web Service.
 """
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import json, os, re, time, urllib.request, urllib.error, urllib.parse
+import json, os, re, signal, time, urllib.request, urllib.error, urllib.parse
 
 app = Flask(__name__)
 CORS(app)
@@ -108,10 +108,23 @@ def _call_groq_model(model, messages, max_tokens, temperature):
         "User-Agent": "Tarifierungstool/4.0"
     })
 
-    with urllib.request.urlopen(req, timeout=25) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-        content = data["choices"][0]["message"]["content"]
-        return _extract_json(content)
+    # Hard total timeout via SIGALRM (Linux only).
+    # urllib timeout=25 is per-socket-read; Groq streaming can still exceed 30s total.
+    # SIGALRM fires after 22s total regardless of streaming, giving Flask ~7s margin.
+    def _alarm(signum, frame):
+        raise TimeoutError("Groq-Anfrage nach 22s abgebrochen (Render-Limit)")
+
+    old = signal.signal(signal.SIGALRM, _alarm)
+    signal.alarm(22)
+    try:
+        with urllib.request.urlopen(req, timeout=25) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    finally:
+        signal.alarm(0)
+        signal.signal(signal.SIGALRM, old)
+
+    content = data["choices"][0]["message"]["content"]
+    return _extract_json(content)
 
 
 def _is_rate_limit_error(e):
