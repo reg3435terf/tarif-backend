@@ -594,6 +594,8 @@ Zitiere WÖRTLICH den Satz aus den Erläuterungen oder Anmerkungen, der deine Ei
 
 SCHRITT 6 – MWST UND ZOLL:
 Bestimme MWST-Satz gemäss den oben aufgeführten Regeln. Begründe explizit.
+WICHTIG Getränke: Nr. 2201 und 2202 (Wasser, Softdrinks, Fruchtsaftgetränke) → 2.6% (nicht-alkoholisch!).
+Nur Bier (2203), Wein (2204-2206), Spirituosen (2207-2208) → 8.1%.
 
 ═══ AUSGABE ═══
 Antworte AUSSCHLIESSLICH als JSON (kein weiterer Text):
