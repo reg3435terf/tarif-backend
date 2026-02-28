@@ -851,7 +851,7 @@ def classify_product(product_query):
 
 @app.route('/health', methods=['GET'])
 def health():
-    return jsonify({"status": "ok", "service": "Tarifierungstool Backend", "version": "b08181f"})
+    return jsonify({"status": "ok", "service": "Tarifierungstool Backend", "version": "1ab8664"})
 
 
 @app.route('/ping', methods=['GET', 'POST'])
