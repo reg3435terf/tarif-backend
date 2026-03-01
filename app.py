@@ -596,10 +596,18 @@ Nur wenn AV 1 keine eindeutige Einreihung erlaubt: wende AV 2a, 2b, 3a, 3b, 3c i
 SCHRITT 4 – AV 6 + CHV 1: UNTERPOSITION BESTIMMEN:
 - Lies die Erläuterungen zu den relevanten Unterpositionen durch.
 - Vergleiche nur Unterpositionen GLEICHER Gliederungsstufe.
-- Bei 2202: Wende die Mindestgehalt-Quotienten-Methode NUMERISCH an:
+- GRUNDREGEL DATENTIEFE: Klassifiziere NUR so tief wie die vorhandenen Produktdaten es zulassen.
+  Ohne Kenntnis der genauen Zusammensetzung (%-Anteile, Zutaten) DARF NICHT tiefer eingereiht werden
+  als die Unterposition, die eindeutig aus dem Produktnamen/-typ bestimmbar ist.
+  → Lieber zu hoch (konservativ) als spekulativ zu tief einreihen.
+- Bei 2202 OHNE Zutatenangaben (Zusammensetzung unbekannt):
+  → Klassifiziere als 2202.1000 (aromatisiertes/gesüsstes Wasser/Softdrink) und STOPPE HIER.
+  → Die Unterpositionen 2202.9xxx erfordern die Mindestgehalt-Quotienten-Methode mit bekannten
+     %-Saftgehalten – ohne diese Daten ist jede tiefere Einreihung Spekulation, nicht AV-konform.
+- Bei 2202 MIT vollständigen Zutatenangaben (%-Saftgehalt bekannt):
   Für jede Fruchtart: Quotient = vorhandener_Saftanteil% / Mindestgehalt%
   Summe aller Quotienten >= 1.0 → 2202.9931/32/9969 (Fruchtsaftgetränk)
-  Summe < 1.0 + Wasserbasis → 2202.1000 (aromatisiertes Tafelgetränk)
+  Summe < 1.0 + Wasserbasis → 2202.1000
   Summe < 1.0 + andere Basis → 2202.9990
 
 SCHRITT 5 – ZITIERE DEN ENTSCHEIDENDEN SATZ:
@@ -806,7 +814,10 @@ def classify_product(product_query):
         product_data_str = (
             f"Anfrage: {product_query}\n"
             f"HINWEIS: Keine Produktdaten gefunden. Zusammensetzung und genaue Produktart unbekannt.\n"
-            f"→ confidence auf 'low' oder 'medium' setzen und fehlende Informationen benennen."
+            f"→ confidence auf 'low' oder 'medium' setzen und fehlende Informationen benennen.\n"
+            f"→ WICHTIG: Ohne Zusammensetzungsdaten NUR bis zur eindeutig bestimmbaren Unterposition einreihen!\n"
+            f"   Bei 2202: STOPP bei 2202.1000. Bei 2009: STOPP bei 2009.XYYY (Fruchtart bestimmt erste Stelle).\n"
+            f"   Keine spekulativen Sub-Positionen die %-Angaben erfordern."
         )
 
     # ── Schritt 5: Prompt aufbauen und LLM aufrufen ──
