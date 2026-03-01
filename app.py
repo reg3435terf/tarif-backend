@@ -513,6 +513,14 @@ LIQUID_VOLUME_RE = re.compile(
 )
 
 
+# Weisse Schokolade hat KEINE Kakaomasse → Kap. 17 (1704.90), NICHT Kap. 18
+WHITE_CHOC_INDICATORS = {
+    'weisse schokolade', 'weisser schokolade', 'weisschokolade',
+    'weiße schokolade', 'white chocolate', 'chocolat blanc',
+    'weisse schoki', 'weisser schoki', 'weisse schoco', 'weiss schoko',
+}
+
+
 def detect_chapters(query, product_info):
     """
     Bestimmt das primäre Kapitel und ob ein zweites Kapitel geprüft werden muss.
@@ -525,6 +533,11 @@ def detect_chapters(query, product_info):
             product_info.get('name', '') + ' ' +
             product_info.get('ingredients', '')
         ).lower()
+
+    # Spezialfall: Weisse Schokolade → IMMER Kap. 17 (keine Kakaomasse!)
+    # Auch Verbundprodukte: Reiswaffel/Keks mit weisser Schokolade → Kap. 17
+    if any(kw in text for kw in WHITE_CHOC_INDICATORS):
+        return 17, [19]  # Kap. 17 primär, Kap. 19 (Backwaren/Waffeln) als Vergleich
 
     # Spezialfall Getränke: Kap. 20 vs 22 unterscheiden
     has_juice = any(kw in text for kw in JUICE_INDICATORS)

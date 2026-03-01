@@ -33,10 +33,28 @@ Entscheidend: Produkt enthält KEINEN Kakao → 1704. Enthält es Kakao → 1806
   – Nougat ohne Kakao, Türkischer Honig
 
 WICHTIG – ABGRENZUNG ZU 1806:
-Produkt enthält Kakao/Schokolade als wesentlichen Bestandteil → IMMER 1806, nicht 1704!
-Mars, Snickers, Twix, Bounty → 1806.31 (enthält Schokoladenüberzug aus Kakaomasse)
+Produkt enthält Kakaomasse/dunkle Schokolade → IMMER 1806, nicht 1704!
+Mars, Snickers, Twix, Bounty → 1806.31 (Kakaomasse im Überzug)
 Gummibärchen, Haribo → 1704.90 (kein Kakao)
-Weisse Schokolade → 1704.90 (enthält Kakaobutter aber KEINE Kakaomasse)
+
+WEISSE SCHOKOLADE (KAKAOBUTTER, KEINE KAKAOMASSE) → 1704.90:
+Weisse Schokolade enthält NUR Kakaobutter, KEINE Kakaomasse/kein Kakaoanteil.
+Sie ist NICHT kakaohaltig im Sinne von Kapitel 18 → gehört zu 1704.90!
+
+ENTSCHEIDUNGSREGEL FÜR VERBUNDPRODUKTE (AV 3b: wesentlicher Charakter):
+→ Produkt MIT dunkler/Milchschokolade (Kakaomasse): Kapitel 18
+→ Produkt MIT weisser Schokolade (keine Kakaomasse): Kapitel 17, Nr. 1704.90
+
+Beispiele 1704.90 (weisse Schokolade):
+– Reiswaffel mit weisser Schokolade überzogen → 1704.9000
+– Keks/Biscuit mit weissem Schokoladenüberzug → 1704.9000
+– Weisse Schokoladentafel (Milka white, Lindt white, Frey weiss) → 1704.9000
+– Waffelriegel mit weisser Schokoladen-Füllung → 1704.9000
+
+Beispiele 1806 (dunkle/Milchschokolade):
+– Reiswaffel mit dunkler Schokolade → 1806.9000
+– Keks mit Milchschokoladenüberzug → 1806.9000
+– Schokoladenriegel gefüllt (Karamel/Nougat) + dunkle Schokolade → 1806.3100
 
 MWST: 2.6% (Lebensmittel, Kap. 1–23)
 ZOLL: 0 CHF (seit 1.1.2024)

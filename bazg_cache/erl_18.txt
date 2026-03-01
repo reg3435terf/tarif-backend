@@ -12,11 +12,16 @@ Zu diesem Kapitel gehören Kakaobohnen, Kakaoerzeugnisse und kakaohaltige
 Lebensmittelzubereitungen.
 
 Zu diesem Kapitel gehören NICHT:
-a) kakaohaltige Süsswaren der Nr. 1704 (z.B. Fondants, Karamellen, Dragées
-   OHNE Kakao als wesentlichen Bestandteil);
-b) Getreidezubereitungen der Nr. 1901 (z.B. Ovomaltine);
-c) Speiseeis der Nr. 2105;
-d) Arzneiwaren des Kapitels 30.
+a) Süsswaren OHNE Kakaomasse (z.B. weisse Schokolade, Karamellen, Gummibärchen) → 1704
+b) Weisse Schokolade (enthält NUR Kakaobutter, KEINE Kakaomasse) → 1704.90!
+   WEISSE SCHOKOLADE IST NICHT KAKAOHALTIG IM SINNE DIESES KAPITELS!
+c) Verbundprodukte mit weisser Schokolade (Reiswaffel + weisse Schoki) → 1704.90
+d) Getreidezubereitungen der Nr. 1901 (z.B. Ovomaltine-Pulver wenn Getreide überwiegt)
+e) Speiseeis der Nr. 2105
+f) Arzneiwaren des Kapitels 30
+
+GRUNDREGEL: Nur Produkte MIT Kakaomasse (= echtem Kakaoanteil) gehören zu Kap. 18.
+Weisse Schokolade hat KEINE Kakaomasse → IMMER Kapitel 17, nie Kapitel 18!
 
 ────────────────────────────────────────────────────────────────────────────────
 
