@@ -1,1 +1,23 @@
-placeholder_erl15
+1501
+
+                                        Kapitel 15
+
+              Tierische und pflanzliche Fette und Öle
+
+────────────────────────────────────────────────────────────────────────────────
+
+1507-1515: Pflanzliche Öle (Sojaöl, Erdnussöl, Olivenöl, Palmöl, Sonnenblumenöl,
+           Rapsöl, Kokosfett, Kakaoöl)
+
+1516:      Tierische oder pflanzliche Fette, hydriert (Margarine-Grundstoffe)
+
+1517:      Margarine und ähnliche Zubereitungen
+1517.10:   Margarine (nicht flüssig)
+1517.90:   Andere (Mischungen tierisch/pflanzlich)
+
+1518:      Technische Fettsäuren, Fette nach dem Ausschmelzen
+
+1520:      Glycerin, roh
+
+MWST: 2.6% (Lebensmittel) für Speiseöle und Margarine
+ZOLL: 0 CHF für Industrieprodukte (seit 1.1.2024)

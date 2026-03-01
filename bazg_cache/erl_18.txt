@@ -1,1 +1,78 @@
-placeholder_erl18
+1801
+
+                                        Kapitel 18
+
+              Kakao und Kakaoerzeugnisse
+
+────────────────────────────────────────────────────────────────────────────────
+
+VORBEMERKUNGEN
+
+Zu diesem Kapitel gehören Kakaobohnen, Kakaoerzeugnisse und kakaohaltige
+Lebensmittelzubereitungen.
+
+Zu diesem Kapitel gehören NICHT:
+a) kakaohaltige Süsswaren der Nr. 1704 (z.B. Fondants, Karamellen, Dragées
+   OHNE Kakao als wesentlichen Bestandteil);
+b) Getreidezubereitungen der Nr. 1901 (z.B. Ovomaltine);
+c) Speiseeis der Nr. 2105;
+d) Arzneiwaren des Kapitels 30.
+
+────────────────────────────────────────────────────────────────────────────────
+
+1806.   Schokolade und andere kakaohaltige Lebensmittelzubereitungen
+
+Zu dieser Position gehören Schokolade und kakaohaltige Zubereitungen,
+die nicht anderweitig eingereiht sind.
+
+SCHOKOLADE ist eine Zubereitung aus Kakaomasse (oder Kakaopulver) und
+Zucker, mit oder ohne Zusatz von Kakaobutter, Milch(erzeugnissen), Nüssen,
+Früchten oder anderen Stoffen.
+
+UNTERSCHEIDUNG DER UNTERPOSITIONEN:
+
+1806.10 – Kakaopulver, mit Zusatz von Zucker oder anderen Süssmitteln
+  Kakaopulver dem Zucker, anderen Süssmitteln oder sonstigen Stoffen beigemischt
+  (Trinkschokoladen-Pulver, Kakaogetränke-Pulver).
+  Beispiele: Nesquik-Pulver, Caotina-Pulver, Ovomaltine-Pulver (sofern kakaohaltig)
+
+1806.20 – Andere Zubereitungen in Blocks, Tafeln oder Stangen > 2 kg, oder
+          flüssig/pulverförmig/granuliert in Umschliessungen > 2 kg
+  Industrielle Schokolade in Grosspackungen (Verarbeitungsschokolade),
+  Schokoladenüberzugsmasse (Couverture) > 2 kg, Schokoladensirup > 2 kg.
+
+1806.31 – In Tafeln, Riegeln oder Stangen – GEFÜLLT
+  Schokoladenprodukte in Riegel-/Stangenform mit einer Füllung (Innenmasse):
+  Karamell, Nougat, Pralinenfüllung, Crème, Kokos, Trockenfrüchte, Nüsse als
+  Füllmasse usw. Entscheidend: Es gibt eine erkennbare Füllung, die von der
+  Schokoladenhülle umschlossen wird.
+  Beispiele: Mars, Snickers, Twix, Bounty, Kit Kat, Milky Way, Hanuta-Riegel,
+             Lion, Ferrero Rocher (Riegel), After Eight (Riegel)
+
+1806.32 – In Tafeln, Riegeln oder Stangen – ANDERE (nicht gefüllt)
+  Massiv-Schokoladentafeln und -riegel ohne Füllung, auch mit eingelagerten
+  Stücken (Nüsse, Rosinen, Krokant) soweit keine eigentliche Füllung vorhanden.
+  Beispiele: Lindt Excellence (Tafel), Toblerone (Dreiecksriegel, nicht gefüllt),
+             Milka Tafel, Frey Schokolade, Ritter Sport (ohne Füllung)
+  ACHTUNG: Toblerone mit Honig-Mandel-Nougat-Füllung = 1806.31!
+  ACHTUNG: Ritter Sport mit Pralinenfüllung (z.B. Marzipan, Nuss-Nougat) = 1806.31!
+
+1806.90 – Andere
+  Alle anderen kakaohaltigen Zubereitungen die nicht unter 1806.10-1806.32 fallen:
+  – Pralinés/Konfekt in Schachteln (nicht in Riegelform), z.B. Merci, Mon Chéri
+  – Schokoladenfrüchte, -nüsse, Trüffel
+  – Kakaonibs, Schokoladensauce, Schokoladenglasur < 2 kg
+  – Schokoladenaufstrich (Nutella → ACHTUNG: nur wenn kakaohaltig nach 1806.90,
+    sonst 2007.99 wenn überwiegend Nussbasis; Nutella enthält Kakao → 1806.90)
+  – M&Ms, Smarties (Dragées in Schachteln/Beuteln, nicht Riegel)
+
+ENTSCHEIDUNGSBAUM FÜR 1806:
+1. Ist es Kakaopulver mit Zucker? → 1806.10
+2. Ist es Schokolade/Zubereitung in Riegelform/Stange ≤ 2 kg?
+   2a. Hat es eine Füllung (Karamell, Nougat, Crème, Kokos)? → 1806.31
+   2b. Massiv oder mit eingelagerten Stücken aber keine Füllung? → 1806.32
+3. Ist es in Grosspackung > 2 kg (Couverture, Industrieschokolade)? → 1806.20
+4. Alles andere (Konfekt, Dragées, Saucen, Aufstriche)? → 1806.90
+
+MWST: 2.6% (Lebensmittel, Kap. 1–23, reduzierter Satz)
+ZOLL: 0 CHF (Industrieprodukte seit 1.1.2024 generell zollfrei)

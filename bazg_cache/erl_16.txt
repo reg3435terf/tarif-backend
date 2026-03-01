@@ -1,1 +1,24 @@
-placeholder_erl16
+1601
+
+                                        Kapitel 16
+
+              Zubereitungen von Fleisch, Fischen oder von Krebstieren
+
+────────────────────────────────────────────────────────────────────────────────
+
+1601.   Würste und ähnliche Erzeugnisse aus Fleisch
+
+Würste, Salami, Cervelat, Landjäger, Knackwurst, Wienerli, Frankfurter.
+Pasteten, die überwiegend Fleisch enthalten, soweit nicht unter 1602.
+
+1602.   Andere Fleischzubereitungen und Fleischkonserven
+
+Fleisch- und Geflügelkonserven, Corned Beef, Fleischextrakt, Fleischpasteten.
+
+1604.   Fischzubereitungen und Fischkonserven
+Thunfischkonserven, Sardinenkonserven, Anchosen, Räucherfisch in Konserven.
+
+1605.   Krebstiere, Weichtiere zubereitet oder in Konserven
+
+MWST: 2.6% (Lebensmittel)
+ZOLL: 0 CHF (seit 1.1.2024, Ausnahme: einige Fleischprodukte mit Zollkontingenten)

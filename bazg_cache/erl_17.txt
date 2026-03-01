@@ -1,1 +1,42 @@
-placeholder_erl17
+1701
+
+                                        Kapitel 17
+
+              Zucker und Zuckerwaren
+
+────────────────────────────────────────────────────────────────────────────────
+
+VORBEMERKUNGEN
+
+Zu diesem Kapitel gehören Zucker und Zuckerwaren OHNE Kakaogehalt.
+Kakaohaltige Süsswaren → Kapitel 18 (Nr. 1806).
+
+────────────────────────────────────────────────────────────────────────────────
+
+1704.   Zuckerwaren (einschliesslich weisse Schokolade), ohne Kakaogehalt
+
+Zu dieser Position gehören Süsswaren, die KEINEN Kakao enthalten.
+Entscheidend: Produkt enthält KEINEN Kakao → 1704. Enthält es Kakao → 1806!
+
+1704.10 – Kaugummi, auch mit Zucker überzogen
+  Kaugummi und Bubble Gum jeder Art.
+
+1704.90 – Andere
+  Alle anderen kakaofreien Zuckerwaren:
+  – Hartkaramellen, Bonbons, Lutscher
+  – Weichkaramellen (OHNE Schokolade/Kakao!)
+  – Fruchtgummis, Gummibärchen (z.B. Haribo)
+  – Marshmallows, Schaumzucker
+  – Fondants, Dragées ohne Kakao
+  – Marzipan (ohne Schokoladenüberzug)
+  – Weisse Schokolade (enthält KEINE Kakaomasse, nur Kakaobutter → 1704.90!)
+  – Nougat ohne Kakao, Türkischer Honig
+
+WICHTIG – ABGRENZUNG ZU 1806:
+Produkt enthält Kakao/Schokolade als wesentlichen Bestandteil → IMMER 1806, nicht 1704!
+Mars, Snickers, Twix, Bounty → 1806.31 (enthält Schokoladenüberzug aus Kakaomasse)
+Gummibärchen, Haribo → 1704.90 (kein Kakao)
+Weisse Schokolade → 1704.90 (enthält Kakaobutter aber KEINE Kakaomasse)
+
+MWST: 2.6% (Lebensmittel, Kap. 1–23)
+ZOLL: 0 CHF (seit 1.1.2024)
