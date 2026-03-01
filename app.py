@@ -209,6 +209,33 @@ def _off_search(query):
     return None
 
 
+def off_quick_search(query):
+    """Single-attempt OFF lookup with 3s total budget. No retries, no fallbacks.
+    Budget: OFF 3s + Groq 22s (SIGALRM) + overhead = 27s < Render's 30s."""
+    # Barcode?
+    clean = re.sub(r'\D', '', query)
+    if len(clean) >= 8:
+        return off_by_barcode(clean)
+    # Text: one request, page_size=3, prefer result with ingredients
+    try:
+        encoded = urllib.parse.quote(query)
+        url = (f"https://world.openfoodfacts.org/cgi/search.pl"
+               f"?search_terms={encoded}&search_simple=1&action=process"
+               f"&json=1&page_size=3&fields=product_name,brands,ingredients_text,categories,quantity,code")
+        req = urllib.request.Request(url, headers={"User-Agent": "Tarifierungstool/4.0"})
+        with urllib.request.urlopen(req, timeout=3) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            products = data.get("products", [])
+            for p in products:
+                if p.get("ingredients_text"):
+                    return format_off_product(p, p.get("code", ""))
+            if products:
+                return format_off_product(products[0], products[0].get("code", ""))
+    except Exception:
+        pass
+    return None
+
+
 def format_off_product(product, ean=""):
     ingredients = product.get("ingredients_text", "") or ""
     if "Zutaten:" in ingredients:
@@ -402,7 +429,10 @@ CHAPTER_KEYWORDS = {
     15: ['fette', 'öle', 'olivenöl', 'palmöl', 'margarine', 'schmalz'],
     16: ['wurst', 'fleischzubereitung', 'fischkonserve', 'pastete'],
     17: ['zucker', 'zuckerrohr', 'rübenzucker', 'melasse', 'glucose', 'fructose'],
-    18: ['kakao', 'schokolade', 'kakaomasse', 'kakaobutter'],
+    18: ['kakao', 'schokolade', 'kakaomasse', 'kakaobutter',
+         'mars', 'snickers', 'twix', 'bounty', 'kit kat', 'kitkat',
+         'milka', 'toblerone', 'lindt', 'after eight', 'ferrero',
+         'm&m', 'maltesers', 'smarties', 'ovomaltine schokolade'],
     19: ['backwaren', 'brot', 'teigwaren', 'pizza', 'pasta', 'nudeln', 'kekse', 'gebäck', 'waffeln', 'müsli', 'cornflakes'],
     # Kap. 20: Fruchtsäfte (2009), Konserven, Konfitüren, Zubereitungen aus Früchten/Gemüse
     20: ['fruchtsaft', 'gemüsesaft', 'direktsaft', 'fruchtnektar', 'nektar',
@@ -777,9 +807,12 @@ def classify_product(product_query):
     """Hauptpipeline für die Tarifierung."""
 
     # ── Schritt 1: Produktdaten ermitteln ──
-    # OFF + web_search disabled: combined latency (~10s) + Groq (20s) exceeds Render's 30s limit
+    # OFF quick search: single attempt, 3s timeout (no retries/fallbacks).
+    # Budget: OFF 3s + Groq 22s (SIGALRM) + overhead 2s = 27s < Render's 30s.
     data_source = "none"
-    product_info = None
+    product_info = off_quick_search(product_query)
+    if product_info:
+        data_source = "off"
 
     # ── Schritt 2: Kapitel(n) bestimmen ──
     primary_chapter, extra_chapters = detect_chapters(product_query, product_info)
